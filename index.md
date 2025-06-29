@@ -1,4 +1,4 @@
-# 🌐 Samizo-AITL.github.io
+# 
 
 **Technical Portfolio by Shinichi Samizo**
 
