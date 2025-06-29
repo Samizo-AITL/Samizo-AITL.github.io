@@ -1,65 +1,117 @@
-## Samizo-AITL.github.io
-### Technical Portfolio by Shinichi Samizo
----
+# 🌐 Samizo-AITL.github.io
 
-三溝真一による技術・設計・教育プロジェクトのポータル  
-Welcome to the official portal for AITL (All-in-Theory Logic) architecture, advanced semiconductor education, and ChatGPT-powered design methodology.  
-このページでは、AITL（理論・実装）、半導体教育（基礎と応用）、およびChatGPTによる設計支援技法に関するプロジェクトを紹介します。
+**Technical Portfolio by Shinichi Samizo**
 
----
+Welcome to the official portal for AITL (All-in-Theory Logic) architecture, semiconductor education projects, and ChatGPT-accelerated design methodology.
 
-🧠 **About AITL**  
-AITL (All-in-Theory Logic) is a structured AI architecture that integrates:
-
-- Logical abstraction of AI systems  
-- 3-layer model (Cognition / Control / Information)  
-- Practical SoC-level PoC implementations  
-
-AITLは、認知・制御・情報の3層構造を持つAIアーキテクチャ構想であり、自律システム設計と省電力制御に対応しています。
+このページは、三溝真一によるAITL構想、半導体教育、設計支援プロジェクトをまとめた統合ポータルです。
 
 ---
 
-🏫 **Semiconductor Education Projects**
+## 🧠 About AITL
 
-- **Edusemi**: Open-source semiconductor education materials  
-  半導体基礎教育
+**AITL (All-in-Theory Logic)** is a unified AI system architecture based on three core layers:
 
-- **Edusemi-Plus**: Semiconductor insights from geopolitics, strategy, and products
+| Layer         | Description                                                  |
+|---------------|--------------------------------------------------------------|
+| Logic Layer   | Inference, anomaly detection, hypothesis generation          |
+| Control Layer | MPC, PID, adaptive control, and decision flow                |
+| Physical Layer| Sensor interfaces, physics-based modeling, environmental dynamics |
 
-These projects are built to bridge theoretical knowledge with industrial applications.
-
----
-
-🤖 **ChatGPT-Accelerated Design**
-
-This research project explores the integration of ChatGPT in hardware/software co-design, including:
-
-- Prompt engineering for architecture and specs  
-- Automated template and document generation  
-- A reproducible AI-assisted design flow
-
-ChatGPTを設計プロセスに組み込むことで、迅速な仕様作成・設計支援・教育用途に展開可能です。
+AITL bridges **logical structure, control theory, and physical implementation**.  
+It provides a foundation for **AI design, implementation, and education**, supporting applications in robotics, drones, and energy-autonomous systems.
 
 ---
 
-🔗 **Main Repositories**
+## 🚀 Key Projects
 
-- [AITL](https://github.com/Samizo-AITL/AITL)
-- [AITL Theory](https://github.com/Samizo-AITL/theory)
-- [AITL Lab (Documentation Hub)](https://github.com/Samizo-AITL/aitl-lab)
-- [ChatGPT-Accelerated Designs](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs)
-- [Edusemi (Semiconductor Education)](https://github.com/Samizo-AITL/edusemi)
-- [Edusemi-Plus (Applied Curriculum)](https://github.com/Samizo-AITL/edusemi-plus)
+| Project Name      | Domain/Use Case         | Description                                                 |
+|-------------------|-------------------------|-------------------------------------------------------------|
+| **EcoSmartEdge**  | Industrial / Smart IoT  | Next-gen SkyEdge drone platform using 28nm FD-SOI / 3nm GAA |
+| **EcoAgriSky**    | Agriculture / Education | AgriEdge drones + Eco Agri Power (sensor-based IoT)         |
+| **SkyShield**     | Disaster & Security     | Military-grade platform with high-reliability AI            |
+| **Robotics AITL-R** | Education / Research    | AITL-based robotic platform, 3nm SoC + analog control chip  |
+
+👉 See [Projects.md](https://samizo-aitl.github.io/AITL/docs/Projects.md) for full classification.
 
 ---
 
-📧 **Contact**
+## 📚 Educational Resources
 
-- Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
-- GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)
-  
+- **Edusemi**: Semiconductor education (basic physics, devices)
+- **Edusemi-Plus**: Industry applications, policy context, product design
+- **SystemDK / PoCDK**: SoC and system design kits for hands-on AI control
+
+Projects are open-source and target **KOSEN, universities, and STEM education**.
+
 ---
 
-🗾 **日本語による案内（概要）**  
-このページは、三溝真一による技術構想・教育・設計支援に関するプロジェクトをまとめた統合サイトです。  
-AITL構想、ChatGPTを用いた設計支援、半導体教育などに関心のある方は、上記リンクより各プロジェクトをご覧ください。
+## 🤖 ChatGPT-Accelerated Design Flow
+
+This project integrates ChatGPT into structured design methodologies for:
+
+- Prompt engineering for system architecture
+- Automatic spec and document generation
+- Collaborative co-design from concept to prototype
+
+👉 See [`ChatGPT-Accelerated-Designs`](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs)
+
+---
+
+## 📦 Main Repositories
+
+| Repository | Purpose |
+|------------|---------|
+| [`AITL`](https://github.com/Samizo-AITL/AITL) | Full theory, implementation, and PoC manual |
+| [`AITL-Theory`](https://github.com/Samizo-AITL/AITL-Theory) | Theoretical model (logic/control/physical) |
+| [`AITL-Lab`](https://github.com/Samizo-AITL/AITL-Lab) | Docs, specs, and GitHub Pages content |
+| [`ChatGPT-Accelerated-Designs`](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs) | Co-design framework using ChatGPT |
+| [`Edusemi`](https://github.com/Samizo-AITL/Edusemi) | Semiconductor education (basic) |
+| [`Edusemi-Plus`](https://github.com/Samizo-AITL/Edusemi-Plus) | Applied / strategic semiconductor education |
+
+---
+
+## 🧾 Documents and Proposals
+
+- [`SoC_PoC_Manual_v5.0.md`](https://samizo-aitl.github.io/AITL/docs/SoC_PoC_Manual_v5.0.md): AI control design manual
+- [`Projects.md`](https://samizo-aitl.github.io/AITL/docs/Projects.md): Project classification (drones, sensors, robots)
+- [`AITL_National_Proposal.md`](https://samizo-aitl.github.io/AITL/docs/AITL_Proposal_v1.0.md): National policy proposal (METI/NEDO)
+
+---
+
+## 🏛 National Proposal: AITL as Strategic Infrastructure
+
+AITL is positioned as a potential **national AI-software-hardware framework**, addressing:
+
+- Integrated logic, control, and physical design
+- Open AI safety and self-repair
+- Educational ecosystem and regional deployment
+- Renewable energy and disaster resilience platforms
+
+See 👉 [`AITL_National_Proposal.md`](https://samizo-aitl.github.io/AITL/docs/AITL_Proposal_v1.0.md)
+
+---
+
+## 🗾 日本語による案内（概要）
+
+AITL構想は、「理論・制御・物理」の3層モデルに基づくAI設計構想です。ドローン・ロボット・半導体教育に展開されており、以下のプロジェクト群で構成されています：
+
+- **Eco Power Platform**：自立型AI搭載ドローン・センサ
+- **AITL-R**：ロボット向けのPoC／SystemDK対応
+- **Edusemi**：半導体教育教材（65nm/0.18µm CMOS 等）
+- **ChatGPT設計支援**：自動生成・テンプレート・設計補助
+
+提言文書やマニュアルもGitHub上で公開し、国・教育機関・産業界との連携を想定しています。
+
+---
+
+## 📫 Contact
+
+- **Author**: Shinichi Samizo  
+- **GitHub**: [@Samizo-AITL](https://github.com/Samizo-AITL)  
+- **Email**: shin3t72@gmail.com  
+
+---
+
+© 2025 Shinichi Samizo — MIT License  
+All theory, specifications, and educational content are open-source and free to reuse.
