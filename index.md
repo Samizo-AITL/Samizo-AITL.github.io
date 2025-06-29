@@ -79,7 +79,7 @@ This project integrates ChatGPT into structured design methodologies for:
 - [`Projects.md`](https://samizo-aitl.github.io/AITL/docs/Projects.md)  
   *Comprehensive project classification across drones, sensors, robotics*
 
-- [`AITL_Proposal_v1.0.md`](https://samizo-aitl.github.io/AITL/docs/AITL_Proposal_v1.0.md)  
+- [`AITL_Proposal_v1.0.md`](https://samizo-aitl.github.io/AITL/AITL_Proposal_v1.0.md)  
   *National-level policy proposal for METI/NEDO and beyond*
 ---
 
@@ -92,7 +92,7 @@ AITL is positioned as a potential **national AI-software-hardware framework**, a
 - Educational ecosystem and regional deployment
 - Renewable energy and disaster resilience platforms
 
-See 👉  [`AITL_Proposal_v1.0.md`](https://samizo-aitl.github.io/AITL/docs/AITL_Proposal_v1.0.md) 
+See 👉  [`AITL_Proposal_v1.0.md`](https://samizo-aitl.github.io/AITL/AITL_Proposal_v1.0.md) 
 
 ---
 
