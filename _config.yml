@@ -1,4 +1,5 @@
-<!-- index.md 最初の行を以下のように調整 -->
-# Welcome to the Samizo-AITL Technical Portal
-
-<!-- または不要なら完全に削除 -->
+title: ""
+description: ""
+author: ""
+theme: minima
+lang: en
