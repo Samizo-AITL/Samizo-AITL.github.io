@@ -57,8 +57,6 @@ ChatGPTを設計プロセスに組み込むことで、迅速な仕様作成・�
 
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
 - GitHub: [@Samizo](https://github.com/Samizo-AITL)  
-- Affiliation: Sky-HyEV / Eco Power Platform  
-  所属：Sky-HyEV / Eco Power Platform
 
 ---
 
