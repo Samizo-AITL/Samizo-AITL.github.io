@@ -16,7 +16,6 @@ AITL (All-in-Theory Logic) is a structured AI architecture that integrates:
 - 3-layer model (Cognition / Control / Information)  
 - Practical SoC-level PoC implementations  
 
-It is designed for energy-efficient, autonomous systems and supports systematic AI logic development.  
 AITLは、認知・制御・情報の3層構造を持つAIアーキテクチャ構想であり、自律システム設計と省電力制御に対応しています。
 
 ---
