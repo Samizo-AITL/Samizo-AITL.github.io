@@ -63,19 +63,19 @@ This project integrates ChatGPT into structured design methodologies for:
 | Repository | Purpose |
 |------------|---------|
 | [`AITL`](https://github.com/Samizo-AITL/AITL) | Full theory, implementation, and PoC manual |
-| [`AITL-Theory`](https://github.com/Samizo-AITL/theory) | Theoretical model (logic/control/physical) |
-| [`AITL-Lab`](https://github.com/Samizo-AITL/aitl-lab) | Docs, specs, and GitHub Pages content |
+| [`theory`](https://github.com/Samizo-AITL/theory) | Theoretical model (logic/control/physical) |
+| [`aitl-lab`](https://github.com/Samizo-AITL/aitl-lab) | Docs, specs, and GitHub Pages content |
 | [`ChatGPT-Accelerated-Designs`](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs) | Co-design framework using ChatGPT |
-| [`Edusemi`](https://github.com/Samizo-AITL/edusemi) | Semiconductor education (basic) |
-| [`Edusemi-Plus`](https://github.com/Samizo-AITL/edusemi-Plus) | Applied / strategic semiconductor education |
+| [`edusemi`](https://github.com/Samizo-AITL/edusemi) | Semiconductor education (basic) |
+| [`edusemi-Plus`](https://github.com/Samizo-AITL/edusemi-Plus) | Applied / strategic semiconductor education |
 
 ---
 
 ## 🧾 Documents and Proposals
 
-- [`SoC_PoC_Manual_v5.0.md`](https://samizo-aitl.github.io/AITL/docs/SoC_PoC_Manual_v5.0.md): AI control design manual
+- [`SoC_PoC_Manual_v5.0.md`](https://samizo-aitl.github.io/aitl-lab/docs/SoC_PoC_Manual_v5.0.md): AI control design manual
 - [`Projects.md`](https://samizo-aitl.github.io/AITL/docs/Projects.md): Project classification (drones, sensors, robots)
-- [`AITL_National_Proposal.md`](https://samizo-aitl.github.io/AITL/docs/AITL_Proposal_v1.0.md): National policy proposal (METI/NEDO)
+- [`AITL_National_Proposal.md`](https://samizo-aitl.github.io/AITL/AITL_Proposal_v1.0.md): National policy proposal (METI/NEDO)
 
 ---
 
@@ -88,7 +88,7 @@ AITL is positioned as a potential **national AI-software-hardware framework**, a
 - Educational ecosystem and regional deployment
 - Renewable energy and disaster resilience platforms
 
-See 👉 [`AITL_National_Proposal.md`](https://samizo-aitl.github.io/AITL/docs/AITL_Proposal_v1.0.md)
+See 👉 [`AITL_National_Proposal.md`](https://samizo-aitl.github.io/AITL/AITL_Proposal_v1.0.md)
 
 ---
 
