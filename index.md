@@ -78,6 +78,14 @@ This project integrates ChatGPT into structured design methodologies for:
 - ): Project classification (drones, sensors, robots)
 - [`AITL_National_Proposal.md`](https://github.com/Samizo-AITL/AITL): National policy proposal (METI/NEDO)
 
+- [`SoC_PoC_Manual_v5.0.md`](https://samizo-aitl.github.io/aitl-lab/docs/SoC_PoC_Manual_v5.0.md)  
+  *Complete design manual for SoC-based AI control (PoCDK / SystemDK-ready)*
+
+- [`Projects.md`](https://samizo-aitl.github.io/AITL/docs/Projects.md)  
+  *Comprehensive project classification across drones, sensors, robotics*
+
+- [`AITL_Proposal_v1.0.md`](https://samizo-aitl.github.io/AITL/docs/AITL_Proposal_v1.0.md)  
+  *National-level policy proposal for METI/NEDO and beyond*
 ---
 
 ## 🏛 National Proposal: AITL as Strategic Infrastructure
