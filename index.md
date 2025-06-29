@@ -1,5 +1,5 @@
-# Samizo-AITL
-### Technical Portfolio by Shinichi Samizo
+# 
+## "Samizo-AITL" Technical Portfolio by Shinichi Samizo
 ---
 
 三溝真一による技術・設計・教育プロジェクトのポータル  
