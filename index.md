@@ -97,7 +97,7 @@ AITL is positioned as a potential **national AI-software-hardware framework**, a
 - Educational ecosystem and regional deployment
 - Renewable energy and disaster resilience platforms
 
-See 👉 [`Projects.md`](https://samizo-aitl.github.io/AITL/docs/Projects.md)
+See 👉  [`AITL_Proposal_v1.0.md`](https://samizo-aitl.github.io/AITL/docs/AITL_Proposal_v1.0.md) 
 
 ---
 
