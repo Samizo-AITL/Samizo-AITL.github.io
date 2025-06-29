@@ -44,7 +44,7 @@ ChatGPTを設計プロセスに組み込むことで、迅速な仕様作成・�
 
 🔗 **Main Repositories**
 
-- [AITL – Implementation](https://github.com/Samizo-AITL/AITL)
+- [AITL](https://github.com/Samizo-AITL/AITL)
 - [AITL Theory](https://github.com/Samizo-AITL/theory)
 - [AITL Lab (Documentation Hub)](https://github.com/Samizo-AITL/aitl-lab)
 - [ChatGPT-Accelerated Designs](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs)
