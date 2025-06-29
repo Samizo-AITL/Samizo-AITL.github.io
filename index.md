@@ -56,8 +56,8 @@ ChatGPTを設計プロセスに組み込むことで、迅速な仕様作成・�
 📧 **Contact**
 
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
-- GitHub: [@Samizo](https://github.com/Samizo-AITL)  
-
+- GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)
+  
 ---
 
 🗾 **日本語による案内（概要）**  
