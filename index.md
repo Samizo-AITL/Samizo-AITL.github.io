@@ -32,7 +32,7 @@ It provides a foundation for **AI design, implementation, and education**, suppo
 | **SkyShield**     | Disaster & Security     | Military-grade platform with high-reliability AI            |
 | **Robotics AITL-R** | Education / Research    | AITL-based robotic platform, 3nm SoC + analog control chip  |
 
-👉 See [`Projects.md`](https://samizo-aitl.github.io/AITL/docs/Projects.md) for full classification.
+👉 See [`Projects.md`](https://github.com/Samizo-AITL/AITL/blob/main/docs/Projects.md)  for full classification.
 
 ---
 
@@ -93,7 +93,7 @@ AITL is positioned as a potential **national AI-software-hardware framework**, a
 - Educational ecosystem and regional deployment
 - Renewable energy and disaster resilience platforms
 
-See 👉  [`AITL_Proposal_v1.0.md`](https://samizo-aitl.github.io/AITL/AITL_Proposal_v1.0.md) 
+See 👉 [`AITL_Proposal_v1.0.md`](https://github.com/Samizo-AITL/AITL/blob/main/AITL_Proposal_v1.0.md)
 
 ---
 
