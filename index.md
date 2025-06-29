@@ -73,11 +73,6 @@ This project integrates ChatGPT into structured design methodologies for:
 
 ## 🧾 Documents and Proposals
 
-- [`SoC_PoC_Manual_v5.0.md`](https://github.com/Samizo-AITL/aitl-lab): AI control design manual
-- [`Projects.md`](https://github.com/Samizo-AITL/AITL/docs
-  : Project classification (drones, sensors, robots)
-- [`AITL_National_Proposal.md`](https://github.com/Samizo-AITL/AITL): National policy proposal (METI/NEDO)
-
 - [`SoC_PoC_Manual_v5.0.md`](https://samizo-aitl.github.io/aitl-lab/docs/SoC_PoC_Manual_v5.0.md)  
   *Complete design manual for SoC-based AI control (PoCDK / SystemDK-ready)*
 
