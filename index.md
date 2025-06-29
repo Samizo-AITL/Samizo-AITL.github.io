@@ -32,7 +32,7 @@ It provides a foundation for **AI design, implementation, and education**, suppo
 | **SkyShield**     | Disaster & Security     | Military-grade platform with high-reliability AI            |
 | **Robotics AITL-R** | Education / Research    | AITL-based robotic platform, 3nm SoC + analog control chip  |
 
-👉 See for full classification.[`Projects.md`](https://samizo-aitl.github.io/AITL/docs/Projects.md)
+👉 See [`Projects.md`](https://samizo-aitl.github.io/AITL/docs/Projects.md) for full classification.
 
 ---
 
