@@ -1,4 +1,4 @@
-## AITL
+## Samizo-AITL
 ### Technical Portfolio by Shinichi Samizo
 ---
 
