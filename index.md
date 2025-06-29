@@ -63,11 +63,11 @@ This project integrates ChatGPT into structured design methodologies for:
 | Repository | Purpose |
 |------------|---------|
 | [`AITL`](https://github.com/Samizo-AITL/AITL) | Full theory, implementation, and PoC manual |
-| [`AITL-Theory`](https://github.com/Samizo-AITL/AITL-Theory) | Theoretical model (logic/control/physical) |
-| [`AITL-Lab`](https://github.com/Samizo-AITL/AITL-Lab) | Docs, specs, and GitHub Pages content |
+| [`AITL-Theory`](https://github.com/Samizo-AITL/theory) | Theoretical model (logic/control/physical) |
+| [`AITL-Lab`](https://github.com/Samizo-AITL/aitl-lab) | Docs, specs, and GitHub Pages content |
 | [`ChatGPT-Accelerated-Designs`](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs) | Co-design framework using ChatGPT |
-| [`Edusemi`](https://github.com/Samizo-AITL/Edusemi) | Semiconductor education (basic) |
-| [`Edusemi-Plus`](https://github.com/Samizo-AITL/Edusemi-Plus) | Applied / strategic semiconductor education |
+| [`Edusemi`](https://github.com/Samizo-AITL/edusemi) | Semiconductor education (basic) |
+| [`Edusemi-Plus`](https://github.com/Samizo-AITL/edusemi-Plus) | Applied / strategic semiconductor education |
 
 ---
 
