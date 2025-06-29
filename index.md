@@ -1,5 +1,5 @@
 ---
-title: Samizo-AITL: Technical Portfolio by Shinichi Samizo
+title: "Samizo-AITL: Technical Portfolio by Shinichi Samizo"
 layout: default
 ---
 
