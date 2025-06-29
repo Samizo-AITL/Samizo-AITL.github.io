@@ -1,6 +1,3 @@
-# 
-
-**Technical Portfolio by Shinichi Samizo**
 
 Welcome to the official portal for AITL (All-in-Theory Logic) architecture, semiconductor education projects, and ChatGPT-accelerated design methodology.
 
