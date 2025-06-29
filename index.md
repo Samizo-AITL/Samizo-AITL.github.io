@@ -22,7 +22,7 @@ AITLは、認知・制御・情報の3層構造を持つAIアーキテクチャ�
 🏫 **Semiconductor Education Projects**
 
 - **Edusemi**: Open-source semiconductor education materials  
-  半導体の基礎教育（章立て構成と図解中心）
+  半導体基礎教育
 
 - **Edusemi-Plus**: Semiconductor insights from geopolitics, strategy, and products
 
