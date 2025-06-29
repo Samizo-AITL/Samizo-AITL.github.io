@@ -81,6 +81,10 @@ This project integrates ChatGPT into structured design methodologies for:
 
 - [`AITL_Proposal_v1.0.md`](https://samizo-aitl.github.io/AITL/AITL_Proposal_v1.0.md)  
   *National-level policy proposal for METI/NEDO and beyond*
+
+  - [`SoC_PoC_Manual_v5.0.md`](https://github.com/Samizo-AITL/aitl-lab/blob/main/docs/SoC_PoC_Manual_v5.0.md)
+- [`Projects.md`](https://github.com/Samizo-AITL/AITL/blob/main/docs/Projects.md)
+- [`AITL_Proposal_v1.0.md`](https://github.com/Samizo-AITL/AITL/blob/main/AITL_Proposal_v1.0.md)
 ---
 
 ## 🏛 National Proposal: AITL as Strategic Infrastructure
