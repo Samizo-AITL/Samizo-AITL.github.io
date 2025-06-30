@@ -1,4 +1,4 @@
-# Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
+Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
 Welcome to the official portal for AITL architecture and semiconductor education projects.
 
