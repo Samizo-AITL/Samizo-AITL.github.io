@@ -39,6 +39,10 @@ It provides a foundation for **AI design, implementation, and education**, suppo
 - **Edusemi**: Semiconductor education (basic physics, devices)
 - **Edusemi-Plus**: Industry applications, policy context, product design
 - **SystemDK / PoCDK**: SoC and system design kits for hands-on AI control
+- **AITL Textbook** *(Fundamental of AITL Architecture)*  
+  A structured, beginner-friendly textbook that explains the three-layer model of logic, control, and physical systems.  
+  It covers LLM-based inference, model-based control design (Simulink), physical-layer modeling, and FPGA implementation.  
+  → [See textbook here](./Education/Fundamental_of_AITL_Architecture/README.md)
 
 Projects are open-source and target **KOSEN, universities, and STEM education**.
 
