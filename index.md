@@ -27,7 +27,7 @@ High-quality semiconductor education materials for KOSEN, universities, and indu
 Prompt-driven co-design workflow from idea to implementation using ChatGPT.  
 ChatGPTを活用した設計支援・仕様生成・PoC共同開発支援フロー。
 
-▶︎ [Sky-HyEV Prompt Collection](https://github.com/Samizo-AITL/AITL/blob/main/ChatGPT-Accelerated-Designs/Sky-HyEV/prompts/Prompt_Collection.md)
+▶︎ [Sky-HyEV Prompt Collection](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs/blob/main/Sky-HyEV/prompts/Prompt_Collection.md)
 
 ---
 
