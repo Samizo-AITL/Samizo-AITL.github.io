@@ -19,7 +19,7 @@ Unified AI system architecture combining logic, control, and physical layers.
 High-quality semiconductor education materials for KOSEN, universities, and industry in Japan.  
 高専・大学・企業向けの半導体教育教材（日本国内向け）。
 
-▶︎ [教材ページを開く（README）](https://github.com/Samizo-AITL/aitl-lab/blob/main/docs/edusemi/README.md)
+▶︎ [教材ページを開く（README）](https://github.com/Samizo-AITL/edusemi/blob/main/README.md)
 
 ---
 
