@@ -34,20 +34,20 @@ ChatGPTを活用した設計支援・仕様生成・PoC共同開発支援フロ�
 ## 📦 Key Deliverables / 主な成果物
 
 - [`AITL_SoC_Design_Manual_v1.0`](https://github.com/Samizo-AITL/aitl-lab/blob/main/docs/soc-manual/AITL_SoC_Design_Manual_v1.0.md)  
-  AITL三層理論をSoC設計に統合するための詳細設計ガイド。  
-  *Theory-to-hardware integration guide for AI SoC design.*
+  Theory-to-hardware integration guide for AI SoC design.  
+  AITL三層理論をSoC設計に統合するための詳細設計ガイド。
 
 - [`SoC_PoC_Manual_v5.0`](https://github.com/Samizo-AITL/aitl-lab/blob/main/docs/SoC_PoC_Manual_v5.0.md)  
-  PoCDK / SystemDK対応のAI制御PoCシステム設計マニュアル。  
-  *Complete design manual for PoC development using SoC-based AI control.*
+  Complete design manual for PoC development using SoC-based AI control.  
+  PoCDK / SystemDK対応のAI制御PoCシステム設計マニュアル。
 
 - [`Projects.md`](https://github.com/Samizo-AITL/AITL/blob/main/docs/Projects.md)  
-  AITL設計を活用したドローン・センサ・ロボティクス等の実装プロジェクト一覧。  
-  *Classification of implementation projects across drones, sensors, robotics.*
+  Classification of implementation projects across drones, sensors, robotics.  
+  AITL設計を活用したドローン・センサ・ロボティクス等の実装プロジェクト一覧。
 
 - [`AITL_Proposal_v1.0.md`](https://github.com/Samizo-AITL/AITL/blob/main/AITL_Proposal_v1.0.md)  
-  技術・教育・産業融合を目指した政策提案書（経産省/NEDO等向け）。  
-  *National-level proposal for integrated AI design and education policy.*
+  National-level proposal for integrated AI design and education policy.  
+  技術・教育・産業融合を目指した政策提案書（経産省/NEDO等向け）。
 
 ---
 
@@ -64,15 +64,18 @@ All theory, specifications, and educational content are open source and free to 
 
 ---
 
-## 🕘 更新履歴 / Update Log
+## 🕘 Update Log / 更新履歴
 
 - **2025-07-01**  
+  Initial release of the integrated portfolio. Included key deliverables (design manuals, PoC manuals, proposals).  
   初版の統合ポートフォリオ公開。各成果物（設計マニュアル・PoCマニュアル・提言書）を掲載。
 
 - **2025-06-28**  
+  Added Sky-HyEV Prompt Collection (ChatGPT-assisted design workflow).  
   Sky-HyEV Prompt Collection（ChatGPT設計支援）を追加。
 
 - **2025-06-15**  
+  Published Edusemi educational materials (README).  
   Edusemi教材公開版（README）追加。
 
 ---
