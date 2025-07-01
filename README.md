@@ -9,8 +9,8 @@ This repository hosts the GitHub Pages portal for AITL architecture, semiconduct
 
 ## 📁 Sub-projects / サブプロジェクト
 
-- [AITL (All-in-Theory Logic)](https://samizo-aitl.github.io/AITL/)
-- [Edusemi (Semiconductor Education)](https://samizo-aitl.github.io/edusemi/)
+- [AITL (All-in-Theory Logic)](https://Samizo-AITL.github.io/AITL/)
+- [Edusemi (Semiconductor Education)](https://Samizo-AITL.github.io/edusemi/)
 - [ChatGPT-Accelerated Design](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs)
 
 ---
