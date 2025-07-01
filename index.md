@@ -7,7 +7,7 @@ Welcome to the official portal for AITL architecture and semiconductor education
 
 ## 🔗 Projects & Sites / プロジェクト・サイト
 
-- [AITL (All-in-Theory Logic)](https://github.com/Samizo-AITL/AITL/blob/main/README.md)  
+- [AITL (All-in-Theory Logic)](https://github.com/Samizo-AITL/AITL/blob/main/README_en.md)  
   Unified AI system architecture combining logic, control, and physical layers.  
   「論理・制御・物理」三層モデルによる統合AI設計構想。
 
