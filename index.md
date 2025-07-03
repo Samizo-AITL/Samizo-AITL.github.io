@@ -4,9 +4,8 @@ Welcome to the official portal for AITL architecture and semiconductor education
 三溝真一によるAITL構想および半導体教育プロジェクトの統合ポータルサイトへようこそ。
 
 <p align="center">
-  <img src="./images/samizo_architecture_v4.png" alt="Samizo Architecture" width="300"/>
+  <img src="images/samizo_architecture_v4.png" alt="Samizo Architecture" width="300"/>
 </p>
-
 ---
 
 ## 🔗 Projects & Sites / プロジェクト・サイト
