@@ -1,11 +1,7 @@
 Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
-Welcome to the official portal for AITL architecture and semiconductor education projects.
+Welcome to the official portal for AITL Semiconductor education projects and AITL architecture.
 三溝真一によるAITL構想および半導体教育プロジェクトの統合ポータルサイトへようこそ。
-
-<p align="center">
-  <img src="images/samizo_architecture_v4.png" alt="Samizo Architecture" width="300"/>
-</p>
 
 ---
 
@@ -27,6 +23,10 @@ KOSEN・大学・企業向けの統合教材。Sky130, OpenLane, Python自動化
 ### 🧠 AITL (All-in-Theory Logic)  
 論理・制御・物理を統合する三層AI設計モデル  
 ▶︎ [AITL GitHubリポジトリ](https://github.com/Samizo-AITL/AITL)
+
+<p align="center">
+  <img src="images/samizo_architecture_v4.png" alt="Samizo Architecture" width="300"/>
+</p>
 
 ---
 
