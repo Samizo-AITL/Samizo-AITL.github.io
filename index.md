@@ -1,7 +1,7 @@
 Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
-Welcome to the official portal for semiconductor education projects and AITL architecture.  
-三溝真一による「Edusemi v4.x（半導体教育教材）」および「AITL構想」「ChatGPT設計支援プロジェクト」の統合ポータルサイトです。
+Welcome to the official portal for Edusemi v4.x, AITL architecture, and ChatGPT-assisted design projects.  
+三溝真一による「Edusemi v4.x（半導体教育）」「AITL構想」「ChatGPT設計支援」の統合ポータルです。
 
 ---
 
