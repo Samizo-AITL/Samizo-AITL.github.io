@@ -1,7 +1,7 @@
 Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
-Welcome to the official portal for Semiconductor education projects and AITL architecture.
-三溝真一によるAITL構想および半導体教育プロジェクトの統合ポータルサイトへようこそ。
+Welcome to the official portal for semiconductor education projects and AITL architecture.  
+三溝真一による「Edusemi v4.x（半導体教育教材）」および「AITL構想」「ChatGPT設計支援プロジェクト」の統合ポータルサイトです。
 
 ---
 
@@ -10,6 +10,8 @@ Welcome to the official portal for Semiconductor education projects and AITL arc
 ### 📘 Edusemi v4.x（半導体教育教材）  
 KOSEN・大学・企業向けの統合教材。Sky130, OpenLane, Python自動化に対応。  
 ▶︎ [Edusemi GitHubページ](https://github.com/Samizo-AITL/Edusemi-v4x)
+
+以下の4編構成で、設計・物性・テストから先端技術までをカバーしています：
 
 | 範囲 | 内容 |
 |------|------|
@@ -20,18 +22,15 @@ KOSEN・大学・企業向けの統合教材。Sky130, OpenLane, Python自動化
 
 ---
 
-### 🧠 AITL (All-in-Theory Logic)  
-論理・制御・物理を統合する三層AI設計モデル  
+## 🧠 AITL（設計理論・アーキテクチャ）  
+All-in-Theory Logic：論理・制御・物理を三層で統合するAI設計構想。  
+SoC設計・ロボット制御・国家提案にも展開中。  
 ▶︎ [AITL GitHubリポジトリ](https://github.com/Samizo-AITL/AITL)
-
-<p align="center">
-  <img src="images/samizo_architecture_v4.png" alt="Samizo Architecture" width="300"/>
-</p>
 
 ---
 
-### 🤖 ChatGPT-Accelerated Design  
-ChatGPTを活用したPoC共創・設計支援プロンプト集  
+## 🤖 ChatGPT-Accelerated Design（設計支援ツール群）  
+Prompt駆動による設計支援・PoC仕様生成を実現する支援プロジェクト。  
 ▶︎ [Sky-HyEV Prompt Collection](https://github.com/Samizo-AITL/ChatGPT-Accelerated-Designs/blob/main/Sky-HyEV/prompts/Prompt_Collection.md)
 
 ---
@@ -39,16 +38,16 @@ ChatGPTを活用したPoC共創・設計支援プロンプト集
 ## 📦 主な成果物 / Key Deliverables
 
 - [`AITL_SoC_Design_Manual_v1.0`](https://github.com/Samizo-AITL/aitl-lab/blob/main/docs/soc-manual/AITL_SoC_Design_Manual_v1.0.md)  
-  AITL三層理論に基づくSoC設計ガイド
+  AITL三層理論に基づくSoC設計マニュアル
 
 - [`SoC_PoC_Manual_v5.0`](https://github.com/Samizo-AITL/aitl-lab/blob/main/docs/SoC_PoC_Manual_v5.0.md)  
-  AI制御PoCのための設計マニュアル（PoCDK対応）
+  PoCDK対応AI制御PoCのための開発マニュアル
 
 - [`Projects.md`](https://github.com/Samizo-AITL/AITL/blob/main/docs/Projects.md)  
-  AITL応用プロジェクト（ドローン・センサ等）の一覧
+  AITL応用プロジェクト（ドローン・センサ等）の分類一覧
 
 - [`AITL_Proposal_v1.0.md`](https://github.com/Samizo-AITL/AITL/blob/main/AITL_Proposal_v1.0.md)  
-  AI設計と教育融合に関する国家提案書
+  AI設計と教育融合に関する国家提案書（経産省・NEDO等向け）
 
 ---
 
@@ -60,8 +59,12 @@ ChatGPTを活用したPoC共創・設計支援プロンプト集
 
 ---
 
+<p align="center">
+  <img src="images/samizo_architecture_v4.png" alt="Samizo Architecture" width="300"/>
+</p>
+
 © 2025 Shinichi Samizo — MIT License  
-教材・仕様・図版はすべてオープンソースとして再利用可能です。
+教材・仕様・図版はすべてMITライセンスに基づき自由に再利用可能です。
 
 ---
 
