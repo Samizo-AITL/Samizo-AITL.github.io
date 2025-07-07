@@ -1,7 +1,7 @@
-# 📘 Edusemi v4.x – 半導体教育教材ポータル
+Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
-半導体の構造的理解を育む教材体系。  
-回路・デバイス・プロセス・信頼性・実装まで、実務と教育の接続を目指す。
+Welcome to the official portal for AITL architecture and semiconductor education projects.
+三溝真一によるAITL構想および半導体教育プロジェクトの統合ポータルサイトへようこそ。
 
 <p align="center">
   <img src="images/samizo_architecture_v4.png" alt="Samizo Architecture" width="300"/>
