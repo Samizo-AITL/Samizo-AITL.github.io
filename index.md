@@ -27,9 +27,7 @@ KOSEN・大学・企業向けの統合教材。
 
 ## 🤖 AITL-H（Hybrid型構造制御アーキテクチャ）
 
-AITL-H（All-in-Theory Logic - Hybrid）は、FSM（本能）＋ PID（理性）＋ LLM（知性）という三層構造で構成された、  
-人型ロボット向けの知能制御フレームワークです。  
-災害対応、介護支援、自律制御などの応用を想定し、段階的に実装・検証を進めています。
+AITL-H（All-in-Theory Logic - Hybrid）は、FSM（本能）＋ PID（理性）＋ LLM（知性）という三層構造で構成された、人型ロボット向けの知能制御フレームワークです。災害対応、介護支援、自律制御などの応用を想定し、段階的に実装・検証を進めています。
 
 ▶︎ [AITL-H GitHubリポジトリ](https://github.com/Samizo-AITL/AITL-H)
 
@@ -40,7 +38,7 @@ AITL-H（All-in-Theory Logic - Hybrid）は、FSM（本能）＋ PID（理性）
 ### 📘 AITL-H PoC設計マニュアル
 
 FSM＋PID＋LLMの三層構造に基づく実証設計書（全16章構成）  
-▶︎ [AITL-H PoC Docs](https://samizo-aitl.github.io/AITL-H/docs/)
+▶︎ [AITL-H PoC Docs](https://samizo-aitl.github.io/AITL-H/docs)
 
 ---
 
