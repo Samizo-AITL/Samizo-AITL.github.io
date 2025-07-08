@@ -1,4 +1,14 @@
-title: Samizo-AITL.github.io
+title: Samizo-AITL Portfolio
 description: Technical Portfolio by Shinichi Samizo
 theme: minima
 lang: en
+
+# ヘッダーリンクを非表示にする
+header_pages: []
+
+# GitHub Pages のベースURL（必要に応じて設定）
+# baseurl: ""  # 例: "/Samizo-AITL.github.io" のように必要なら設定
+
+# ソーシャルリンク（必要に応じて）
+# social_links:
+#   github: Samizo-AITL
