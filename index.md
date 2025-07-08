@@ -1,4 +1,3 @@
----
 
 Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
