@@ -29,6 +29,11 @@ AITL-H（All-in-Theory Logic - Hybrid）は、FSM（本能）＋ PID（理性）
 
 ▶︎ [AITL-H GitHubリポジトリ](https://github.com/Samizo-AITL/AITL-H)
 
+## 📘 AITL-H PoC設計マニュアル
+
+FSM＋PID＋LLMの三層構造に基づく実証設計書（全16章構成）  
+▶︎ [AITL-H PoC Docs](https://github.com/Samizo-AITL/AITL-H/tree/main/PoC/docs)
+
 ---
 
 ## 📫 連絡先 / Contact
