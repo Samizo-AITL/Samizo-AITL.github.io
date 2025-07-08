@@ -1,3 +1,5 @@
+---
+
 Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
 Welcome to the official portal for Edusemi v4.x and AITL-H hybrid control architecture.  
@@ -68,3 +70,5 @@ FSM＋PID＋LLMの三層構造に基づく実証設計書（全16章構成）
   初版統合ポートフォリオ公開。各設計マニュアル・PoC文書を収録。
 - 2025年6月28日  
   Sky-HyEV Prompt Collection（ChatGPT設計支援）を追加。
+
+---
