@@ -1,4 +1,4 @@
-# Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
+Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
 Welcome to the official portal for Edusemi v4.x and AITL-H hybrid control architecture.  
 **三溝真一**による「Edusemi v4.x（半導体教育）」「AITL-H構想（人型ロボット制御）」の統合ポータルです。
