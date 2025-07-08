@@ -9,6 +9,7 @@ Welcome to the official portal for Edusemi v4.x and AITL-H hybrid control archit
 
 ### 📘 Edusemi v4.x（半導体教育教材）  
 KOSEN・大学・企業向けの統合教材。
+
 ▶︎ [Edusemi GitHubページ](https://github.com/Samizo-AITL/Edusemi-v4x)
 
 以下の4編構成で、設計・物性・テストから先端技術までをカバーしています：
