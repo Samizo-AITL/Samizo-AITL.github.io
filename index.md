@@ -5,10 +5,6 @@ Welcome to the official portal for Edusemi v4.x and AITL-H hybrid control archit
 
 ---
 
-## 🔗 教材ポータル / Educational Portal
-
----
-
 ## 📘 Edusemi v4.x（半導体教育教材）
 
 KOSEN・大学・企業向けの統合教材。  
