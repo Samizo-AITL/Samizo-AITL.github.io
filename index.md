@@ -1,5 +1,4 @@
-
-Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
+🧠 Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
 Welcome to the official portal for Edusemi v4.x and AITL-H hybrid control architecture.  
 三溝真一による「Edusemi v4.x（半導体教育）」「AITL-H構想（人型ロボット制御）」の統合ポータルです。
@@ -7,6 +6,8 @@ Welcome to the official portal for Edusemi v4.x and AITL-H hybrid control archit
 ---
 
 ## 🔗 教材ポータル / Educational Portal
+
+---
 
 ## 📘 Edusemi v4.x（半導体教育教材）
 
@@ -26,17 +27,34 @@ KOSEN・大学・企業向けの統合教材。
 
 ## 🤖 AITL-H（Hybrid型構造制御アーキテクチャ）
 
-AITL-H（All-in-Theory Logic - Hybrid）は、FSM（本能）＋ PID（理性）＋ LLM（知性）という三層構造で構成された、人型ロボット向けの知能制御フレームワークです。災害対応、介護支援、自律制御などの応用を想定し、段階的に実装・検証を進めています。
+AITL-H（All-in-Theory Logic - Hybrid）は、FSM（本能）＋ PID（理性）＋ LLM（知性）という三層構造で構成された、人型ロボット向けの知能制御フレームワークです。  
+災害対応、介護支援、自律制御などの応用を想定し、段階的に実装・検証を進めています。
 
 ▶︎ [AITL-H GitHubリポジトリ](https://github.com/Samizo-AITL/AITL-H)
 
 > 💡 FSM・PID・LLMの制御PoCまでをAITL-Hが扱い、RTL〜GDSIIのSoC実装はEdusemi特別編で解説しています。
 
-
 ### 📘 AITL-H PoC設計マニュアル
 
 FSM＋PID＋LLMの三層構造に基づく実証設計書（全16章構成）  
 ▶︎ [AITL-H PoC Docs](https://samizo-aitl.github.io/AITL-H/#/)
+
+---
+
+## 🎮 Rekiden – ChatGPT-Driven Historical Simulation Game
+
+**Rekiden** is an open-source, markdown-based simulation framework where you play as a famous historical figure during key moments of Japanese history—like the Sengoku period or the Bakumatsu.  
+You interact with ChatGPT, who acts as a game master, to experience alternate historical paths through turn-based decision-making.
+
+▶︎ [Rekiden GitHub Repository](https://github.com/Samizo-AITL/Rekiden)
+
+| Feature             | Description                                               |
+|---------------------|-----------------------------------------------------------|
+| 🤖 ChatGPT Gameplay  | GPT-4 serves as your Game Master and narrative engine     |
+| 🗂️ Markdown Driven   | Fully editable, forkable, and transparent game structure  |
+| 📚 Educational Tool | Teaches strategic thinking, historical context, and causality |
+
+> Explore Japanese history with AI. Rewrite the past, one decision at a time.
 
 ---
 
@@ -58,6 +76,8 @@ FSM＋PID＋LLMの三層構造に基づく実証設計書（全16章構成）
 
 ## 🕘 更新履歴 / Update Log
 
+- 2025年7月10日  
+  Rekiden（歴伝）セクションを英語で追加（国際展開に対応）
 - 2025年7月8日  
   ChatGPT設計支援・AITL三層理論セクションを削除、AITL-H特化構成に改訂。
 - 2025年7月7日  
