@@ -39,8 +39,7 @@ FSM＋PID＋LLMの三層構造に基づく実証設計書（全16章構成）
 
 ## 🎮 Rekiden – ChatGPT-Driven Historical Simulation Game
 
-**Rekiden** is a markdown-based historical simulation framework where you play as a key figure in Japanese history.  
-Through dialogue with ChatGPT (GPT-4 or later), you make decisions in famous turning points like the Sengoku era, exploring rich "what-if" scenarios.
+**Rekiden** is a markdown-based historical simulation framework where you play as a key figure in Japanese history. Through dialogue with ChatGPT (GPT-4 or later), you make decisions in famous turning points like the Sengoku era, exploring rich "what-if" scenarios.
 
 ▶︎ [Project Overview (README_en.md)](https://github.com/Samizo-AITL/Rekiden/blob/main/README.en.md)
 
