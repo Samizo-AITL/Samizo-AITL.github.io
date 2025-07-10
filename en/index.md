@@ -65,7 +65,7 @@ Low-level SoC integration (RTL-to-GDSII) is covered in the **Edusemi v4.x Advanc
 **Rekiden** is a markdown-based simulation game where players assume the roles of historical figures in Japanese history.  
 Through conversation with ChatGPT, you make choices in scenarios like the Sengoku or Bakumatsu periods — exploring rich alternate histories.
 
-▶︎ [Rekiden README (Japanese)](https://github.com/Samizo-AITL/Rekiden/blob/main/README.md)
+▶︎ [Rekiden README (English)](https://github.com/Samizo-AITL/Rekiden/blob/main/README_en.md)
 
 | Feature               | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
