@@ -58,8 +58,7 @@ RTL〜GDSIIなどの低レイヤ連携はEdusemi特別編と連動していま�
 
 ## 🎮 Rekiden – ChatGPT-Driven Historical Simulation Game
 
-**Rekiden** is an English-friendly, markdown-based historical simulation project.  
-You act as a key figure in Japanese history, making decisions at pivotal moments such as the *Sengoku* or *Bakumatsu* era. By conversing with ChatGPT (GPT-4 or later), players experience deep “what-if” scenarios with strategic depth.
+**Rekiden** is an English-friendly, markdown-based historical simulation project. You act as a key figure in Japanese history, making decisions at pivotal moments such as the *Sengoku* or *Bakumatsu* era. By conversing with ChatGPT (GPT-4 or later), players experience deep “what-if” scenarios with strategic depth.
 
 ▶︎ [Project Overview (README_en.md)](https://github.com/Samizo-AITL/Rekiden/blob/main/README.en.md)
 
