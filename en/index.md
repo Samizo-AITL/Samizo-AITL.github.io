@@ -1,4 +1,4 @@
-# 🧠 Technical Portfolio by Shinichi Samizo
+🧠 Technical Portfolio by Shinichi Samizo
 
 This is the official GitHub Pages portal for four key educational and research projects by **Shinichi Samizo**:
 
