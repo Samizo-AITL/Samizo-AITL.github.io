@@ -1,8 +1,8 @@
-🧠 Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
+ 🧠 Technical Portfolio by Shinichi Samizo / 三溝真一 技術ポートフォリオ
 
-Welcome to the official portal of four key projects by Shinichi Samizo —  
+Welcome to the official portal of four key projects by **Shinichi Samizo** —  
 *Edusemi v4.x*, *EduController*, *AITL-H*, and *Rekiden* —  
-spanning semiconductor education, AI-integrated control systems, hybrid intelligent robotics, and historical simulation.
+spanning **semiconductor education**, **AI-integrated control systems**, **hybrid intelligent robotics**, and **historical simulation**.
 
 本サイトは、三溝真一による以下4つのプロジェクトを統合した技術ポートフォリオです：  
 「Edusemi v4.x（半導体教育教材）」「EduController（制御理論＋AI教材）」  
@@ -10,97 +10,98 @@ spanning semiconductor education, AI-integrated control systems, hybrid intellig
 
 ---
 
-## 📘 Edusemi v4.x（半導体教育教材）
+## 📘 Edusemi v4.x｜半導体教育教材
 
-KOSEN・大学・企業向けの統合教材。  
-▶︎ [Edusemi GitHubページ](https://github.com/Samizo-AITL/Edusemi-v4x)
+KOSEN・大学・企業向けの分野横断型統合教材プロジェクト。  
+設計・物性・テスト・先端技術までを4編で網羅します。
 
-以下の4編構成で、設計・物性・テストから先端技術までをカバーしています：
+▶︎ [Edusemi GitHubページへ](https://github.com/Samizo-AITL/Edusemi-v4x)
 
-| 範囲 | 内容 |
-|------|------|
-| 基礎編 | 半導体物性、論理回路、MOS設計、SoC設計、テストなど |
-| 応用編 | 高耐圧、ESD、レイアウト、アナログ設計、PDK環境 |
-| 実践編 | Sky130・OpenLane設計、Python自動化、PoC評価 |
-| 特別編 | FinFET/GAA、チップレット、FSM×PID×LLM構造の実装 |
-
----
-
-## 🎛️ EduController（制御理論×AI統合教材）
-
-**EduController** は、古典制御・現代制御から、ニューラルネット・強化学習・LLM統合などのAI制御までを体系的に学べる教育教材です。  
-Pythonベースのシミュレーション・設計体験を通じて、制御理論の基礎から応用・実装までを一貫して学べます。
-
-▶︎ [EduController GitHubページ](https://github.com/Samizo-AITL/EduController)
-
-> 📚 教材は現在編集中ですが、全9章構成により順次公開予定です。
-
-| 系統         | 概要 |
-|--------------|------|
-| 制御理論系   | PID、状態空間、ロバスト制御、デジタル制御、実装連携 |
-| AI制御系     | NN制御、強化学習、データ駆動、LLM統合制御 |
+| 編構成   | 主な内容例 |
+|----------|-------------|
+| 基礎編   | 半導体物性、論理回路、MOS/SoC設計、テスト基礎 |
+| 応用編   | 高耐圧、ESD、レイアウト、アナログ設計、PDK |
+| 実践編   | Sky130／OpenLane設計、Python自動化、PoC評価 |
+| 特別編   | FinFET/GAA、チップレット、FSM×PID×LLM統合制御 |
 
 ---
 
-## 🤖 AITL-H（Hybrid型構造制御アーキテクチャ）
+## 🎛️ EduController｜制御理論 × AI統合教材
 
-AITL-H（All-in-Theory Logic - Hybrid）は、FSM（本能）＋ PID（理性）＋ LLM（知性）という三層構造で構成された、人型ロボット向けの知能制御フレームワークです。  
-災害対応、介護支援、自律制御などの応用を想定し、段階的に実装・検証を進めています。
+**EduController** は、古典制御・現代制御から、  
+ニューラルネット、強化学習、LLM統合までを体系的に学べる実践教材です。  
+Pythonベースで設計・シミュレーションが可能です。
 
-▶︎ [AITL-H GitHubリポジトリ](https://github.com/Samizo-AITL/AITL-H)
+▶︎ [EduController GitHubページへ](https://github.com/Samizo-AITL/EduController)
 
-> 💡 FSM・PID・LLMの制御PoCまでをAITL-Hが扱い、RTL〜GDSIIのSoC実装はEdusemi特別編で解説しています。
+> 📚 全9章構成（制御理論系5章＋AI制御系4章）で順次公開中。
 
-### 📘 AITL-H PoC設計マニュアル
+| 系統       | 内容 |
+|------------|------|
+| 🎓 制御理論系 | PID、状態空間、ロバスト制御、デジタル制御、実装編 |
+| 🤖 AI制御系   | NN制御、強化学習、データ駆動、LLM統合制御 |
 
-FSM＋PID＋LLMの三層構造に基づく実証設計書（全16章構成）  
-▶︎ [AITL-H PoC Docs](https://samizo-aitl.github.io/AITL-H/#/)
+---
+
+## 🤖 AITL-H｜Hybrid型構造制御アーキテクチャ
+
+**AITL-H（All-in-Theory Logic - Hybrid）** は、  
+FSM（本能）＋ PID（理性）＋ LLM（知性）の三層制御によって、柔軟かつ安定した知能制御を実現するアーキテクチャです。
+
+災害対応・介護支援・自律学習などの応用を想定し、PoC設計を進行中。  
+RTL〜GDSIIなどの低レイヤ連携はEdusemi特別編と連動しています。
+
+▶︎ [AITL-H GitHubリポジトリ](https://github.com/Samizo-AITL/AITL-H)  
+▶︎ [AITL-H PoCドキュメント](https://samizo-aitl.github.io/AITL-H/#/)
 
 ---
 
 ## 🎮 Rekiden – ChatGPT-Driven Historical Simulation Game
 
-**Rekiden** is a markdown-based historical simulation framework where you play as a key figure in Japanese history. Through dialogue with ChatGPT (GPT-4 or later), you make decisions in famous turning points like the Sengoku era, exploring rich "what-if" scenarios.
+**Rekiden** is an English-friendly, markdown-based historical simulation project.  
+You act as a key figure in Japanese history, making decisions at pivotal moments such as the *Sengoku* or *Bakumatsu* era.  
+By conversing with ChatGPT (GPT-4 or later), players experience deep “what-if” scenarios with strategic depth.
 
 ▶︎ [Project Overview (README_en.md)](https://github.com/Samizo-AITL/Rekiden/blob/main/README.en.md)
 
-| Feature             | Description                                             |
-|---------------------|---------------------------------------------------------|
-| 🤖 ChatGPT Game Master | GPT drives the story and historical branching paths     |
-| 📄 Markdown Format     | Fully editable and transparent scenario structure       |
-| 🎓 Learning-Oriented   | Helps explore strategy, diplomacy, and historical logic |
+| Feature               | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| 🤖 ChatGPT Game Master | GPT acts as a dynamic storyteller and simulation engine                     |
+| 📄 Markdown Scenarios  | Scenarios are transparent, editable, and easy to create or customize       |
+| 🎓 Educational Focus   | Encourages historical insight, diplomacy, and decision-making through play  |
+| 🌍 English Support      | Designed for international users, with all scenarios and docs in English   |
+
+> **Note**: This project is ideal for strategy fans, educators, and AI-assisted simulation designers alike.
 
 ---
 
-## 📫 連絡先 / Contact
+## 📫 Contact / 連絡先
 
-技術監修・執筆：三溝 真一（Shinichi Samizo）
+技術監修・執筆：**三溝 真一（Shinichi Samizo）**
 
-- GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)
-- Email: shin3t72@gmail.com
+- GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
+- Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
 
-> 教材・構想・仕様へのご意見・ご質問は GitHub Issue または Discussions にてお寄せください。
+> ご意見・ご質問は GitHub Issue または Discussions にてお寄せください。
 
 ---
+
+## 📄 ライセンス / License
 
 © 2025 Shinichi Samizo — MIT License  
-教材・仕様・図版はすべてMITライセンスに基づき自由に再利用可能です。
+本サイト上の教材・構想・設計資料・図版は **MITライセンス** に基づき、自由に再利用可能です。
 
 ---
 
 ## 🕘 更新履歴 / Update Log
 
-- 2025年7月10日  
-  EduControllerセクションを追加（制御理論＋AI教材）
-- 2025年7月10日  
-  Rekiden（歴伝）セクションを英語で追加（国際展開に対応）
-- 2025年7月8日  
-  ChatGPT設計支援・AITL三層理論セクションを削除、AITL-H特化構成に改訂。
-- 2025年7月7日  
-  Edusemi v4.xポータル版に改訂。教材構成とGitHubページを統合。
-- 2025年7月1日  
-  初版統合ポートフォリオ公開。各設計マニュアル・PoC文書を収録。
-- 2025年6月28日  
-  Sky-HyEV Prompt Collection（ChatGPT設計支援）を追加。
+| 日付 | 内容 |
+|------|------|
+| 2025-07-10 | EduControllerセクション追加（制御理論＋AI教材） |
+| 2025-07-10 | Rekidenセクション英語化（国際展開対応） |
+| 2025-07-08 | ChatGPT設計支援・AITL三層理論の記述を削除、AITL-Hに統合 |
+| 2025-07-07 | Edusemiポータル構成を全面刷新 |
+| 2025-07-01 | 統合ポートフォリオ初公開（4プロジェクト対応） |
+| 2025-06-28 | Sky-HyEV Prompt Collection（設計支援プロンプト群）追加 |
 
 ---
