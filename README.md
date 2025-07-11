@@ -83,3 +83,7 @@ ChatGPTと対話しながら歴史的転機を追体験できるシミュレー�
 本リポジトリ内の教材・設計構想・図版・プロンプト類は、**MITライセンス**に基づき自由に再利用可能です。
 
 ---
+
+💬 [プロジェクト全体へのご意見・ご感想はこちらへ](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
+
+---
