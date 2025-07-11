@@ -79,8 +79,6 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
 
-> 教材・構想・仕様へのご意見・ご質問は GitHub Issue または Discussions にてお寄せください。
-
 ---
 
 ## 📄 ライセンス / License
