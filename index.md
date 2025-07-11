@@ -1,4 +1,4 @@
- 🧠 三溝真一 技術ポートフォリオ / Technical Portfolio by Shinichi Samizo
+# 🧠 三溝真一 技術ポートフォリオ / Technical Portfolio by Shinichi Samizo
 
 本サイトは、三溝真一による以下4つのプロジェクトを統合した**技術ポートフォリオ**です：  
 「Edusemi v4.x（半導体教育教材）」「EduController（制御理論＋AI教材）」  
