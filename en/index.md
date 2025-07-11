@@ -82,8 +82,6 @@ Through conversation with ChatGPT, you make choices in scenarios like the Sengok
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
 
-> Feedback, questions, and suggestions are welcome via GitHub Issues or Discussions.
-
 ---
 
 ## 📄 License
