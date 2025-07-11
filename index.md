@@ -103,3 +103,6 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
 ---
 
+💬 [プロジェクト全体へのご意見・ご感想はこちらへ](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
+
+---
