@@ -1,8 +1,9 @@
 # 🧠 Samizo-AITL Portal
 
-This repository hosts the GitHub Pages portal for four key educational and research projects by **Shinichi Samizo**.  
-本リポジトリは、三溝真一による以下の4つのプロジェクトを統合した技術ポータルを提供します：
+This repository hosts the GitHub Pages portal for five key educational and research projects by **Shinichi Samizo**.  
+本リポジトリは、三溝真一による以下の5つのプロジェクトを統合した技術ポータルを提供します：
 
+- 🧠 SamizoGPT（プロンプト設計・ChatGPT活用支援）
 - 📘 Edusemi v4.x（半導体教育教材）
 - 🎛️ EduController（制御理論＋AI制御教材）
 - 🤖 AITL-H（ハイブリッド知能制御フレームワーク）
@@ -14,6 +15,19 @@ This repository hosts the GitHub Pages portal for four key educational and resea
 
 👉 **[GitHub Pages Top (index.md)](https://samizo-aitl.github.io/)** ← 相互リンク  
 > 詳細な構成図・ドキュメント・教材情報は上記ページにて公開中です。
+
+---
+
+## 🧠 SamizoGPT｜プロンプト設計・ChatGPT支援フレームワーク
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/Samizo-AITL/SamizoGPT?style=social)](https://github.com/Samizo-AITL/SamizoGPT)
+[![License: MIT](https://img.shields.io/github/license/Samizo-AITL/SamizoGPT)](https://opensource.org/licenses/MIT)
+
+ChatGPTを活用した技術開発や教育支援のためのプロンプトテンプレート、アシスタント設定、  
+GUIツールを提供する統合フレームワークです。
+
+▶︎ [SamizoGPT サイトページへ](https://samizo-aitl.github.io/SamizoGPT/)  
+▶︎ [SamizoGPT GitHub リポジトリ](https://github.com/Samizo-AITL/SamizoGPT)
 
 ---
 
@@ -70,6 +84,7 @@ ChatGPTと対話しながら歴史的転機を追体験できるシミュレー�
 
 | Repository | Description |
 |------------|-------------|
+| [`SamizoGPT`](https://github.com/Samizo-AITL/SamizoGPT) | ChatGPT活用・プロンプト設計支援ツール群 |
 | [`Edusemi-v4x`](https://github.com/Samizo-AITL/Edusemi-v4x) | 半導体教育教材（Sky130・PDK設計） |
 | [`EduController`](https://github.com/Samizo-AITL/EduController) | 制御理論とAI制御の統合教材 |
 | [`AITL-H`](https://github.com/Samizo-AITL/AITL-H) | 三層知能制御アーキテクチャ（FSM×PID×LLM） |
