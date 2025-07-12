@@ -52,12 +52,3 @@
 - [ ] Custom RAG-based knowledge base enhancements
 
 ---
-
-## 🔗 Example Link Reference (for README or index)
-
-```markdown
-🧠 ChatGPT Utilization Level: Lv.5 (Support AI Architect)  
-👉 [▶ View the full diagnosis sheet](./docs/chatgpt-skill-eval-en.md)
-```
-
----
