@@ -25,6 +25,9 @@ spanning **semiconductor education**, **AI-integrated control systems**, **hybri
 | 🔤 プロンプト集 | 説明・設計・状態遷移・教育・レビューなど9カテゴリ |
 | 🛠 GUI支援ツール | テンプレート選択→生成→保存をGUIで操作可能 |
 | 📂 構成指針 | 命名規則、設計分類、拡張案を体系化 |
+
+---
+
 ## 📘 Edusemi v4.x｜半導体教育教材
 
 KOSEN・大学・企業向けの分野横断型統合教材プロジェクト。  
