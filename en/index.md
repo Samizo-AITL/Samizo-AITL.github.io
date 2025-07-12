@@ -81,7 +81,8 @@ Through conversation with ChatGPT, you make choices in scenarios like the Sengok
 **Author / Supervisor**: Shinichi Samizo  
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
-> 🧠 ChatGPT Utilization Level: Lv.5(Support AI Architect)   [▶ View the full diagnosis sheet](/docs/chatgpt-skill-eval-en.md)
+> 🧠 ChatGPT Utilization Level: Lv.5 (Support AI Architect)  
+> 👉 [▶ View the full diagnosis sheet](/docs/chatgpt-skill-eval-en.md)
 
 ---
 
