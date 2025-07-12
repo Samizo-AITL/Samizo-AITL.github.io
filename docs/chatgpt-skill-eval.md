@@ -52,12 +52,3 @@
 - [ ] 独自ドキュメント検索（RAG）による知識強化
 
 ---
-
-## 🔗 本ページへのリンク例（READMEやindexに追記）
-
-```markdown
-🧠 ChatGPT活用レベル：Lv.5（補助AI設計者）
-👉 [▶ 活用診断シートを詳しく見る](./docs/chatgpt-skill-eval.md)
-```
-
----
