@@ -78,7 +78,7 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 技術監修・執筆：**三溝 真一（Shinichi Samizo）**  
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
-> 🧠 ChatGPT活用レベル：Lv.5（補助AI設計者）｜[▶ 活用診断シートを見る](/docs/chatgpt-skill-eval.md)
+> 🧠 ChatGPT活用レベル：Lv.5（補助AI設計者）[▶ 日本語版診断シート](/docs/chatgpt-skill-eval) / [English version](/docs/chatgpt-skill-eval-en)
   
 ---
 
