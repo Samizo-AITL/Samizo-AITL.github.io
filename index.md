@@ -1,13 +1,16 @@
-**Technical Portfolio by Shinichi Samizo**
+# **Technical Portfolio by Shinichi Samizo**
 
-本サイトは、三溝真一による以下**5つのプロジェクト**を統合した**技術ポートフォリオ**です：  
-「Edusemi v4.x（半導体教育教材）」「EduController（制御理論＋AI教材）」  
-「AITL-H（ハイブリッド知能制御構想）」「Rekiden（歴史シミュレーション）」  
-および「SamizoGPT（ChatGPT活用支援フレームワーク）」を紹介・公開しています。
+本サイトは、**三溝真一** による教育・研究開発プロジェクト5本を統合した  
+公式GitHubポータルサイトです：
 
-Welcome to the official portal of five key projects by **Shinichi Samizo**:  
-*Edusemi v4.x*, *EduController*, *AITL-H*, *Rekiden*, and *SamizoGPT* —  
-spanning **semiconductor education**, **AI-integrated control systems**, **hybrid intelligent robotics**, **historical simulation**, and **prompt engineering with ChatGPT**.
+- 📘 Edusemi v4.x（半導体教育教材）  
+- 🎛️ EduController（制御理論＋AI）  
+- 🤖 AITL-H（知能制御アーキテクチャ）  
+- 🎮 Rekiden（歴史シミュレーション）  
+- 🧠 SamizoGPT（ChatGPTプロンプト支援）
+
+これらは、**半導体設計、制御理論、AI応用、教育、対話型シミュレーション**にまたがる  
+オープンソース教材・技術ドキュメントとして展開されています。
 
 👉 [Click here for English version](./en/index.md)
 
@@ -122,5 +125,3 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 ---
 
 💬 [プロジェクト全体へのご意見・ご感想はこちらへ](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
-
----
