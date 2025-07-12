@@ -1,12 +1,13 @@
 **Technical Portfolio by Shinichi Samizo**
 
-本サイトは、三溝真一による以下4つのプロジェクトを統合した**技術ポートフォリオ**です：  
+本サイトは、三溝真一による以下**5つのプロジェクト**を統合した**技術ポートフォリオ**です：  
 「Edusemi v4.x（半導体教育教材）」「EduController（制御理論＋AI教材）」  
-「AITL-H（ハイブリッド知能制御構想）」「Rekiden（歴史シミュレーション）」を紹介・公開しています。
+「AITL-H（ハイブリッド知能制御構想）」「Rekiden（歴史シミュレーション）」  
+および「SamizoGPT（ChatGPT活用支援フレームワーク）」を紹介・公開しています。
 
-Welcome to the official portal of four key projects by **Shinichi Samizo**:  
-*Edusemi v4.x*, *EduController*, *AITL-H*, and *Rekiden* —  
-spanning **semiconductor education**, **AI-integrated control systems**, **hybrid intelligent robotics**, and **historical simulation**.
+Welcome to the official portal of five key projects by **Shinichi Samizo**:  
+*Edusemi v4.x*, *EduController*, *AITL-H*, *Rekiden*, and *SamizoGPT* —  
+spanning **semiconductor education**, **AI-integrated control systems**, **hybrid intelligent robotics**, **historical simulation**, and **prompt engineering with ChatGPT**.
 
 👉 [Click here for English version](./en/index.md)
 
@@ -93,10 +94,10 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
 技術監修・執筆：**三溝 真一（Shinichi Samizo）**  
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
-- Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
+- Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
 > 🧠 ChatGPT活用レベル：Lv.5（補助AI設計者）  
 > 👉 [▶ 日本語版診断シート](/docs/chatgpt-skill-eval.md) / [English version](/docs/chatgpt-skill-eval-en.md)
-  
+
 ---
 
 ## 📄 ライセンス / License
@@ -110,6 +111,7 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
 | 日付 | 内容 |
 |------|------|
+| 2025-07-12 | SamizoGPT セクションをトップポートフォリオに追加 |
 | 2025-07-11 | Rekidenの参照リンクを日本語READMEに変更 |
 | 2025-07-10 | EduControllerセクション追加（制御理論＋AI教材） |
 | 2025-07-10 | Rekidenセクションを英語から日本語化（国内向け対応） |
