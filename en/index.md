@@ -1,7 +1,8 @@
 **Technical Portfolio by Shinichi Samizo**
 
-This is the official GitHub Pages portal for four key educational and research projects by **Shinichi Samizo**:
+This is the official GitHub Pages portal for five key educational and research projects by **Shinichi Samizo**:
 
+- 🧠 SamizoGPT (Prompt Engineering Framework)
 - 📘 Edusemi v4.x (Semiconductor Education)
 - 🎛️ EduController (Control Theory + AI)
 - 🤖 AITL-H (Hybrid Intelligent Control Architecture)
@@ -9,7 +10,23 @@ This is the official GitHub Pages portal for four key educational and research p
 
 👉 [日本語版はこちら](../index.md)
 
-These projects span across **semiconductor design**, **AI-integrated control systems**, **intelligent robotics**, and **historical what-if simulations**, offering practical, open-source, and educational resources.
+These projects span across **prompt design**, **semiconductor engineering**, **AI-based control systems**, **intelligent robotics**, and **historical what-if simulations**, offering practical, open-source, and educational resources.
+
+---
+
+## 🧠 SamizoGPT — Prompt Engineering Framework for ChatGPT
+
+**SamizoGPT** is a unified support framework designed to maximize the effectiveness of ChatGPT across engineering and education.  
+It provides categorized prompt templates, assistant configurations, and GUI tools for designing and managing AI-driven workflows.
+
+▶︎ [SamizoGPT Website (GitHub Pages)](https://samizo-aitl.github.io/SamizoGPT/)  
+▶︎ [SamizoGPT GitHub Repository](https://github.com/Samizo-AITL/SamizoGPT)
+
+| Feature        | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| 🔤 Prompt Library | Organized by purpose: explanation, design, control, education, review     |
+| 🛠 GUI Tools     | Easy-to-use GUI to select, generate, and save reusable prompts             |
+| 📂 Structure Docs | Naming conventions, design architecture, and roadmap                      |
 
 ---
 
@@ -80,7 +97,7 @@ Through conversation with ChatGPT, you make choices in scenarios like the Sengok
 
 **Author / Supervisor**: Shinichi Samizo  
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
-- Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
+- Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
 > 🧠 ChatGPT Utilization Level: Lv.5 (Support AI Architect)  
 > 👉 [▶ View the full diagnosis sheet](/docs/chatgpt-skill-eval-en.md)
 
@@ -97,6 +114,7 @@ All materials, designs, diagrams, and prompts on this site are freely reusable u
 
 | Date       | Update |
 |------------|--------|
+| 2025-07-12 | Added SamizoGPT section to top of English portal |
 | 2025-07-11 | English version created (`index.en.md`) |
 | 2025-07-10 | Added EduController section |
 | 2025-07-10 | Rekiden internationalization started |
