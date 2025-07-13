@@ -73,8 +73,11 @@ It includes hands-on simulations and design exercises using Python.
 - 🎯 PID = Rational control (physics-based feedback)  
 - 💬 LLM = Intelligence (language-guided intent estimation)
 
+▶︎ [AITL-H Project Overview](https://samizo-aitl.github.io/AITL-H/)
 ▶︎ [AITL-H GitHub Repository](https://github.com/Samizo-AITL/AITL-H)  
-▶︎ [AITL-H PoC Documentation](https://samizo-aitl.github.io/AITL-H/#/)
+
+📎 For detailed implementation documentation (PoC), please refer to:  
+👉 [AITL-H PoC Manual (docs/)](https://samizo-aitl.github.io/AITL-H/docs/)
 
 This architecture targets applications in disaster response, elderly care, and self-adaptive learning.  
 Low-level SoC integration (RTL-to-GDSII) is covered in the **Edusemi v4.x Advanced Module**.
