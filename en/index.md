@@ -44,6 +44,7 @@ An open-source teaching framework for semiconductor technology, ideal for **KOSE
 | Practical  | Sky130 + OpenLane design, Python automation, PoC workflows |
 | Advanced   | FinFET/GAA, chiplets, FSM×PID×LLM-based SoC integration |
 
+📎 Extended Content Available: Applied materials covering geopolitics, strategy, and product evolution in the semiconductor industry  
 ▶︎ [Edusemi-Plus Website (GitHub Pages)](https://samizo-aitl.github.io/Edusemi-Plus/)
 
 ---
