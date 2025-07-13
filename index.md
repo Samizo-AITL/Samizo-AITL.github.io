@@ -77,7 +77,6 @@ FSM（本能）＋ PID（理性）＋ LLM（知性）の三層制御によって
 災害対応・介護支援・自己改善などの応用を想定し、PoC設計・検証を公開しています。  
 RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
-︎▶︎ [AITL-H サイトページへ](https://samizo-aitl.github.io/AITL-H/)
 ▶︎ [AITL-H GitHubページ](https://github.com/Samizo-AITL/AITL-H)  
 ▶︎ [AITL-H PoCドキュメント](https://samizo-aitl.github.io/AITL-H/#/)
 
