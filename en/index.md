@@ -34,6 +34,7 @@ It provides categorized prompt templates, assistant configurations, and GUI tool
 
 An open-source teaching framework for semiconductor technology, ideal for **KOSEN**, **university**, and **corporate training**.
 
+▶︎ [Edusemi Website (GitHub Pages)](https://samizo-aitl.github.io/Edusemi-v4x/)
 ▶︎ [Edusemi GitHub Repository](https://github.com/Samizo-AITL/Edusemi-v4x)
 
 | Module     | Key Topics |
@@ -42,6 +43,8 @@ An open-source teaching framework for semiconductor technology, ideal for **KOSE
 | Applied    | High-voltage, ESD, layout, analog, PDK-based design |
 | Practical  | Sky130 + OpenLane design, Python automation, PoC workflows |
 | Advanced   | FinFET/GAA, chiplets, FSM×PID×LLM-based SoC integration |
+
+▶︎ [Edusemi-Plus Website (GitHub Pages)](https://samizo-aitl.github.io/Edusemi-Plus/)
 
 ---
 
