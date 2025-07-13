@@ -37,6 +37,7 @@
 KOSEN・大学・企業向けの分野横断型統合教材プロジェクト。  
 設計・物性・テスト・先端技術までを4編で網羅しています。
 
+▶︎ [Edusemi サイトページへ](https://samizo-aitl.github.io/Edusemi-v4x/)
 ▶︎ [Edusemi GitHubページへ](https://github.com/Samizo-AITL/Edusemi-v4x)
 
 | 編構成   | 主な内容 |
@@ -46,6 +47,9 @@ KOSEN・大学・企業向けの分野横断型統合教材プロジェクト。
 | 実践編   | Sky130／OpenLane設計、Python自動化、PoC評価 |
 | 特別編   | FinFET・GAA、チップレット、FSM×PID×LLM構造の実装 |
 
+📎 **拡張教材あり：** 半導体産業を取り巻く地政学・戦略・製品進化などを扱う応用教材  
+👉 [➕ Edusemi-Plus サイトページへ](https://samizo-aitl.github.io/Edusemi-Plus/)
+
 ---
 
 ## 🎛️ EduController｜制御理論 × AI統合教材
@@ -53,6 +57,7 @@ KOSEN・大学・企業向けの分野横断型統合教材プロジェクト。
 **EduController** は、古典制御・現代制御からAI制御までを体系的に学べるPythonベースの教材です。  
 PIDや状態空間制御から、ニューラルネット、強化学習、LLM統合までを実装を通じて学びます。
 
+︎▶︎ [EduController サイトページへ](https://samizo-aitl.github.io/EduController/)
 ▶︎ [EduController GitHubページへ](https://github.com/Samizo-AITL/EduController)
 
 > 📚 全9章構成（制御理論5章＋AI制御4章）で順次公開中です。
@@ -72,6 +77,7 @@ FSM（本能）＋ PID（理性）＋ LLM（知性）の三層制御によって
 災害対応・介護支援・自己改善などの応用を想定し、PoC設計・検証を公開しています。  
 RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
+︎▶︎ [AITL-H サイトページへ](https://samizo-aitl.github.io/AITL-H/)
 ▶︎ [AITL-H GitHubリポジトリ](https://github.com/Samizo-AITL/AITL-H)  
 ▶︎ [AITL-H PoCドキュメント](https://samizo-aitl.github.io/AITL-H/#/)
 
@@ -82,7 +88,8 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 **Rekiden** は、Markdownベースで構成された**ChatGPT連携型の歴史シミュレーションゲーム**です。  
 戦国〜幕末の歴史的転機において、ユーザーが武将となって「if」を体験します。
 
-▶︎ [Rekiden README（日本語）](https://github.com/Samizo-AITL/Rekiden/blob/main/README.md)
+▶︎ [Rekiden サイトページへ](https://samizo-aitl.github.io/Rekiden/)
+▶︎ [Rekiden README](https://github.com/Samizo-AITL/Rekiden/blob/main/README.md)
 
 | 特徴                 | 内容 |
 |----------------------|------|
