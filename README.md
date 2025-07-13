@@ -33,13 +33,18 @@ GUIツールを提供する統合フレームワークです。
 
 ## 📘 Edusemi v4.x｜半導体教育教材
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Samizo-AITL/Edusemi-v4x?style=social)](https://github.com/Samizo-AITL/Edusemi-v4x)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Samizo-AITL/Edusemi-v4x?style=social)](https://github.com/Samizo-AITL/Edusemi-v4x)  
 [![License: MIT](https://img.shields.io/github/license/Samizo-AITL/Edusemi-v4x)](https://opensource.org/licenses/MIT)
 
 統合型の半導体教育教材プロジェクト。  
-物性・設計・実装・テストを一貫して学べる構成で、Sky130やOpenLane設計も対応。
+**物性・設計・実装・テスト**を一貫して学べる構成で、Sky130やOpenLane設計も対応。  
+PoCやPythonシミュレーションを通じ、設計と実装のつながりを体験的に学べます。
 
-▶︎ [Edusemi GitHub リポジトリ](https://github.com/Samizo-AITL/Edusemi-v4x)
+▶︎ [Edusemi GitHub リポジトリ](https://github.com/Samizo-AITL/Edusemi-v4x)  
+▶︎ [Edusemi サイトページへ](https://samizo-aitl.github.io/Edusemi-v4x/)
+
+📎 **拡張教材あり：** 地政学・企業戦略・AI融合などを扱う応用シリーズ  
+👉 [Edusemi-Plus（応用・俯瞰教材）](https://samizo-aitl.github.io/Edusemi-Plus/)
 
 ---
 
