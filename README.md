@@ -43,7 +43,7 @@ PoCやPythonシミュレーションを通じ、設計と実装のつながり�
 ▶︎ [Edusemi GitHub リポジトリ](https://github.com/Samizo-AITL/Edusemi-v4x)  
 
 📎 **拡張教材あり：** 地政学・企業戦略・AI融合などを扱う応用シリーズ  
-👉 [Edusemi-Plus（応用・俯瞰教材）](https://samizo-aitl.github.io/Samzio-AITL/Edusemi-Plus)
+👉 [Edusemi-Plus（応用・俯瞰教材）](https://samizo-aitl.github.io/Samizo-AITL/Edusemi-Plus)
 
 ---
 
