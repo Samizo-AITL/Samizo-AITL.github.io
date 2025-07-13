@@ -41,17 +41,10 @@ GUIツールを提供する統合フレームワークです。
 PoCやPythonシミュレーションを通じ、設計と実装のつながりを体験的に学べます。
 
 ▶︎ [Edusemi GitHub リポジトリ](https://github.com/Samizo-AITL/Edusemi-v4x)  
-
-📎 **拡張教材あり：** 地政学・企業戦略・AI融合などを扱う応用シリーズ  
-👉 [Edusemi-Plus（応用・俯瞰教材）](https://samizo-aitl.github.io/Samizo-AITL/Edusemi-Plus)
-
-
-▶︎ [Edusemi GitHub リポジトリ](https://github.com/Samizo-AITL/Edusemi-v4x)  
 ▶︎ [Edusemi サイトページへ](https://samizo-aitl.github.io/Edusemi-v4x/)
 
 📎 **拡張教材あり：** 地政学・企業戦略・AI融合などを扱う応用シリーズ  
 👉 [Edusemi-Plus（応用・俯瞰教材）](https://samizo-aitl.github.io/Edusemi-Plus/)
-
 
 ---
 
