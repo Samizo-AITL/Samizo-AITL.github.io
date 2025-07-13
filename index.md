@@ -78,7 +78,7 @@ FSM（本能）＋ PID（理性）＋ LLM（知性）の三層制御によって
 RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
 ︎▶︎ [AITL-H サイトページへ](https://samizo-aitl.github.io/AITL-H/)
-▶︎ [AITL-H GitHubリポジトリ](https://github.com/Samizo-AITL/AITL-H)  
+▶︎ [AITL-H GitHubページ](https://github.com/Samizo-AITL/AITL-H)  
 ▶︎ [AITL-H PoCドキュメント](https://samizo-aitl.github.io/AITL-H/#/)
 
 ---
@@ -89,7 +89,7 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 戦国〜幕末の歴史的転機において、ユーザーが武将となって「if」を体験します。
 
 ▶︎ [Rekiden サイトページへ](https://samizo-aitl.github.io/Rekiden/)
-▶︎ [Rekiden README](https://github.com/Samizo-AITL/Rekiden/blob/main/README.md)
+▶︎ [Rekiden Githubページ](https://github.com/Samizo-AITL/Rekiden/blob/main/README.md)
 
 | 特徴                 | 内容 |
 |----------------------|------|
