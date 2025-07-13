@@ -22,7 +22,7 @@
 プロンプトテンプレート、プロジェクト設計テンプレート、GUIツールを統合した支援フレームワークです。
 
 ▶︎ [SamizoGPT サイトページへ](https://samizo-aitl.github.io/SamizoGPT/)  
-▶︎ [GitHubリポジトリ（コードとテンプレート）](https://github.com/Samizo-AITL/SamizoGPT)
+▶︎ [SamzioGPT GitHubページ（コードとテンプレート）](https://github.com/Samizo-AITL/SamizoGPT)
 
 | 内容 | 概要 |
 |------|------|
