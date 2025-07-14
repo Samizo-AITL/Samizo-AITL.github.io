@@ -110,6 +110,16 @@ Through conversation with ChatGPT, you make choices in scenarios like the Sengok
 
 ---
 
+## 🤝 For OpenAI Team and Educators
+
+This portfolio site was built using ChatGPT and showcases structured educational projects across semiconductors, control theory, and AI integration.  
+I'm open to collaboration opportunities, technical feedback, or educational outreach discussions related to OpenAI tools.
+
+👉 Contact: shin3t72@gmail.com (Shinichi Samizo)  
+👉 If you're viewing this via the OpenAI support thread, thank you for your time and interest!
+
+---
+
 ## 📄 License
 
 © 2025 Shinichi Samizo — MIT License  
