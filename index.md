@@ -86,6 +86,22 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
 ---
 
+## 💰 AssetPortfolio｜テクノロジー時代の資産運用教材
+
+**AssetPortfolio-StartGuide** は、インフレ時代に対応した「テクノロジー分野に注目した資産運用」の学習教材です。  
+NISA・ETF・ChatGPTを活用して、投資初心者でも「自分で考え、判断する力」を育てられる2部構成になっています。
+
+▶︎ [AssetPortfolio サイトページへ](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)  
+▶︎ [AssetPortfolio GitHubページへ](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)
+
+| 構成         | 内容概要 |
+|--------------|----------|
+| 📗 第1部      | 投資の基礎、NISA制度、証券口座の開設、商品選定、リバランスなど |
+| 📘 第2部      | テクノロジー分野の銘柄分析、ETF逆引き、ChatGPTによる比較分析と判断演習 |
+| 🧠 実践支援   | ChatGPTテンプレートをそのまま貼り付けて使える形式で提供 |
+
+---
+
 ## 🎮 Rekiden｜歴史シミュレーションゲーム（ChatGPT連携）
 
 **Rekiden** は、Markdownベースで構成された**ChatGPT連携型の歴史シミュレーションゲーム**です。  
