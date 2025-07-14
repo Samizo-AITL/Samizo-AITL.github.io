@@ -73,6 +73,24 @@ PoC実装・設計マニュアルを通じて柔軟な知能制御を提案。
 
 ---
 
+## 💰 AssetPortfolio｜テクノロジー時代の資産運用教材
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/Samizo-AITL/AssetPortfolio-StartGuide?style=social)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)
+[![License: MIT](https://img.shields.io/github/license/Samizo-AITL/AssetPortfolio-StartGuide)](https://opensource.org/licenses/MIT)
+
+インフレ時代に対応した、**テクノロジー分野に注目した資産運用・投資学習教材**。  
+NISA／ETF／ChatGPTを活用し、ポートフォリオ設計・銘柄分析・投資判断力を育成します。  
+初心者から中級者まで、「考える力」を伸ばすChatGPTテンプレート付き。
+
+▶︎ [AssetPortfolio GitHub リポジトリ](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)  
+▶︎ [AssetPortfolio ページ（教材構成と演習リンク）](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)
+
+📎 **2部構成：**
+- 第1部：NISA・ETFなどの基本知識と実践手順  
+- 第2部：テクノロジー銘柄に特化した分析・比較・投資判断の実践
+
+---
+
 ## 🎮 Rekiden｜歴史シミュレーションゲーム（ChatGPT対応）
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Samizo-AITL/Rekiden?style=social)](https://github.com/Samizo-AITL/Rekiden)
