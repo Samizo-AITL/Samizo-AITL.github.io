@@ -1,16 +1,17 @@
 **Technical Portfolio by Shinichi Samizo**
 
-This is the official GitHub Pages portal for five key educational and research projects by **Shinichi Samizo**:
+This repository hosts the GitHub Pages portal for six key educational and research projects by **Shinichi Samizo**:
 
 - 🧠 SamizoGPT (Prompt Engineering Framework)
 - 📘 Edusemi v4.x (Semiconductor Education)
 - 🎛️ EduController (Control Theory + AI)
 - 🤖 AITL-H (Hybrid Intelligent Control Architecture)
+- 💰 AssetPortfolio (Investment Education with ChatGPT)
 - 🎮 Rekiden (ChatGPT-based Historical Simulation)
 
 👉 [日本語版はこちら](../index.md)
 
-These projects span across **prompt design**, **semiconductor engineering**, **AI-based control systems**, **intelligent robotics**, and **historical what-if simulations**, offering practical, open-source, and educational resources.
+These projects span across **prompt design**, **semiconductor engineering**, **AI-based control systems**, **intelligent robotics**, **investment learning**, and **historical what-if simulations**, offering practical, open-source, and educational resources.
 
 ---
 
@@ -84,6 +85,23 @@ Low-level SoC integration (RTL-to-GDSII) is covered in the **Edusemi v4.x Advanc
 
 ---
 
+## 💰 AssetPortfolio — Investment Learning with ChatGPT
+
+**AssetPortfolio** is a two-part learning guide for individual investors with a focus on technology sectors.  
+It integrates ChatGPT prompt templates and ETF-based strategies to build and maintain a personalized portfolio.
+
+▶︎ [AssetPortfolio Website (GitHub Pages)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)  
+▶︎ [AssetPortfolio GitHub Repository](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)
+
+| Part | Topics |
+|------|--------|
+| 📘 Part 1 | Investing fundamentals: NISA, brokers, portfolio setup, rebalancing |
+| 📊 Part 2 | Tech stock strategies: sector selection, ETF lookup, stock comparison |
+
+📎 Includes hands-on ChatGPT templates for asset design, stock research, and investment judgment.
+
+---
+
 ## 🎮 Rekiden — ChatGPT-Driven Historical Simulation
 
 **Rekiden** is a markdown-based simulation game where players assume the roles of historical figures in Japanese history.  
@@ -112,7 +130,7 @@ Through conversation with ChatGPT, you make choices in scenarios like the Sengok
 
 ## 🤝 For OpenAI Team and Educators
 
-This portfolio site was built using ChatGPT and showcases structured educational projects across semiconductors, control theory, and AI integration.  
+This portfolio site was built using ChatGPT and showcases structured educational projects across semiconductors, control theory, AI integration, and investing.  
 I'm open to collaboration opportunities, technical feedback, or educational outreach discussions related to OpenAI tools.
 
 👉 Contact: shin3t72@gmail.com (Shinichi Samizo)  
@@ -131,6 +149,7 @@ All materials, designs, diagrams, and prompts on this site are freely reusable u
 
 | Date       | Update |
 |------------|--------|
+| 2025-07-15 | Added AssetPortfolio project to English portal |
 | 2025-07-12 | Added SamizoGPT section to top of English portal |
 | 2025-07-11 | English version created (`index.en.md`) |
 | 2025-07-10 | Added EduController section |
