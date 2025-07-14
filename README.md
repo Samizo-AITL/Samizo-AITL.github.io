@@ -7,6 +7,7 @@ This repository hosts the GitHub Pages portal for five key educational and resea
 - 📘 Edusemi v4.x（半導体教育教材）
 - 🎛️ EduController（制御理論＋AI制御教材）
 - 🤖 AITL-H（ハイブリッド知能制御フレームワーク）
+- 💰 AssetPortfolio（テクノロジー資産運用教材） 
 - 🎮 Rekiden（歴史シミュレーションゲーム）
 
 ---
