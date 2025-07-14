@@ -112,6 +112,16 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
 ---
 
+## 🤝 OpenAI関係者の方へ（For OpenAI Team）
+
+本サイトは、ChatGPTの活用によって構築された教育・設計支援プロジェクト群を統合した成果物です。  
+OpenAI APIとのさらなる連携や、グローバル教育展開のご提案・ご相談も歓迎しております。
+
+👉 ご質問・ご連絡はこちら：shin3t72@gmail.com（Shinichi Samizo）
+👉 または OpenAIサポートチャット経由でご覧いただいた方は、ぜひフィードバックをお寄せください。
+
+---
+
 ## 📄 ライセンス / License
 
 © 2025 Shinichi Samizo — MIT License  
