@@ -62,7 +62,7 @@ PIDや状態空間制御から、ニューラルネット、強化学習、LLM�
 ︎▶︎ [EduController サイトページへ](https://samizo-aitl.github.io/EduController/)
 ▶︎ [EduController GitHubページへ](https://github.com/Samizo-AITL/EduController)
 
-> 📚 全9章構成（制御理論5章＋AI制御4章）で順次公開中です。
+> 📚 全9章構成（制御理論5章＋AI制御4章)
 
 | 系統       | 内容 |
 |------------|------|
