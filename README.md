@@ -83,8 +83,11 @@ Creo Parametricを用いたパラメトリック設計教育教材。
 FSM（本能）＋ PID（理性）＋ LLM（知性）の三層構造によるロボット制御アーキテクチャ。  
 PoC実装・設計マニュアルを通じて柔軟な知能制御を提案。
 
-▶︎ [AITL-H GitHub リポジトリ](https://github.com/Samizo-AITL/AITL-H)  
-▶︎ [AITL-H PoCドキュメント](https://samizo-aitl.github.io/AITL-H/#/)
+▶︎ [AITL-H サイトページへ](https://samizo-aitl.github.io/AITL-H/)
+▶︎ [AITL-H GitHubページ](https://github.com/Samizo-AITL/AITL-H)  
+
+📎 詳細なPoCマニュアルは以下をご覧ください：  
+👉 [AITL-H PoCマニュアル（docs/）](https://samizo-aitl.github.io/AITL-H/docs/)
 
 ---
 
