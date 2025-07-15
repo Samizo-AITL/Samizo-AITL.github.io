@@ -1,17 +1,18 @@
 **Technical Portfolio by Shinichi Samizo**
 
-本サイトは、**三溝真一** による教育・研究開発プロジェクト6本を統合した  
+本サイトは、**三溝真一** による教育・研究開発プロジェクト7本を統合した  
 公式GitHubポータルサイトです：
 
 - 🧠 SamizoGPT（ChatGPTプロンプト支援）  
 - 📘 Edusemi v4.x（半導体教育教材）  
-- 🎛️ EduController（制御理論＋AI）  
+- 🎛️ EduController（制御理論＋AI制御教材）  
+- 🛠️ EduMecha（Creoベースの機械設計・筐体設計教材）  
 - 🤖 AITL-H（知能制御アーキテクチャ）  
 - 💰 AssetPortfolio（テクノロジー資産運用教材）  
-- 🎮 Rekiden（歴史シミュレーション）  
+- 🎮 Rekiden（歴史シミュレーション教材）  
 
-これらは、**半導体設計、制御理論、AI応用、資産運用、教育、対話型シミュレーション**にまたがる  
-オープンソース教材・技術ドキュメントとして展開されています。**Technical Portfolio by Shinichi Samizo**
+これらは、**半導体設計、機械設計、制御理論、AI応用、資産運用、教育、対話型シミュレーション**にまたがる  
+オープンソース教材・技術ドキュメントとして展開されています。  
 
 👉 [Click here for English version](./en/index.md)
 
