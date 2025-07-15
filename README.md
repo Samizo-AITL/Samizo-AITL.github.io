@@ -6,6 +6,7 @@ This repository hosts the GitHub Pages portal for five key educational and resea
 - 🧠 SamizoGPT（プロンプト設計・ChatGPT活用支援）
 - 📘 Edusemi v4.x（半導体教育教材）
 - 🎛️ EduController（制御理論＋AI制御教材）
+- 🛠️ EduMecha（機械設計・筐体設計＋Creo演習教材）
 - 🤖 AITL-H（ハイブリッド知能制御フレームワーク）
 - 💰 AssetPortfolio（テクノロジー資産運用教材） 
 - 🎮 Rekiden（歴史シミュレーションゲーム）
@@ -61,6 +62,19 @@ PoCやPythonシミュレーションを通じ、設計と実装のつながり�
 
 ---
 
+## 🛠️ EduMecha｜機械設計・筐体設計＋Creo演習教材
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/Samizo-AITL/EduMecha?style=social)](https://github.com/Samizo-AITL/EduMecha)
+[![License: MIT](https://img.shields.io/github/license/Samizo-AITL/EduMecha)](https://opensource.org/licenses/MIT)
+
+Creo Parametricを用いたパラメトリック設計教育教材。  
+寸法拘束・組立設計・図面生成・制御筐体設計を段階的に学べる構成で、FSM/PID制御教材との連携も可能です。
+
+▶︎ [EduMecha GitHub リポジトリ](https://github.com/Samizo-AITL/EduMecha)  
+▶︎ [EduMecha ページ（教材構成・演習付き）](https://samizo-aitl.github.io/EduMecha/)
+
+---
+
 ## 🤖 AITL-H｜Hybrid型構造制御アーキテクチャ
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Samizo-AITL/AITL-H?style=social)](https://github.com/Samizo-AITL/AITL-H)
@@ -111,7 +125,9 @@ ChatGPTと対話しながら歴史的転機を追体験できるシミュレー�
 | [`SamizoGPT`](https://github.com/Samizo-AITL/SamizoGPT) | ChatGPT活用・プロンプト設計支援ツール群 |
 | [`Edusemi-v4x`](https://github.com/Samizo-AITL/Edusemi-v4x) | 半導体教育教材（Sky130・PDK設計） |
 | [`EduController`](https://github.com/Samizo-AITL/EduController) | 制御理論とAI制御の統合教材 |
+| [`EduMecha`](https://github.com/Samizo-AITL/EduMecha) | Creo演習付き機械設計・筐体設計教材 |
 | [`AITL-H`](https://github.com/Samizo-AITL/AITL-H) | 三層知能制御アーキテクチャ（FSM×PID×LLM） |
+| [`AssetPortfolio-StartGuide`](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) | テクノロジー×ChatGPTによる資産設計教材 |
 | [`Rekiden`](https://github.com/Samizo-AITL/Rekiden) | GPT連携・歴史シミュレーションゲーム |
 
 ---
