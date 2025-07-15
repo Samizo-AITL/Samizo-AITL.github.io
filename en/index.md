@@ -66,6 +66,23 @@ It includes hands-on simulations and design exercises using Python.
 
 ---
 
+## 🛠️ EduMecha — Parametric Mechanical Design with Creo
+
+**EduMecha** is a hands-on educational framework focused on mechanical design using **PTC Creo Parametric**.  
+It guides learners through parametric modeling, dimensional constraints, technical drawings, and control-oriented enclosure design — with direct integration to FSM/PID/LLM control PoCs.
+
+▶︎ [EduMecha Website (GitHub Pages)](https://samizo-aitl.github.io/EduMecha/)  
+▶︎ [EduMecha GitHub Repository](https://github.com/Samizo-AITL/EduMecha)
+
+| Module         | Key Topics |
+|----------------|------------|
+| 📗 Basics       | Sketching, extrusion, holes, and parametric constraints |
+| 🧩 Assemblies   | Assembly design and constraint conditions |
+| 📄 Drawings     | Orthographic projections, dimensioning, and PDF export |
+| 🤖 Enclosure PoC | Gimbal-based frame design for intelligent control systems (FSM×PID×LLM)
+
+---
+
 ## 🤖 AITL-H — Hybrid Intelligent Control Architecture
 
 **AITL-H (All-in-Theory Logic - Hybrid)** proposes a 3-layer intelligent control model for robotics and adaptive systems:
