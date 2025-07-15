@@ -58,7 +58,7 @@ It includes hands-on simulations and design exercises using Python.
 
 ▶︎ [EduController GitHub Repository](https://github.com/Samizo-AITL/EduController)
 
-> 📚 Currently under development with 9 chapters: 5 for control theory, 4 for AI control.
+> 📚 9 chapters: 5 for control theory, 4 for AI control.
 
 | Track             | Topics |
 |------------------|--------|
