@@ -34,6 +34,24 @@
 
 ---
 
+### 📡 SemiTechBot｜半導体技術支援チャットボット
+
+`SamizoGPT` を応用し、**ChatGPT API × Flask** によって構築された  
+**半導体技術者向けのQ&Aチャットボット構築テンプレート**です。
+
+▶︎ [SemiTechBot GitHubページへ](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)
+
+| 項目 | 内容 |
+|------|------|
+| ⚙️ 技術基盤 | Flask + OpenAI API + YAML設定 |
+| 🧪 質問例 | 「酸化膜が薄いと何が起こる？」「レイアウト制限とは？」など |
+| 📄 README構成 | 起動手順・API例・プロンプト構成まで整備済み |
+| 🔒 安全設計 | APIキー除外、`.gitignore` 完備の構成テンプレート付属 |
+
+> 🔰 iPadなどの制約ある環境からでも、**GitHubで構成管理しながら拡張開発**できます。
+
+---
+
 ## 📘 Edusemi v4.x｜半導体教育教材
 
 KOSEN・大学・企業向けの分野横断型統合教材プロジェクト。  
