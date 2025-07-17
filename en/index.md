@@ -32,6 +32,23 @@ It provides categorized prompt templates, assistant configurations, and GUI tool
 
 ---
 
+### 📡 SemiTechBot｜ChatGPT-based Semiconductor Technical Chatbot
+
+An extension of **SamizoGPT**, this project provides a **Flask + ChatGPT API-based chatbot** template for semiconductor engineers.
+
+▶︎ [SemiTechBot GitHub Repository](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)
+
+| Feature | Description |
+|--------|-------------|
+| ⚙️ Stack | Flask + OpenAI API + YAML-based prompt settings |
+| 🧪 Example Prompts | “What happens if the gate oxide is too thin?” “What is a layout constraint?” |
+| 📄 README Guide | Includes setup, API usage, and prompt configuration |
+| 🔒 Secure Setup | API key excluded by default (`.gitignore` included) |
+
+> 🔰 Even on iPad or mobile environments, you can develop and maintain with GitHub easily.
+
+---
+
 ## 📘 Edusemi v4.x — Integrated Semiconductor Education
 
 An open-source teaching framework for semiconductor technology, ideal for **KOSEN**, **university**, and **corporate training**.
