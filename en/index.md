@@ -182,16 +182,21 @@ All materials, designs, diagrams, and prompts on this site are freely reusable u
 
 ## 🕘 Update Log
 
-| Date       | Update |
-|------------|--------|
-| 2025-07-15 | Added EduMecha (mechanical design project) to English portal |
-| 2025-07-15 | Added AssetPortfolio project to English portal |
-| 2025-07-12 | Added SamizoGPT section to top of English portal |
-| 2025-07-11 | English version created (`index.en.md`) |
-| 2025-07-10 | Added EduController section |
-| 2025-07-10 | Rekiden internationalization started |
-| 2025-07-08 | AITL-H refocused on 3-layer hybrid model |
-| 2025-07-07 | Edusemi portal structure refined |
-| 2025-07-01 | Initial release of unified project portal |
+| Date | Update |
+|------|--------|
+| 2025-07-17 | Added SemiTechBot section (Semiconductor Technical Chatbot) under SamizoGPT |
+| 2025-07-15 | Added EduMecha (Creo Mechanical Design Curriculum) |
+| 2025-07-15 | Added AssetPortfolio (Technology Investment Education) |
+| 2025-07-12 | Added SamizoGPT section to top page |
+| 2025-07-11 | Updated Rekiden links to Japanese README |
+| 2025-07-10 | Added EduController section (Control + AI Curriculum) |
+| 2025-07-10 | Rekiden localization (Japanese README) |
+| 2025-07-08 | AITL-H PoC-focused restructure |
+| 2025-07-07 | Edusemi portal restructured |
+| 2025-07-01 | Initial site release |
+
+---
+
+💬 [Submit feedback here](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
 
 ---
