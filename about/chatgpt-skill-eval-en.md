@@ -66,3 +66,5 @@ Reuse, adaptation, and translation are welcome.
 
 📂 Filename: `about/en/chatgpt-skill-eval-en.md`  
 📂 Japanese version: [`about/chatgpt-skill-eval.md`](../chatgpt-skill-eval.md)
+
+---
