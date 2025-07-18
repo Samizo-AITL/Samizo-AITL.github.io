@@ -8,6 +8,7 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 - 🎛️ EduController（制御理論＋AI制御教材）
 - 🛠️ EduMecha（機械設計・筐体設計＋Creo演習教材）
 - 🤖 AITL-H（ハイブリッド知能制御フレームワーク）
+- 🖨️ Inkjet（インクジェット技術アーカイブ）
 - 💰 AssetPortfolio（テクノロジー資産運用教材） 
 - 🎮 Rekiden（歴史シミュレーションゲーム）
 - 📡 SemiTechBot（半導体技術支援チャットボット）
@@ -62,6 +63,13 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 
 ---
 
+## 🖨️ インクジェット技術アーカイブ｜Inkjet Technology Archive
+
+▶︎ [Inkjet GitHub](https://github.com/Samizo-AITL/Inkjet)  
+▶︎ [Inkjet Site](https://samizo-aitl.github.io/Inkjet/)
+
+---
+
 ## 💰 AssetPortfolio｜資産運用教材
 
 ▶︎ [AssetPortfolio GitHub](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)  
@@ -75,14 +83,9 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 
 ---
 
-## 🖨️ インクジェット技術アーカイブ｜Inkjet Technology Archive
-
-▶︎ [Inkjet GitHub](https://github.com/Samizo-AITL/Inkjet)  
-▶︎ [Inkjet Site](https://samizo-aitl.github.io/Inkjet/)
-
----
-
 ## 📄 License / ライセンス
 
 © 2025 [Shinichi Samizo](https://github.com/Samizo-AITL) — MIT License  
 教材・構成図・プロンプト類は MITライセンスに基づき自由に再利用可能です。
+
+---
