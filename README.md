@@ -12,7 +12,6 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 - 💰 AssetPortfolio（テクノロジー資産運用教材） 
 - 🎮 Rekiden（歴史シミュレーションゲーム）
 - 📡 SemiTechBot（半導体技術支援チャットボット）
-- 🖨️ Inkjet（インクジェット技術アーカイブ）
 
 ---
 
