@@ -42,6 +42,13 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 
 ---
 
+## ➕ Edusemi-Plus｜半導体応用教材（地政学・産業戦略）
+
+▶︎ [Edusemi-Plus GitHub](https://github.com/Samizo-AITL/Edusemi-Plus)  
+▶︎ [Edusemi-Plus Site](https://samizo-aitl.github.io/Edusemi-Plus/)
+
+---
+
 ## 🎛️ EduController｜制御理論＋AI制御教材
 
 ▶︎ [EduController GitHub](https://github.com/Samizo-AITL/EduController)
