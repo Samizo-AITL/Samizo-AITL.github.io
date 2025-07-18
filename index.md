@@ -46,7 +46,7 @@
 | 項目 | 内容 |
 |------|------|
 | 🕘 [更新履歴](./about/update.md) | プロジェクト・構成・構造更新の履歴 |
-| 🧠 [ChatGPT活用レベル診断（確定版）](./about/chatgpt-skill-eval.md) | 作成者によるLLM活用評価（Lv4.5〜5.0） |
+| 🧠 [ChatGPT活用レベル診断（確定版）](./about/chatgpt-skill-eval.md) | 作成者によるLLM活用評価（Lv5） |
 | 🌐 [English Version](./en/index.md) | 英語版ポートフォリオページはこちら |
 
 ---
