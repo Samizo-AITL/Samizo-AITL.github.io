@@ -6,6 +6,7 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 - 🧠 SamizoGPT（プロンプト設計・ChatGPT活用支援）
 - 📡 SemiTechBot（半導体技術支援チャットボット）
 - 📘 Edusemi v4.x（半導体教育教材）
+- ➕ Edusemi-Plus（半導体応用教材・地政学／産業構造）
 - 🎛️ EduController（制御理論＋AI制御教材）
 - 🛠️ EduMecha（機械設計・筐体設計＋Creo演習教材）
 - 🤖 AITL-H（ハイブリッド知能制御フレームワーク）
