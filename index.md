@@ -120,6 +120,26 @@ RTL-to-GDSII などのSoC連携は Edusemi 特別編と連動しています。
 
 ---
 
+## 🖨️ Inkjet｜インクジェット技術アーカイブ
+
+**Inkjet** は、EPSON・Canon・Ricoh・Fujifilm・HPなど各社のプリントヘッド技術を比較・分類し、  
+構造・駆動方式・用途別の特徴やインク適合性、波形制御、インク飛行評価、3Dプリンティング応用までを体系的に整理した技術アーカイブ教材です。
+
+▶︎ [Inkjet サイトページへ](https://samizo-aitl.github.io/Inkjet/)  
+▶︎ [Inkjet GitHubページへ](https://github.com/Samizo-AITL/Inkjet)
+
+| 構成領域         | 概要 |
+|------------------|------|
+| 📂 makers/        | EPSON, Canon, Ricoh, Fujifilmなど各社ヘッド技術の構造・方式比較 |
+| 📑 comparison/    | 駆動方式（熱方式 vs ピエゾ）やインク種別、用途などの横断比較 |
+| 🧪 evaluation_tools/ | 波形設計／インク飛行可視化／ノズル観察／評価装置まとめ |
+| 🧱 3d_printing/   | AM技術との融合（材料分類、造形技術との整合、応用マップ） |
+
+> 🔒 EPSONに関しては、構造断面・COF設計・駆動波形など一部は非公開技術として  
+> `Private/Epson/` に整理されています（リンク可能構造）。
+
+---
+
 ## 💰 AssetPortfolio｜テクノロジー時代の資産運用教材
 
 **AssetPortfolio-StartGuide** は、インフレ時代に対応した「テクノロジー分野に注目した資産運用」の学習教材です。  
