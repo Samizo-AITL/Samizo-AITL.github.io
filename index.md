@@ -159,7 +159,7 @@ NISA・ETF・ChatGPTを活用して、投資初心者でも「自分で考え、
 ## 🎮 Rekiden｜歴史シミュレーションゲーム（ChatGPT連携）
 
 **Rekiden** は、Markdownベースで構成された**ChatGPT連携型の歴史シミュレーションゲーム**です。  
-戦国〜幕末の歴史的転機において、ユーザーが武将となって「if」を体験します。
+戦国時代、WW2の歴史的転機において、ユーザーが武将となって「if」を体験します。
 
 ▶︎ [Rekiden サイトページへ](https://samizo-aitl.github.io/Rekiden/)
 ▶︎ [Rekiden Githubページ](https://github.com/Samizo-AITL/Rekiden/blob/main/README.md)
