@@ -3,3 +3,7 @@ description: Technical Portfolio by Shinichi Samizo
 theme: minima
 lang: ja
 
+header_pages:
+  - index.md
+
+show_excerpts: false
