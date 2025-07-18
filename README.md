@@ -9,6 +9,7 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 - 🎛️ EduController（制御理論＋AI制御教材）
 - 🛠️ EduMecha（機械設計・筐体設計＋Creo演習教材）
 - 🤖 AITL-H（ハイブリッド知能制御フレームワーク）
+- 🖨️ Inkjet（インクジェット技術アーカイブ）
 - 💰 AssetPortfolio（テクノロジー資産運用教材） 
 - 🎮 Rekiden（歴史シミュレーションゲーム）
 - 📡 SemiTechBot（半導体技術支援チャットボット）
@@ -75,6 +76,23 @@ ChatGPT APIとFlaskで構築された、**半導体技術者向けのQ&Aチャ�
 
 ▶︎ [AITL-H サイトページへ](https://samizo-aitl.github.io/AITL-H/)  
 ▶︎ [AITL-H GitHubページ](https://github.com/Samizo-AITL/AITL-H)  
+
+---
+
+## 🖨️ インクジェット技術アーカイブ｜Inkjet Technology Archive
+
+▶︎ [Inkjet GitHub リポジトリ](https://github.com/Samizo-AITL/Inkjet)  
+▶︎ [Inkjet 技術アーカイブ（教材ページ）](https://samizo-aitl.github.io/Inkjet/)
+
+本リポジトリは、各社インクジェットプリントヘッド技術に関する**公開情報のみ**を対象とした教材アーカイブです。  
+EPSON・Canon・Ricoh・Fujifilm・HPなどの構造・駆動方式・インク適合性・インク飛行評価・3Dプリンティング応用を比較・整理しています。
+
+| 項目 | 内容概要 |
+|------|----------|
+| 🧱 技術比較 | サーマル vs ピエゾ、d31/d33、電圧・応答性などの基礎比較 |
+| 🧪 評価ツール | 波形制御、インク飛行観察、ノズル性能評価など |
+| 🖨️ 構造解析 | uTFP（薄膜）と MACH（バルク）の構造比較（EPSON事例） |
+| 🔬 応用展開 | 工業印刷／3Dプリンタ連携の技術的接続点も網羅 |
 
 ---
 
