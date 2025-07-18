@@ -1,202 +1,215 @@
-**Technical Portfolio by Shinichi Samizo**
+# **Technical Portfolio by Shinichi Samizo**
 
-This repository hosts the GitHub Pages portal for seven key educational and research projects by **Shinichi Samizo**:
+This site is the official GitHub portal that integrates eight open-source projects by **Shinichi Samizo**,  
+covering **semiconductor design, mechanical design, control theory, AI applications, asset management, education, and interactive simulation**.
 
-- 🧠 SamizoGPT (Prompt Engineering Framework)  
-- 📘 Edusemi v4.x (Semiconductor Education)  
-- 🎛️ EduController (Control Theory + AI)  
-- 🛠️ EduMecha (Parametric Mechanical Design with Creo)  
+- 🧠 SamizoGPT (Prompt Design & ChatGPT Productivity Framework)  
+- 📘 Edusemi v4.x (Semiconductor Education Curriculum)  
+- 🎛️ EduController (Control Theory + AI Control Framework)  
+- 🛠️ EduMecha (Mechanical Design & 3D Modeling with Creo)  
 - 🤖 AITL-H (Hybrid Intelligent Control Architecture)  
-- 💰 AssetPortfolio (Investment Education with ChatGPT)  
-- 🎮 Rekiden (ChatGPT-based Historical Simulation)
+- 🖨️ Inkjet (Inkjet Printhead Technology Archive)  
+- 💰 AssetPortfolio (Investment Education for the Tech Era)  
+- 🎮 Rekiden (Historical Simulation Game powered by ChatGPT)  
 
-👉 [日本語版はこちら](../index.md)
-
-These projects span across **prompt design**, **semiconductor engineering**, **mechanical design**, **AI-based control systems**, **intelligent robotics**, **investment learning**, and **historical what-if simulations**, offering practical, open-source, and educational resources.
-
----
-
-## 🧠 SamizoGPT — Prompt Engineering Framework for ChatGPT
-
-**SamizoGPT** is a unified support framework designed to maximize the effectiveness of ChatGPT across engineering and education.  
-It provides categorized prompt templates, assistant configurations, and GUI tools for designing and managing AI-driven workflows.
-
-▶︎ [SamizoGPT Website (GitHub Pages)](https://samizo-aitl.github.io/SamizoGPT/)  
-▶︎ [SamizoGPT GitHub Repository](https://github.com/Samizo-AITL/SamizoGPT)
-
-| Feature        | Description                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| 🔤 Prompt Library | Organized by purpose: explanation, design, control, education, review     |
-| 🛠 GUI Tools     | Easy-to-use GUI to select, generate, and save reusable prompts             |
-| 📂 Structure Docs | Naming conventions, design architecture, and roadmap                      |
+👉 [日本語版はこちら / Japanese version](../index.md)
 
 ---
 
-### 📡 SemiTechBot｜ChatGPT-based Semiconductor Technical Chatbot
+## 🧠 SamizoGPT｜Prompt Design & ChatGPT Productivity Tools
 
-An extension of **SamizoGPT**, this project provides a **Flask + ChatGPT API-based chatbot** template for semiconductor engineers.
+**SamizoGPT** is a modular framework that supports power users of ChatGPT with prompt templates, GUI tools, and project design methods.
 
-▶︎ [SemiTechBot GitHub Repository](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)
+▶︎ [SamizoGPT Site](https://samizo-aitl.github.io/SamizoGPT/)  
+▶︎ [SamizoGPT GitHub](https://github.com/Samizo-AITL/SamizoGPT)
 
 | Feature | Description |
-|--------|-------------|
-| ⚙️ Stack | Flask + OpenAI API + YAML-based prompt settings |
-| 🧪 Example Prompts | “What happens if the gate oxide is too thin?” “What is a layout constraint?” |
-| 📄 README Guide | Includes setup, API usage, and prompt configuration |
-| 🔒 Secure Setup | API key excluded by default (`.gitignore` included) |
-
-> 🔰 Even on iPad or mobile environments, you can develop and maintain with GitHub easily.
+|---------|-------------|
+| 🔤 Prompt Templates | 9 categories including explanation, review, design, state transitions |
+| 🛠 GUI Tools | Easy interface to select, generate, and save prompts |
+| 📂 Structural Guidelines | Naming conventions, project types, and extensibility strategy |
 
 ---
 
-## 📘 Edusemi v4.x — Integrated Semiconductor Education
+### 📡 SemiTechBot｜Semiconductor Q&A Chatbot Template
 
-An open-source teaching framework for semiconductor technology, ideal for **KOSEN**, **university**, and **corporate training**.
+Built on SamizoGPT and powered by **ChatGPT API × Flask**,  
+this chatbot template is tailored for semiconductor professionals.
 
-▶︎ [Edusemi Website (GitHub Pages)](https://samizo-aitl.github.io/Edusemi-v4x/)
-▶︎ [Edusemi GitHub Repository](https://github.com/Samizo-AITL/Edusemi-v4x)
+▶︎ [SemiTechBot GitHub](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)
 
-| Module     | Key Topics |
-|------------|------------|
-| Basics     | Semiconductor physics, logic circuits, MOS/SoC design, testing |
-| Applied    | High-voltage, ESD, layout, analog, PDK-based design |
-| Practical  | Sky130 + OpenLane design, Python automation, PoC workflows |
-| Advanced   | FinFET/GAA, chiplets, FSM×PID×LLM-based SoC integration |
-
-📎 Extended Content Available: Applied materials covering geopolitics, strategy, and product evolution in the semiconductor industry  
-▶︎ [Edusemi-Plus Website (GitHub Pages)](https://samizo-aitl.github.io/Edusemi-Plus/)
+| Feature | Description |
+|---------|-------------|
+| ⚙️ Backend | Flask + OpenAI API + YAML-based prompt settings |
+| 🧪 Sample Qs | “What happens with thin oxide?” / “What is a layout constraint?” |
+| 📄 Documentation | Startup guide, API prompt templates, usage examples |
+| 🔒 Safety | API key separation and `.gitignore` included in template |
 
 ---
 
-## 🎛️ EduController — Control Theory Meets AI
+## 📘 Edusemi v4.x｜Semiconductor Education Curriculum
 
-**EduController** is a structured learning toolkit that bridges classical control, modern control, and AI-based controllers.  
-It includes hands-on simulations and design exercises using Python.
+An integrated educational curriculum for KOSEN, universities, and companies,  
+spanning device physics, design, testing, and advanced topics in four volumes.
 
-▶︎ [EduController GitHub Repository](https://github.com/Samizo-AITL/EduController)
+▶︎ [Edusemi Site](https://samizo-aitl.github.io/Edusemi-v4x/)  
+▶︎ [Edusemi GitHub](https://github.com/Samizo-AITL/Edusemi-v4x)
 
-> 📚 9 chapters: 5 for control theory, 4 for AI control.
+| Volume       | Topics |
+|--------------|--------|
+| Fundamentals | Device physics, logic design, MOS/SoC, testing basics |
+| Applications | HV/ESD, layout, analog design, PDK compliance |
+| Practices    | Sky130, OpenLane, Python automation, PoC evaluation |
+| Special      | FinFET/GAA, chiplet, FSM×PID×LLM implementation |
 
-| Track             | Topics |
-|------------------|--------|
-| 🎓 Control Theory | PID, state-space, robust control, digital implementation |
-| 🤖 AI Control     | Neural networks, reinforcement learning, data-driven control, LLM integration |
-
----
-
-## 🛠️ EduMecha — Parametric Mechanical Design with Creo
-
-**EduMecha** is a hands-on educational framework focused on mechanical design using **PTC Creo Parametric**.  
-It guides learners through parametric modeling, dimensional constraints, technical drawings, and control-oriented enclosure design — with direct integration to FSM/PID/LLM control PoCs.
-
-▶︎ [EduMecha Website (GitHub Pages)](https://samizo-aitl.github.io/EduMecha/)  
-▶︎ [EduMecha GitHub Repository](https://github.com/Samizo-AITL/EduMecha)
-
-| Module         | Key Topics |
-|----------------|------------|
-| 📗 Basics       | Sketching, extrusion, holes, and parametric constraints |
-| 🧩 Assemblies   | Assembly design and constraint conditions |
-| 📄 Drawings     | Orthographic projections, dimensioning, and PDF export |
-| 🤖 Enclosure PoC | Gimbal-based frame design for intelligent control systems (FSM×PID×LLM)
+📎 Also see: [➕ Edusemi-Plus – Geopolitical & Industry Applications](https://samizo-aitl.github.io/Edusemi-Plus/)
 
 ---
 
-## 🤖 AITL-H — Hybrid Intelligent Control Architecture
+## 🎛️ EduController｜Control Theory + AI Control Framework
 
-**AITL-H (All-in-Theory Logic - Hybrid)** proposes a 3-layer intelligent control model for robotics and adaptive systems:
+A Python-based curriculum to learn from classical control (PID, state-space) to AI-based techniques like neural nets, RL, and LLM integration.
 
-- 🧠 FSM = Instinct (discrete state logic)  
-- 🎯 PID = Rational control (physics-based feedback)  
-- 💬 LLM = Intelligence (language-guided intent estimation)
+▶︎ [EduController Site](https://samizo-aitl.github.io/EduController/)  
+▶︎ [EduController GitHub](https://github.com/Samizo-AITL/EduController)
 
-▶︎ [AITL-H Project Overview](https://samizo-aitl.github.io/AITL-H/)
-▶︎ [AITL-H GitHub Repository](https://github.com/Samizo-AITL/AITL-H)  
-
-📎 For detailed implementation documentation (PoC), please refer to:  
-👉 [AITL-H PoC Manual (docs/)](https://samizo-aitl.github.io/AITL-H/docs/)
-
-This architecture targets applications in disaster response, elderly care, and self-adaptive learning.  
-Low-level SoC integration (RTL-to-GDSII) is covered in the **Edusemi v4.x Advanced Module**.
+| Domain | Topics |
+|--------|--------|
+| 🎓 Classical | PID, state-space, robust/digital control, implementation |
+| 🤖 AI-based  | NN control, RL, data-driven, LLM-integrated controllers |
 
 ---
 
-## 💰 AssetPortfolio — Investment Learning with ChatGPT
+## 🛠️ EduMecha｜Mechanical & Enclosure Design with Creo
 
-**AssetPortfolio** is a two-part learning guide for individual investors with a focus on technology sectors.  
-It integrates ChatGPT prompt templates and ETF-based strategies to build and maintain a personalized portfolio.
+A practical learning platform using **PTC Creo** for mechanical modeling,  
+assembly, and drawing generation. Linked to control projects (AITL-H).
 
-▶︎ [AssetPortfolio Website (GitHub Pages)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)  
-▶︎ [AssetPortfolio GitHub Repository](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)
+▶︎ [EduMecha Site](https://samizo-aitl.github.io/EduMecha/)  
+▶︎ [EduMecha GitHub](https://github.com/Samizo-AITL/EduMecha)
 
-| Part | Topics |
-|------|--------|
-| 📘 Part 1 | Investing fundamentals: NISA, brokers, portfolio setup, rebalancing |
-| 📊 Part 2 | Tech stock strategies: sector selection, ETF lookup, stock comparison |
-
-📎 Includes hands-on ChatGPT templates for asset design, stock research, and investment judgment.
+| Section | Highlights |
+|---------|------------|
+| 📗 Intro to Creo | Extrude, holes, constraints |
+| 🧩 Assemblies | Structure and constraint logic |
+| 📄 Drawings | Orthographic, dimensions, PDF output |
+| 🤖 Enclosure Design | Integrated AITL-H controller housing |
 
 ---
 
-## 🎮 Rekiden — ChatGPT-Driven Historical Simulation
+## 🤖 AITL-H｜Hybrid Intelligent Control Architecture
 
-**Rekiden** is a markdown-based simulation game where players assume the roles of historical figures in Japanese history.  
-Through conversation with ChatGPT, you make choices in scenarios like the Sengoku or Bakumatsu periods — exploring rich alternate histories.
+**AITL-H** is a multi-layered logic architecture combining:  
+- FSM (Instinct)  
+- PID (Rationality)  
+- LLM (Cognition)
 
-▶︎ [Rekiden README (English)](https://github.com/Samizo-AITL/Rekiden/blob/main/README_en.md)
+Built for applications like disaster response, assistive robotics, and adaptive control.  
+Connected with SoC design in Edusemi’s Special Volume.
 
-| Feature               | Description                                                                 |
-|------------------------|-----------------------------------------------------------------------------|
-| 🤖 ChatGPT Game Master | GPT acts as a dynamic storyteller and branching logic engine               |
-| 📄 Markdown Scenarios  | Transparent and editable scenario files                                     |
-| 🎓 Learning-Oriented   | Encourages historical thinking, diplomacy, and ethical reasoning            |
-| 🗺️ Globally Accessible  | All scenarios and logic will be available in English and Japanese          |
+▶︎ [AITL-H Site](https://samizo-aitl.github.io/AITL-H/)  
+▶︎ [AITL-H GitHub](https://github.com/Samizo-AITL/AITL-H)
+
+📎 PoC Guide: [AITL-H/docs](https://samizo-aitl.github.io/AITL-H/docs/)
+
+---
+
+## 🖨️ Inkjet｜Inkjet Printhead Technology Archive
+
+**Inkjet** provides structured comparison of printhead technologies from EPSON, Canon, Ricoh, Fujifilm, HP, and others—  
+covering structure, drive mechanism, ink compatibility, waveform design, ink flight visualization, and applications in 3D printing.
+
+▶︎ [Inkjet Site](https://samizo-aitl.github.io/Inkjet/)  
+▶︎ [Inkjet GitHub](https://github.com/Samizo-AITL/Inkjet)
+
+| Domain        | Topics |
+|---------------|--------|
+| 📂 makers/     | Structural comparison across companies |
+| 📑 comparison/ | Drive methods (thermal vs piezo), ink types, applications |
+| 🧪 tools/      | Waveform control, droplet analysis, nozzle observation |
+| 🧱 3d_printing/| AM applications, material compatibility, use cases |
+
+> 🔒 EPSON-specific internal structures are separately maintained in `Private/Epson/`.
+
+---
+
+## 💰 AssetPortfolio｜Investment Education for the Tech Era
+
+**AssetPortfolio-StartGuide** helps tech-aware learners plan asset management using ETFs, NISA, and ChatGPT-based analysis.
+
+▶︎ [AssetPortfolio Site](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)  
+▶︎ [AssetPortfolio GitHub](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)
+
+| Part   | Topics |
+|--------|--------|
+| 📗 Part 1 | NISA basics, account setup, product selection |
+| 📘 Part 2 | Tech ETF analysis, comparison via ChatGPT |
+| 🧠 Tools | Prompt templates for real-world decision making |
+
+---
+
+## 🎮 Rekiden｜ChatGPT-powered Historical Simulation
+
+**Rekiden** is a Markdown-based role-playing game powered by ChatGPT.  
+Players become warlords across historical turning points in Japan.
+
+▶︎ [Rekiden Site](https://samizo-aitl.github.io/Rekiden/)  
+▶︎ [Rekiden GitHub](https://github.com/Samizo-AITL/Rekiden/)
+
+| Feature     | Description |
+|-------------|-------------|
+| 🤖 ChatGPT Game Master | Dynamically generates story and decision trees |
+| 📄 Markdown Format     | Fully editable and transparent |
+| 🎓 Educational Design  | Learn diplomacy, strategy, and historical logic |
+| 🌍 English-ready       | International README and localization support |
 
 ---
 
 ## 📫 Contact
 
-**Author / Supervisor**: Shinichi Samizo  
+Project author: **Shinichi Samizo**  
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
-> 🧠 ChatGPT Utilization Level: Lv.5 (Support AI Architect)  
-> 👉 [▶ View the full diagnosis sheet](/docs/_chatgpt-skill-eval-en.md)
+> 🧠 ChatGPT Skill Level: Lv.5 (AI-Aided Developer)  
+> 👉 [Japanese Skill Sheet](/docs/_chatgpt-skill-eval.md) / [English Version](/docs/_chatgpt-skill-eval-en.md)
 
 ---
 
-## 🤝 For OpenAI Team and Educators
+## 🤝 For OpenAI Team
 
-This portfolio site was built using ChatGPT and showcases structured educational projects across semiconductors, control theory, AI integration, and investing.  
-I'm open to collaboration opportunities, technical feedback, or educational outreach discussions related to OpenAI tools.
+This portfolio showcases AI-assisted development and educational projects built with ChatGPT.  
+I welcome collaboration ideas or discussion around global education integration with OpenAI’s ecosystem.
 
-👉 Contact: shin3t72@gmail.com (Shinichi Samizo)  
-👉 If you're viewing this via the OpenAI support thread, thank you for your time and interest!
+> 📩 Contact: shin3t72@gmail.com (Shinichi Samizo)  
+> Or via the OpenAI support team if you accessed this via internal channels.
 
 ---
 
 ## 📄 License
 
 © 2025 Shinichi Samizo — MIT License  
-All materials, designs, diagrams, and prompts on this site are freely reusable under the **MIT License**.
+All materials, prompts, and designs are licensed under **MIT** and can be freely reused.
 
 ---
 
 ## 🕘 Update Log
 
-| Date | Update |
-|------|--------|
-| 2025-07-17 | Added SemiTechBot section (Semiconductor Technical Chatbot) under SamizoGPT |
-| 2025-07-15 | Added EduMecha (Creo Mechanical Design Curriculum) |
-| 2025-07-15 | Added AssetPortfolio (Technology Investment Education) |
-| 2025-07-12 | Added SamizoGPT section to top page |
-| 2025-07-11 | Updated Rekiden links to Japanese README |
-| 2025-07-10 | Added EduController section (Control + AI Curriculum) |
-| 2025-07-10 | Rekiden localization (Japanese README) |
-| 2025-07-08 | AITL-H PoC-focused restructure |
-| 2025-07-07 | Edusemi portal restructured |
-| 2025-07-01 | Initial site release |
+| Date       | Update |
+|------------|--------|
+| 2025-07-18 | Added Inkjet archive to portfolio |
+| 2025-07-17 | Added SemiTechBot section under SamizoGPT |
+| 2025-07-15 | Added EduMecha (Mechanical CAD + Creo) |
+| 2025-07-15 | Added AssetPortfolio (Investment education) |
+| 2025-07-12 | Added SamizoGPT to top page |
+| 2025-07-11 | Localized Rekiden references to Japanese |
+| 2025-07-10 | Added EduController (Control + AI) |
+| 2025-07-10 | Localized Rekiden for domestic release |
+| 2025-07-08 | Unified AITL-H structure (FSM×PID×LLM) |
+| 2025-07-07 | Refactored Edusemi for new portal format |
+| 2025-07-01 | Initial portfolio release |
 
 ---
 
-💬 [Submit feedback here](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
+💬 [Leave feedback on this portfolio](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
 
 ---
