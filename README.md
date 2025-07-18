@@ -35,7 +35,7 @@ ChatGPTを用いた**プロンプトテンプレート設計・プロジェク�
 ### 📡 SemiTechBot｜半導体技術支援チャットボット  
 ChatGPT API × Flask構成の**半導体QA支援Bot**。プロセス・テスト・不良解析まで幅広くカバー。
 
-▶︎ [GitHub](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)
+▶︎ [GitHub](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)｜[Site](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)
 
 ---
 
@@ -91,7 +91,8 @@ NISA・ETFから、テック株分析・リバランス戦略まで。**初心�
 ### 🎮 Rekiden｜歴史シミュレーション教材  
 選択分岐型Markdownシナリオによる**歴史学習用シミュレーションゲーム教材**。ChatGPTとの連携対応。
 
-▶︎ [GitHub](https://github.com/Samizo-AITL/Rekiden)
+▶︎ [GitHub](https://github.com/Samizo-AITL/Rekiden)｜[Site](https://samizo-aitl.github.io/Rekiden/)
+
 
 ---
 
