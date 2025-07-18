@@ -4,6 +4,7 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 本リポジトリは、三溝真一による以下のプロジェクト群を統合した技術ポータルを提供します：
 
 - 🧠 SamizoGPT（プロンプト設計・ChatGPT活用支援）
+- 📡 SemiTechBot（半導体技術支援チャットボット）
 - 📘 Edusemi v4.x（半導体教育教材）
 - 🎛️ EduController（制御理論＋AI制御教材）
 - 🛠️ EduMecha（機械設計・筐体設計＋Creo演習教材）
@@ -11,7 +12,6 @@ This repository hosts the GitHub Pages portal for seven key educational and rese
 - 🖨️ Inkjet（インクジェット技術アーカイブ）
 - 💰 AssetPortfolio（テクノロジー資産運用教材） 
 - 🎮 Rekiden（歴史シミュレーションゲーム）
-- 📡 SemiTechBot（半導体技術支援チャットボット）
 
 ---
 
