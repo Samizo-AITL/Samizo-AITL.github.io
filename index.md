@@ -178,7 +178,7 @@ NISA・ETF・ChatGPTを活用して、投資初心者でも「自分で考え、
 技術監修・執筆：**三溝 真一（Shinichi Samizo）**  
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
-> 🧠 ChatGPT活用レベル：Lv4.5〜5 
+> 🧠 ChatGPT活用レベル：Lv4.5〜5.0
 > 👉 [▶ 日本語版診断シート](/docs/_chatgpt-skill-eval.md) / [English version](/docs/_chatgpt-skill-eval-en.md)
 
 ---
