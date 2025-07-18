@@ -1,7 +1,7 @@
 # 🧠 Samizo-AITL Portal
 
-This repository hosts the GitHub Pages portal for seven key educational and research projects by **Shinichi Samizo**.  
-本リポジトリは、三溝真一による以下のプロジェクト群を統合した技術ポータルを提供します：
+このリポジトリは、三溝真一（Shinichi Samizo）による**教育・技術アーカイブの統合ポータル**です。  
+ChatGPT・半導体・制御理論・機械設計・資産運用・歴史教材など、10本以上のプロジェクトを相互に連携させ、技術と教育の接点を多面的に提示します。
 
 - 🧠 SamizoGPT（プロンプト設計・ChatGPT活用支援）
 - 📡 SemiTechBot（半導体技術支援チャットボット）
@@ -99,3 +99,5 @@ NISA・ETFから、テック株分析・リバランス戦略まで。**初心�
 
 © 2025 [Shinichi Samizo](https://github.com/Samizo-AITL) — MIT License  
 すべての教材・構成図・プロンプト類は**MITライセンス**のもと、教育・研究・創作用途に自由に再利用できます。
+
+---
