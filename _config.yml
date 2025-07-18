@@ -3,7 +3,25 @@ description: Technical Portfolio by Shinichi Samizo
 theme: minima
 lang: ja
 
+# ✅ 手動ナビゲーション設定（自動リンクを抑制）
 header_pages:
   - index.md
+  - en/index.md
 
+# ✅ 投稿記事の概要など不要な表示を抑制（minimaの仕様対策）
 show_excerpts: false
+
+# ✅ ナビゲーションや構造が崩れないように明示的に除外（必要なら）
+# exclude:
+#   - README.md
+#   - LICENSE
+#   - docs/
+
+# ✅ GitHub Pagesでは以下を有効にすることで Jekyll を正しく動作させる
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# ✅ サイトのメタ情報（検索エンジンなど向け）を将来的に追加する場合
+# url: "https://samizo-aitl.github.io"
+# baseurl: ""
