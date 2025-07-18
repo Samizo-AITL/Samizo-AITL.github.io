@@ -176,8 +176,19 @@ NISA・ETF・ChatGPTを活用して、投資初心者でも「自分で考え、
 ## 📫 連絡先 / Contact
 
 技術監修・執筆：**三溝 真一（Shinichi Samizo）**  
-- GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
-- Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
+
+- 信州大学大学院電気電子工学修士課程修了
+- 元 セイコーエプソン株式会社 技術者（1997年〜）  
+
+**経験領域**：
+- 半導体デバイス開発・製品化
+ > 0.35-0.18umロジック及び高耐圧混載、0.35-0.25umDRAM
+- 薄膜ピエゾアクチュエータ開発
+- PrecisionCoreプリントヘッド製品化
+
+📫 [GitHub: Samizo-AITL](https://github.com/Samizo-AITL)  
+📩 Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
+
 > 🧠 ChatGPT活用レベル：Lv4.5〜5.0
 > 👉 [▶ 日本語版診断シート](/docs/_chatgpt-skill-eval.md) / [English version](/docs/_chatgpt-skill-eval-en.md)
 
