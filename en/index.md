@@ -170,7 +170,7 @@ Players become warlords across historical turning points in Japan.
 Project author: **Shinichi Samizo**  
 - GitHub: [@Samizo-AITL](https://github.com/Samizo-AITL)  
 - Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
-> 🧠 ChatGPT Skill Level: Lv.5 (AI-Aided Developer)  
+> 🧠 ChatGPT Skill Level: Lv4.5〜5.0 
 > 👉 [Japanese Skill Sheet](/docs/_chatgpt-skill-eval.md) / [English Version](/docs/_chatgpt-skill-eval-en.md)
 
 ---
