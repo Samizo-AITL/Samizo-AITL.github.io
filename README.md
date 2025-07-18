@@ -56,7 +56,7 @@ ChatGPT API × Flask構成の**半導体QA支援Bot**。プロセス・テスト
 ### 🎛️ EduController｜制御理論＋AI制御教材  
 古典制御から強化学習・LLM統合制御まで、**9章構成で学ぶAI制御教材**。Python演習つき。
 
-▶︎ [GitHub](https://github.com/Samizo-AITL/EduController)
+▶︎ [GitHub](https://github.com/Samizo-AITL/EduController)｜[Site](https://samizo-aitl.github.io/EduController/)
 
 ---
 
