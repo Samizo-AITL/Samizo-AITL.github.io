@@ -1,4 +1,4 @@
-🧠 Technical Portfolio by Shinichi Samizo
+# 🧠 Technical Portfolio by Shinichi Samizo
 
 本サイトは、**三溝真一（Shinichi Samizo）** による教育・研究開発プロジェクト群を統合した  
 公式 GitHubポータルサイトです：
@@ -24,20 +24,20 @@
 
 - **半導体 × 制御理論 × 機械設計 × AI × 教育技術**
 - ChatGPT / LLMとの連携による「設計・教育・意思決定支援」の実践
-- 技術ドキュメント・教材・PoC構成を**MITライセンス**で公開
+- 技術ドキュメント・教材・PoC構成を **MITライセンス** で自由公開
 
 ---
 
 ## 🔍 各プロジェクトの詳細
 
-各プロジェクトの構成・テンプレート・演習例などは、各リンク先のREADMEをご参照ください。
+各プロジェクトの構成・テンプレート・演習例などは、各リンク先の README に記載されています。
 
-特に以下は、設計思想やLLM活用構成において中心的な役割を持ちます：
+特に以下は、設計思想・LLM活用・統合制御構成において中核的な役割を担います：
 
-- 📘 [Edusemi](https://samizo-aitl.github.io/Edusemi-v4x/)：半導体基礎から応用・PoC評価までを網羅
-- 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/)：FSM×PID×LLM統合アーキテクチャとPoC構成
+- 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/)：半導体基礎から応用・PoC評価までを網羅  
+- 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/)：FSM×PID×LLMによる知能制御アーキテクチャと実装構成  
 
-> 💡 Edusemi-Plusでは、地政学・TSMC戦略・Apple Silicon・AIアクセラレータ等も扱います。
+> 💡 [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) では、地政学・TSMC戦略・Apple Silicon・AIアクセラレータなどの応用的観点も展開しています。
 
 ---
 
@@ -46,8 +46,8 @@
 | 項目 | 内容 |
 |------|------|
 | 🕘 [更新履歴](./about/update.md) | プロジェクト・構成・構造更新の履歴 |
-| 🧠 [ChatGPT活用レベル診断](./about/_chatgpt-skill-eval.md) | 作成者によるLLM活用レベルの自己評価（Lv4.5〜5.0） |
-| 🌐 [English version](./en/index.md) | 英語版ポートフォリオページはこちら |
+| 🧠 [ChatGPT活用レベル診断（確定版）](./about/chatgpt-skill-eval.md) | 作成者によるLLM活用評価（Lv4.5〜5.0） |
+| 🌐 [English Version](./en/index.md) | 英語版ポートフォリオページはこちら |
 
 ---
 
@@ -58,9 +58,9 @@
 - 元 セイコーエプソン株式会社 技術者（1997年〜）  
 
 **経験分野**：  
-- 半導体デバイス（ロジック/DRAM/高耐圧混載）
-- 薄膜ピエゾアクチュエータ
-- PrecisionCoreヘッド製品化／教育
+- 半導体デバイス（ロジック／DRAM／高耐圧混載）  
+- 薄膜ピエゾアクチュエータ設計・信頼性解析  
+- PrecisionCoreプリントヘッド製品化・構成管理・教育訓練
 
 📩 Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
 🔗 GitHub: [Samizo-AITL](https://github.com/Samizo-AITL)
