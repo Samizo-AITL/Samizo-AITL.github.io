@@ -45,7 +45,7 @@ The following are particularly central to the portfolio’s vision:
 | Item | Description |
 |------|-------------|
 | 🕘 [Update Log](../about/update-en.md) | History of project and documentation updates |
-| 🧠 [ChatGPT Skill Assessment (Lv4.5–5.0)](../about/chatgpt-skill-eval-en.md) | Confirmed level of LLM utilization by author |
+| 🧠 [ChatGPT Skill Assessment (Lv.5)](../about/chatgpt-skill-eval-en.md) | Confirmed level of LLM utilization by author |
 | 🏠 [日本語版はこちら (Japanese Version)](../index.md) | 日本語ポートフォリオページはこちらからどうぞ |
 
 ---
