@@ -3,7 +3,7 @@
 本サイトは、**三溝真一（Shinichi Samizo）** による教育・研究開発プロジェクト群を統合した  
 公式 GitHubポータルサイトです：
 
-🌐 [English Version](./en/index.md) | 英語版ポートフォリオページはこちら
+🌐 [English Version](./en/index.md)  英語版ポートフォリオページはこちら
 
 
 | プロジェクト名 | 内容とリンク |
