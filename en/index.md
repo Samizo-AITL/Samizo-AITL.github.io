@@ -12,8 +12,8 @@ showcasing his integrated educational and research projects.
 | 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) | Control theory to AI-based control (Python-based textbook) |
 | 🛠️ [EduMecha](https://samizo-aitl.github.io/EduMecha/) | Mechanical design & casing with PTC Creo |
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | Hybrid intelligent control: FSM × PID × LLM  
-↳ 📘 [PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/): Design guide for integrated control  
-↳ ⚙️ [Verilog Auto-Generation PoC](https://samizo-aitl.github.io/AITL-H/PoC/verilog_demo/): YAML → C → Verilog via ChatGPT |
+↳ 📘 [PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/) | Design guide for integrated control  
+↳ ⚙️ [Verilog Auto-Generation PoC](https://samizo-aitl.github.io/AITL-H/PoC/verilog_demo/) | YAML → C → Verilog via ChatGPT |
 | 🖨️ [Inkjet](https://samizo-aitl.github.io/Inkjet/) | Technical archive on inkjet head structures and evaluation |
 | 💰 [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | Investment learning with a focus on technology sectors |
 | 🎮 [Rekiden](https://samizo-aitl.github.io/Rekiden/) | ChatGPT-powered historical simulation learning game |
