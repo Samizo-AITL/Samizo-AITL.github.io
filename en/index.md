@@ -3,6 +3,8 @@
 This is the official GitHub portfolio site of **Shinichi Samizo**,  
 showcasing his integrated educational and research projects.
 
+🏠 [日本語版はこちら (Japanese Version)](../index.md)  日本語ポートフォリオページはこちらからどうぞ 
+
 | Project | Description & Links |
 |---------|----------------------|
 | 🧠 [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | Framework for ChatGPT prompt design and project planning support |
