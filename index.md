@@ -1,4 +1,4 @@
-🧠 Technical Portfolio by Shinichi Samizo
+🧠 **Technical Portfolio by Shinichi Samizo**
 
 本サイトは、**三溝真一（Shinichi Samizo）** による教育・研究開発プロジェクト群を統合した  
 公式 GitHubポータルサイトです：
