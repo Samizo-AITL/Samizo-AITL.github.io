@@ -58,9 +58,9 @@
 - 元 セイコーエプソン株式会社 技術者（1997年〜）  
 
 **経験分野**：  
-- 半導体デバイス（ロジック／DRAM／高耐圧混載）  
-- 薄膜ピエゾアクチュエータ設計・信頼性解析  
-- PrecisionCoreプリントヘッド製品化・構成管理・教育訓練
+- 半導体デバイス（ロジック／メモリ／高耐圧混載）  
+- 薄膜ピエゾアクチュエータ
+- PrecisionCoreプリントヘッド製品化
 
 📩 Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
 🔗 GitHub: [Samizo-AITL](https://github.com/Samizo-AITL)
