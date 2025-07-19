@@ -1,4 +1,4 @@
-🧠 Technical Portfolio by Shinichi Samizo
+# 🧠 Technical Portfolio by Shinichi Samizo
 
 This is the official GitHub portfolio site of **Shinichi Samizo**,  
 showcasing his integrated educational and research projects.
