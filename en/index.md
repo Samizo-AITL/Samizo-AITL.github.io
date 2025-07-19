@@ -51,7 +51,9 @@ The following are particularly central to the portfolio’s vision:
 |------|-------------|
 | 🕘 [Update Log](../about/update-en.md) | History of project and documentation updates |
 | 🧠 [ChatGPT Skill Assessment (Lv.5)](../about/chatgpt-skill-eval-en.md) | Confirmed level of LLM utilization by author |
-| 📋 [Gemini Review (Full)](../about/en/gemini-review.md) | In-depth evaluation by the Gemini AI tool |
+| 📋 [Gemini Review (Full)](../about/en/
+
+gemini-review-en.md) | In-depth evaluation by the Gemini AI tool |
 | 🏠 [日本語版はこちら (Japanese Version)](../index.md) | 日本語ポートフォリオページはこちらからどうぞ |
 
 ---
