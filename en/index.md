@@ -8,7 +8,7 @@ showcasing his integrated educational and research projects.
 | Project | Description & Links |
 |---------|----------------------|
 | 🧠 [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | Framework for ChatGPT prompt design and project planning support |
-| 📡 [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot) | Semiconductor technical support chatbot (based on SamizoGPT) |
+| 📡 [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | Semiconductor technical support chatbot (based on SamizoGPT) |
 | 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | Semiconductor education materials (MOS, design, test, PDK) |
 | ➕ [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | Advanced topics: geopolitics, product strategies, AI/quantum technologies |
 | 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) | Control theory to AI-based control (Python-based textbook) |
