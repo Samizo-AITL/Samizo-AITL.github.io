@@ -62,8 +62,8 @@
 - 薄膜ピエゾアクチュエータ
 - PrecisionCoreプリントヘッド製品化
 
-📩 Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
-🔗 GitHub: [Samizo-AITL](https://github.com/Samizo-AITL)
+📫 [GitHub: Samizo-AITL](https://github.com/Samizo-AITL)  
+📩 Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
 
 ---
 
