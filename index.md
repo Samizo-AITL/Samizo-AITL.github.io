@@ -1,4 +1,4 @@
-🧠 Technical Portfolio by Shinichi Samizo
+# 🧠 Technical Portfolio by Shinichi Samizo
 
 本サイトは、**三溝真一（Shinichi Samizo）** による教育・研究開発プロジェクト群を統合した  
 公式 GitHubポータルサイトです：
@@ -11,7 +11,7 @@
 | ➕ [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | 地政学・製品戦略・AI/量子技術等の応用教材群 |
 | 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) | 制御理論〜AI制御教材（Pythonベース） |
 | 🛠️ [EduMecha](https://samizo-aitl.github.io/EduMecha/) | Creoを用いた機械設計・筐体設計教材 |
-| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | FSM×PID×LLMによる知能制御アーキテクチャ<br>📘 [PoCマニュアルはこちら](https://samizo-aitl.github.io/AITL-H/docs/) |
+| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | FSM×PID×LLMによる知能制御アーキテクチャ<br>📘 [PoCマニュアルはこちら](https://samizo-aitl.github.io/AITL-H/docs/)<br>⚙️ [Verilog自動生成PoC](https://samizo-aitl.github.io/AITL-H/PoC/verilog_demo/) |
 | 🖨️ [Inkjet](https://samizo-aitl.github.io/Inkjet/) | インクジェット構造・評価技術の技術アーカイブ |
 | 💰 [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | テクノロジー分野に注目した資産運用教材 |
 | 🎮 [Rekiden](https://samizo-aitl.github.io/Rekiden/) | ChatGPT連携型・歴史シミュレーション教材 |
@@ -36,6 +36,7 @@
 
 - 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/)：半導体基礎から応用・PoC評価までを網羅  
 - 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/)：FSM×PID×LLMによる知能制御アーキテクチャと実装構成  
+  ↳ ⚙️ [Verilog自動生成PoC](https://samizo-aitl.github.io/AITL-H/PoC/verilog_demo/) では、Cコード・YAML定義からのハードウェア記述自動化を実証済
 
 > 💡 [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) では、地政学・TSMC戦略・Apple Silicon・AIアクセラレータなどの応用的観点も展開しています。
 
@@ -59,12 +60,13 @@
 
 📌 **経験領域**：  
 - 半導体デバイス（ロジック／メモリ／高耐圧混載）  
-- 薄膜ピエゾアクチュエータ
-- PrecisionCoreプリントヘッド製品化
+- 薄膜ピエゾアクチュエータ  
+- PrecisionCoreプリントヘッド製品化・構成管理・教育設計
 
 📫 [GitHub: Samizo-AITL](https://github.com/Samizo-AITL)  
 📩 Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
 
 ---
 
-
+© 2025 Shinichi Samizo — MIT License  
+教材・ソースコード・構造図等はMITライセンスにて自由に利用可能です。
