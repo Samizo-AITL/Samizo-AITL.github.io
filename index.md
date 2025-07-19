@@ -72,3 +72,5 @@
 
 © 2025 Shinichi Samizo — MIT License  
 教材・ソースコード・構造図等はMITライセンスにて自由に利用可能です。
+
+---
