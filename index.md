@@ -50,6 +50,7 @@
 |------|------|
 | 🕘 [更新履歴](./about/update.md) | プロジェクト・構成・構造更新の履歴 |
 | 🧠 [ChatGPT活用レベル診断（確定版）](./about/chatgpt-skill-eval.md) | 作成者によるLLM活用評価（Lv5） |
+| 📋 [Geminiによる評価（全文）](./about/gemini-review.md) | AIツール（Gemini）による技術ポートフォリオの詳細評価 |
 | 🌐 [English Version](./en/index.md) | 英語版ポートフォリオページはこちら |
 
 ---
