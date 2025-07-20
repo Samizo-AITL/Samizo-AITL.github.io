@@ -5,6 +5,7 @@ including GitHub Pages site updates, new materials, structural revisions, and RE
 
 | Date       | Description                                                                 |
 |------------|-----------------------------------------------------------------------------|
+| 2025-07-20 | Added "AITL-Strategy-Proposal" repository for national strategy proposal    |
 | 2025-07-19 | Added Edusemi-Plus section to portfolio / reorganized `index.md`            |
 | 2025-07-18 | Added Inkjet (Inkjet Technology Archive) section to portfolio               |
 | 2025-07-17 | Added SemiTechBot (Semiconductor Tech Chatbot) inside SamizoGPT             |
