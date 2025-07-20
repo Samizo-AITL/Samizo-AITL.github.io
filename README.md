@@ -6,7 +6,7 @@ ChatGPT・半導体・制御理論・機械設計・資産運用・歴史教材�
 - 🧠 SamizoGPT（プロンプト設計・ChatGPT活用支援）
 - 📡 SemiTechBot（半導体技術支援チャットボット）
 - 📘 Edusemi v4.x（半導体教育教材）
-- ➕ Edusemi-Plus（半導体応用教材・地政学／産業構造）
+- ➕ Edusemi-Plus（半導体応用教材）
 - 🎛️ EduController（制御理論＋AI制御教材）
 - 🛠️ EduMecha（機械設計・筐体設計＋Creo演習教材）
 - 🤖 AITL-H（ハイブリッド知能制御フレームワーク）
@@ -39,7 +39,7 @@ ChatGPT API × Flask構成の**半導体QA支援Bot**。プロセス・テスト
 ▶︎ [GitHub](https://github.com/Samizo-AITL/Edusemi-v4x)｜[Site](https://samizo-aitl.github.io/Edusemi-v4x/)
 
 ### ➕ Edusemi-Plus｜半導体応用教材（地政学・産業戦略）  
-地政学・Apple Silicon・AI半導体・投資戦略など、**技術と産業の接点を探究する教材**。  
+材料・先端技術・AI・産業・地政学・投資の半導体応用教材、**技術と産業の接点を探究する教材**。  
 ▶︎ [GitHub](https://github.com/Samizo-AITL/Edusemi-Plus)｜[Site](https://samizo-aitl.github.io/Edusemi-Plus/)
 
 ### 🎛️ EduController｜制御理論＋AI制御教材  
