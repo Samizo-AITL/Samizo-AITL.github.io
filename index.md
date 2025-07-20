@@ -42,7 +42,7 @@
 |-------------|----------|
 | 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | 半導体技術の設計・テスト・PoC評価までを網羅 |
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | FSM（本能）＋PID（理性）＋LLM（知性）の三層制御構成 |
-| ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | 材料・先端技術・AI・産業・地政学・投資の応用教材 |
+| ➕ [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | 材料・先端技術・AI・産業・地政学・投資の半導体応用教材 |
 
 ---
 
