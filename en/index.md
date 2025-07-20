@@ -1,4 +1,4 @@
-# 🧠 Technical Portfolio by Shinichi Samizo
+🧠 **Technical Portfolio by Shinichi Samizo**
 
 This is the official GitHub Pages site of **Shinichi Samizo**, showcasing his educational and technical development projects.  
 From ChatGPT prompt frameworks and semiconductor design to control theory, mechanical design, and historical simulations, over 10 interconnected projects are presented to explore the integration of technology and education.
