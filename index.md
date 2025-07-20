@@ -48,8 +48,14 @@
 
 ## 🔗 提案・技術連携について
 
-- 🧩 [国家提言：AITL構想](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)
-- 🤝 [OpenAI向けメッセージ](./about/openai-message.md)
+> 本ポータルで展開する技術・教材構想は、実務現場・教育現場への展開を視野に設計されています。  
+> 以下のリンクでは、政策提言およびLLM技術連携の可能性を示しています。
+
+- 🧩 [国家提言：AITL構想](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)  
+　教育・AI・制御を統合した中長期ビジョンに基づく産業政策レベルでの提案
+
+- 🤝 [OpenAI向けメッセージ](./about/openai-message.md)  
+　ChatGPT統合設計（SamizoGPT/AITL-H等）の活用事例と技術協働の可能性について
 
 ---
 
