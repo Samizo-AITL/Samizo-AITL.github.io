@@ -11,8 +11,7 @@ From ChatGPT prompt frameworks and semiconductor design to control theory, mecha
 | ➕ [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | Advanced content: geopolitics, Apple Silicon, AI, quantum, etc. |
 | 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) | AI control and theory training from PID to LLM-integrated control |
 | 🛠️ [EduMecha](https://samizo-aitl.github.io/EduMecha/) | Mechanical and enclosure design training using Creo |
-| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | Intelligent control architecture based on FSM×PID×LLM  
-📘 [PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)｜⚙️ [Verilog Auto Generator](https://samizo-aitl.github.io/AITL-H/PoC/verilog_demo/) |
+| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | Intelligent control architecture based on FSM×PID×LLM. Includes [PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/) and [Verilog Auto Generator](https://samizo-aitl.github.io/AITL-H/PoC/verilog_demo/). |
 | 🖨️ [Inkjet](https://samizo-aitl.github.io/Inkjet/) | Structural archive on inkjet technology, especially PrecisionCore |
 | 💰 [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | Introductory tech-focused personal finance and investment guide |
 | 🎮 [Rekiden](https://samizo-aitl.github.io/Rekiden/) | Historical simulation game for learning via branching Markdown stories |
