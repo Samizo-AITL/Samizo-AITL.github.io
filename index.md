@@ -43,7 +43,13 @@
 | 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | 半導体技術の設計・テスト・PoC評価までを網羅 |
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | FSM（本能）＋PID（理性）＋LLM（知性）の三層制御構成 |
 | ➕ [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | TSMC戦略・AIアクセラレータ・Apple Siliconの応用教材展開 |
-| 🧩 [AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/) | 上記教材群を基にした国家戦略レベルでの教育・産業提言 |
+
+---
+
+## 🔗 提案・技術連携について
+
+- 🧩 [国家提言：AITL構想](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)
+- 🤝 [OpenAI向けメッセージ](./about/openai-message.md)
 
 ---
 
