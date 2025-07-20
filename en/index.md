@@ -1,79 +1,90 @@
 🧠 **Technical Portfolio by Shinichi Samizo**
 
-This is the official GitHub Pages site of **Shinichi Samizo**, showcasing his educational and technical development projects.  
-From ChatGPT prompt frameworks and semiconductor design to control theory, mechanical design, and historical simulations, over 10 interconnected projects are presented to explore the integration of technology and education.
+This is the integrated project portal of **Shinichi Samizo**, showcasing a range of educational and research-oriented initiatives.
+
+> 🌐 [日本語版はこちら](../index.md)
+
+---
+
+## 🔍 Projects Overview
+
+| Icon | Project Name | Description |
+|------|--------------|-------------|
+| 🧠 | [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | A template engine for ChatGPT prompt design and project structuring |
+| 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | A semiconductor technology chatbot powered by SamizoGPT |
+| 📘 | [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | A structured semiconductor curriculum: MOS design, test, and PDK exercises |
+| ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | Extended curriculum on geopolitics, TSMC, AI/quantum, and tech investment |
+| 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | Control theory + AI control (from PID to reinforcement learning and LLM) |
+| 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | Mechanical design and enclosure modeling using Creo |
+| 🤖 | [AITL-H](https://samizo-aitl.github.io/AITL-H/) | An intelligent control architecture using FSM × PID × LLM |
+| 🖨️ | [Inkjet](https://samizo-aitl.github.io/Inkjet/) | Archive of inkjet head structures, waveform control, and evaluations |
+| 💰 | [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | Investment learning for engineers, focusing on ETF and NISA strategies |
+| 🎮 | [Rekiden](https://samizo-aitl.github.io/Rekiden/) | Historical simulation education powered by ChatGPT |
+| 🧩 | [AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/) | A policy proposal based on the AITL concept (Education × AI × Control) |
+
+---
+
+## 🧩 Design Intent and Integration Philosophy
+
+This portal aims to embody a **cross-disciplinary integration architecture**, combining:
+
+- Semiconductor technology × Control theory × Mechanical design × AI × Educational technology  
+- Support for design, learning, and implementation through ChatGPT/LLM integration  
+- All materials, PoC frameworks, and templates are provided under the MIT License
+
+> 💡 [Edusemi](https://samizo-aitl.github.io/Edusemi-v4x/) serves as the core curriculum based on real-world experience.
+
+---
+
+## 📘 Core Project Focus
 
 | Project | Description |
 |---------|-------------|
-| 🧠 [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | Prompt design framework and project support using ChatGPT |
-| 📡 [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | Semiconductor technical chatbot based on SamizoGPT |
-| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | Foundational learning materials for semiconductor development |
-| ➕ [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | Advanced content: geopolitics, Apple Silicon, AI, quantum, etc. |
-| 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) | AI control and theory training from PID to LLM-integrated control |
-| 🛠️ [EduMecha](https://samizo-aitl.github.io/EduMecha/) | Mechanical and enclosure design training using Creo |
-| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | Intelligent control architecture based on FSM×PID×LLM. Includes [PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/) and [Verilog Auto Generator](https://samizo-aitl.github.io/AITL-H/PoC/verilog_demo/). |
-| 🖨️ [Inkjet](https://samizo-aitl.github.io/Inkjet/) | Structural archive on inkjet technology, especially PrecisionCore |
-| 💰 [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | Introductory tech-focused personal finance and investment guide |
-| 🎮 [Rekiden](https://samizo-aitl.github.io/Rekiden/) | Historical simulation game for learning via branching Markdown stories |
+| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | Covers design, testing, and PoC evaluation in semiconductor technology |
+| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | A layered control model: FSM (instinct) + PID (reason) + LLM (intelligence) |
+| ➕ [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | Applications in TSMC strategy, AI accelerators, and Apple Silicon |
 
 ---
 
-## 🧩 Integration Policy
+## 🔗 Proposals and Collaboration
 
-This portfolio aims to bridge multiple technical domains:
+> The technologies and educational frameworks in this portal are designed for real-world implementation in both industry and academia.  
+> The following links outline policy-level proposals and opportunities for LLM-based technical collaboration.
 
-- **Semiconductor × Control × Mechanical × AI × Educational Technology**
-- Practical support using ChatGPT and LLMs in education, design, and development
-- All content is licensed under **MIT** for open, educational, and non-commercial reuse
+- 🧩 [Policy Proposal: AITL Strategy](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)  
+  A mid-to-long-term industrial vision integrating Education, AI, and Control Systems
 
----
-
-## 🔍 Project Highlights
-
-Key architectural and AI-integrated educational concepts include:
-
-- 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/): From fundamentals to PoC implementation in semiconductor design  
-- 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/): Multi-layer intelligent control architecture (instinct × reason × intelligence)  
-  ↳ ⚙️ [PoC: Verilog Generator](https://samizo-aitl.github.io/AITL-H/PoC/verilog_demo/) demonstrates FSM-to-HDL auto generation from YAML/C code
-
-> 💡 [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) also explores real-world applications like TSMC strategy, Apple Silicon, and AI chips.
+- 🤝 [Message to OpenAI](../about/openai-message-en.md)  
+  Use cases of GPT-integrated systems such as SamizoGPT and AITL-H, with potential for collaboration
 
 ---
 
-## 📄 Supplementary Pages
+## 📄 Resources and Updates
 
-| Section | Description |
-|---------|-------------|
-| 🕘 [Update Log](./about/en/update.md) | Update history of repositories and structures |
-| 🧠 [ChatGPT Usage Level Diagnosis](./about/en/chatgpt-skill-eval.md) | Self-evaluated GPT utilization score (Lv5) |
-| 📋 [Gemini Full Review](./about/en/gemini-review.md) | Portfolio analysis and feedback by Gemini |
-| 🇯🇵 [日本語ポータルはこちら](../index.md) | View Japanese version of this portfolio |
-
----
-
-## 📘 National Strategic Proposal
-
-📌 [AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)  
-A national policy proposal integrating AI × Control × Physical systems through the AITL (All-in-Theory Logic) concept.  
-Emphasizes education, local manufacturing, energy resilience, and global competitiveness.
+| Item | Description |
+|------|-------------|
+| 🕘 [Update Log](../about/update.md) | Change history for materials and structure |
+| 🧠 [ChatGPT Skill Assessment](../about/chatgpt-skill-eval.md) | Self-evaluation as a Level 5.0 LLM practitioner |
+| 📋 [Gemini Review](../about/gemini-review.md) | Full portfolio analysis by Google Gemini |
+| 🌐 [日本語ポータルはこちら](../index.md) | Japanese version of this site |
 
 ---
 
-## 📫 Contact
+## 👤 Author Profile
 
 **Shinichi Samizo**  
-- M.Eng. in Electrical and Electronic Engineering, Shinshu University  
-- Former engineer at Seiko Epson Corporation (1997–)
+- M.Eng., Electrical and Electronic Engineering, Shinshu University  
+- Former engineer at Seiko Epson Corporation (since 1997)
 
 📌 **Expertise**:  
 - Semiconductor devices (logic, memory, high-voltage integration)  
 - Thin-film piezo actuators  
-- PrecisionCore printhead development and configuration management
+- PrecisionCore printhead development, configuration management, and technical education
 
 📫 [GitHub: Samizo-AITL](https://github.com/Samizo-AITL)  
-📩 [Email](mailto:shin3t72@gmail.com)
+📩 Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
 
 ---
 
 © 2025 Shinichi Samizo — MIT License  
-All documents, source codes, and diagrams are licensed for free use under the MIT License.
+All materials, source code, illustrations, and templates are freely available under the MIT License.
