@@ -95,6 +95,6 @@ All materials including educational content, code, diagrams, and templates are f
 
 ### 🔧 Image: Integrated Technology Architecture (Realistic Version)
 
-![Integrated Technology Architecture](./images/technology_architecture_realistic_version.png)
+![Integrated Technology Architecture](../images/technology_architecture_realistic_version.png)
 
 ---
