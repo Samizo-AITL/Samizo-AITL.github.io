@@ -16,6 +16,7 @@
 | ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | 材料・先端技術・AI・産業・地政学・投資の半導体応用教材|
 | 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | 制御理論＋AI制御教材（PID〜強化学習・LLM統合） |
 | 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | Creoを用いた機械設計・筐体構造教材 |
+| 🧠 | [EduLms](https://samizo-aitl.github.io/EduLms/) | ISO品質・環境・教育訓練を統合した構造教材（LMS） |
 | 🤖 | [AITL-H](https://samizo-aitl.github.io/AITL-H/) | FSM×PID×LLMによる知能制御アーキテクチャ |
 | 🖨️ | [Inkjet](https://samizo-aitl.github.io/Inkjet/) | インクジェット構造・制御・評価アーカイブ |
 | 💰 | [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | テクノロジー分野特化の資産運用教材（ETF・NISA） |
