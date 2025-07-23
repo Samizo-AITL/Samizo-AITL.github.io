@@ -41,7 +41,7 @@
 
 | プロジェクト | 補足解説 |
 |-------------|----------|
-| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | 半導体技術のプロセス・デバイス・設計・テスト・PoC評価までを網羅 |
+| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | 半導体技術のプロセス・デバイス・設計・テスト・信頼性を体系的に網羅 |
  🎛️ [EduController](https://samizo-aitl.github.io/EduController/) | 制御理論からLLM統合・HDL設計までを網羅した9章構成教材。SoC DesignKitも内包 |
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | FSM（本能）＋PID（理性）＋LLM（知性）の三層制御構成 |
 
