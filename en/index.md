@@ -12,7 +12,7 @@ This is the integrated project portal of **Shinichi Samizo**, showcasing a range
 |------|--------------|-------------|
 | 🧠 | [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | A template engine for ChatGPT prompt design and project structuring |
 | 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | A semiconductor technology chatbot powered by SamizoGPT |
-| 📘 | [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | A structured semiconductor curriculum: MOS design, test, and PDK exercises |
+| 📘 | [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | A structured semiconductor curriculum: process, device, design, and PDK exercises |
 | ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | Extended curriculum on geopolitics, TSMC, AI/quantum, and tech investment |
 | 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | Control theory + AI control (from PID to reinforcement learning and LLM) |
 | 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | Mechanical design and enclosure modeling using Creo |
@@ -41,7 +41,7 @@ This portal aims to embody a **cross-disciplinary integration architecture**, co
 
 | Project | Description |
 |---------|-------------|
-| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | Comprehensive semiconductor education, from design and testing to PoC evaluation |
+| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | Comprehensive semiconductor education, from process,device,design and testing to PoC evaluation |
 | 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) | 9-part curriculum covering control theory to LLM-integrated and HDL-based design, includes SoC DesignKit by ChatGPT |
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | Three-layer hybrid control: FSM (instinct) + PID (reason) + LLM (intelligence) architecture |
 
