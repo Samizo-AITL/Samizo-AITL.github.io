@@ -90,3 +90,9 @@
 教材・コード・図面・テンプレートは、MITライセンスのもと自由にご利用ください。
 
 ---
+
+### 🔧 技術統合アーキテクチャ（現実寄りVer）
+
+![技術統合アーキテクチャ](./images/technology_architecture_realistic_version.png)
+
+---
