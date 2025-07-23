@@ -91,7 +91,7 @@
 
 ---
 
-### 🔧 技術統合アーキテクチャ（現実寄りVer）
+### 🔧 技術統合アーキテクチャのイメージ
 
 ![技術統合アーキテクチャ](./images/technology_architecture_realistic_version.png)
 
