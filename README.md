@@ -1,18 +1,20 @@
 # 🧠 Samizo-AITL Portal
 
 このリポジトリは、三溝真一（Shinichi Samizo）による**教育・技術アーカイブの統合ポータル**です。  
-ChatGPT・半導体・制御理論・機械設計・資産運用・歴史教材など、10本以上のプロジェクトを相互に連携させ、技術と教育の接点を多面的に提示します。
+ChatGPT・半導体・制御理論・機械設計・品質マネジメント・資産運用・歴史教材など、  
+11本以上のプロジェクトを相互に連携させ、**技術と教育の接点を多面的に提示**します。
 
-- 🧠 SamizoGPT（プロンプト設計・ChatGPT活用支援）
-- 📡 SemiTechBot（半導体技術支援チャットボット）
-- 📘 Edusemi v4.x（半導体教育教材）
-- ➕ Edusemi-Plus（半導体応用教材）
-- 🎛️ EduController（制御理論＋AI制御教材）
-- 🛠️ EduMecha（機械設計・筐体設計＋Creo演習教材）
-- 🤖 AITL-H（ハイブリッド知能制御フレームワーク）
-- 🖨️ Inkjet（インクジェット技術アーカイブ）
-- 💰 AssetPortfolio（テクノロジー資産運用教材） 
-- 🎮 Rekiden（歴史シミュレーションゲーム）
+- 🧠 SamizoGPT（プロンプト設計・ChatGPT活用支援）  
+- 📡 SemiTechBot（半導体技術支援チャットボット）  
+- 📘 Edusemi v4.x（半導体教育教材）  
+- ➕ Edusemi-Plus（半導体応用教材）  
+- 🎛️ EduController（制御理論＋AI制御教材）  
+- 🛠️ EduMecha（機械設計・筐体設計＋Creo演習教材）  
+- 🧠 EduLms（品質・環境・教育訓練の構造教材）  
+- 🤖 AITL-H（ハイブリッド知能制御フレームワーク）  
+- 🖨️ Inkjet（インクジェット技術アーカイブ）  
+- 💰 AssetPortfolio（テクノロジー資産運用教材）  
+- 🎮 Rekiden（歴史シミュレーションゲーム）  
 - 🧠 AITL-Strategy-Proposal（国家戦略提言：AITL構想）
 
 ---
@@ -50,6 +52,11 @@ Python演習に加え、**FSM・PID・LLM制御テンプレート群（SoC Desig
 ### 🛠️ EduMecha｜機械設計・Creo演習教材  
 Creoを用いた**機械・筐体設計の演習教材**。制御対象構造との一貫設計も学べます。  
 ▶︎ [GitHub](https://github.com/Samizo-AITL/EduMecha)｜[Site](https://samizo-aitl.github.io/EduMecha/)
+
+### 🧠 EduLms｜品質・環境・教育訓練の構造教材  
+ISO 9001 / ISO 14001 / QCツール / 教育訓練 / PDCA / FSM構造可視化を統合した、  
+**学習管理（LMS）と構造教育のハブ教材**。他教材（Edusemi, EduMecha, EduController）と双方向接続。  
+▶︎ [GitHub](https://github.com/Samizo-AITL/EduLms)｜[Site](https://samizo-aitl.github.io/EduLms/)
 
 ### 🤖 AITL-H｜Hybrid構造制御アーキテクチャ  
 FSM（本能）＋PID（理性）＋LLM（知性）による**三層構造の知能制御フレームワーク**。PoC実装あり。  
