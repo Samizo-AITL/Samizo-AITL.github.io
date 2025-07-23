@@ -83,6 +83,7 @@
 
 📫 [GitHub: Samizo-AITL](https://github.com/Samizo-AITL)  
 📩 Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
+🐦 X (Twitter): [https://x.com/shin3t72](https://x.com/shin3t72)  
 
 ---
 
