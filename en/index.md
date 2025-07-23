@@ -16,6 +16,7 @@ This is the integrated project portal of **Shinichi Samizo**, showcasing a range
 | ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | Extended curriculum on geopolitics, TSMC, AI/quantum, and tech investment |
 | 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | Control theory + AI control (from PID to reinforcement learning and LLM) |
 | 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | Mechanical design and enclosure modeling using Creo |
+| 🧠 | [EduLms](https://samizo-aitl.github.io/EduLms/) | A structured LMS integrating ISO 9001/14001, training, and quality tools |
 | 🤖 | [AITL-H](https://samizo-aitl.github.io/AITL-H/) | An intelligent control architecture using FSM × PID × LLM |
 | 🖨️ | [Inkjet](https://samizo-aitl.github.io/Inkjet/) | Archive of inkjet head structures, waveform control, and evaluations |
 | 💰 | [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | Investment learning for engineers, focusing on ETF and NISA strategies |
