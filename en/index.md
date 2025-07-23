@@ -36,13 +36,13 @@ This portal aims to embody a **cross-disciplinary integration architecture**, co
 
 ---
 
-## 📘 Core Project Focus
+## 📘 Core Projects Overview
 
 | Project | Description |
 |---------|-------------|
-| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | Covers design, testing, and PoC evaluation in semiconductor technology |
-| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | A layered control model: FSM (instinct) + PID (reason) + LLM (intelligence) |
-| ➕ [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | Applications in TSMC strategy, AI accelerators, and Apple Silicon |
+| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | Comprehensive semiconductor education, from design and testing to PoC evaluation |
+| 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) | 9-part curriculum covering control theory to LLM-integrated and HDL-based design, includes SoC DesignKit by ChatGPT |
+| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) | Three-layer hybrid control: FSM (instinct) + PID (reason) + LLM (intelligence) architecture |
 
 ---
 
