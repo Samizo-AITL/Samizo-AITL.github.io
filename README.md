@@ -37,7 +37,7 @@ ChatGPT API × Flask構成の**半導体QA支援Bot**。プロセス・テスト
 ▶︎ [GitHub](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)｜[Site](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)
 
 ### 📘 Edusemi v4.x｜半導体教育教材  
-大学・高専向けの**半導体開発技術入門教材**。設計・プロセス・テスト・信頼性を体系的に学習可能。  
+大学・高専向けの**半導体開発技術入門教材**。プロセス・デバイス・設計・テスト・信頼性を体系的に学習可能。  
 ▶︎ [GitHub](https://github.com/Samizo-AITL/Edusemi-v4x)｜[Site](https://samizo-aitl.github.io/Edusemi-v4x/)
 
 ### ➕ Edusemi-Plus｜半導体応用教材（地政学・産業戦略）  
