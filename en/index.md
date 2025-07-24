@@ -108,3 +108,5 @@ All source code, diagrams, documents, and educational content are distributed un
 ### 🖼️ Image: Integrated Technology Architecture (Realistic Version)
 
 ![Integrated Technology Architecture](../images/technology_architecture_realistic_version.png)
+
+---
