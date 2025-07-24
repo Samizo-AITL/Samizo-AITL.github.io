@@ -21,18 +21,18 @@
 
 | アイコン | プロジェクト名 | 分野 | 内容 |
 |---------|----------------|------|------|
-| 🧠 | [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | [AI] | ChatGPTプロンプト設計・プロジェクト支援テンプレート集 |
-| 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | [半導体][AI] | 半導体技術支援チャットボット（SamizoGPT応用） |
-| 📘 | [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | [半導体] | プロセス・設計・PDK演習などを体系化した半導体教材 |
-| ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | [半導体][材料][AI][投資][地政学] | 材料・先端技術・地政学・投資と半導体の交差点教材 |
-| 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | [制御][AI] | 制御理論＋AI制御教材（PID〜LLM統合） |
-| 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | [機械] | Creoを用いた機械設計・筐体構造教材 |
-| 🧠 | [EduLms](https://samizo-aitl.github.io/EduLms/) | [教育] | ISO品質・環境・教育訓練を統合した教材（LMS対応） |
-| 🤖 | [AITL-H](https://samizo-aitl.github.io/AITL-H/) | [AI][制御] | FSM×PID×LLMによる知能制御アーキテクチャ |
-| 🖨️ | [Inkjet](https://samizo-aitl.github.io/Inkjet/) | [製品技術] | インクジェット構造・波形・評価アーカイブ |
-| 💰 | [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | [投資] | テクノロジー分野特化の資産運用教材（ETF・NISA） |
-| 🎮 | [Rekiden](https://samizo-aitl.github.io/Rekiden/) | [歴史][LLM] | ChatGPT連携型・歴史シミュレーション教材 |
-| 🧩 | [AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/) | [政策提言] | AITL構想に基づく国家戦略提言（教育×AI×制御） |
+| 🧠 | [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | [🟨 AI] | ChatGPTプロンプト設計・プロジェクト支援テンプレート集 |
+| 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | [🟦 半導体] [🟨 AI] | 半導体技術支援チャットボット（SamizoGPT応用） |
+| 📘 | [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | [🟦 半導体] | プロセス・設計・PDK演習などを体系化した半導体教材 |
+| ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | [🟦 半導体] [🟥 材料] [🟨 AI] [🟧 投資] [🟫 地政学] | 材料・先端技術・地政学・投資と半導体の交差点教材 |
+| 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | [🟥 制御] [🟨 AI] | 制御理論＋AI制御教材（PID〜LLM統合） |
+| 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | [🔵 機械] | Creoを用いた機械設計・筐体構造教材 |
+| 🧠 | [EduLms](https://samizo-aitl.github.io/EduLms/) | [🟩 教育] | ISO品質・環境・教育訓練を統合した教材（LMS対応） |
+| 🤖 | [AITL-H](https://samizo-aitl.github.io/AITL-H/) | [🟨 AI] [🟥 制御] | FSM×PID×LLMによる知能制御アーキテクチャ |
+| 🖨️ | [Inkjet](https://samizo-aitl.github.io/Inkjet/) | [⚙️ 製品技術] | インクジェット構造・波形・評価アーカイブ |
+| 💰 | [AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | [🟧 投資] | テクノロジー分野特化の資産運用教材（ETF・NISA） |
+| 🎮 | [Rekiden](https://samizo-aitl.github.io/Rekiden/) | [🟪 歴史] [🧠 LLM] | ChatGPT連携型・歴史シミュレーション教材 |
+| 🧩 | [AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/) | [🏛️ 政策提言] | AITL構想に基づく国家戦略提言（教育×AI×制御） |
 
 ---
 
