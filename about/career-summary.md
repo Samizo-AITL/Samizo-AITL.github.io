@@ -12,5 +12,7 @@
 
 現在はこれらの経験を活かし、**教育支援・プロンプト設計・統合設計フレーム（Samizo-AITL）**の開発・発信に取り組んでいます。
 
+---
+
 🔗 [English Version](./career-summary_en.md)
 
