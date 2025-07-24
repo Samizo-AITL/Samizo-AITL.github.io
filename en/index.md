@@ -77,7 +77,7 @@ This portal aims to embody a **cross-disciplinary integration architecture**, co
 - M.S. in Electrical and Electronic Engineering, Shinshu University  
 - Former R&D Engineer at Seiko Epson Corporation (1997–)
 
-📌 **Expertise**:  
+📌 **Expertise**:  🌐 [English Career Summary](./about/career-summary_en.md)
 - Semiconductor devices (logic, memory, high-voltage mixed process)  
 - Thin-film piezoelectric actuators  
 - PrecisionCore printhead commercialization, configuration management, and technical education
