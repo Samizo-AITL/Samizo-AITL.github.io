@@ -105,7 +105,7 @@
 
 ---
 
-### 🔧 技術統合アーキテクチャのイメージ
+### 🔧  Image: Integrated Technology Architecture (Realistic Version)
 
 ![技術統合アーキテクチャ](./images/technology_architecture_realistic_version.png)
 
