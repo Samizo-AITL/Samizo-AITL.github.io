@@ -12,4 +12,6 @@ Shinichi Samizo is an engineer who has advanced from control theory and electrom
 
 Currently, he leverages this career to develop and deliver the **Samizo-AITL** framework for educational support, prompt engineering, and integrated system design.
 
+---
+
 🔗 [Back to Japanese version](./career-summary.md)
