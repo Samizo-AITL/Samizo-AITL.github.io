@@ -9,16 +9,19 @@ with a focus on potential collaboration in technical integration and educational
 
 The following are core projects within this portfolio where ChatGPT is actively integrated:
 
-- 🧠 SamizoGPT  
+- 🧠 **SamizoGPT**  
   A knowledge engine providing prompt design templates and educational content support
 
-- 🤖 AITL-H  
+- ⚙️ **SoC_DesignKit_by_ChatGPT**  
+  Template-driven FSM/PID/LLM control design framework with ChatGPT-assisted Verilog HDL generation
+
+- 🤖 **AITL-H**  
   A three-layered intelligent control architecture combining FSM (instinct), PID (reason), and LLM (intelligence)
 
-- 📘 Edusemi / EduController  
+- 📘 **Edusemi / EduController**  
   Practical education models integrating LLMs with PoC exercises in semiconductor and control systems
 
-- 🧩 Project Design Hub (PDH)  
+- 🧩 **Project Design Hub (PDH)**  
   A virtual directory structure that unifies educational materials, documentation, design assets, and evaluations
 
 ---
@@ -27,10 +30,11 @@ The following are core projects within this portfolio where ChatGPT is actively 
 
 This portfolio offers a foundation for collaboration in the following domains:
 
-- Development of GPT-based content generation and design support systems
-- LLM-integrated PoC design for engineering education and training
-- Applications of GPT in control architecture and intelligent systems
-- Construction and dissemination of GPT-powered educational and design role models
+- Development of GPT-based content generation and design support systems  
+- LLM-integrated PoC design for engineering education and training  
+- Applications of GPT in control architecture and intelligent systems  
+- Construction and dissemination of GPT-powered educational and design role models  
+- Joint research on SoC development based on structured and template-driven design  
 
 > 📫 For inquiries or collaboration proposals, feel free to contact: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)
 
