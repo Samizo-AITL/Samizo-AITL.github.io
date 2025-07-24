@@ -42,8 +42,8 @@ This portal aims to embody a **cross-disciplinary integration architecture**, co
 | Project | Description |
 |---------|-------------|
 | 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | A comprehensive overview of semiconductor technologies, covering process, devices, design, testing, and reliability. |
-| 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) ＋ [SoC_DesignKit by ChatGPT](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/README) | A 9-chapter curriculum covering control theory, LLM integration, and HDL design. Includes the SoC DesignKit. |
-| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) ＋ [PoC Manual (index.md)](https://samizo-aitl.github.io/AITL-H/docs/) | A proof-of-concept for a three-layer control architecture: FSM (instinct), PID (reason), and LLM (intelligence). |
+| 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) ＋ [SoC_DesignKit by ChatGPT](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/) | A 9-chapter curriculum covering control theory, LLM integration, and HDL design. Includes the SoC DesignKit. |
+| 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) ＋ [PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/) | A proof-of-concept for a three-layer control architecture: FSM (instinct), PID (reason), and LLM (intelligence). |
 
 ---
 
