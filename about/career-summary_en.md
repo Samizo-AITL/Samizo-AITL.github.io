@@ -15,3 +15,5 @@ Currently, he leverages this career to develop and deliver the **Samizo-AITL** f
 ---
 
 🔗 [Back to Japanese version](./career-summary.md)
+
+---
