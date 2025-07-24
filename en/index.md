@@ -4,6 +4,17 @@ This is the integrated project portal of **Shinichi Samizo**, showcasing a range
 
 > 🌐 [日本語版はこちら](../index.md)
 
+<p align="center">
+  <a href="https://Samizo-AITL.github.io/en/">
+    <img src="https://raw.githubusercontent.com/Samizo-AITL/Samizo-AITL.github.io/main/images/A_vector-based_digital_graphic_logo_features_the_n.png" alt="Samizo-AITL Logo" width="300"/>
+  </a>
+</p>
+
+<h1 align="center">Samizo-AITL</h1>
+<p align="center">
+  Integrated Architecture for Education, Control, and Design
+</p>
+
 ---
 
 ## 🔍 Projects Overview
