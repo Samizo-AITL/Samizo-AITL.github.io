@@ -1,4 +1,4 @@
-🧠 **Technical Portfolio by Shinichi Samizo**
+💡 **Technical Portfolio by Shinichi Samizo**
 
 本サイトは、**三溝 真一（Shinichi Samizo）** による教育・研究開発プロジェクト群の統合ポータルです。
 
