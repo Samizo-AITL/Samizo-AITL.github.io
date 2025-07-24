@@ -1,4 +1,4 @@
-🧠 **Technical Portfolio by Shinichi Samizo**
+💡 **Technical Portfolio by Shinichi Samizo**
 
 This site is the integrated portal of **Shinichi Samizo**, presenting a range of educational and research-oriented projects.
 
