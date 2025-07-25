@@ -13,7 +13,7 @@
 | アイコン | プロジェクト名 | 分野 | 内容 |
 |---------|----------------|------|------|
 | 🧠 | [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | [🟨 AI] | ChatGPTプロンプト設計・プロジェクト支援テンプレート集 |
-| 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | [🟦 半導体] [🟨 AI] | 半導体技術支援チャットボット（SamizoGPT応用） |
+| 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | [🟦 半導体] [🟨 AI] | 半導体技術支援チャットボット（SamizoGPT応用）<br>⚠️ FlaskベースのBotアプリは現在整備中です |
 | 📘 | [Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/) | [🟦 半導体] | プロセス・設計・PDK演習などを体系化した半導体教材 |
 | ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | [🟦 半導体] [🟥 材料] [🟨 AI] [🟧 投資] [🟫 地政学] | 材料・先端技術・地政学・投資と半導体の交差点教材 |
 | 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | [🟥 制御] [🟨 AI] | 制御理論＋AI制御教材（PID〜LLM統合） |
