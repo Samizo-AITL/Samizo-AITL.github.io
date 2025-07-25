@@ -45,7 +45,7 @@ The **Samizo-AITL** initiative aims to build an integrated technical architectur
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) + [PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/) | Three-layer control: FSM (instinct) × PID (reason) × LLM (intelligence) |
 
 <div align="center">
-  <img src="./images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
+  <img src="../images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
   <p><em>A three-pillar integration flow from semiconductor design, through control & AI, to intelligent PoC implementation.</em></p>
 </div>
 
