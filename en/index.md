@@ -15,7 +15,7 @@ This site is the integrated portal of **Shinichi Samizo**, presenting a range of
 | Icon | Project Name | Fields | Description |
 |------|--------------|--------|-------------|
 | 🧠 | [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | [🟨 AI] | A template engine for ChatGPT prompt design and project management |
-| 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | [🟦 Semiconductor] [🟨 AI] | Semiconductor chatbot based on SamizoGPT |
+| 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | [🟦 Semiconductor] [🟨 AI] | Semiconductor chatbot based on SamizoGPT<br>⚠️ Flask-based bot app is currently under development. |
 | 📘 | [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | [🟦 Semiconductor] | Structured curriculum on process, devices, design, and PDK |
 | ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | [🟦 Semiconductor] [🟥 Materials] [🟨 AI] [🟧 Investment] [🟫 Geopolitics] | Extended curriculum on materials, advanced tech, geopolitics, and investment |
 | 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | [🟥 Control] [🟨 AI] | Control theory and AI (PID to LLM integration) |
