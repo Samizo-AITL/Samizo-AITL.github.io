@@ -26,7 +26,7 @@ This site is the integrated portal of **Shinichi Samizo**, presenting a range of
 | 📘 | [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | [🟦 Semiconductor] | Structured curriculum on process, devices, design, and PDK |
 | ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | [🟦 Semiconductor] [🟥 Materials] [🟨 AI] [🟧 Investment] [🟫 Geopolitics] | Extended curriculum on materials, advanced tech, geopolitics, and investment |
 | 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | [🟥 Control] [🟨 AI] | Control theory and AI (PID to LLM integration) |
-| 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | [🔵 Mechanical] | Mechanical/enclosure design using Creo |
+| 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | [🔵 Mechanical] | Educational materials for mechanical/enclosure design using Creo<br>※Exercise files (.prt / .asm) not included |
 | 🧠 | [EduLms](https://samizo-aitl.github.io/EduLms/) | [🟩 Education] | LMS framework integrating ISO, training, and quality management |
 | 🤖 | [AITL-H](https://samizo-aitl.github.io/AITL-H/) | [🟨 AI] [🟥 Control] | Intelligent control using FSM × PID × LLM |
 | 🖨️ | [Inkjet](https://samizo-aitl.github.io/Inkjet/) | [⚙️ Product Tech] | Archive of inkjet architecture, waveform control, and evaluation |
