@@ -1,6 +1,6 @@
 本サイトは、**三溝 真一（Shinichi Samizo）** による教育・研究開発プロジェクト群の統合ポータルです。
 
-```mermai
+```mermaid
 graph TD
   A[Samizo-AITL Portal<br>https://samizo-aitl.github.io/] --> B[AITL-H<br>知能制御アーキテクチャ]
   A --> C[SamizoGPT_SemiTechBot<br>半導体技術Bot]
