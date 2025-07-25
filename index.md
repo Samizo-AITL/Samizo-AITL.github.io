@@ -14,7 +14,7 @@
 |---------|----------------|------|------|
 | 🧠 | [SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/) | [🟨 AI] | ChatGPTプロンプト設計・プロジェクト支援テンプレート集 |
 | 📡 | [SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | [🟦 半導体] [🟨 AI] | 半導体技術支援チャットボット（SamizoGPT応用） |
-| 📘 | [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | [🟦 半導体] | プロセス・設計・PDK演習などを体系化した半導体教材 |
+| 📘 | [Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/) | [🟦 半導体] | プロセス・設計・PDK演習などを体系化した半導体教材 |
 | ➕ | [Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/) | [🟦 半導体] [🟥 材料] [🟨 AI] [🟧 投資] [🟫 地政学] | 材料・先端技術・地政学・投資と半導体の交差点教材 |
 | 🎛️ | [EduController](https://samizo-aitl.github.io/EduController/) | [🟥 制御] [🟨 AI] | 制御理論＋AI制御教材（PID〜LLM統合） |
 | 🛠️ | [EduMecha](https://samizo-aitl.github.io/EduMecha/) | [🔵 機械] | Creoを用いた機械設計・筐体構造教材<br>※⚠️演習用ファイル（.prt / .asm）は未収録 |
@@ -35,7 +35,7 @@ Samizo-AITLは、以下のような**異分野統合アーキテクチャ**を�
 - **ChatGPT / LLMと連携した設計・学習・実装支援**
 - 教材・PoC構成・テンプレート類を **MITライセンス** で公開
 
-> 💡 特に [Edusemi](https://samizo-aitl.github.io/Edusemi-v4x/) は、実務経験に基づく中核教材です。
+> 💡 特に [Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/) は、実務経験に基づく中核教材です。
 
 ---
 
@@ -43,7 +43,7 @@ Samizo-AITLは、以下のような**異分野統合アーキテクチャ**を�
 
 | 中核教材 | 解説 |
 |----------|------|
-| 📘 [Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/) | プロセス・デバイス・設計・テスト・信頼性を体系的に学ぶ |
+| 📘 [Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/) | プロセス・デバイス・設計・テスト・信頼性を体系的に学ぶ |
 | 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) ＋ [SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/) | FSM・PID・LLMによる制御教材＋HDLテンプレート一式 |
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) ＋ [PoCマニュアル](https://samizo-aitl.github.io/AITL-H/docs/) | 知能制御アーキテクチャをPoCで再現（FSM × PID × LLM） |
 
