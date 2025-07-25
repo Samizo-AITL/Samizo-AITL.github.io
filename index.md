@@ -1,16 +1,9 @@
-## 
-# 💡 Technical Portfolio by Shinichi Samizo
-
 本サイトは、**三溝 真一（Shinichi Samizo）** による教育・研究開発プロジェクト群の統合ポータルです。
 
 > 🌐 [View English Version](./en/index.md)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Samizo-AITL/Samizo-AITL.github.io/main/images/A_vector-based_digital_graphic_logo_features_the_n.png" alt="Samizo-AITL Logo" width="300"/>
-</p>
-  
-  <br>
-  <em>Integrated Architecture for Education, Control, and Design</em>
 </p>
 
 ---
