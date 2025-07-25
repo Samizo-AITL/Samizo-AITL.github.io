@@ -24,6 +24,10 @@ ChatGPTを活用した**プロンプトテンプレート設計と開発支援�
 ### 📡 SemiTechBot｜半導体チャットボット  
 ChatGPT API × Flask による**半導体技術支援Bot**。プロセス開発〜信頼性まで幅広く対応。  
 ▶︎ [GitHub](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)｜[Site](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)
+> ⚠️ **開発中のご案内**  
+> 現在の構成は「プロンプトテンプレート＋Flask API」のミニマル構成です。  
+> GUI、対話履歴、セッション管理など本格的なBotアプリとしての機能は**今後整備予定**です。  
+> 教材連携・PoC用途のBotテンプレートとしてご利用ください。
 
 ### 📘 Edusemi v4x｜半導体教育教材  
 大学・高専向けの**体系的な半導体基礎教材**。プロセス・デバイス・設計・信頼性までを広くカバー。  
