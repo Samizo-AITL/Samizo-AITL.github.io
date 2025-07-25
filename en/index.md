@@ -1,12 +1,7 @@
-This site is the integrated portal of **Shinichi Samizo**, presenting a range of educational and research-oriented projects.
+**Samizo-AITL Portal**
+> This site serves as the central gateway to a series of educational, design, PoC, and AI-integrated projects developed by **Shinichi Samizo**.
 
-<p align="center">
-  <a href="https://Samizo-AITL.github.io/en/">
-    <img src="https://raw.githubusercontent.com/Samizo-AITL/Samizo-AITL.github.io/main/images/A_vector-based_digital_graphic_logo_features_the_n.png" alt="Samizo-AITL Logo" width="300"/>
-  </a>
-</p>
-
-> 🇯🇵 [日本語版はこちら / Japanese Version](../index.md)
+🇯🇵 **[日本語版はこちら](../index.md)**
 
 ---
 
