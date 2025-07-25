@@ -44,8 +44,10 @@ Samizo-AITLは、以下のような**異分野統合アーキテクチャ**を�
 | 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) ＋ [SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/) | FSM・PID・LLMによる制御教材＋HDLテンプレート一式 |
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) ＋ [PoCマニュアル](https://samizo-aitl.github.io/AITL-H/docs/) | 知能制御アーキテクチャをPoCで再現（FSM × PID × LLM） |
 
-![Core Materials Structure](./images/core_materials_clean.svg)
-> 半導体開発 → 制御・AI設計 → 知能PoC へとつながる、技術統合の3本柱です。
+<div align="center">
+  <img src="./images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
+  <p><em>半導体開発 → 制御・AI設計 → 知能PoC へとつながる、技術統合の3本柱です。</em></p>
+</div>
 
 ---
 
