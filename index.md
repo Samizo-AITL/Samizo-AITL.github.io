@@ -46,7 +46,7 @@ Samizo-AITLは、以下のような**異分野統合アーキテクチャ**を�
 
 ```mermaid
 graph TD
-  A[📘 Edusemi-v4x<br>半導体開発の基礎] --> B[🎛️ EduController<br>制御理論＋SoC設計]
+  A[📘 Edusemi-v4x<br>半導体SoC設計の基礎] --> B[🎛️ EduController<br>制御理論＋AI+SoC設計]
   B --> C[🤖 AITL-H<br>知能制御アーキテクチャとPoC]
   style A fill:#f0f8ff,stroke:#4682b4,color:#000
   style B fill:#fef9e7,stroke:#b7950b,color:#000
