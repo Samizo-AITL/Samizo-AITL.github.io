@@ -1,5 +1,5 @@
 ## 
-# 💡 **Technical Portfolio by Shinichi Samizo**
+# 💡 Technical Portfolio by Shinichi Samizo
 
 本サイトは、**三溝 真一（Shinichi Samizo）** による教育・研究開発プロジェクト群の統合ポータルです。
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  統合設計 × 教育工学 × 制御知能  
+  **統合設計 × 教育工学 × 制御知能**  
   <br>
   <em>Integrated Architecture for Education, Control, and Design</em>
 </p>
