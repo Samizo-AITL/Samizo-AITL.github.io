@@ -1,42 +1,5 @@
 本サイトは、**三溝 真一（Shinichi Samizo）** による教育・研究開発プロジェクト群の統合ポータルです。
 
-```mermaid
-graph TD
-  A[Samizo-AITL Portal<br>https://samizo-aitl.github.io/] --> B[AITL-H<br>知能制御アーキテクチャ]
-  A --> C[SamizoGPT_SemiTechBot<br>半導体技術Bot]
-  A --> D[教育教材群 Edu-Series]
-
-  %% 教材群分岐
-  D --> D1[Edusemi-v4x<br>半導体基礎教材]
-  D --> D2[Edusemi-Plus<br>応用教材（AI・地政学）]
-  D --> D3[EduController<br>制御理論・AI制御]
-  D --> D4[EduMecha<br>機械設計（Creo）]
-  D --> D5[EduLms<br>ISO教育訓練LMS]
-
-  %% AITL-H構成連携
-  B --> B1[FSM層<br>状態遷移設計]
-  B --> B2[PID層<br>連続制御]
-  B --> B3[LLM層<br>ChatGPT統合]
-
-  %% SamizoGPT連携
-  C --> C1[設計支援テンプレート]
-  C --> C2[半導体QAプロンプト]
-
-  %% AITL戦略提言
-  A --> E[AITL戦略提言書]
-  E --> E1[教育→設計→PoC→起業]
-  E --> E2[政策・地域導入モデル]
-
-  %% 開発PoC連携
-  B --> F[PoC実装群]
-  F --> F1[ジンバル制御PoC]
-  F --> F2[Verilog自動生成PoC]
-```
-  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samizo-AITL/Samizo-AITL.github.io/main/images/A_vector-based_digital_graphic_logo_features_the_n.png" alt="Samizo-AITL Logo" width="300"/>
-</p>
-
 > 🌐 [View English Version](./en/index.md)
 
 ---
