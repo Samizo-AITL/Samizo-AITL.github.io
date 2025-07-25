@@ -31,7 +31,7 @@ graph TD
   B --> F[PoC実装群]
   F --> F1[ジンバル制御PoC]
   F --> F2[Verilog自動生成PoC]
-...
+```
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/Samizo-AITL/Samizo-AITL.github.io/main/images/A_vector-based_digital_graphic_logo_features_the_n.png" alt="Samizo-AITL Logo" width="300"/>
