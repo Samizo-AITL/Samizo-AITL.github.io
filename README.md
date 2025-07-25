@@ -40,6 +40,8 @@ PID〜LLM統合制御まで、9章構成の**AI制御カリキュラム＋HDLテ
 ### 🛠️ EduMecha｜機械・筐体設計教材（Creo演習）  
 Creoを用いた**機械設計・筐体設計演習**。制御対象との一貫設計を学ぶ教材。  
 ▶︎ [GitHub](https://github.com/Samizo-AITL/EduMecha)｜[Site](https://samizo-aitl.github.io/EduMecha/)
+> ⚠️ **注意：本教材は演習用Creoファイル（.prt / .asm / .drw）を含みません。**  
+> 教材構成やカリキュラム設計の参考資料としてご活用ください。
 
 ### 🧠 EduLms｜教育訓練・品質・ISO構造教材  
 ISO 9001 / 14001、PDCA、QCツール、FSM設計などを統合した**教育LMS教材**。他教材と連携可。  
