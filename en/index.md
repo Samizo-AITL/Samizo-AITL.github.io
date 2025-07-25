@@ -1,8 +1,4 @@
-💡 **Technical Portfolio by Shinichi Samizo**
-
 This site is the integrated portal of **Shinichi Samizo**, presenting a range of educational and research-oriented projects.
-
-> 🇯🇵 [日本語版はこちら / Japanese Version](../index.md)
 
 <p align="center">
   <a href="https://Samizo-AITL.github.io/en/">
@@ -10,10 +6,7 @@ This site is the integrated portal of **Shinichi Samizo**, presenting a range of
   </a>
 </p>
 
-<h1 align="center">Samizo-AITL</h1>
-<p align="center">
-  Integrated Architecture for Education, Control, and Design
-</p>
+> 🇯🇵 [日本語版はこちら / Japanese Version](../index.md)
 
 ---
 
