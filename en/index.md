@@ -44,14 +44,10 @@ The **Samizo-AITL** initiative aims to build an integrated technical architectur
 | 🎛️ [EduController](https://samizo-aitl.github.io/EduController/) + [SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/) | 9-chapter control curriculum covering PID, LLM, and HDL design |
 | 🤖 [AITL-H](https://samizo-aitl.github.io/AITL-H/) + [PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/) | Three-layer control: FSM (instinct) × PID (reason) × LLM (intelligence) |
 
-```mermaid
-graph TD
-  A[📘 Edusemi-v4x<br>Foundation of Semiconductor SoC Design] --> B[🎛️ EduController<br>Control Theory + AI + SoC Design]
-  B --> C[🤖 AITL-H<br>Intelligent Control Architecture & PoC]
-  style A fill:#f0f8ff,stroke:#4682b4,color:#000
-  style B fill:#fef9e7,stroke:#b7950b,color:#000
-  style C fill:#e8f8f5,stroke:#148f77,color:#000
-```
+<div align="center">
+  <img src="./images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
+  <p><em>A three-pillar integration flow from semiconductor design, through control & AI, to intelligent PoC implementation.</em></p>
+</div>
 
 ---
 
