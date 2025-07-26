@@ -83,7 +83,7 @@ The links below outline strategic direction and opportunities for **collaboratio
 - Former **R&D Engineer** at **Seiko Epson** (1997–)
 
 📌 **Expertise** → 🌐 **[Career Summary](../about/career-summary_en.md)**  
-- **Semiconductor Devices (Logic, Memory, High-Voltage Mixed-Signal)**  
+- **Semiconductor Devices (Logic, Memory, High-Voltage Integrated with Logic**  
 - **Inkjet Thin-Film Piezoelectric Actuators**  
 - **PrecisionCore Printhead Development, BOM Management, ISO Education**
 
