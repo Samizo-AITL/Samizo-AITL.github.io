@@ -83,9 +83,9 @@ The links below outline strategic direction and opportunities for **collaboratio
 - Former **R&D Engineer** at **Seiko Epson** (1997–)
 
 📌 **Expertise** → 🌐 **[Career Summary](../about/career-summary_en.md)**  
-- **Mixed-signal / high-voltage semiconductor** process design  
-- **Thin-film piezoelectric actuators** (MEMS)  
-- **PrecisionCore** printhead development, **configuration management**, and **technical training**
+- **Semiconductor Devices (Logic, Memory, High-Voltage Mixed-Signal)**  
+- **Inkjet Thin-Film Piezoelectric Actuators**  
+- **PrecisionCore Printhead Development, BOM Management, ISO Education**
 
 📬 **Contact**
 - ✉️ Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
