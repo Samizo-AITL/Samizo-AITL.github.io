@@ -1,5 +1,5 @@
 **Samizo-AITL ポータル**
-> 本サイトは、**三溝 真一（Shinichi Samizo）**による教育・設計・PoC・AI統合に関するプロジェクト群の入口です。
+> 本サイトは、三溝 真一(Shinichi Samizo)による教育・設計・PoC・AI統合に関するプロジェクト群の入口です。
 
 🌐 **[English Version](./en/index.md)**
 
