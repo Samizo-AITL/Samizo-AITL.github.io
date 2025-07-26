@@ -2,9 +2,9 @@
 
 > このサイトは、**三溝真一（Shinichi Samizo）** による、**教育・設計・PoC（概念実証）・AI統合**をテーマとしたプロジェクトのポータルです。
 
-🌐 **[English Version](./en/index.md)**
-🔗 **[GitHubリポジトリ一覧](https://github.com/Samizo-AITL/)**  
-🏠 **[ポータルトップページ（GitHub Pages）](https://samizo-aitl.github.io/)**
+- 🌐 **[English Version](./en/index.md)**
+- 🔗 **[GitHubリポジトリ一覧](https://github.com/Samizo-AITL/)**  
+- 🏠 **[ポータルトップページ（GitHub Pages）](https://samizo-aitl.github.io/)**
 
 ---
 
