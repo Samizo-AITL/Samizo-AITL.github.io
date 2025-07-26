@@ -2,8 +2,9 @@
 
 > This site serves as the central gateway to a series of **educational**, **design**, **PoC (Proof of Concept)**, and **AI-integrated** projects developed by **Shinichi Samizo**.
 
-🇯🇵 **[日本語版はこちら](../index.md)**
-
+- 🇯🇵 **[日本語版はこちら](../index.md)**
+- 🔗 **[GitHub Repository Index](https://github.com/Samizo-AITL/)**  
+- 🏠 **[Portal Homepage (GitHub Pages)](https://samizo-aitl.github.io/)**
 ---
 
 ## 🔍 Projects Overview
