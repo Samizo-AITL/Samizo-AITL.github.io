@@ -1,4 +1,4 @@
-# **Samizo-AITL Portal**
+**Samizo-AITL Portal**
 
 > This site serves as the central gateway to a series of **educational**, **design**, **PoC (Proof of Concept)**, and **AI-integrated** projects developed by **Shinichi Samizo**.
 
