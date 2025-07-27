@@ -103,5 +103,6 @@ All source code, diagrams, documents, and educational materials are released und
 ## 🖼️ Image: Integrated Technology Architecture (Realistic Version)
 
 ![Integrated Technology Architecture](../images/technology_architecture_realistic_version.png)
+*Figure: A symbolic representation of the "Samizo-AITL" architecture integrating semiconductors, AI, control theory, and robotics. It illustrates a future where intelligent control (e.g., PID) and AI learning merge with physical devices through human interaction.*
 
 ---
