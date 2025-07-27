@@ -13,7 +13,7 @@
 |------|------------------|--------|-------------|
 | 🧠 | **[SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/)** | [🟨 AI] | A **template engine** for **ChatGPT prompt design** and **project management** |
 | 📡 | **[SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)** | [🟦 Semiconductor] [🟨 AI] | **Semiconductor chatbot** based on SamizoGPT<br>⚠️ Flask-based bot app is currently **under development** |
-| 📘 | **[Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/)** | [🟦 Semiconductor] | Structured curriculum on **process**, **devices**, **design**, and **PDK** |
+| 📘 | **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | [🟦 Semiconductor] | Structured curriculum on **process**, **devices**, **design**, and **PDK** |
 | ➕ | **[Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/)** | [🟦 Semiconductor] [🟥 Materials] [🟨 AI] [🟧 Investment] [🟫 Geopolitics] | Extended curriculum covering **materials**, **advanced tech**, **geopolitics**, and **investment** |
 | 🎛️ | **[EduController](https://samizo-aitl.github.io/EduController/)** | [🟥 Control] [🟨 AI] | **Control theory and AI** from **PID to LLM integration** |
 | 🛠️ | **[EduMecha](https://samizo-aitl.github.io/EduMecha/)** | [🔵 Mechanical] | Educational materials for **mechanical/enclosure design** using **Creo**<br>※⚠️ Exercise files (.prt / .asm) not included |
@@ -42,7 +42,7 @@ The **Samizo-AITL** initiative aims to build an **integrated technical architect
 
 | **Project** | **Details** |
 |-------------|-------------|
-| **[Edusemi v4.x](https://samizo-aitl.github.io/Edusemi-v4x/)** | Comprehensive learning on **semiconductor process**, **device**, **design**, **test**, and **reliability** |
+| **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | Comprehensive learning on **semiconductor process**, **device**, **design**, **test**, and **reliability** |
 | **[EduController](https://samizo-aitl.github.io/EduController/)** + **[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | 9-chapter curriculum on **PID**, **LLM**, and **HDL design** |
 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** + **[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | Three-layer intelligent control: **FSM (instinct)** × **PID (reason)** × **LLM (intelligence)** |
 
