@@ -1,4 +1,4 @@
-# 🤝 Message to OpenAI & Technical Partners
+🤝 **Message to OpenAI & Technical Partners**
 
 このページでは、ChatGPT（GPT-4o）を中核に据えた教育・設計支援プロジェクトの構成と、  
 OpenAIとの技術連携や教育応用における**協働の可能性**をご紹介しています。
