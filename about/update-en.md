@@ -1,4 +1,4 @@
-# 🕘 Update Log
+🕘 **Update Log**
 
 This page documents the update history of the "Technical Portfolio by Shinichi Samizo"  
 including GitHub Pages site updates, new materials, structural revisions, and README improvements.
