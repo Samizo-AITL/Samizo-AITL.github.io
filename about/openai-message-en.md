@@ -1,4 +1,4 @@
-# 🤝 Message to OpenAI & Technical Partners
+🤝 **Message to OpenAI & Technical Partners**
 
 This page outlines a set of educational and engineering projects centered on ChatGPT (GPT-4o),  
 with a focus on potential collaboration in technical integration and educational innovation with OpenAI and related partners.
