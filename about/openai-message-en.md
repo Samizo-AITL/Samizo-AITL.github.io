@@ -5,7 +5,7 @@ with a focus on potential collaboration in technical integration and educational
 
 ---
 
-## 🔧 Integrated Projects and Frameworks
+🔧 **Integrated Projects and Frameworks**
 
 The following projects demonstrate how ChatGPT is actively embedded into this portfolio:
 
@@ -26,7 +26,7 @@ The following projects demonstrate how ChatGPT is actively embedded into this po
 
 ---
 
-## 💡 Collaboration Opportunities and Applications
+💡 **Collaboration Opportunities and Applications**
 
 These systems provide a foundation for meaningful collaboration in the following areas:
 
