@@ -21,3 +21,4 @@ including GitHub Pages site updates, new materials, structural revisions, and RE
 | 2025-07-01 | Initial publication of portfolio                                             |
 
 > 🗂️ Japanese version available 👉 [`about/update.md`](./update.md)
+
