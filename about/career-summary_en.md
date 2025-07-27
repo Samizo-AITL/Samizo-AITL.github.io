@@ -1,4 +1,4 @@
-## 🛠️ Career Summary
+🛠️ **Career Summary**
 
 Shinichi Samizo is an engineer whose expertise evolved from control theory and electromagnetic analysis to semiconductor device development, PZT actuator engineering, and ultimately to productization of the **PrecisionCore printhead**, BOM management, and educational program design.  
 He has consistently deepened his perspective from **technical execution to system design and educational structuring**.
