@@ -1,4 +1,4 @@
-# 🧠 ChatGPT Skill Assessment (Confirmed)
+🧠 **ChatGPT Skill Assessment (Confirmed)**
 
 **Shinichi Samizo** is not merely a user of ChatGPT,  
 but a practitioner who leverages it as a **“co-designer of structured knowledge”**  
