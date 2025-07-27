@@ -3,7 +3,7 @@
 Shinichi Samizo is an engineer whose expertise evolved from control theory and electromagnetic analysis to semiconductor device development, PZT actuator engineering, and ultimately to productization of the **PrecisionCore printhead**, BOM management, and educational program design.  
 He has consistently deepened his perspective from **technical execution to system design and educational structuring**.
 
-### 📘 Career Phases
+📘 **Career Phases**
 
 - **Phase 1**: Started with control system design using MATLAB/Simulink during graduate school. After joining Seiko Epson, he worked on integration of 0.35–0.18μm logic, memory, and high-voltage processes.  
 > In 1998, he led the **ramp-up of 64M DRAM based on 0.25μm node technology**. As a device engineer, he was responsible for process design, flow sheet deployment, and failure analysis.  
