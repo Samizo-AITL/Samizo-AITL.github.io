@@ -4,7 +4,6 @@
 
 - 🌐 **[English Version](./en/index.md)**
 - 🔗 **[GitHubリポジトリ一覧](https://github.com/Samizo-AITL/)**  
-- 🏠 **[ポータルトップページ（GitHub Pages）](https://samizo-aitl.github.io/)**
 
 ---
 
