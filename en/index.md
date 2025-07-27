@@ -34,7 +34,7 @@ The **Samizo-AITL** initiative aims to build an **integrated technical architect
 - **GPT/LLM-powered** design, learning, and implementation support  
 - All content (**curricula**, **PoCs**, **templates**) is released under the **MIT License**
 
-> 💡 **[Edusemi](https://samizo-aitl.github.io/Edusemi-v4x/)** serves as a **foundational curriculum** built on **industry experience**.
+> 💡 **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** serves as a **foundational curriculum** built on **industry experience**.
 
 ---
 
