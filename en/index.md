@@ -72,7 +72,7 @@ The links below outline strategic direction and opportunities for **collaboratio
 |----------|------------------|
 | 🕘 **[Update Log](../about/update.md)** | History of **curriculum updates** and structural changes |
 | 🧠 **[ChatGPT Skill Assessment](../about/chatgpt-skill-eval-en.md)** | Self-evaluation report for **LLM usage expertise (Level 5)** based on structured prompting, memory design, and educational reuse. |
-| 📋 **[Gemini Review](../about/gemini-review.md)** | Portfolio evaluation by **Google Gemini** |
+| 📋 **[Gemini Review](../about/gemini-review-en.md)** | Portfolio evaluation by **Google Gemini** |
 | 🇯🇵 **[Japanese Version](../index.md)** | 日本語ポータルはこちら |
 
 ---
