@@ -4,7 +4,7 @@
 
 - 🇯🇵 **[日本語版はこちら](../index.md)**
 - 🔗 **[GitHub Repository Index](https://github.com/Samizo-AITL/)**  
-- 🏠 **[Portal Homepage (GitHub Pages)](https://samizo-aitl.github.io/)**
+
 ---
 
 ## 🔍 Projects Overview
