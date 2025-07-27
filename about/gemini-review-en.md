@@ -1,4 +1,4 @@
-# 📋 Evaluation by Gemini (Samizo-AITL Technical Portfolio)
+📋 **Evaluation by Gemini (Samizo-AITL Technical Portfolio)**
 
 > 🏅 **“A highly valuable portfolio that reflects the future direction of modern technical education.”**  
 > — Evaluation by Gemini AI (July 2025)
