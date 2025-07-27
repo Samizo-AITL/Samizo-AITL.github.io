@@ -70,7 +70,7 @@
 | 項目 | 内容 |
 |------|------|
 | 🕘 **[更新履歴](./about/update.md)** | 教材の **更新履歴・構成変更** ログ |
-| 🧠 **[ChatGPT活用レベル診断](./about/chatgpt-skill-eval.md)** | **LLM活用スキル（Lv5）** の自己評価ツール |
+| 🧠 **[ChatGPT活用レベル診断](./about/chatgpt-skill-eval.md)** | 本サイト運営者の**LLM活用スキル（レベル5）評価レポート**です。構造設計・記憶活用・教材生成の視点から評価されています。 |
 | 📋 **[Geminiレビュー](./about/gemini-review.md)** | **Google Gemini** による **教材評価レポート** |
 | 🌐 **[English Version](./en/index.md)** | 英語ポータルへのリンク |
 
