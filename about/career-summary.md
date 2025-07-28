@@ -16,8 +16,7 @@
 - **第2フェーズ｜ピエゾ材料とアクチュエータ開発（2007〜2012）**  
   FeRAM向けPZTプロセスの特性評価と解析を経て、**薄膜ピエゾ（TFP）アクチュエータ開発**へ。  
   *PZT内に形成される微細気泡が振動板クラックの根因であることを特定し、対策によって完全撲滅に成功。*
-👉 教育用に再構成した構想プロセス教材はこちら｜FeRAM process flow (educational concept): 
-📘 [0.18μm FeRAM Process Flow（構想プロセス教材）](https://github.com/Samizo-AITL/Edusemi-v4x/blob/main/d_chapter1_memory_technologies/0.18um_FeRAM_ProcessFlow.md)
+　👉 教育用に再構成した構想プロセス教材はこちら｜FeRAM process flow (educational concept):📘 [0.18μm FeRAM Process Flow（構想プロセス教材）](https://github.com/Samizo-AITL/Edusemi-v4x/blob/main/d_chapter1_memory_technologies/0.18um_FeRAM_ProcessFlow.md)
 
 - **第3フェーズ｜PrecisionCore製品化と教育設計（2012〜）**  
   次世代プリントヘッド「PrecisionCore」にて、COF設計・信頼性保証・セキュリティ対応を総合推進。  
