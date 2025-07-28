@@ -1,32 +1,43 @@
 🛠️ **Career Summary**
 
-Shinichi Samizo is an engineer and systems designer who has continuously evolved  
-**from technology → to systems → to education**,  
-with expertise spanning control theory, electromagnetic field analysis, semiconductor device development, PZT actuators, and commercial inkjet printheads.
+Shinichi Samizo is an engineer and designer who has continuously evolved from **control theory and electromagnetic field analysis** to **semiconductor device development**, **PZT actuators**, and the **commercialization of PrecisionCore printheads**, deepening his expertise through a consistent flow of **“Technology → Systems → Education.”**
 
 ---
 
-📘 **Career Phases**
+📘 **Career by Phase**
 
-- **Phase 1｜From Control Design to Semiconductor Devices (1994–2006)**  
-  In 1994, as a **senior undergraduate**, he worked on control system design using MATLAB/Simulink.  
-  During his graduate studies, he focused on electromagnetic field analysis.  
-  After joining Seiko Epson in 1997, he engaged in process integration for 0.35–0.18μm logic, memory, and high-voltage devices.  
-  *In 1998, he led the **startup of a 64M DRAM using 0.25μm technology**, handling process development, flow documentation, and failure analysis.*  
-  🔗 [More › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)
+- **Phase 1: From Control Systems to Semiconductor Devices (1994–2006)**  
+  In 1994, as an undergraduate, he began control design using **MATLAB/Simulink**, and later engaged in electromagnetic field simulation in graduate school.  
+  In 1997, he joined Seiko Epson, working on **process integration for 0.35μm to 0.18μm logic, memory, and high-voltage CMOS technologies**.  
+  *He led complex integration of transistors with different characteristics, handling process design, implementation, and verification.*
 
-- **Phase 2｜Piezoelectric Materials and Actuator Development (2007–2012)**  
-  He conducted comprehensive analysis of PZT processes for FeRAM, then moved to thin-film piezoelectric (TFP) actuator development.  
-  *He identified microbubbles in PZT as the root cause of diaphragm cracking and successfully eliminated them through targeted countermeasures.*
+  > 🧩 **Episode: 64M DRAM Startup (1998)**  
+  > *Led the mass production ramp-up of a 0.25μm-generation DRAM, covering end-to-end process design, defect analysis, and yield improvement.*  
+  > 🔗 [More details › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)
 
-- **Phase 3｜PrecisionCore Commercialization and Education System Design (2012–Present)**  
-  As part of the next-generation printhead project "PrecisionCore", he led COF design, reliability assurance, security implementation, and manufacturing rationalization.  
-  He also played a central role in **BOM management, process optimization, and ISO training programs**, representing a shift from technical execution to organizational design.
+- **Phase 2: PZT Materials and Actuator Development (2007–2012)**  
+  After evaluating PZT processes for FeRAM, he expanded into **thin-film piezoelectric actuator development**.  
+  *Contributed to structural analysis and reliability improvement of PZT films.*
+
+  > 👉 **Conceptual Process Flow for Education:**  
+  > 📘 [0.18μm FeRAM Process Flow (Educational Model)](https://github.com/Samizo-AITL/Edusemi-v4x/blob/main/d_chapter1_memory_technologies/0.18um_FeRAM_ProcessFlow.md)
+
+- **Phase 3: PrecisionCore Productization and Educational Design (2012–)**  
+  Led system-wide efforts in **COF design, reliability assurance, and security implementation** for the next-generation printhead "PrecisionCore."  
+  Also focused on **BOM management, ISO training, and knowledge transfer system design**.
 
 ---
 
-🎯 **Current Focus**  
-Building on this experience, he is currently developing and promoting the open design framework  
-**"Samizo-AITL"**, focusing on **educational support, prompt engineering, and AI-integrated control design**.
+🎯 **Current Activities**  
+Building and promoting an open framework called **Samizo-AITL**, focusing on  
+**educational support, prompt engineering, and AI-integrated control design**.
 
-🔗 **[日本語版はこちら › Career Summary in Japanese](./career-summary.md)**
+> **Note**  
+> The process information presented here—such as for DRAM or FeRAM—is based on **conceptual models designed by Shinichi Samizo for educational purposes**, and is **not related to any actual product development, company manufacturing process, or confidential information**.  
+> The description of the 64M DRAM startup (1998) is also **based on personal experience and does not disclose any corporate secrets**.
+
+---
+
+🔗 **[日本語版はこちら › Career Summary (Japanese)](./career-summary.md)**
+
+---
