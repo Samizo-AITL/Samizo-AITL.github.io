@@ -57,6 +57,6 @@ FeRAM向けPZTプロセスの特性評価を経て、**薄膜ピエゾアクチ�
 
 ---
 
-**🔗 [English Version › Career Summary](https://samizo-aitl.github.io/career-summary_en.md)**
+**🔗 [English Version › Career Summary](https://samizo-aitl.github.io/career-summary-en.md)**
 
 ---
