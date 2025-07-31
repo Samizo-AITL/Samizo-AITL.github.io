@@ -7,7 +7,11 @@ Shinichi Samizo is an engineer and designer who has continuously evolved from **
 📘 **Career by Phase**
 
 - **Phase 1: From Control Systems to Semiconductor Devices (1994–2006)**  
-  In 1994, as an undergraduate, he began control design using **MATLAB/Simulink**, and later engaged in electromagnetic field simulation in graduate school.  
+  In 1994, as an undergraduate, he began studying **control theory using MATLAB/Simulink**, and later engaged in **electromagnetic field simulation** in graduate school.  
+  During this time, he also conducted early research on **thin-film microreactors**, analyzing **conductor loss mechanisms at 500 kHz–1 MHz** and proposing material selection guidelines for Cu and Al.  
+  > 🧪 **Episode: Thin-Film Microreactor Design (1996–1997)**  
+  > 🔗 [More details › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor.html)
+
   In 1997, he joined Seiko Epson, working on **process integration for 0.35μm to 0.18μm logic, memory, and high-voltage CMOS technologies**.  
   *He led complex integration of transistors with different characteristics, handling process design, implementation, and verification.*
 
@@ -38,6 +42,4 @@ Building and promoting an open framework called **Samizo-AITL**, focusing on
 
 ---
 
-🔗 **[日本語版はこちら › Career Summary (Japanese)](./career-summary.md)**
-
----
+🔗 **[日本語版はこちら › Career Summary (Japanese)](https://samizo-aitl.github.io/career-summary.html)**
