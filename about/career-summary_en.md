@@ -41,4 +41,4 @@ Building and promoting an open framework called **Samizo-AITL**, focusing on
 
 ---
 
-🔗 **[日本語版はこちら › Career Summary (Japanese)](https://samizo-aitl.github.io/career-summary.html)**
+🔗 **[日本語版はこちら › Career Summary (Japanese)](./career-summary.md)**
