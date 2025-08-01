@@ -42,7 +42,7 @@
 
 | **中核教材** | 解説 |
 |--------------|------|
-| **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学べる基盤教材。<br>以下の応用・特別編を内包：<br> ├── 応用編：AMS設計、DFM、FeRAMなど<br> └── 特別編：Chiplet設計、SystemDK（物理制約PoC）など |
+| **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学べる基盤教材。|
 | ┗ 📦 **[SystemDK編（特別編 第2a章）](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/f_chapter2a_systemdk)** | **SI/PI・熱・応力・EMI/EMC** の物理制約を統合設計し、<br>**GAA / AMS / MRAM** を活用した異種統合PoCを扱う特別編教材（Edusemi内包） |
 | **[EduController](https://samizo-aitl.github.io/EduController/)** ＋ **[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | **FSM・PID・LLM制御** を段階的に学ぶ教材と、**HDL記述テンプレート** 一式。<br>※Verilog/Cコード生成はAI支援、筆者は制御構成を担当 |
 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** ＋ **[PoCマニュアル](https://samizo-aitl.github.io/AITL-H/docs/)** | **三層型知能制御アーキテクチャ（FSM×PID×LLM）** を概念実証（PoC）として再現可能な統合教材 |
