@@ -11,14 +11,14 @@
 
 | アイコン | **プロジェクト名** | 分野 | 内容 |
 |---------|--------------------|------|------|
-| 🧠 | **[SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/)** | [🟨 AI] | ChatGPTの **プロンプト設計** と **支援テンプレート** 集 |
-| 📡 | **[SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)** | [🟦 半導体] [🟨 AI] | **半導体技術支援** に特化した **チャットボット**（SamizoGPT応用）<br>⚠️ FlaskベースのBotアプリは現在 **開発中** です |
+| 🧠 | **[SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/)** | [🟨 AI] | ChatGPTの **プロンプト設計** と **支援テンプレート** 集（※一部にAI支援を活用していますが、構成・検証・記述責任はすべて筆者が担っています） |
+| 📡 | **[SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)** | [🟦 半導体] [🟨 AI] | **半導体技術支援** に特化した **チャットボット**（SamizoGPT応用）<br>⚠️ FlaskベースのBotアプリは現在 **開発中** です（※UI設計およびFlask連携を整備中。順次公開予定） |
 | 📘 | **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | [🟦 半導体] | **プロセス・設計・PDK演習** を体系的に学べる **半導体教材** |
 | ➕ | **[Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/)** | [🟦 半導体] [🟥 材料] [🟨 AI] [🟧 投資] [🟫 地政学] | **材料・先端技術・地政学・投資** の観点を交差的に学ぶ **応用教材** |
-| 🎛️ | **[EduController](https://samizo-aitl.github.io/EduController/)** | [🟥 制御] [🟨 AI] | **PID制御〜LLM統合** までを扱う **制御×AI教材** |
-| 🛠️ | **[EduMecha](https://samizo-aitl.github.io/EduMecha/)** | [🔵 機械] | **Creoによる機械設計演習**（**筐体構造設計**）<br>※⚠️ **CADファイル**（.prt / .asm）は未収録 |
+| 🎛️ | **[EduController](https://samizo-aitl.github.io/EduController/)** | [🟥 制御] [🟨 AI] | **PID制御〜LLM統合** までを扱う **制御×AI教材**（※FSMやLLM制御に関するHDL記述はAI支援に基づき、構造設計・教育目的で構成） |
+| 🛠️ | **[EduMecha](https://samizo-aitl.github.io/EduMecha/)** | [🔵 機械] | **Creoによる機械設計演習**（**筐体構造設計**）<br>※⚠️ **CADファイル**（.prt / .asm）は未収録です（※著作権・互換性の都合により現時点では非公開） |
 | 🧠 | **[EduLms](https://samizo-aitl.github.io/EduLms/)** | [🟩 教育] | **ISO準拠の品質・環境・教育訓練** を統合した **LMS対応教材** |
-| 🤖 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** | [🟨 AI] [🟥 制御] | **FSM × PID × LLM** による **三層型知能制御アーキテクチャ** |
+| 🤖 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** | [🟨 AI] [🟥 制御] | **FSM × PID × LLM** による **三層型知能制御アーキテクチャ**（※実装コードよりも教育的理解と構造設計を重視） |
 | 🖨️ | **[Inkjet](https://samizo-aitl.github.io/Inkjet/)** | [⚙️ 製品技術] | **インクジェット構造・駆動波形・評価データ** のアーカイブ |
 | 💰 | **[AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)** | [🟧 投資] | **ETF・NISA** を活用した **技術者向け資産運用教材** |
 | 🎮 | **[Rekiden](https://samizo-aitl.github.io/Rekiden/)** | [🟪 歴史] [🧠 LLM] | ChatGPT連携の **歴史シミュレーション教材** |
@@ -31,10 +31,10 @@
 **Samizo-AITL** は、以下のような **異分野の技術統合アーキテクチャ** を基盤としています：
 
 - **半導体 × 制御理論 × 機械設計 × AI × 教育技術**
-- **ChatGPT** や **LLM（大規模言語モデル）** との連携による **設計・学習・実装支援**
+- **ChatGPT** や **LLM（大規模言語モデル）** との連携による **設計・学習・実装支援**（※AI支援は補助的に活用し、全体の整合性・構成・責任は筆者が担っています）
 - 教材やPoC構成、テンプレートを **MITライセンス** のもと公開
 
-> 💡 特に **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** は、**実務経験に基づく中核教材** です。
+> 💡 特に **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** は、**実務経験に基づく中核教材** です（※内容は教育目的に再構成されており、特定製品や企業とは無関係です）。
 
 ---
 
@@ -43,7 +43,7 @@
 | **中核教材** | 解説 |
 |--------------|------|
 | **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学習 |
-| **[EduController](https://samizo-aitl.github.io/EduController/)** ＋ **[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | **FSM・PID・LLM制御** を段階的に学べる教材と、**HDLテンプレート** 一式 |
+| **[EduController](https://samizo-aitl.github.io/EduController/)** ＋ **[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | **FSM・PID・LLM制御** を段階的に学べる教材と、**HDLテンプレート** 一式（※Verilog/Cなどの記述はAI支援によるもので、筆者は制御・構成側の設計を担当） |
 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** ＋ **[PoCマニュアル](https://samizo-aitl.github.io/AITL-H/docs/)** | **知能制御アーキテクチャ** を **PoC（概念実証）** として再現可能な統合構成 |
 
 <div align="center">
@@ -58,10 +58,10 @@
 以下では、**政策・技術連携・LLM導入** に関する構想や提案を示しています：
 
 - 🧩 **[国家提言：AITL構想](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**  
-　**教育 × AI × 制御** を軸とした **中長期的ビジョン**
+　**教育 × AI × 制御** を軸とした **中長期的ビジョン**（※AI活用の教育導入とPoC設計連携の提案を含む）
 
 - 🤝 **[OpenAI向けメッセージ](./about/openai-message.md)**  
-　**ChatGPT活用事例** と **統合設計への提案**
+　**ChatGPT活用事例** と **統合設計への提案**（※教材整備・国際展開への活用方法も含まれています）
 
 ---
 
@@ -95,7 +95,7 @@
 ---
 
 © 2025 **Shinichi Samizo** — **MIT License**  
-教材・コード・図面・テンプレートは、**MITライセンス** のもとで自由にご活用いただけます。
+教材・コード・図面・テンプレートは、**MITライセンス** のもとで自由にご活用いただけます（※本サイトは教育・研究用途を主眼としており、商用製品との直接的関連はありません）。
 
 ---
 
@@ -104,21 +104,3 @@
 ![技術統合アーキテクチャ](./images/technology_architecture_realistic_version.png)
 
  *図: 半導体・AI・制御・ロボティクスを統合する「Samizo-AITL」の技術構想を象徴的に表現した写実イメージ。人間の指示による知能制御（PID）とAI学習が、ロボットや回路制御と融合する未来を示しています。*
-
----
-
-## 📝 脚注・注釈
-
-[^1]: **注1：AI支援に関する説明**  
-本サイトの一部教材は、ChatGPT（GPT-4）を補助的に活用しながら構成・整形しています。内容の構造設計・技術検証・記述責任はすべて筆者が担っており、AI生成物に対する教育的・技術的意図の明確化を重視しています。
-
-[^2]: **注2：著者の技術背景と範囲**  
-筆者は半導体プロセス・デバイス・アクチュエータ設計を主軸としており、VerilogやC言語などのHDL/論理記述には実務経験がありません。FSMやPID、LLMなどの教材内容は、教育構造の視点から整理・再構成されたものであり、コード実装に関してはAI支援と既存教材の活用を前提としています。
-
-[^3]: **注3：教育・教材としての立場について**  
-本ポータルで提供するすべての資料は、教育・研究・PoC（概念実証）目的であり、特定企業や製品の製造フロー・知財とは関係ありません。使用に際しては、各自の責任において適切な検証・再構成を行ってください。
-
-[^4]: **注4：開発中のプロジェクトと未収録部分について**  
-FlaskベースのSemiTechBotアプリ、CADファイル（.prt / .asm）、一部PoCテンプレートは現在開発・整理中です。進捗に応じて順次公開予定です。
-
----
