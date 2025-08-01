@@ -43,6 +43,7 @@
 | **中核教材** | 解説 |
 |--------------|------|
 | **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学習 |
+| **[SystemDK編（特別編 第2a章）](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/f_chapter2a_systemdk)** | SystemDKによる **物理制約統合設計（SI/PI・熱・応力・EMI/EMC）** と、<br>**GAA / AMS / MRAM** を統合した PoC事例教材 |
 | **[EduController](https://samizo-aitl.github.io/EduController/)** ＋ **[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | **FSM・PID・LLM制御** を段階的に学べる教材と、**HDLテンプレート** 一式（※Verilog/Cなどの記述はAI支援によるもので、筆者は制御・構成側の設計を担当） |
 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** ＋ **[PoCマニュアル](https://samizo-aitl.github.io/AITL-H/docs/)** | **知能制御アーキテクチャ** を **PoC（概念実証）** として再現可能な統合構成 |
 
