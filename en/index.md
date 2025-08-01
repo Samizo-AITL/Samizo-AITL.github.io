@@ -39,13 +39,14 @@ The **Samizo-AITL** initiative is based on a vision of **technical integration a
 
 ---
 
-## 📘 **Core Curriculum and PoC Frameworks**
+## 📘 **Core Materials and PoC Architecture Overview**
 
-| **Project** | **Details** |
-|-------------|-------------|
-| **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | **Comprehensive learning** on **semiconductor process**, **device**, **design**, **test**, and **reliability** |
-| **[EduController](https://samizo-aitl.github.io/EduController/)** + **[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | **9-chapter curriculum** on **FSM**, **PID**, **LLM**, and **HDL-based PoC**<br><br>*Note: Verilog code is AI-assisted and reviewed for consistency.* |
-| **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** + **[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | **Three-layer intelligent control system**:<br><br>**FSM (instinct)** × **PID (reason)** × **LLM (knowledge)** |
+| **Core Material** | Description |
+|-------------------|-------------|
+| **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | A foundational curriculum covering **semiconductor process, devices, design, test, and reliability** in a systematic way. |
+| ┗ 📦 **[SystemDK Edition (Special Chapter 2a)](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/f_chapter2a_systemdk)** | A special edition within Edusemi-v4x focusing on **integrated physical constraint design** including **SI/PI, thermal, stress, EMI/EMC**, and a **PoC case study integrating GAA / AMS / MRAM** via chiplets. |
+| **[EduController](https://samizo-aitl.github.io/EduController/)** + **[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | A step-by-step control × AI learning package, covering **FSM, PID, and LLM-based control**, with **HDL templates**.<br>※ Verilog/C code generation is AI-assisted; control architecture and structure are designed by the author. |
+| **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** + **[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | A fully integrated concept-proving structure of **three-layer intelligent control architecture (FSM × PID × LLM)** designed for PoC education and system thinking. |
 
 <div align="center">
   <img src="../images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
