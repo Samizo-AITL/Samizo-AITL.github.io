@@ -5,6 +5,13 @@ including GitHub Pages site updates, new materials, structural revisions, and RE
 
 | Date       | Description                                                                 |
 |------------|-----------------------------------------------------------------------------|
+| 2025-08-01 | Added English version of FeRAM material (0.18μm PZT process)               |
+| 2025-08-01 | Added DRAM wafer test classification archive (Bin5/Bin6)                   |
+| 2025-07-31 | Added bilingual materials on LDMOS and HV-CMOS structures                  |
+| 2025-07-30 | Added concept note on 0.18μm AMS design (Poly resistor variation)          |
+| 2025-07-29 | Added comparative materials on FinFET and GAA structures                   |
+| 2025-07-28 | Added new section on MOS reliability (TDDB, Qbd, breakdown modes)          |
+| 2025-07-27 | Added bilingual document on 0.18μm logic process flow                    
 | 2025-07-21 | Added EduLms (Structured LMS for ISO Quality, Environment, and Training)   |
 | 2025-07-20 | Added "AITL-Strategy-Proposal" repository for national strategy proposal    |
 | 2025-07-19 | Added Edusemi-Plus section to portfolio / reorganized `index.md`            |
