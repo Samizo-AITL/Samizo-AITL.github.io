@@ -49,7 +49,9 @@
 
 <div align="center">
   <img src="./images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
-  <p><em><strong>「半導体開発」→「制御・AI設計」→「知能PoC」へとつながる、三層技術統合の中核教材です。</strong></em></p>
+  <p><em><strong>
+    半導体・制御・AIを統合し、知能制御の応用例を実装・評価する三層構成の教材です。
+  </strong></em></p>
 </div>
 
 ---
