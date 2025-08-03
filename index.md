@@ -11,18 +11,18 @@
 
 | アイコン | **プロジェクト名** | 分野 | 内容 |
 |---------|--------------------|------|------|
-| 🧠 | **[SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/)** | [🟨 AI] | ChatGPTの **プロンプト設計** と **支援テンプレート** 集（※一部にAI支援を活用していますが、構成・検証・記述責任はすべて筆者が担っています） |
-| 📡 | **[SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)** | [🟦 半導体] [🟨 AI] | **半導体技術支援** に特化した **チャットボット**（SamizoGPT応用）<br>⚠️ FlaskベースのBotアプリは現在 **開発中** です（※UI設計およびFlask連携を整備中。順次公開予定） |
-| 📘 | **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | [🟦 半導体] | **プロセス・設計・PDK演習** を体系的に学べる **半導体教材** |
-| ➕ | **[Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/)** | [🟦 半導体] [🟥 材料] [🟨 AI] [🟧 投資] [🟫 地政学] [🏭 産業] | **材料・AI・産業・地政学・投資**の視点で、**半導体と社会構造**を結ぶ**拡張教材**。Edusemiと連携しRapidusなどの事例も収録。 |
-| 🎛️ | **[EduController](https://samizo-aitl.github.io/EduController/)** | [🟥 制御] [🟨 AI] | **PID制御〜LLM統合** までを扱う **制御×AI教材**（※FSMやLLM制御に関するHDL記述はAI支援に基づき、構造設計・教育目的で構成） |
-| 🛠️ | **[EduMecha](https://samizo-aitl.github.io/EduMecha/)** | [🔵 機械] | **Creoによる機械設計演習**（**筐体構造設計**）<br>※⚠️ **CADファイル**（.prt / .asm）は未収録です（※著作権・互換性の都合により現時点では非公開） |
-| 🧠 | **[EduLms](https://samizo-aitl.github.io/EduLms/)** | [🟩 教育] | **品質・環境・技能訓練**を統合した、**学習管理システム（LMS）対応教材**です。 |
-| 🤖 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** | [🟨 AI] [🟥 制御] | **FSM × PID × LLM** による **三層型知能制御アーキテクチャ**（※実装コードよりも教育的理解と構造設計を重視） |
-| 🖨️ | **[Inkjet](https://samizo-aitl.github.io/Inkjet/)** | [⚙️ 製品技術] | **インクジェット構造・駆動波形・評価データ** のアーカイブ |
-| 💰 | **[AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)** | [🟧 投資] | **ETF・NISA** を活用した **技術者向け資産運用教材** |
-| 🎮 | **[Rekiden](https://samizo-aitl.github.io/Rekiden/)** | [🟪 歴史] [🧠 LLM] | ChatGPT連携の **歴史シミュレーション教材** |
-| 🧩 | **[AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)** | [🏛️ 政策提言] | **教育 × AI × 制御** を軸とした **国家戦略提言** |
+| 🧠 | **[SamizoGPT](https://samizo-aitl.github.io/SamizoGPT/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/SamizoGPT) | [🟨 AI] | ChatGPTの **プロンプト設計** と **支援テンプレート** 集（※一部にAI支援を活用していますが、構成・検証・記述責任はすべて筆者が担っています） |
+| 📡 | **[SemiTechBot](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot) | [🟦 半導体] [🟨 AI] | **半導体技術支援** に特化した **チャットボット**（SamizoGPT応用）<br>⚠️ FlaskベースのBotアプリは現在 **開発中** です（※UI設計およびFlask連携を整備中。順次公開予定） |
+| 📘 | **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Edusemi-v4x) | [🟦 半導体] | **プロセス・設計・PDK演習** を体系的に学べる **半導体教材** |
+| ➕ | **[Edusemi-Plus](https://samizo-aitl.github.io/Edusemi-Plus/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Edusemi-Plus) | [🟦 半導体] [🟥 材料] [🟨 AI] [🟧 投資] [🟫 地政学] [🏭 産業] | **材料・AI・産業・地政学・投資**の視点で、**半導体と社会構造**を結ぶ**拡張教材**。Edusemiと連携しRapidusなどの事例も収録。 |
+| 🎛️ | **[EduController](https://samizo-aitl.github.io/EduController/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduController) | [🟥 制御] [🟨 AI] | **PID制御〜LLM統合** までを扱う **制御×AI教材**（※FSMやLLM制御に関するHDL記述はAI支援に基づき、構造設計・教育目的で構成） |
+| 🛠️ | **[EduMecha](https://samizo-aitl.github.io/EduMecha/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduMecha) | [🔵 機械] | **Creoによる機械設計演習**（**筐体構造設計**）<br>※⚠️ **CADファイル**（.prt / .asm）は未収録です（※著作権・互換性の都合により現時点では非公開） |
+| 🧠 | **[EduLms](https://samizo-aitl.github.io/EduLms/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduLms) | [🟩 教育] | **品質・環境・技能訓練**を統合した、**学習管理システム（LMS）対応教材**です。 |
+| 🤖 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-H) | [🟨 AI] [🟥 制御] | **FSM × PID × LLM** による **三層型知能制御アーキテクチャ**（※実装コードよりも教育的理解と構造設計を重視） |
+| 🖨️ | **[Inkjet](https://samizo-aitl.github.io/Inkjet/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Inkjet) | [⚙️ 製品技術] | **インクジェット構造・駆動波形・評価データ** のアーカイブ |
+| 💰 | **[AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) | [🟧 投資] | **ETF・NISA** を活用した **技術者向け資産運用教材** |
+| 🎮 | **[Rekiden](https://samizo-aitl.github.io/Rekiden/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Rekiden) | [🟪 歴史] [🧠 LLM] | ChatGPT連携の **歴史シミュレーション教材** |
+| 🧩 | **[AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [🏛️ 政策提言] | **教育 × AI × 制御** を軸とした **国家戦略提言** |
 
 ---
 
@@ -42,10 +42,10 @@
 
 | **中核教材** | 解説 |
 |--------------|------|
-| **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学べる基盤教材。|
+| **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Edusemi-v4x) | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学べる基盤教材。|
 | ┗ 📦 **[SystemDK編（特別編 第2a章）](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/f_chapter2a_systemdk)** | **SI/PI・熱・応力・EMI/EMC** の物理制約を統合設計し、<br>**GAA / AMS / MRAM** を活用した異種統合PoCを扱う特別編教材（Edusemi-v4x内包） |
-| **[EduController](https://samizo-aitl.github.io/EduController/)** ＋ **[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | **FSM・PID・LLM制御** を段階的に学ぶ教材と、**HDL記述テンプレート** 一式。<br>※Verilog/Cコード生成はAI支援、筆者は制御構成を担当 |
-| **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** ＋ **[PoCマニュアル](https://samizo-aitl.github.io/AITL-H/docs/)** | **三層型知能制御アーキテクチャ（FSM×PID×LLM）** を概念実証（PoC）として再現可能な統合教材 |
+| **[EduController](https://samizo-aitl.github.io/EduController/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduController) ＋<br>**[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduController/tree/main/SoC_DesignKit_by_ChatGPT) | **FSM・PID・LLM制御** を段階的に学ぶ教材と、**HDL記述テンプレート** 一式。<br>※Verilog/Cコード生成はAI支援、筆者は制御構成を担当 |
+| **[AITL-H](https://samizo-aitl.github.io/AITL-H/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-H) ＋<br>**[PoCマニュアル](https://samizo-aitl.github.io/AITL-H/docs/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | **三層型知能制御アーキテクチャ（FSM×PID×LLM）** を概念実証（PoC）として再現可能な統合教材 |
 
 <div align="center">
   <img src="./images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
