@@ -18,12 +18,14 @@ Shinichi Samizo is an engineer and designer who has continuously evolved from **
   > *Led the mass production ramp-up of a 0.25μm-generation DRAM, covering end-to-end process design, defect analysis, and yield improvement.*  
   > 🔗 [More details › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)
 
-- **Phase 2: PZT Materials and Actuator Development (2007–2012)**  
-  After evaluating PZT processes for FeRAM, he expanded into **thin-film piezoelectric actuator development**.  
-  *Contributed to structural analysis and reliability improvement of PZT films.*
+- **Phase 2: Development of Piezoelectric Materials and Actuators (2007–2012)**
 
-  > 👉 **Conceptual Process Flow for Education:**  
-  > 📘 [0.18μm FeRAM Process Flow (Educational Model)](https://github.com/Samizo-AITL/Edusemi-v4x/blob/main/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow.md)
+Following the characterization of PZT processes for FeRAM,  
+the focus expanded to the **development of thin-film piezoelectric actuators**.  
+**Contributed to structural analysis and reliability assurance of PZT films.**
+
+> 👉 **Process Flow for Educational Use:**  
+> 📘 [0.18μm FeRAM Process Flow (Conceptual Process Material)](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)
 
 - **Phase 3: Productization of PrecisionCore and Educational Initiatives (2012–)**
 Led the advancement of **head electronics technologies**, focusing on **COF-based driver IC implementation** for the next-generation printhead "PrecisionCore."  
