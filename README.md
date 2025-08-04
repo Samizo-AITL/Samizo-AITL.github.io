@@ -56,7 +56,7 @@ ISO 9001 / 14001、PDCA、QCツール、FSM設計などを統合した**教育LM
 ▶︎ [GitHub](https://github.com/Samizo-AITL/AITL-H)｜[Site](https://samizo-aitl.github.io/AITL-H/)
 
 ### 🖨️ Inkjet｜インクジェット技術アーカイブ  
-PrecisionCoreや薄膜ピエゾを中心とした**インクジェット制御・構造・波形設計のアーカイブ**。  
+**インクジェット制御・構造・波形設計のアーカイブ**。  
 ▶︎ [GitHub](https://github.com/Samizo-AITL/Inkjet)｜[Site](https://samizo-aitl.github.io/Inkjet/)
 
 ### 💰 AssetPortfolio｜テック系資産運用教材  
