@@ -38,7 +38,7 @@ ChatGPT API × Flask による**半導体技術支援Bot**。プロセス開発�
 ▶︎ [GitHub](https://github.com/Samizo-AITL/Edusemi-Plus)｜[Site](https://samizo-aitl.github.io/Edusemi-Plus/)
 
 ### 🎛️ EduController｜制御理論・AI制御教材  
-PID〜LLM統合制御まで、9章構成の**AI制御カリキュラム＋HDLテンプレート群（SoC_DesignKit）**付き。  
+PID〜LLM統合制御まで、10章構成の**AI制御カリキュラム＋HDLテンプレート群（SoC_DesignKit）**付き。  
 ▶︎ [GitHub](https://github.com/Samizo-AITL/EduController)｜[Site](https://samizo-aitl.github.io/EduController/)
 
 ### 🛠️ EduMecha｜機械・筐体設計教材（Creo演習）  
