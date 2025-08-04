@@ -30,7 +30,7 @@ FeRAM向けPZTプロセスの特性評価を経て、**薄膜ピエゾアクチ�
 *PZT膜の構造解析と信頼性確保に貢献。*
 
 > 👉 **教材化プロセスフロー：**  
-> 📘 [0.18μm FeRAM Process Flow（構想プロセス教材）](https://github.com/Samizo-AITL/Edusemi-v4x/blob/main/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow.html)
+> 📘 [0.18μm FeRAM Process Flow（構想プロセス教材）](https://samizo-aitl.github.io/Edusemi-v4x/blob/main/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow.html)
 
 ---
 
