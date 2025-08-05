@@ -38,7 +38,7 @@ Building and promoting an open framework called **Samizo-AITL**, focusing on
 **educational support, prompt engineering, and AI-integrated control design**.
 
 > As part of the ongoing activities, a comprehensive parameter comparison table for FinFET and GAA nodes has been compiled:  
-> 👉 [appendixf1_05_node_params.md (View on GitHub)](https://github.com/Samizo-AITL/Edusemi-v4x/blob/main/f_chapter1_finfet_gaa/appendixf1_05_node_params.md)
+> 👉 [FinFET / GAA Node Parameter Comparison Table (Web version)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
 
 ---
 
