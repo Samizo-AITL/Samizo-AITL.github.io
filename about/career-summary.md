@@ -45,6 +45,10 @@ FeRAM向けPZTプロセスの特性評価を経て、**薄膜ピエゾアクチ�
 これらの経験を基盤に、**教育支援・プロンプト設計・AI制御統合設計**をテーマとした  
 オープンフレームワーク「**Samizo-AITL**」の構築と発信を推進中。
 
+> 現在の活動の一環として、各ノード世代のFinFET / GAAパラメータ比較表を以下にまとめています：  
+> As part of current research activities, a comparative parameter table for FinFET and GAA nodes is available here:  
+> 👉 [appendixf1_05_node_params.md（FinFET / GAA 各世代パラメータ一覧）](https://samizo-git.github.io/edusemi-v5/f_chapter1_finfet_gaa/appendixf1_05_node_params.md)
+
 ---
 
 > **⚠️ 注記**  
