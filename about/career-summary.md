@@ -49,7 +49,7 @@ FeRAM向けPZTプロセスの特性評価を経て、**薄膜ピエゾアクチ�
 > As part of current research activities, a comparative parameter table for FinFET and GAA nodes is available here:  
 > 👉 [appendixf1_05_node_params.md（FinFET / GAA 各世代パラメータ一覧）](https://samizo-git.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params.html)
 
-👉 [appendixf1_05_node_params.md（GitHub表示）](https://github.com/samizo-git/Edusemi-v4x/blob/main/f_chapter1_finfet_gaa/appendixf1_05_node_params.md)
+👉 [appendixf1_05_node_params.md（GitHub表示）](https://github.com/Samizo-AITL/Edusemi-v4x/blob/main/f_chapter1_finfet_gaa/appendixf1_05_node_params.md)
 
 ---
 
