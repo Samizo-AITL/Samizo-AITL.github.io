@@ -37,12 +37,14 @@ Also dedicated efforts to establishing systems for **BOM standardization, ISO tr
 Building and promoting an open framework called **Samizo-AITL**, focusing on  
 **educational support, prompt engineering, and AI-integrated control design**.
 
-> **Note**  
-> The process information presented here—such as for DRAM or FeRAM—is based on **conceptual models designed by Shinichi Samizo for educational purposes**, and is **not related to any actual product development, company manufacturing process, or confidential information**.  
-> The description of the 64M DRAM startup (1998) is also **based on personal experience and does not disclose any corporate secrets**.
-
 > As part of the ongoing activities, a comprehensive parameter comparison table for FinFET and GAA nodes has been compiled:  
 > 👉 [appendixf1_05_node_params.md (View on GitHub)](https://github.com/Samizo-AITL/Edusemi-v4x/blob/main/f_chapter1_finfet_gaa/appendixf1_05_node_params.md)
+
+---
+
+**Note**  
+The process information presented here—such as for DRAM or FeRAM—is based on **conceptual models designed by Shinichi Samizo for educational purposes**, and is **not related to any actual product development, company manufacturing process, or confidential information**.  
+The description of the 64M DRAM startup (1998) is also **based on personal experience and does not disclose any corporate secrets**.
 
 ---
 
