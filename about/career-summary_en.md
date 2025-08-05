@@ -42,9 +42,9 @@ Building and promoting an open framework called **Samizo-AITL**, focusing on
 
 ---
 
-**Note**  
-The process information presented here—such as for DRAM or FeRAM—is based on **conceptual models designed by Shinichi Samizo for educational purposes**, and is **not related to any actual product development, company manufacturing process, or confidential information**.  
-The description of the 64M DRAM startup (1998) is also **based on personal experience and does not disclose any corporate secrets**.
+> **Note**  
+> The process information presented here—such as for DRAM or FeRAM—is based on **conceptual models designed by Shinichi Samizo for educational purposes**, and is **not related to any actual product development, company manufacturing process, or confidential information**.  
+> The description of the 64M DRAM startup (1998) is also **based on personal experience and does not disclose any corporate secrets**.
 
 ---
 
