@@ -42,7 +42,7 @@ that supports learning, development, and real-world implementation.
 
 The **Samizo-AITL** initiative is based on a vision of **technical integration across disciplines**, combining:
 
-- **Semiconductor × Control Theory × Mechanical Design × AI × Educational Engineering**
+- **Semiconductor × Control Theory × AI × Educational Engineering**
 - **GPT/LLM-assisted support** for **design**, **learning**, and **implementation**  
   <br><br>*Note: GPT is used for assisted structuring. Final validation and authorship are handled entirely by the creator.*
 - All projects and materials are released under the **MIT License**
