@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Samizo-AITL.github.io/index.md
+title: 
 ---
 
 # Samizo-AITL Portal
