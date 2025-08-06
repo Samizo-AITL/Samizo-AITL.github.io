@@ -1,12 +1,19 @@
-🛠️ **Career Summary**
+---
+layout: default 
+title:  経験要約 / Career Summary
+---
+
+---
+
+# 🛠️ **Career Summary**
 
 Shinichi Samizo is an engineer and designer who has continuously evolved from **control theory and electromagnetic field analysis** to **semiconductor device development**, **PZT actuators**, and the **commercialization of PrecisionCore printheads**, deepening his expertise through a consistent flow of **“Technology → Systems → Education.”**
 
 ---
 
-📘 **Career by Phase**
+## 📘 Career by Phase**
 
-**🔹 Phase 1: From Control Systems to Semiconductor Devices (1994–2006)**  
+### 🔹 Phase 1: From Control Systems to Semiconductor Devices (1994–2006)
   Started with **control system design using MATLAB/Simulink** and conducted early research on **thin-film microreactors** during his university years.  
   > 🧪 [Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor.html)  
   > *Ferrite + Al spiral coil structure, analyzing loss mechanisms at 500 kHz–1 MHz (undergraduate research).*
@@ -18,7 +25,7 @@ Shinichi Samizo is an engineer and designer who has continuously evolved from **
   > *Led the mass production ramp-up of a 0.25μm-generation DRAM, covering end-to-end process design, defect analysis, and yield improvement.*  
   > 🔗 [More details › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)
 
-**🔹 Phase 2: Development of Piezoelectric Materials and Actuators (2007–2012)**
+### 🔹 Phase 2: Development of Piezoelectric Materials and Actuators (2007–2012)
 
 Following the characterization of PZT processes for FeRAM,  
 the focus expanded to the **development of thin-film piezoelectric actuators**.  
@@ -27,13 +34,13 @@ the focus expanded to the **development of thin-film piezoelectric actuators**.
 > 👉 **Process Flow for Educational Use:**  
 > 📘 [0.18μm FeRAM Process Flow (Conceptual Process Material)](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)
 
-**🔹 Phase 3: Productization of PrecisionCore and Educational Initiatives (2012–)**
+### 🔹 Phase 3: Productization of PrecisionCore and Educational Initiatives (2012–)
 Led the advancement of **head electronics technologies**, focusing on **COF-based driver IC implementation** for the next-generation printhead "PrecisionCore."  
 Also dedicated efforts to establishing systems for **BOM standardization, ISO training, and technical knowledge transfer**.
 
 ---
 
-🎯 **Current Activities**  
+### 🎯 Current Activities
 Building and promoting an open framework called **Samizo-AITL**, focusing on  
 **educational support, prompt engineering, and AI-integrated control design**.
 
