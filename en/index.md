@@ -7,7 +7,7 @@ title:
 
 # Samizo-AITL Portal 
 
-> This site serves as the central gateway to a series of **educational**, **design**, **PoC (Proof of Concept)**, and **AI-integrated** projects developed by **Shinichi Samizo**.
+This site serves as the central gateway to a series of **educational**, **design**, **PoC (Proof of Concept)**, and **AI-integrated** projects developed by **Shinichi Samizo**.
 
 - 🇯🇵 **[View in Japanese](../index.md)**
 - 🔗 **[GitHub Repository Index](https://github.com/Samizo-AITL/)**  
