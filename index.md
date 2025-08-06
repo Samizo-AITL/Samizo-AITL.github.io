@@ -3,6 +3,8 @@ layout: default
 title: 
 ---
 
+---
+
 # Samizo-AITL Portal
 
 > このサイトは、**三溝真一（Shinichi Samizo）** による、**教育・設計・PoC（概念実証）・AI統合**をテーマとしたプロジェクトのポータルです。
