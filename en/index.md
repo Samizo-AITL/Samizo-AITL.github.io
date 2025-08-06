@@ -7,7 +7,12 @@ title:
 
 # Samizo-AITL Portal 
 
-This site serves as the central gateway to a series of **educational**, **design**, **PoC (Proof of Concept)**, and **AI-integrated** projects developed by **Shinichi Samizo**.
+**The Samizo-AITL Portal** is a personal project by Shinichi Samizo.  
+It aims to **systematically organize and interconnect** the knowledge, technologies, and phenomena  
+behind diverse fields such as **semiconductors, control systems, AI, education, and PoC (Proof of Concept)**.
+
+By reconnecting fragmented information, this portal builds a **structured foundation**  
+that supports learning, development, and real-world implementation.
 
 - 🇯🇵 **[View in Japanese](../index.md)**
 - 🔗 **[GitHub Repository Index](https://github.com/Samizo-AITL/)**  
