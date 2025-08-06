@@ -1,4 +1,11 @@
-🛠️ **経験要約 / Career Summary**
+---
+layout: default 
+title:  経験要約 / Career Summary
+---
+
+---
+
+# 🛠️ 経験要約 / Career Summary
 
 三溝真一は、制御理論・電磁界解析から半導体デバイス開発、PZTアクチュエータ、PrecisionCoreプリントヘッド製品化に至るまで、  
 **「技術 → 仕組み → 教育」へと連続的に深化してきた技術者・設計者**です。
