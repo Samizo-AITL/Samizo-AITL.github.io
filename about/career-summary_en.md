@@ -1,6 +1,6 @@
 ---
 layout: default 
-title:  経験要約 / Career Summary
+title:  Career Summary
 ---
 
 ---
