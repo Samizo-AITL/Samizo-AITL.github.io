@@ -3,7 +3,7 @@ layout: default
 title: Samizo-AITL.github.io/index.md
 ---
 
-# Samizo-AITL ポータル
+# Samizo-AITL Portal
 
 > このサイトは、**三溝真一（Shinichi Samizo）** による、**教育・設計・PoC（概念実証）・AI統合**をテーマとしたプロジェクトのポータルです。
 
