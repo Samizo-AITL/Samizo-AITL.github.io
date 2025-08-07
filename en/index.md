@@ -120,7 +120,9 @@ and are free to use for research and educational purposes (not tied to any comme
 
 ## 🖼️ **Technology Integration Architecture (Realistic Illustration)**
 
-![Technology Architecture](../images/technology_architecture_realistic_version.png)
+<p align="center">
+  <img src="../images/technology_architecture_realistic_version.png" alt="Technology Architecture" style="width:80%;">
+</p>
 
 *Illustration: A symbolic vision of “Samizo-AITL” integrating Semiconductors, AI, Control, and Robotics.  
 It depicts a future where physical movement, intelligent control (PID), and AI learning converge under human guidance.*
