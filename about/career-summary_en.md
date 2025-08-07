@@ -33,8 +33,6 @@ title: Career Summary
 > 🔗 [Details › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)  
 {: .annotation}
 
----
-
 ### 🔹 Phase 2: PZT Materials and Actuator Development (2007–2012)
 
 - Transitioned from FeRAM-oriented PZT process evaluation to **thin-film piezoelectric actuator development**  
@@ -43,8 +41,6 @@ title: Career Summary
 > 👉 **Process Flow for Educational Use**  
 > 📘 [0.18μm FeRAM Process Flow (conceptual model for teaching)](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)  
 {: .annotation}
-
----
 
 ### 🔹 Phase 3: PrecisionCore Productization and Engineering Education (2012–)
 
