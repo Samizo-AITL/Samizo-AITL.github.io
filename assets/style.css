@@ -66,10 +66,10 @@ th, td {
   color: #555;
   background-color: #f9f9f9;
   border-left: 3px solid #ccc;
-  padding: 0.2em 0.8em;
-  margin: 0.4em 0;
-  border-radius: 4px;
-  line-height: 1.4;
+  padding: 0.1em 0.6em;     /* 余白をコンパクトに */
+  margin: 0.2em 0;          /* 上下余白も圧縮 */
+  border-radius: 3px;
+  line-height: 1.3;
 }
 
 /* 図サイズ調整 */
