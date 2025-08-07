@@ -3,12 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/style.css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="{{ page.description | default: site.description }}" />
+    <meta name="author" content="{{ site.author.name | default: 'Samizo-AITL' }}" />
+    <title>{{ page.title | default: site.title }}</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
+
+    <!-- Favicon（必要に応じて） -->
+    <!-- <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}"> -->
   </head>
   <body>
+    <header>
+      <!-- 必要に応じてヘッダー -->
+    </header>
+
     <main>
       {{ content }}
     </main>
+
+    <footer>
+      <!-- 必要に応じてフッター -->
+    </footer>
   </body>
 </html>
