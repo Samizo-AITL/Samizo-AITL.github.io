@@ -49,10 +49,15 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 Samizo-AITLは、**半導体 × 制御 × AI** を結ぶ構造を軸に、  
 「物理現象の構造を読み、PoCで試し、AIで支援する」枠組みを構築しています。
 
-> 教材やPoCはすべて MITライセンス で公開され、  
-> ChatGPTなどの支援はあくまで補助的に活用し、全体構成と記述の責任は筆者が担っています。
+<div class="annotation">
+📜 教材やPoCはすべて MITライセンス で公開され、  
+ChatGPTなどの支援はあくまで補助的に活用し、全体構成と記述の責任は筆者が担っています。
+</div>
 
-> 💡 特に **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** は、**実務経験に基づく中核教材** です（※内容は教育目的に再構成されており、特定製品や企業とは無関係です）。
+<div class="annotation">
+💡 特に <strong><a href="https://samizo-aitl.github.io/Edusemi-v4x/">Edusemi-v4x</a></strong> は、<strong>実務経験に基づく中核教材</strong> です  
+（※内容は教育目的に再構成されており、特定製品や企業とは無関係です）。
+</div>
 
 ---
 
