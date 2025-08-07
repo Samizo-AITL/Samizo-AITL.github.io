@@ -4,30 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }}</title>
-
-    <!-- ✅ Minima のCSS（Jekyllのテーマによる） -->
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
-
-    <!-- ✅ カスタムCSS -->
-    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
-
-    <!-- ✅ Faviconなどを追加したい場合ここに -->
+    <link rel="stylesheet" href="/assets/style.css" />
   </head>
   <body>
-    <header>
-      <h1>{{ site.title }}</h1>
-      {% if site.description %}
-        <p>{{ site.description }}</p>
-      {% endif %}
-    </header>
-
     <main>
       {{ content }}
     </main>
-
-    <footer>
-      <hr />
-      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}</p>
-    </footer>
   </body>
 </html>
