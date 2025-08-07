@@ -10,7 +10,7 @@ body {
   margin: auto;
 }
 
-/* 引用の装飾を改善 */
+/* 引用の装飾（一般的な > 用） */
 blockquote {
   background: #f8f9fa;
   border-left: 4px solid #007acc;
@@ -20,7 +20,27 @@ blockquote {
   color: #333;
 }
 
-/* リンクの色 */
+/* 注釈ボックス（Markdown {: .annotation} 用のクラス） */
+.annotation {
+  font-size: 0.9em;
+  color: #555;
+  background-color: #f9f9f9;
+  border-left: 4px solid #007acc;
+  padding: 0.4em 0.8em;
+  margin: 0.5em 0;
+  border-radius: 3px;
+  line-height: 1.5;
+}
+
+/* コンパクト注釈（必要に応じてクラス分け） */
+.annotation-narrow {
+  font-size: 0.85em;
+  padding: 0.3em 0.6em;
+  margin: 0.3em 0;
+  line-height: 1.4;
+}
+
+/* リンクのスタイル */
 a {
   color: #007acc;
   text-decoration: none;
@@ -60,18 +80,6 @@ th, td {
   text-align: left;
 }
 
-/* 注釈ボックス（コンパクトに調整） */
-.annotation {
-  font-size: 0.88em;
-  color: #555;
-  background-color: #f9f9f9;
-  border-left: 3px solid #ccc;
-  padding: 0.1em 0.6em;     /* 余白をコンパクトに */
-  margin: 0.2em 0;          /* 上下余白も圧縮 */
-  border-radius: 3px;
-  line-height: 1.3;
-}
-
 /* 図サイズ調整 */
 img {
   max-width: 100%;
@@ -87,7 +95,7 @@ img.shrink-70 {
 /* モバイル・タブレット対応 */
 @media (max-width: 768px) {
   body {
-    font-size: 1.1em;
+    font-size: 1.05em;
     padding: 0.8em;
   }
 
@@ -103,15 +111,12 @@ img.shrink-70 {
     font-size: 1.1em;
   }
 
-  main {
-    padding: 0 1em;
-  }
-
   table {
     font-size: 0.95em;
   }
 
-  .annotation {
+  .annotation,
+  .annotation-narrow {
     font-size: 0.95em;
     padding: 0.4em 0.8em;
   }
