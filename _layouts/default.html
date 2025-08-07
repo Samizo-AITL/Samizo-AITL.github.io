@@ -3,20 +3,22 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="{{ page.description | default: site.description }}" />
-    <meta name="author" content="{{ site.author.name | default: 'Samizo-AITL' }}" />
-    <title>{{ page.title | default: site.title }}</title>
+    <title>{{ page.title }}</title>
 
-    <!-- CSS -->
+    <!-- ✅ Minima のCSS（Jekyllのテーマによる） -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
+
+    <!-- ✅ カスタムCSS -->
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
 
-    <!-- Favicon（必要に応じて） -->
-    <!-- <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}"> -->
+    <!-- ✅ Faviconなどを追加したい場合ここに -->
   </head>
   <body>
     <header>
-      <!-- 必要に応じてヘッダー -->
+      <h1>{{ site.title }}</h1>
+      {% if site.description %}
+        <p>{{ site.description }}</p>
+      {% endif %}
     </header>
 
     <main>
@@ -24,7 +26,8 @@
     </main>
 
     <footer>
-      <!-- 必要に応じてフッター -->
+      <hr />
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}</p>
     </footer>
   </body>
 </html>
