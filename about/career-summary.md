@@ -19,14 +19,16 @@ title: 経験要約 / Career Summary
 > 🧪 **エピソード：薄膜マイクロリアクトル解析（1996–1997年）**  
 > フェライト系磁性体 + Alスパイラルコイル構造を用いたDCDCリアクトル設計。  
 > 500kHz〜1MHz領域におけるQ値損失とAl/Cu選定指針を提示。  
-> 🔗 [詳細はこちら › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor.html)
+> 🔗 [詳細はこちら › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor.html)  
+{: .annotation}
 
 1997年、セイコーエプソンに入社し、**0.35〜0.18μm世代のロジック・メモリ・高耐圧プロセスインテグレーション**を担当。  
 異なるトランジスタ特性を共存させるインテグレーションは非常に複雑で、設計・実装・検証を一貫して推進。
 
 > 🧩 **エピソード：64M DRAM立ち上げ（1998年）**  
 > 0.25μm世代DRAMの量産立ち上げを主導し、プロセス設計から不良解析・歩留まり改善までを一貫対応。  
-> 🔗 [詳細はこちら › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)
+> 🔗 [詳細はこちら › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)  
+{: .annotation}
 
 ---
 
@@ -36,7 +38,8 @@ FeRAM向けPZTプロセスの特性評価を経て、**薄膜ピエゾアクチ�
 **PZT膜の構造解析と信頼性確保に貢献。**
 
 > 👉 **教材化プロセスフロー：**  
-> 📘 [0.18μm FeRAM Process Flow（構想プロセス教材）](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)
+> 📘 [0.18μm FeRAM Process Flow（構想プロセス教材）](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)  
+{: .annotation}
 
 ---
 
@@ -53,14 +56,16 @@ FeRAM向けPZTプロセスの特性評価を経て、**薄膜ピエゾアクチ�
 オープンフレームワーク「**Samizo-AITL**」の構築と発信を推進中。
 
 > 📌 現在の活動の一環として、各ノード世代のFinFET / GAAパラメータ比較表を以下にまとめています：  
-> 👉 [FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
+> 👉 [FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
+{: .annotation}
 
 ---
 
 > ⚠️ **注記**  
 > 本ページに掲載のDRAMやFeRAM等のプロセス情報は、三溝真一による**教育・教材目的の構想モデル**に基づくものであり、  
 > **実在する製品開発・企業の製造フロー・機密情報とは一切関係ありません。**  
-> また、1998年当時のDRAM立ち上げに関する記述も、**個人の経験に基づく教育的記録であり、企業機密には該当しません。**
+> また、1998年当時のDRAM立ち上げに関する記述も、**個人の経験に基づく教育的記録であり、企業機密には該当しません。**  
+{: .annotation-narrow}
 
 ---
 
