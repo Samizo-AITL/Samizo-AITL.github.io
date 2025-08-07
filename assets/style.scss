@@ -45,7 +45,7 @@ pre, code {
   font-family: "Courier New", monospace;
 }
 
-/* 表の枠線スタイル */
+/* 表の枠線とフォーマット */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -60,7 +60,7 @@ th, td {
   text-align: left;
 }
 
-/* 📱 モバイル・タブレット対応 */
+/* モバイル・タブレット対応 */
 @media (max-width: 768px) {
   body {
     font-size: 1.1em;
@@ -85,6 +85,5 @@ th, td {
 
   table {
     font-size: 0.95em;
-    overflow-x: auto;
   }
 }
