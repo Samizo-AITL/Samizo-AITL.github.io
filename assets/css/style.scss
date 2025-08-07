@@ -1,0 +1,44 @@
+/* === Samizo-AITL Custom Style === */
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+  color: #222;
+  background: #fff;
+  padding: 1em;
+}
+
+/* 引用の装飾を改善 */
+blockquote {
+  background: #f8f9fa;
+  border-left: 4px solid #007acc;
+  margin: 1em 0;
+  padding: 0.8em 1em;
+  font-style: normal; /* 👈 斜体を無効化 */
+  color: #333;
+}
+
+/* リンクの色 */
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* セクション見出し */
+h1, h2, h3 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2em;
+  margin-top: 2em;
+  color: #003366;
+}
+
+/* コードブロックのスタイル改善 */
+pre, code {
+  background: #f4f4f4;
+  padding: 0.3em 0.6em;
+  border-radius: 4px;
+  font-family: "Courier New", monospace;
+}
