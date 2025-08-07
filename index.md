@@ -1,6 +1,7 @@
 ---
-layout: default 
-title:  
+layout: default
+title: Samizo-AITL Portal
+description: Samizoによる半導体×AI×制御 統合教材ポータル
 ---
 
 ---
