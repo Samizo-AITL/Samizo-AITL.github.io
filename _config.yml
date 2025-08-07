@@ -1,30 +1,31 @@
 title: Samizo-AITL
 description: Technical Portfolio by Shinichi Samizo
-theme: minima
+# ✅ minimaテーマは無効化（default.html + style.css を使うため）
+# theme: minima
 lang: ja
 
-# ✅ 手動ナビゲーション設定（自動リンクを抑制）
+# ✅ 手動ナビゲーション設定（不要な自動出力を抑制）
 header_pages:
   - index.md
   - en/index.md
 
-# ✅ 投稿記事の概要など不要な表示を抑制（minimaの仕様対策）
+# ✅ 投稿記事の概要や日付の表示を抑制
 show_excerpts: false
 
-# ✅ GitHub Pagesでは以下を有効にすることで Jekyll を正しく動作させる
+# ✅ Jekyll正しく動作させるための設定（GitHub Pages対応）
 markdown: kramdown
 kramdown:
   input: GFM
 
-# ✅ Sass（SCSS）対応を有効化（CSS変換のため）
+# ✅ Sass（SCSS）対応（/assets/style.scss → /assets/style.cssに変換）
 sass:
-  style: compressed  # or "expanded" for読みやすさ優先
+  style: compressed  # または "expanded"（開発時に見やすく）
 
-# ✅ baseurlやurlは後で使うならアンコメント
+# ✅ 今は不要なのでコメントアウト（必要時に有効化）
 # url: "https://samizo-aitl.github.io"
 # baseurl: ""
 
-# ✅ 将来的にexclude設定する場合
+# ✅ 将来的に除外ファイル指定する場合（今はコメントアウト）
 # exclude:
 #   - README.md
 #   - LICENSE
