@@ -20,10 +20,12 @@ blockquote {
   color: #333;
 }
 
-/* リンクの色 */
+/* リンクの色と装飾 */
 a {
   color: #007acc;
   text-decoration: none;
+  display: inline-block;
+  margin-right: 0.3em;
 }
 a:hover {
   text-decoration: underline;
@@ -50,7 +52,7 @@ table {
   border-collapse: collapse;
   width: 100%;
   margin-top: 1em;
-  font-size: 1em;
+  font-size: 1.05em;  /* モバイルでも読みやすく */
 }
 table, th, td {
   border: 1px solid #ccc;
@@ -58,6 +60,12 @@ table, th, td {
 th, td {
   padding: 0.6em;
   text-align: left;
+}
+
+/* カテゴリアイコン（絵文字）の余白調整 */
+img.icon, .emoji {
+  vertical-align: middle;
+  margin-right: 0.25em;
 }
 
 /* モバイル・タブレット対応 */
@@ -84,6 +92,6 @@ th, td {
   }
 
   table {
-    font-size: 0.95em;
+    font-size: 1em; /* 少し大きめに調整 */
   }
 }
