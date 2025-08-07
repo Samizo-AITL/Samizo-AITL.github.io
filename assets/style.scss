@@ -20,12 +20,10 @@ blockquote {
   color: #333;
 }
 
-/* リンクの色と装飾 */
+/* リンクの色 */
 a {
   color: #007acc;
   text-decoration: none;
-  display: inline-block;
-  margin-right: 0.3em;
 }
 a:hover {
   text-decoration: underline;
@@ -47,25 +45,34 @@ pre, code {
   font-family: "Courier New", monospace;
 }
 
-/* 表の枠線とフォーマット */
+/* 表のスタイル強化 */
 table {
   border-collapse: collapse;
   width: 100%;
-  margin-top: 1em;
-  font-size: 1.05em;  /* モバイルでも読みやすく */
+  margin-top: 1.5em;
+  margin-bottom: 2em;
+  font-size: 1.05em;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
-table, th, td {
-  border: 1px solid #ccc;
-}
-th, td {
-  padding: 0.6em;
+
+th {
+  background-color: #e9f2fb;
+  color: #003366;
+  border: 1px solid #bbb;
+  padding: 0.7em;
   text-align: left;
 }
 
-/* カテゴリアイコン（絵文字）の余白調整 */
-img.icon, .emoji {
+td {
+  border: 1px solid #ccc;
+  padding: 0.7em;
+  vertical-align: top;
+}
+
+td .emoji, td img.icon {
   vertical-align: middle;
-  margin-right: 0.25em;
+  margin-right: 0.4em;
 }
 
 /* モバイル・タブレット対応 */
@@ -92,6 +99,14 @@ img.icon, .emoji {
   }
 
   table {
-    font-size: 1em; /* 少し大きめに調整 */
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+    font-size: 0.95em;
+  }
+
+  th, td {
+    white-space: normal;
+    padding: 0.6em;
   }
 }
