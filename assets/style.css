@@ -10,7 +10,7 @@ body {
   margin: auto;
 }
 
-/* 引用の装飾（一般的な > 用） */
+/* 一般引用用ブロック（Markdownの > に対応） */
 blockquote {
   background: #f8f9fa;
   border-left: 4px solid #007acc;
@@ -20,7 +20,7 @@ blockquote {
   color: #333;
 }
 
-/* 注釈ボックス（Markdown {: .annotation} 用のクラス） */
+/* 注釈スタイル（HTMLやMarkdown用にクラスで指定） */
 .annotation {
   font-size: 0.9em;
   color: #555;
@@ -32,15 +32,19 @@ blockquote {
   line-height: 1.5;
 }
 
-/* コンパクト注釈（必要に応じてクラス分け） */
+/* コンパクト注釈（.annotation-narrow） */
 .annotation-narrow {
   font-size: 0.85em;
+  color: #555;
+  background-color: #f9f9f9;
+  border-left: 3px solid #007acc;
   padding: 0.3em 0.6em;
   margin: 0.3em 0;
+  border-radius: 3px;
   line-height: 1.4;
 }
 
-/* リンクのスタイル */
+/* リンクスタイル */
 a {
   color: #007acc;
   text-decoration: none;
@@ -57,7 +61,7 @@ h1, h2, h3 {
   color: #003366;
 }
 
-/* コードブロックのスタイル改善 */
+/* コードブロック */
 pre, code {
   background: #f4f4f4;
   padding: 0.3em 0.6em;
@@ -65,7 +69,7 @@ pre, code {
   font-family: "Courier New", monospace;
 }
 
-/* 表の枠線とフォーマット */
+/* 表のスタイル */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -80,7 +84,7 @@ th, td {
   text-align: left;
 }
 
-/* 図サイズ調整 */
+/* 画像調整 */
 img {
   max-width: 100%;
   height: auto;
@@ -92,7 +96,7 @@ img.shrink-70 {
   margin: 1em auto;
 }
 
-/* モバイル・タブレット対応 */
+/* モバイル対応 */
 @media (max-width: 768px) {
   body {
     font-size: 1.05em;
