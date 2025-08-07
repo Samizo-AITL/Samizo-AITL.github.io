@@ -46,3 +46,30 @@ pre, code {
   font-family: "Courier New", monospace;
 }
 
+/* 📱 モバイル・タブレット対応 */
+@media (max-width: 768px) {
+  body {
+    font-size: 1.1em;
+    padding: 0.8em;
+  }
+
+  h1 {
+    font-size: 1.6em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  h3 {
+    font-size: 1.1em;
+  }
+
+  main {
+    padding: 0 1em;
+  }
+
+  table {
+    font-size: 0.95em;
+  }
+}
