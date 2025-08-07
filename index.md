@@ -123,15 +123,8 @@ Samizo-AITLは、**半導体 × 制御 × AI** を結ぶ構造を軸に、
 ## 🖼️ **技術統合アーキテクチャ図（写実版）**
 
 <p align="center">
-  <img src="./images/technology_architecture_realistic_version.png" alt="技術統合アーキテクチャ" style="width:50%;">
+  <img src="./images/technology_architecture_realistic_version.png" alt="技術統合アーキテクチャ" style="width:80%;">
 </p>
 
 *図: 半導体・AI・制御・ロボティクスを統合する「Samizo-AITL」の技術構想を象徴的に表現した写実イメージ。人間の指示による知能制御（PID）とAI学習が、ロボットや回路制御と融合する未来を示しています。*
 
-
-
-## 🖼️ **技術統合アーキテクチャ図（写実版）**
-
-![技術統合アーキテクチャ](./images/technology_architecture_realistic_version.png)
-
- *図: 半導体・AI・制御・ロボティクスを統合する「Samizo-AITL」の技術構想を象徴的に表現した写実イメージ。人間の指示による知能制御（PID）とAI学習が、ロボットや回路制御と融合する未来を示しています。*
