@@ -33,8 +33,6 @@ title: 経験要約 / Career Summary
 > 🔗 [詳細はこちら › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)  
 {: .annotation}
 
----
-
 ### 🔹 第2フェーズ｜ピエゾ材料とアクチュエータ開発（2007〜2012）
 
 - FeRAM向けPZTプロセスの特性評価を経て、**薄膜ピエゾアクチュエータの開発**へ展開  
@@ -43,8 +41,6 @@ title: 経験要約 / Career Summary
 > 👉 **教材化プロセスフロー**  
 > 📘 [0.18μm FeRAM Process Flow（構想プロセス教材）](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)  
 {: .annotation}
-
----
 
 ### 🔹 第3フェーズ｜PrecisionCore製品化と教育推進（2012〜）
 
