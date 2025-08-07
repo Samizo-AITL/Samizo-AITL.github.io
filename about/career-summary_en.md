@@ -22,7 +22,8 @@ Started with **control system design using MATLAB/Simulink** and conducted early
 {: .annotation}
 
 In 1997, he joined Seiko Epson and led **process integration of logic, memory, and high-voltage devices from 0.35μm to 0.18μm generations**.  
-He handled the complex coexistence of transistors with differing characteristics, taking charge of design, implementation, and verification.
+He handled the complex coexistence of transistors with differing characteristics,  
+taking charge of **process integration (engineering design)**, implementation, and verification.
 
 > 🧩 **Episode: 64M DRAM Startup (1998)**  
 > Led the production ramp-up of a 0.25μm-generation DRAM.  
