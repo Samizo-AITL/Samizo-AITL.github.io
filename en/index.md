@@ -44,22 +44,20 @@ Below is a list of core projects featured in this portal, spanning areas such as
 
 ---
 
+<link rel="stylesheet" href="/assets/style.css">
+
 ## 🧠 **AITL Integration Philosophy**
 
-Samizo-AITL is built on a cross-disciplinary framework that integrates  
+Samizo-AITL is based on a cross-disciplinary framework that integrates  
 **Semiconductors × Control Systems × AI**,  
 with the mission to “understand physical structures, test ideas through PoC, and support learning through AI.”
 
-<div class="annotation">
-📘 All educational materials and PoC designs are publicly released under the <strong>MIT License</strong>.<br>
-AI tools such as ChatGPT are used strictly as assistants; the author takes full responsibility for the structure and content.
-</div>
+> 📘 All educational materials and PoC designs are released under the MIT License.  
+> While AI tools like ChatGPT are used as assistants, the author takes full responsibility for the structure and content.
 
-<div class="annotation">
-💡 <strong><a href="https://samizo-aitl.github.io/Edusemi-v4x/">Edusemi-v4x</a></strong> serves as the core educational suite,  
-reconstructed from real-world industrial experience specifically for learning purposes.<br>
-(*It is independent of any commercial product or specific company affiliation.*)
-</div>
+> 💡 [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/) serves as the core educational suite,  
+> reconstructed from real-world industrial experience specifically for educational purposes.  
+> (*It is not affiliated with any specific product or company.*)
 
 ---
 
