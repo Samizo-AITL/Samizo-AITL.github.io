@@ -14,7 +14,10 @@ title: 経験要約 / Career Summary
 
 ### 🔹 第1フェーズ｜制御設計から半導体デバイスへ（1994〜2006）
 
-- **1994年**：学部4年生で制御設計（MATLAB / Simulink）を開始  
+- **1994年**：学部4年生で制御設計（MATLAB / Simulink）を開始
+💻 [06. デジタル H∞ 制御（EduController Part 04）](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
+→ デジタル実装に特化した H∞ 制御の詳細、MATLAB/Simulink モデル、周波数応答評価を解説しています。
+
 - **大学院時代**：電磁界解析に従事
 
 > 🧪 **エピソード：薄膜マイクロリアクトル解析（1996–1997年）**  
