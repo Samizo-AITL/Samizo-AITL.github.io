@@ -12,16 +12,22 @@ title: Career Summary
 
 ## 📘 Career Phases
 
-### 🔹 Phase 1: From Control Design to Semiconductor Devices (1994–2006)
+### 🔹 Phase 0: Control Design & Electromagnetic Analysis (1994–1997)
 
-- **1994**: Started control system design using MATLAB/Simulink as an undergraduate  
-- **Graduate studies**: Conducted electromagnetic field analysis on microstructures
+- Began control system design using MATLAB/Simulink as an undergraduate.  
+  💻 [06. Digital H∞ Control (EduController Part 04)](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
+  ※ This material is based on his research theme at the time.  
+- Conducted electromagnetic field analysis during graduate studies.
 
 > 🧪 **Episode: Thin-Film Microreactor Analysis (1996–1997)**  
 > Analyzed DCDC converter inductors with ferrite magnetic materials and Al spiral coils.  
 > Proposed Q-factor loss analysis and Al/Cu selection guidelines for 500kHz–1MHz operation.  
 > 🔗 [More details › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor.html)  
 {: .annotation}
+
+---
+
+### 🔹 Phase 1: Semiconductor Devices (1997–2006)
 
 - **1997**: Joined Seiko Epson  
   Led process integration of **logic, memory, and high-voltage devices** in the 0.35μm–0.18μm generations.  
