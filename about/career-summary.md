@@ -15,8 +15,8 @@ title: 経験要約 / Career Summary
 ### 🔹 第0フェーズ｜制御設計、電磁界解析（1994〜1997）
 
 - 学部4年で制御設計（MATLAB / Simulink）を経験。  
-  💻 [06. デジタル H∞ 制御教材](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
-  ※ 当時のテーマをベースに教材化。  
+>  💻 [06. デジタル H∞ 制御教材](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
+>  ※ 当時のテーマをベースに教材化。  
 - 大学院では電磁界解析に従事
 
 > 🧪 **エピソード：薄膜マイクロリアクトル解析（1996–1997年）**  
