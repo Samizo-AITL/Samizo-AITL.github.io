@@ -12,7 +12,7 @@ title: 経験要約 / Career Summary
 
 ## 📘 フェーズ別キャリア
 
-### 🔹 第1フェーズ｜制御設計から半導体デバイスへ（1994〜2006）
+### 🔹 第0フェーズ｜制御設計、電磁界解析（1994〜1997）
 
 - **1994年**：学部4年生で制御設計（MATLAB / Simulink）を開始
 💻 [06. デジタル H∞ 制御（EduController Part 04）](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
@@ -25,6 +25,8 @@ title: 経験要約 / Career Summary
 > 500kHz〜1MHz領域におけるQ値損失とAl/Cu選定指針を提示。  
 > 🔗 [詳細はこちら › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor.html)  
 {: .annotation}
+
+### 🔹 第1フェーズ｜半導体デバイス（1997〜2006）
 
 - **1997年**：セイコーエプソン入社  
   0.35〜0.18μm世代の**ロジック・メモリ・高耐圧プロセスインテグレーション**を担当。  
