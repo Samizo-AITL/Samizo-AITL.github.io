@@ -16,9 +16,8 @@ title: 経験要約 / Career Summary
 
 - 学部4年で制御設計（MATLAB / Simulink）を経験
 
-> 💻 [06. デジタル H∞ 制御教材](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
+> 💻 [06. デジタル H∞ 制御教材　※当時のテーマをベースに教材化](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
 {: .annotation}
-> ※ 当時のテーマをベースに教材化。 
 
 - 大学院では電磁界解析に従事
   
