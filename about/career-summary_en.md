@@ -15,8 +15,9 @@ title: Career Summary
 ### 🔹 Phase 0: Control Design & Electromagnetic Analysis (1994–1997)
 
 - Began control system design using MATLAB/Simulink as an undergraduate.  
->  💻 [06. Digital H∞ Control (EduController Part 04)](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
->  ※ This material is based on his research theme at the time.{: .annotation}
+
+💻 [06. Digital H∞ Control (EduController Part 04)](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html){: .annotation}  
+※ This material is based on his research theme at the time.
   
 - Conducted electromagnetic field analysis during graduate studies.
 
