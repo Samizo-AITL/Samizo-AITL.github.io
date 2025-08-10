@@ -1,3 +1,9 @@
+---
+layout: default 
+title: 経験要約 / Career Summary
+---
+
+
 **🎓 Samizo-AITL Portal – Evaluation Report (by Gemini)**
 
 ---
