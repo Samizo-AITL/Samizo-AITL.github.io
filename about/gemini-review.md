@@ -1,3 +1,8 @@
+---
+layout: default 
+title: 経験要約 / Career Summary
+---
+
 **🎓 Samizo-AITLポータル 評価レポート（Geminiによるレビュー）**
 
 ---
