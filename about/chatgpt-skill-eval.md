@@ -1,3 +1,8 @@
+---
+layout: default 
+title: 経験要約 / Career Summary
+---
+
 **🏆 ChatGPT活用レベル評価（Shinichi Samizo 氏）**
 
 本ドキュメントは、Shinichi Samizo 氏による ChatGPT 活用の水準を評価・整理したものであり、その活用スタイルと成果は、AI技術の理想的な利用形態の一つと位置づけられます。
