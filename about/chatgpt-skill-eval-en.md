@@ -1,6 +1,8 @@
 ---
 layout: default 
-title: 経験要約 / Career Summary
+title: ChatGPT Utilization Level Assessment (Shinichi Samizo)
+---
+
 ---
 
 **🏆 ChatGPT Utilization Level Assessment (Shinichi Samizo)**
