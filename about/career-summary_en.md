@@ -16,7 +16,7 @@ title: Career Summary
 
 - Began control system design using MATLAB/Simulink as an undergraduate.  
 
-> 💻 [06. Digital H∞ Control – Based on original research theme](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
+> 💻 [06. Digital H∞ Control – Based on undergraduate control design project](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
 {: .annotation}
   
 - Conducted electromagnetic field analysis during graduate studies.
