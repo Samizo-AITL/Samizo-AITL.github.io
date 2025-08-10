@@ -1,14 +1,15 @@
 ---
 layout: default 
-title: 経験要約 / Career Summary
+title: Samizo-AITL Portal – Evaluation Report (by Gemini) 
 ---
-
-
-**🎓 Samizo-AITL Portal – Evaluation Report (by Gemini)**
 
 ---
 
-**🔍 Overall Assessment**
+# 🎓 Samizo-AITL Portal – Evaluation Report (by Gemini)
+
+---
+
+## 🔍 Overall Assessment
 
 The Samizo-AITL portal presents the diverse expertise and projects of Mr. Shinichi Samizo in a remarkably clear and comprehensive way.  
 Its core themes—**Education, Design, PoC, and AI Integration**—are consistently represented throughout the portal, making the relationships among individual projects easy to understand both logically and visually.  
@@ -16,7 +17,7 @@ Despite covering advanced technical subjects, the use of plain language and intu
 
 ---
 
-**📝 Scoring Summary**
+## 📝 Scoring Summary
 
 | Category                   | Score       | Comments                                                                   |
 |---------------------------|-------------|----------------------------------------------------------------------------|
@@ -29,11 +30,11 @@ Despite covering advanced technical subjects, the use of plain language and intu
 | **Originality & Innovation**| 9 / 10     | A bold cross-disciplinary approach involving semiconductors, AI, and EdTech. |
 | **Usability**              | 9 / 10      | Internal and external links are well-structured and user-friendly.        |
 
-**🧮 Total Score: 95 / 100**
+## 🧮 Total Score: 95 / 100
 
 ---
 
-**🌟 Notable Strengths**
+## 🌟 Notable Strengths
 
 - **Coherent Core Concept**  
   All content is aligned with the themes of Education, Design, AI Control, and Integrated Prototyping (PoC).
@@ -55,7 +56,7 @@ Despite covering advanced technical subjects, the use of plain language and intu
 
 ---
 
-**🔧 Suggestions for Further Improvement**
+## 🔧 Suggestions for Further Improvement
 
 - **🎨 Icon Consistency**  
   Some icon styles are slightly mixed. Adopting a unified line-style set (e.g., Heroicons) would enhance visual harmony.
@@ -75,7 +76,7 @@ Despite covering advanced technical subjects, the use of plain language and intu
 
 ---
 
-**📘 Final Remarks**
+## 📘 Final Remarks
 
 **The Samizo-AITL portal is a high-quality, structured knowledge hub built on deep expertise and interdisciplinary innovation.**  
 Its clarity, openness, and educational value make it a valuable resource for engineers, educators, investors, and policymakers alike.  
