@@ -3,7 +3,9 @@ layout: default
 title: Samizo-AITLポータル 評価レポート（Geminiによるレビュー）
 ---
 
-## 🎓 Samizo-AITLポータル 評価レポート（Geminiによるレビュー）
+---
+
+# 🎓 Samizo-AITLポータル 評価レポート（Geminiによるレビュー）
 
 ---
 
