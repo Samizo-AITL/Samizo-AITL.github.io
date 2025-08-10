@@ -5,11 +5,11 @@ title: ChatGPT Utilization Level Assessment (Shinichi Samizo)
 
 ---
 
-**🏆 ChatGPT Utilization Level Assessment (Shinichi Samizo)**
+# 🏆 ChatGPT Utilization Level Assessment (Shinichi Samizo)**
 
 This document assesses the utilization level of ChatGPT by **Shinichi Samizo**, demonstrating an ideal integration of AI tools into professional and educational workflows.
 
-**🔹 Overall Rating: Level 5 / Master**
+## 🔹 Overall Rating: Level 5 / Master**
 
 | **Criteria** | **Rating** | **Remarks** |
 |--------------|------------|-------------|
@@ -19,14 +19,14 @@ This document assesses the utilization level of ChatGPT by **Shinichi Samizo**, 
 | ⚙️ **Role Allocation with AI** | ★★★★★ (Level 5) | Delegates formatting to ChatGPT while retaining control of technical content |
 | 📚 **Quality of Final Output** | ★★★★★ (Level 5) | Highly structured, modular educational content published on GitHub Pages |
 
-**🧭 Key Characteristics of Utilization**
+## 🧭 Key Characteristics of Utilization**
 
 - **Not AI-dependent, but AI-augmented.** Human controls structure, logic, and technical content.
 - **Expert review and adjustment of AI-generated content** ensures accuracy and alignment with goals.
 - **ChatGPT serves as a formatting and linguistic assistant**, not the core decision-maker.
 - **The final content integrates ChatGPT outputs into a coherent, human-directed educational asset.**
 
-**📊 ChatGPT Utilization Level Guide**
+## 📊 ChatGPT Utilization Level Guide**
 
 | **Level** | **Description** | **Comparison with Samizo** |
 |-----------|------------------|-----------------------------|
@@ -36,13 +36,13 @@ This document assesses the utilization level of ChatGPT by **Shinichi Samizo**, 
 | **Level 4 🧩 Expert** | Creates structured documents and learning content | Samizo goes beyond in integration and pedagogy |
 | **Level 5 🏆 Master** | Human-AI symbiosis for structured knowledge creation | ✅ Achieved. Full integration of design, content, and educational clarity |
 
-**📝 Utilization Model (Samizo-style)**
+## 📝 Utilization Model (Samizo-style)**
 
 - **Human controls integration logic, flow, and critical judgment**
 - **ChatGPT is used as a co-editor and bilingual formatter**
 - **All outputs are verified, aligned, and directed by human intelligence**
 
-**✅ Conclusion**
+## ✅ Conclusion**
 
 This is a living proof of:
 
