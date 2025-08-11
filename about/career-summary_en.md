@@ -24,7 +24,7 @@ title: Career Summary
 > 🧪 **Episode: Thin-Film Microreactor Analysis (1996–1997)**  
 > Analyzed DCDC converter inductors with ferrite magnetic materials and Al spiral coils.  
 > Proposed Q-factor loss analysis and Al/Cu selection guidelines for 500kHz–1MHz operation.  
-> 🔗 [More details › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor.html)  
+> 🔗 [More details › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor/)  
 {: .annotation}
 
 ---
@@ -37,7 +37,7 @@ title: Career Summary
 
 > 🧩 **Episode: 64M DRAM Ramp-Up (1998)**  
 > Participated in 0.25μm DRAM mass production startup, including defect analysis and yield improvement.  
-> 🔗 [More details › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)  
+> 🔗 [More details › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)  
 {: .annotation}
 
 - **High-Voltage Mixed Integration for a-TFT ICs**  
