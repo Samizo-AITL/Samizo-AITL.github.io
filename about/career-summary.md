@@ -24,7 +24,7 @@ title: 経験要約 / Career Summary
 > 🧪 **エピソード：薄膜マイクロリアクトル解析（1996–1997年）**  
 > フェライト系磁性体 + Alスパイラルコイル構造を用いたDCDCコンバータ向けリアクトルの解析。  
 > 500kHz〜1MHz領域におけるQ値損失とAl/Cu選定指針を提示。  
-> 🔗 [詳細はこちら › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor.html)  
+> 🔗 [詳細はこちら › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor/)  
 {: .annotation}
 
 ---
@@ -38,7 +38,7 @@ title: 経験要約 / Career Summary
 > 🧩 **エピソード：64M DRAM立ち上げ（1998年）**  
 > 0.25μm世代DRAMの量産立ち上げに参画。  
 > プロセス立ち上げ・不良解析・歩留まり改善を一貫対応。  
-> 🔗 [詳細はこちら › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998.html)  
+> 🔗 [詳細はこちら › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)  
 {: .annotation}
 
 - **高耐圧混載技術の製品化経験**  
