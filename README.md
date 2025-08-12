@@ -80,6 +80,7 @@ Over **12 interlinked projects** explore the intersection of **semiconductors, c
 ### 🤖 **AITL-H｜FSM × PID × LLM Framework**  
 > **本能×理性×知性の三層制御**を構成する**知能制御アーキテクチャとPoC実装**。  
 ▶︎ **[GitHub](https://github.com/Samizo-AITL/AITL-H)**｜**[Site](https://samizo-aitl.github.io/AITL-H/)**
+<br>⚠️ *開発・検証中 / Under Development*
 
 ---
 
