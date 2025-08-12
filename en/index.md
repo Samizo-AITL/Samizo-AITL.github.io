@@ -36,7 +36,7 @@ Below is a list of core projects featured in this portal, spanning areas such as
 | 🎛️ | **[EduController](https://samizo-aitl.github.io/EduController/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduController) | [🟥 Control] [🟨 AI] | From **PID control to LLM integration**—an educational resource for **Control × AI**. |
 | 🛠️ | **[EduMecha](https://samizo-aitl.github.io/EduMecha/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduMecha) | [🔵 Mechanical] | CAD exercises using **Creo**, focusing on **mechanical enclosure design**.<br>⚠️ CAD files (.prt / .asm) not included due to IP and compatibility reasons. |
 | 🧠 | **[EduLms](https://samizo-aitl.github.io/EduLms/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduLms) | [🟩 Education] | LMS-compatible material for **quality, environment, and skills training**. |
-| 🤖 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-H) | [🟨 AI] [🟥 Control] | A **three-layer intelligent control architecture** based on **FSM × PID × LLM**. |
+| 🤖 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-H) | [🟨 AI] [🟥 Control] | A **three-layer intelligent control architecture** based on **FSM × PID × LLM**. <br>⚠️ *Under Development*|
 | 🖨️ | **[Inkjet](https://samizo-aitl.github.io/Inkjet/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Inkjet) | [⚙️ Product Tech] | Archive of **inkjet architecture, drive waveforms, and evaluation data**. |
 | 💰 | **[AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) | [🟧 Investment] | **Asset management guide for engineers**, using ETFs and NISA. |
 | 🎮 | **[Rekiden](https://samizo-aitl.github.io/Rekiden/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Rekiden) | [🟪 History] [🧠 LLM] | A **historical simulation platform** using ChatGPT. |
@@ -68,7 +68,7 @@ with the mission to “understand physical structures, test ideas through PoC, a
 | **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)** | Comprehensive foundation for learning **semiconductor processes, devices, design, testing, and reliability**. |
 | ┗ 📦 **[SystemDK Special Chapter (2a)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)** | Covers **physical constraints** (SI/PI, thermal, stress, EMI/EMC), and PoC for **GAA / AMS / MRAM** heterogeneous integration. |
 | **[EduController](https://samizo-aitl.github.io/EduController/)** + <br>**[SoC DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | Training material for **FSM, PID, and LLM-based control**, along with **HDL templates** (Verilog/C code assisted by AI). |
-| **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** + <br>**[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | Full teaching suite for **three-layer intelligent control architecture (FSM × PID × LLM)** as a reproducible PoC. |
+| **[AITL-H](https://samizo-aitl.github.io/AITL-H/)** + <br>**[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | Full teaching suite for **three-layer intelligent control architecture (FSM × PID × LLM)** as a reproducible PoC.<br>⚠️ *Under Development* |
 
 <div align="center">
   <img src="../images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
