@@ -84,6 +84,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 - 🧩 **[国家提言：AITL構想](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**  
 　**教育 × AI × 制御** を軸とした **中長期的ビジョン**（※AI活用の教育導入とPoC設計連携の提案を含む）
+⚠️ *本提案はv4.0素案（Draft）段階であり、内容は検討中です*
 
 - 🤝 **[OpenAI向けメッセージ](./about/openai-message.md)**  
 　**ChatGPT活用事例** と **統合設計への提案**（※教材整備・国際展開への活用方法も含まれています）
