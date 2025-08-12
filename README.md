@@ -104,6 +104,7 @@ Over **12 interlinked projects** explore the intersection of **semiconductors, c
 ### 🧠 **AITL-Strategy-Proposal｜National Policy Proposals**  
 > **AITL構想（AI × 制御 × 教育）**を軸とした**国家・地域提言書**。  
 ▶︎ **[GitHub](https://github.com/Samizo-AITL/AITL-Strategy-Proposal)**｜**[Site](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**
+⚠️ 本提案はv4.0素案（Draft）段階であり、内容は検討中です
 
 ---
 
