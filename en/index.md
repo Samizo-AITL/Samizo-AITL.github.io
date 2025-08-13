@@ -18,8 +18,16 @@ Samizo-AITL is built on both real-world manufacturing experience and structural 
 focusing on **education, PoC (Proof of Concept), and strategy proposals**  
 to develop AI that is not just linguistic—but functional, observable, and controllable in physical systems.
 
-- 🌐 **[日本語版（Japanese Version）](../index.md)**
-- 🔗 **[GitHub Repositories](https://github.com/Samizo-AITL/)**
+---
+
+## 🔗 Official Links
+
+| Language | Type | Link |
+|----------|------|------|
+| 🇯🇵 Japanese Version | 🌐 GitHub Pages | [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/) |
+| 🇯🇵 Japanese Version | 💻 GitHub | [https://github.com/Samizo-AITL/Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
+| 🇺🇸 English Version | 🌐 GitHub Pages | [https://samizo-aitl.github.io/en/](https://samizo-aitl.github.io/en/) |
+| 🇺🇸 English Version | 💻 GitHub | [https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) |
 
 ---
 
