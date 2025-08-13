@@ -100,9 +100,9 @@ with the mission to “understand physical structures, test ideas through PoC, a
 
 | Item | Description |
 |------|-------------|
-| 🕘 **[Update Log](../about/update.md)** | History of updates and structural changes. |
-| 🧠 **[ChatGPT Skill Evaluation](../about/chatgpt-skill-eval.md)** | LLM skill assessment (Level 5) focused on structural design, memory use, and generation strategies. |
-| 📋 **[Gemini Review](../about/gemini-review.md)** | Evaluation of this portal by **Google Gemini**. |
+| 🕘 **[Update Log](../about/update_en.md)** | History of updates and structural changes. |
+| 🧠 **[ChatGPT Skill Evaluation](../about/chatgpt-skill-eval_en.md)** | LLM skill assessment (Level 5) focused on structural design, memory use, and generation strategies. |
+| 📋 **[Gemini Review](../about/gemini-review_en.md)** | Evaluation of this portal by **Google Gemini**. |
 | 🌐 **[日本語版（Japanese Version）](../index.md)** | Link to the Japanese version. |
 
 ---
@@ -113,7 +113,7 @@ with the mission to “understand physical structures, test ideas through PoC, a
 - M.S. in Electrical and Electronic Engineering, Shinshu University  
 - Former engineer at **Seiko Epson Corporation** (1997–)
 
-📌 **Career Summary** → 📘 [View Profile](../about/career-summary.md)  
+📌 **Career Summary** → 📘 [View Profile](../about/career-summary_en.md)  
 - Logic / memory / high-voltage semiconductor integration  
 - Inkjet thin-film piezo actuators  
 - Productization of PrecisionCore printheads, BOM/ISO/QMS expert
