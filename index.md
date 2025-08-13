@@ -18,8 +18,12 @@ description: Samizoによる半導体×AI×制御 統合教材ポータル
 Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の経験をもとに、  
 **言葉ではなく、動きの中でAIを使う**ための教育・PoC・構想を展開しています。
 
-- 🌐 **[English Version](./en/index.md)**
-- 🔗 **[GitHubリポジトリ一覧](https://github.com/Samizo-AITL/)**
+| 言語 | 種別 | リンク |
+|------|------|--------|
+| 🇯🇵 Japanese Version | 🌐 GitHub Pages | [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/) |
+| 🇯🇵 Japanese Version | 💻 GitHub | [https://github.com/Samizo-AITL/Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
+| 🇺🇸 English Version | 🌐 GitHub Pages | [https://samizo-aitl.github.io/en/](https://samizo-aitl.github.io/en/) |
+| 🇺🇸 English Version | 💻 GitHub | [https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) |
 
 ---
 
