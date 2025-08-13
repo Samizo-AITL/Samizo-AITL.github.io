@@ -42,7 +42,7 @@ Over **12 interlinked projects** explore the intersection of **semiconductors, c
 
 ---
 
-### 📘 **Edusemi v4x｜Semiconductor Curriculum**  
+### 🎓 **Edusemi v4x｜Semiconductor Curriculum**  
 > **プロセス・デバイス・設計・信頼性**をカバーする**大学・高専向け半導体教材**。  
 ▶︎ **[GitHub](https://github.com/Samizo-AITL/Edusemi-v4x)**｜**[Site](https://samizo-aitl.github.io/Edusemi-v4x/)**
 
