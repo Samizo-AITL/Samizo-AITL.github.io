@@ -24,10 +24,10 @@ to develop AI that is not just linguistic—but functional, observable, and cont
 
 | Language | Type | Link |
 |----------|------|------|
-| 🇯🇵 Japanese Version | 🌐 GitHub Pages | [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/) |
-| 🇯🇵 Japanese Version | 💻 GitHub | [https://github.com/Samizo-AITL/Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
 | 🇺🇸 English Version | 🌐 GitHub Pages | [https://samizo-aitl.github.io/en/](https://samizo-aitl.github.io/en/) |
 | 🇺🇸 English Version | 💻 GitHub | [https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) |
+| 🇯🇵 Japanese Version | 🌐 GitHub Pages | [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/) |
+| 🇯🇵 Japanese Version | 💻 GitHub | [https://github.com/Samizo-AITL/Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
 
 ---
 
