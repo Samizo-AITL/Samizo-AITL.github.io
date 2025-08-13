@@ -6,7 +6,7 @@ description: Samizoによる半導体×AI×制御 統合教材ポータル　　
 
 ---
 
-# 🪐 Samizo-AITL Portal
+# 🎓 Samizo-AITL Portal
 
 **Samizo-AITLポータル**は、三溝真一による個人プロジェクトです。  
 **半導体 × 制御 × AI** を軸に、知識・現象・技術の断片を**構造的に整理・接続**し、  
