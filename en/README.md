@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Samizo-AITL Portal (English) 
+title: Samizo-AITL Portal (English)  
 ---
 
 ---
