@@ -47,7 +47,7 @@ Below is a list of core projects featured in this portal, spanning areas such as
 | 🤖 | **[AITL-H](https://samizo-aitl.github.io/AITL-H/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-H) | [🟨 AI] [🟥 Control] | A **three-layer intelligent control architecture** based on **FSM × PID × LLM**. <br>⚠️ *Under Development*|
 | 🖨️ | **[Inkjet](https://samizo-aitl.github.io/Inkjet/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Inkjet) | [⚙️ Product Tech] | Archive of **inkjet architecture, drive waveforms, and evaluation data**. |
 | 💰 | **[AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) | [🟧 Investment] | **Asset management guide for engineers**, using ETFs and NISA. |
-| 🎮 | **[Rekiden](https://samizo-aitl.github.io/Rekiden/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Rekiden) | [🟪 History] [🧠 LLM] | A **historical simulation platform** using ChatGPT. |
+| 🎮 | **[Rekiden](https://samizo-aitl.github.io/Rekiden/en/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Rekiden) | [🟪 History] [🧠 LLM] | A **historical simulation platform** using ChatGPT. |
 | 🏛️ | **[AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [🏛️ Policy] | A **national strategy proposal** based on **Education × AI × Control**.<br>⚠️ *This proposal is in Draft v4.0 stage and is under review.* |
 
 ---
