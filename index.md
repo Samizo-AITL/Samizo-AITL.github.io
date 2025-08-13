@@ -49,7 +49,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 | 🖨️ | **[Inkjet](https://samizo-aitl.github.io/Inkjet/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Inkjet) | [⚙️ 製品技術] | **インクジェット構造・駆動波形・評価データ** のアーカイブ |
 | 💰 | **[AssetPortfolio](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) | [🟧 投資] | **ETF・NISA** を活用した **技術者向け資産運用教材** |
 | 🎮 | **[Rekiden](https://samizo-aitl.github.io/Rekiden/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Rekiden) | [🟪 歴史] [🧠 LLM] | ChatGPT連携の **歴史シミュレーション教材** |
-| 🧩 | **[AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [🏛️ 政策提言] | **教育 × AI × 制御** を軸とした **国家戦略提言**<br>⚠️ *本提案はv4.0素案（Draft）段階であり、内容は検討中です* |
+| 🏛️ | **[AITL-Strategy-Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [🏛️ 政策提言] | **教育 × AI × 制御** を軸とした **国家戦略提言**<br>⚠️ *本提案はv4.0素案（Draft）段階であり、内容は検討中です* |
 
 ---
 
@@ -90,7 +90,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 以下では、**政策・技術連携・LLM導入** に関する構想や提案を示しています：
 
-- 🧩 **[国家提言：AITL構想](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**  
+- 🏛️ **[国家提言：AITL構想](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**  
 　**教育 × AI × 制御** を軸とした **中長期的ビジョン**（※AI活用の教育導入とPoC設計連携の提案を含む)<br>⚠️ *本提案はv4.0素案（Draft）段階であり、内容は検討中です*
 
 - 🤝 **[OpenAI向けメッセージ](./about/openai-message.md)**  
