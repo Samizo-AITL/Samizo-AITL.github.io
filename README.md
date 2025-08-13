@@ -5,7 +5,7 @@ title: Samizo-AITL.github.io/README.md
 
 ---
 
-#  **🪐 Samizo-AITL Portal**
+#  **🎓 Samizo-AITL Portal**
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)  
 [![GitHub Pages](https://img.shields.io/badge/view-site-green)](https://samizo-aitl.github.io/)
