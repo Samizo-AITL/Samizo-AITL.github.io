@@ -6,6 +6,8 @@ title: Samizo-AITL Portal (English)
 ---
 
 # 🎓 Samizo-AITL Portal
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](../LICENSE)  
+[![GitHub Pages](https://img.shields.io/badge/view-site-green)](https://samizo-aitl.github.io/en/)
 
 **Samizo-AITL Portal** is a personal project by **Shinichi Samizo**,  
 aimed at **systematically organizing and connecting fragmented knowledge, technologies, and physical phenomena**  
