@@ -22,7 +22,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 ## 🔗 公式リンク | Official Links
 
- 言語 | 種別 | リンク |
+| 言語 | 種別 | リンク |
 |------|------|--------|
 | 🇯🇵 Japanese Version | 🌐 GitHub Pages | [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/) |
 | 🇯🇵 Japanese Version | 💻 GitHub | [https://github.com/Samizo-AITL/Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
