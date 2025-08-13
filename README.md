@@ -71,7 +71,7 @@ Over **12 interlinked projects** explore the intersection of **semiconductors, c
 
 ---
 
-### 🧠 **EduLms｜Education, ISO, Quality Management**  
+### 📚 **EduLms｜Education, ISO, Quality Management**  
 > **ISO規格、PDCA、QCツール、FSM設計**などを統合した**教育用LMS教材**。  
 ▶︎ **[GitHub](https://github.com/Samizo-AITL/EduLms)**｜**[Site](https://samizo-aitl.github.io/EduLms/)**
 
