@@ -92,7 +92,7 @@ with the mission to “understand physical structures, test ideas through PoC, a
 | Item | Description |
 |------|-------------|
 | 🏛️ **[AITL Strategy Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)** | Mid-to-long term **policy vision** connecting **Education × AI × Control**, including PoC-based curriculum design proposals. <br>⚠️ *This proposal is in Draft v4.0 stage and is under review.*|
-| 🤝 **[Message to OpenAI](../about/openai-message.html)** | Case studies of ChatGPT usage and proposals for international educational integration. |
+| 🤝 **[Message to OpenAI](../about/openai-message.md)** | Case studies of ChatGPT usage and proposals for international educational integration. |
 
 ---
 
