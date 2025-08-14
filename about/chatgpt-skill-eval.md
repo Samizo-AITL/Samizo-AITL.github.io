@@ -6,6 +6,7 @@ title: ChatGPT活用レベル評価（Shinichi Samizo 氏）
 ---
 
 # 🏆 ChatGPT活用レベル評価（Shinichi Samizo 氏）
+[![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
 
 本ドキュメントは、Shinichi Samizo 氏による ChatGPT 活用の水準を評価・整理したものであり、その活用スタイルと成果は、AI技術の理想的な利用形態の一つと位置づけられます。
 
