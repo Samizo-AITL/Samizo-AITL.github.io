@@ -25,8 +25,8 @@ to develop AI that is not just linguistic—but functional, observable, and cont
 
 | Language | Links |
 |----------|-------|
-| 🇯🇵 Japanese | [![🌐 GitHub Pages JP](https://img.shields.io/badge/GitHub%20Pages-日本語版-brightgreen?logo=github)](https://samizo-aitl.github.io/) [![💻 GitHub Repo JP](https://img.shields.io/badge/GitHub-日本語版-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
 | 🇺🇸 English | [![🌐 GitHub Pages EN](https://img.shields.io/badge/GitHub%20Pages-English-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) [![💻 GitHub Repo EN](https://img.shields.io/badge/GitHub-English-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) |
+| 🇯🇵 Japanese | [![🌐 GitHub Pages JP](https://img.shields.io/badge/GitHub%20Pages-日本語版-brightgreen?logo=github)](https://samizo-aitl.github.io/) [![💻 GitHub Repo JP](https://img.shields.io/badge/GitHub-日本語版-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
 
 ---
 
