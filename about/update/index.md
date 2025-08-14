@@ -41,4 +41,4 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 ---
 
-> 🗂️ 英語版更新履歴はこちら 👉 [Update Log (English)](https://samizo-aitl.github.io/about/update-en.html)
+> 🗂️ 英語版更新履歴はこちら 👉 [Update Log (English)](https://samizo-aitl.github.io/about/update/en/)
