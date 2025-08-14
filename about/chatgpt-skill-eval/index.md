@@ -4,6 +4,8 @@ title: ChatGPT活用レベル評価（Shinichi Samizo 氏）
 description: Shinichi Samizo 氏によるChatGPT活用の水準を評価したドキュメント
 ---
 
+---
+
 # 🏆 ChatGPT活用レベル評価（Shinichi Samizo 氏）
 [![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
 
