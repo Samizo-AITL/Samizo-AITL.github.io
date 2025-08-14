@@ -69,16 +69,6 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 ## 📘 **中核教材・PoCの構造的整理**
 
-| **中核教材** | 解説 |
-|--------------|------|
-| **[🎓 Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/Edusemi-v4x) | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学べる基盤教材。|
-| ┗ 📦 **[SystemDK編（特別編 第2a章）](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)** |**SI/PI・熱・応力・EMI/EMC** の物理制約を統合設計し、<br>**GAA / AMS / MRAM** を活用した異種統合PoCを扱う特別編教材（Edusemi-v4x内包） |
-| **[🎛️ EduController](https://samizo-aitl.github.io/EduController/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduController) ＋<br>**[SoC_DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/EduController/tree/main/SoC_DesignKit_by_ChatGPT) | **FSM・PID・LLM制御** を段階的に学ぶ教材と、**HDL記述テンプレート** 一式。<br>※Verilog/Cコード生成はAI支援、筆者は制御構成を担当 |
-| **[🤖 AITL-H](https://samizo-aitl.github.io/AITL-H/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-H) ＋<br>**[PoCマニュアル](https://samizo-aitl.github.io/AITL-H/docs/)**<br>🔗 [GitHub](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | **三層型知能制御アーキテクチャ（FSM×PID×LLM）** を概念実証（PoC）として再現可能な統合教材 <br>⚠️ *開発・検証中 / Under Development*|
-
-
-## 📘 **中核教材・PoCの構造的整理**
-
 | アイコン | プロジェクト名 | 分野 | 内容 |
 |----------|----------------|------|------|
 | 🎓 | **Edusemi-v4x**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x) | [💠 半導体] [🎓 教育] | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学べる基盤教材。 |
