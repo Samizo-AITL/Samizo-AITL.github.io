@@ -143,7 +143,7 @@ Educational materials, code, diagrams, and templates are available under the **M
 ## 🖼️ **Technology Integration Architecture (Realistic Version)**
 
 <p align="center">
-  <img src="./images/technology_architecture_realistic_version.png" alt="Technology Integration Architecture" style="width:80%;">
+  <img src="../images/technology_architecture_realistic_version.png" alt="Technology Integration Architecture" style="width:80%;">
 </p>
 
 *Figure: Conceptual realistic illustration of "Samizo-AITL" integrating semiconductors, AI, control, and robotics. It depicts a future where intelligent control (PID) directed by humans integrates with AI learning to fuse with robotic and circuit control.*
