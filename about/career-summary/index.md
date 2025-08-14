@@ -73,4 +73,4 @@ description: 半導体・制御・インクジェット・教育の横断経験�
 
 ---
 
-**🔗 [English Version › Career Summary](./career-summary_en.md)**
+**🔗 [English Version › Career Summary](./en/index.md)**
