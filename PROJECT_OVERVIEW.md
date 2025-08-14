@@ -1,41 +1,174 @@
-# 📌 PROJECT_OVERVIEW.md
+# 📚 PROJECT_OVERVIEW.md
 
-全プロジェクト一覧（JP / EN リンク付き）
+## 🎓 Samizo-AITL Portal
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages JP](https://img.shields.io/badge/GitHub%20Pages-日本語版-brightgreen?logo=github)](https://samizo-aitl.github.io/) | [![GitHub Repo JP](https://img.shields.io/badge/GitHub-日本語版-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
+| [![GitHub Pages EN](https://img.shields.io/badge/GitHub%20Pages-English-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | [![GitHub Repo EN](https://img.shields.io/badge/GitHub-English-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) |
 
-| Icon | Project | GitHub Pages 🌐 | GitHub 💻 | Overview (English) | 概要（日本語） |
-|------|---------|----------------|-----------|---------------------|----------------|
-| 🎓 | **Samizo-AITL Portal** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) | Central hub for all projects. | 全プロジェクトのポータルサイト。 |
-| 🧠 | **SamizoGPT** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT/tree/main/en) | Prompt design & learning support toolkit. | ChatGPTを活用したプロンプト設計支援ツール群。 |
-| 📡 | **SemiTechBot** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot/tree/main/en) | Semiconductor technical chatbot. | 半導体技術支援Bot。 |
-| 🎓 | **Edusemi-v4x** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/en) | Semiconductor curriculum. | 大学・高専向け半導体教材。 |
-| ➕ | **Edusemi-Plus** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/en) | Extended semiconductor curriculum. | 拡張半導体教材。 |
-| 🎛️ | **EduController** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/EduController) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/EduController/tree/main/en) | Control theory + AI curriculum. | 制御理論＋AI教材。 |
-| ⚙️ | **EduMecha** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/EduMecha) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/EduMecha/tree/main/en) | Mechanical design curriculum. | 機械・筐体設計教材。 |
-| 🎓 | **EduLms** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/EduLms) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/EduLms/tree/main/en) | Education, ISO, quality management curriculum. | 教育・ISO・品質管理教材。 |
-| 🤖 | **AITL-H** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/en) | FSM × PID × LLM framework. | FSM × PID × LLM フレームワーク。 |
-| 🖨️ | **Inkjet** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Inkjet) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Inkjet/tree/main/en) | Inkjet architecture archive. | インクジェット構造アーカイブ。 |
-| 💰 | **AssetPortfolio** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide/tree/main/en) | Tech-oriented asset management. | 技術者向け資産運用教材。 |
-| 🎮 | **Rekiden** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Rekiden) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Rekiden/tree/main/en) | Historical simulation with LLM. | LLM連携型歴史シミュレーション。 |
-| 🏛️ | **AITL-Strategy-Proposal** | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal/tree/main/en) | National policy proposals. | 国家・地域提言書。 |
+**Overview (EN)**  
+Central hub integrating over 12 interlinked educational and technical projects covering semiconductors, AI, control theory, mechanical design, asset management, and more.
 
+**概要 (JP)**  
+半導体・AI・制御理論・機械設計・資産運用など12以上の技術・教育プロジェクトを統合したポータルサイト。
 
-## 🔍 **プロジェクト一覧 | Projects Overview**
+---
 
-以下は、本ポータルに含まれる主要プロジェクト群です。  
-教育・PoC・AI活用・提言・社会実装など、複数の視点から展開しています。
+## 🧠 SamizoGPT｜Prompt Engineering Toolkit
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT) |
 
-| Icon | Project | Field / 分野 | GitHub Pages 🌐 | GitHub 💻 | Overview (EN) | 概要（JP） |
-|------|---------|-------------|----------------|-----------|---------------|------------|
-| 🎓 | **Samizo-AITL Portal** | [🎓 Portal] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) | Central hub for all projects. | 全プロジェクトのポータルサイト。 |
-| 🧠 | **SamizoGPT** | [🧠 AI] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT/tree/main/en) | Prompt design & learning toolkit. | ChatGPTの**プロンプト設計**と**支援テンプレート集**。 |
-| 📡 | **SemiTechBot** | [💠 半導体] [🧠 AI] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot/tree/main/en) | Semiconductor technical chatbot. | **半導体技術支援Bot**（Flaskベース、開発中）。 |
-| 🎓 | **Edusemi-v4x** | [💠 半導体] [🎓 教育] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/en) | Semiconductor curriculum. | **プロセス・設計・PDK演習**を学べる半導体教材。 |
-| ➕ | **Edusemi-Plus** | [💠 半導体] [🧪 材料] [🧠 AI] [💰 投資] [🌍 地政学] [🏭 産業] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/en) | Extended semiconductor curriculum. | **材料・AI・産業・地政学・投資**を統合する拡張教材。 |
-| 🎛️ | **EduController** | [🎛️ 制御] [🧠 AI] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/EduController) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/EduController/tree/main/en) | Control theory + AI curriculum. | **PID〜LLM統合**を扱う制御×AI教材。 |
-| ⚙️ | **EduMecha** | [⚙️ 機械] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/EduMecha) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/EduMecha/tree/main/en) | Mechanical design curriculum. | Creoによる機械設計演習（筐体構造設計）。 |
-| 🎓 | **EduLms** | [🎓 教育] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/EduLms) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/EduLms/tree/main/en) | Education, ISO, quality management curriculum. | 品質・環境・技能訓練を統合したLMS教材。 |
-| 🤖 | **AITL-H** | [🧠 AI] [🎛️ 制御] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/en) | FSM × PID × LLM framework. | FSM × PID × LLMによる三層型知能制御アーキテクチャ（開発中）。 |
-| 🖨️ | **Inkjet** | [🛠 製品技術] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Inkjet) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Inkjet/tree/main/en) | Inkjet architecture archive. | インクジェット構造・駆動波形・評価データのアーカイブ。 |
-| 💰 | **AssetPortfolio** | [💰 投資] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide/tree/main/en) | Tech-oriented asset management. | ETF・NISAを活用した技術者向け資産運用教材。 |
-| 🎮 | **Rekiden** | [🏯 歴史] [🧠 AI] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/Rekiden) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/Rekiden/tree/main/en) | Historical simulation with LLM. | ChatGPT連携の歴史シミュレーション教材。 |
-| 🏛️ | **AITL-Strategy-Proposal** | [📑 政策提言] | [![JP](https://img.shields.io/badge/Pages-JP-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/) [![EN](https://img.shields.io/badge/Pages-EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/en/) | [![JP](https://img.shields.io/badge/GitHub-JP-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) [![EN](https://img.shields.io/badge/GitHub-EN-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal/tree/main/en) | National policy proposals. | 教育×AI×制御を軸とした国家戦略提言（Draft段階）。 |
+**Overview (EN)**  
+A toolkit for designing prompt templates for ChatGPT, supporting education and technical concept documentation.
+
+**概要 (JP)**  
+ChatGPTのプロンプトテンプレート設計支援ツール群。教育や技術構想の言語化を支援。
+
+---
+
+## 📡 SemiTechBot｜Semiconductor Technical Chatbot
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot) |
+
+**Overview (EN)**  
+A ChatGPT API × Flask-based chatbot specialized in semiconductor technology (process, reliability, design). Currently minimal; GUI and history management are planned.
+
+**概要 (JP)**  
+半導体技術支援に特化したChatGPT API × Flask製チャットボット（プロセス・信頼性・設計対応）。現在は最小構成、GUI・履歴管理は今後追加予定。
+
+---
+
+## 🎓 Edusemi-v4x｜Semiconductor Curriculum
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x) |
+
+**Overview (EN)**  
+Comprehensive semiconductor education materials for universities and technical colleges, covering process, devices, design, and reliability.
+
+**概要 (JP)**  
+大学・高専向け半導体教材。プロセス・デバイス・設計・信頼性を体系的に学習可能。
+
+---
+
+## ➕ Edusemi-Plus｜Semiconductors × Geopolitics & Strategy
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus) |
+
+**Overview (EN)**  
+Extended curriculum connecting semiconductors with materials science, AI, geopolitics, investment, and industrial policy.
+
+**概要 (JP)**  
+半導体を材料・AI・地政学・投資・産業政策の観点から多角的に結びつける拡張教材。
+
+---
+
+## 🎛️ EduController｜Control Theory + AI Curriculum
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController) |
+
+**Overview (EN)**  
+A 10-chapter course integrating control theory (PID, adaptive) with AI (LLM), including HDL templates.
+
+**概要 (JP)**  
+PIDからLLM統合までを網羅した全10章構成の制御教材。HDLテンプレート付き。
+
+---
+
+## ⚙️ EduMecha｜Mechanical Design Curriculum (Creo)
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduMecha) |
+
+**Overview (EN)**  
+Creo-based mechanical and enclosure design training with integration to control systems.
+
+**概要 (JP)**  
+Creoによる機械・筐体設計演習教材。制御対象との統合設計を学習。  
+⚠️ Creoファイル（.prt / .asm）は含まれません。
+
+---
+
+## 🎓 EduLms｜Education, ISO, Quality Management
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduLms) |
+
+**Overview (EN)**  
+Education materials integrating ISO standards, PDCA, QC tools, and FSM design.
+
+**概要 (JP)**  
+ISO規格・PDCA・QCツール・FSM設計を統合した教育用LMS教材。
+
+---
+
+## 🤖 AITL-H｜FSM × PID × LLM Framework
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) |
+
+**Overview (EN)**  
+Intelligent control framework combining FSM, PID, and LLM for multi-layered decision-making.  
+**Status:** Under development.
+
+**概要 (JP)**  
+FSM・PID・LLMを組み合わせた三層型知能制御アーキテクチャ。  
+⚠️ 開発・検証中。
+
+---
+
+## 🖨️ Inkjet｜Inkjet Architecture Archive
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Inkjet) |
+
+**Overview (EN)**  
+An archive of inkjet structures, drive waveforms, and control methods.
+
+**概要 (JP)**  
+インクジェットの構造・駆動波形・制御手法のアーカイブ。
+
+---
+
+## 💰 AssetPortfolio｜Tech-oriented Asset Management
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) |
+
+**Overview (EN)**  
+Investment education for engineers, covering ETFs, NISA, and diversification strategies.
+
+**概要 (JP)**  
+エンジニア向け投資教材。ETF・NISA・分散戦略などを解説。
+
+---
+
+## 🎮 Rekiden｜Historical Simulation with LLM
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Rekiden) |
+
+**Overview (EN)**  
+Historical simulation exercises using branching Markdown scenarios integrated with LLM.
+
+**概要 (JP)**  
+分岐式Markdownシナリオによる歴史教材とLLM連携型思考演習。
+
+---
+
+## 🏛️ AITL-Strategy-Proposal｜National Policy Proposals
+| GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|-----------|
+| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-JP/EN-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/) | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) |
+
+**Overview (EN)**  
+National and regional policy proposals centered on AI × Control × Education.  
+**Status:** Draft.
+
+**概要 (JP)**  
+AI × 制御 × 教育を軸とした国家・地域提言書。  
+⚠️ 素案段階。
