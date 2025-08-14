@@ -172,27 +172,29 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 - PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育  
 - 教材設計・PoC構築・AI活用設計支援
 
-## 🏛️ **提言・連携・国際協働に向けて**
+---
+
+## 🏛️ 提言・連携・国際協働に向けて
 
 | アイコン | プロジェクト名 | 分野 | 内容 |
-|----------|----------------|------|------|
+|---|---|---|---|
 | 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **教育 × AI × 制御** を軸とした **中長期的ビジョン**（AI活用教育導入とPoC設計連携の提案を含む）<br>⚠️ Draft段階 |
-| 🤝 | **OpenAI向けメッセージ**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)]({{ site.baseurl }}/about/openai-message/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/openai-message.md) | [🧠 AI提案] | **ChatGPT活用事例** と **統合設計への提案**（教材整備・国際展開方法も含む） |
+| 🤝 | **OpenAI向けメッセージ**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/about/openai-message/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/openai-message.md) | [🧠 AI提案] | **ChatGPT活用事例** と **統合設計への提案**（教材整備・国際展開方法も含む） |
 
 ---
 
-## 📚 **補足資料・更新履歴**
+## 📚 補足資料・更新履歴
 
 | アイコン | 項目 | 内容 |
-|----------|------|------|
-| 🕘 | **更新履歴**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)]({{ site.baseurl }}/about/update/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/update.md) | 教材の **更新履歴・構成変更ログ** |
-| 🧠 | **ChatGPT活用レベル診断**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)]({{ site.baseurl }}/about/chatgpt-skill-eval/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/chatgpt-skill-eval.md) | LLM活用スキル（レベル5）評価レポート。構造設計・記憶活用・教材生成の観点から評価。 |
-| 📋 | **Geminiレビュー**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)]({{ site.baseurl }}/about/gemini-review/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/gemini-review.md) | **Google Gemini** による **教材評価レポート** |
-| 🌐 | **English Version**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)]({{ site.baseurl }}/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) | 英語ポータルへのリンク |
+|---|---|---|
+| 🕘 | **更新履歴**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/about/update/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/update.md) | 教材の **更新履歴・構成変更ログ** |
+| 🧠 | **ChatGPT活用レベル診断**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/about/chatgpt-skill-eval/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/chatgpt-skill-eval.md) | LLM活用スキル（レベル5）評価レポート。構造設計・記憶活用・教材生成の観点から評価。 |
+| 📋 | **Geminiレビュー**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/about/gemini-review/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/gemini-review.md) | **Google Gemini** による **教材評価レポート** |
+| 🌐 | **English Version**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) | 英語ポータルへのリンク |
 
 ---
 
-## 👤 **執筆者 / Author**
+## 👤 執筆者 / Author
 
 |  |  |
 |--|--|
@@ -203,12 +205,10 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 ---
 
-## 📌 **キャリア要約 / Career Summary**
+## 📌 キャリア要約 / Career Summary
 
-[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)]({{ site.baseurl }}/about/career-summary/)&nbsp;&nbsp;
+[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/about/career-summary/)  
 [![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/career-summary.md)
-
-**三溝真一（Shinichi Samizo）** の技術経歴と専門分野をまとめた詳細レポートです。
 
 ---
 
