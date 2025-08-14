@@ -4,6 +4,8 @@ title: 更新履歴（Update Log)
 description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポートフォリオ更新履歴）
 ---
 
+---
+
 # 🕘 更新履歴（Update Log)
 [![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
 
