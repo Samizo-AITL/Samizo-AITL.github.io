@@ -3,7 +3,10 @@ layout: default
 title: Career Summary
 ---
 
+---
+
 # 🛠️ Career Summary
+[![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/)
 
 **Shinichi Samizo** is an engineer whose career has continuously evolved through  
 **“Technology → Systemization → Education”**, with expertise spanning control theory, electromagnetic field analysis, semiconductor device development, PZT actuators, and the productization of PrecisionCore printheads.
