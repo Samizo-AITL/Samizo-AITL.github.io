@@ -6,6 +6,7 @@ title: Samizo-AITLポータル 評価レポート（Geminiによるレビュー�
 ---
 
 # 🎓 Samizo-AITLポータル 評価レポート（Geminiによるレビュー）
+[![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
 
 ---
 
