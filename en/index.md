@@ -28,6 +28,13 @@ to develop AI that is not just linguistic—but functional, observable, and cont
 | 🇺🇸 English | [🌐](https://samizo-aitl.github.io/en/) | [💻](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) |
 | 🇯🇵 Japanese | [🌐](https://samizo-aitl.github.io/) | [💻](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
 
+## 🔗 Official Links
+
+| Language  | GitHub Pages 🌐 | GitHub 💻 |
+|-----------|----------------|-----------|
+| 🇺🇸 English | [🌐](https://samizo-aitl.github.io/en/) | [💻](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) |
+| 🇯🇵 Japanese | [🌐](https://samizo-aitl.github.io/) | [💻](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
+
 ---
 
 ## 🔍 **Projects Overview**
