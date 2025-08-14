@@ -129,6 +129,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 - インクジェット薄膜ピエゾアクチュエータ  
 - PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育  
 - 教材設計・PoC構築・AI活用設計支援
+
 ---
 
 © 2025 **Shinichi Samizo** — **MIT License**  
