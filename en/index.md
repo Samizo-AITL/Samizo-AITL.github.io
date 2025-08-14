@@ -84,7 +84,7 @@ This will make the English version a full one-to-one counterpart.
 |  | ┗ 📦 **PoC Manual**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/docs/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | [🧠 AI] [🎛️ Control] [🧪 PoC] | PoC procedure and configuration guide for AITL-H. |
 
 <div align="center">
-  <img src="./images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
+  <img src="../images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
   <p><em><strong>
     Integrating semiconductors, control, and AI into a three-layer educational system for implementation and evaluation of intelligent control applications.
   </strong></em></p>
