@@ -4,6 +4,8 @@ title: 経験要約 / Career Summary
 description: 半導体・制御・インクジェット・教育の横断経験をまとめたキャリアサマリ
 ---
 
+---
+
 # 🛠️ 経験要約 / Career Summary
 [![Samizo-AITL ポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)]({{ site.baseurl }}/)
 
