@@ -4,6 +4,8 @@ title: Samizo-AITLポータル 評価レポート（Geminiレビュー）
 description: GeminiによるSamizo-AITLポータルサイトの総合評価と改善提案
 ---
 
+---
+
 # 🎓 Samizo-AITLポータル 評価レポート（Geminiレビュー）
 [![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
 
