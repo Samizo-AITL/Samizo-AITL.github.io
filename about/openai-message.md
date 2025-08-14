@@ -6,6 +6,7 @@ title: OpenAI・技術連携パートナーへのメッセージ
 ---
 
 # 🤝 OpenAI・技術連携パートナーへのメッセージ
+[![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
 
 このページでは、ChatGPT（GPT-4o）を中核に据えた教育・設計支援プロジェクトの構成と、  
 **OpenAIとの技術連携・教育応用の可能性**をご紹介しています。
