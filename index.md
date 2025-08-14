@@ -8,7 +8,6 @@ description: Samizoによる半導体×AI×制御 統合教材ポータル　　
 
 # 🎓 Samizo-AITL Portal
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)  
-[![GitHub Pages](https://img.shields.io/badge/view-site-green)](https://samizo-aitl.github.io/)
 
 **Samizo-AITLポータル**は、三溝真一による個人プロジェクトです。  
 **半導体 × 制御 × AI** を軸に、知識・現象・技術の断片を**構造的に整理・接続**し、  
