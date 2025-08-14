@@ -6,6 +6,7 @@ title: Message to OpenAI & Technical Partners
 ---
 
 # 🤝 Message to OpenAI & Technical Partners
+[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to%20Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/)
 
 This page outlines the structure of educational and design-support projects centered on ChatGPT (GPT-4o),  
 and highlights **potential collaboration opportunities** with OpenAI in both technical and educational domains.
