@@ -74,10 +74,10 @@ with the mission to “understand physical structures, test ideas through PoC, a
 
 | Core Material | Description |
 |---------------|-------------|
-| **[Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/en/)** | Comprehensive foundation for learning **semiconductor processes, devices, design, testing, and reliability**. |
+| **[🎓 Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/en/)** | Comprehensive foundation for learning **semiconductor processes, devices, design, testing, and reliability**. |
 | ┗ 📦 **[SystemDK Special Chapter (2a)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)** | Covers **physical constraints** (SI/PI, thermal, stress, EMI/EMC), and PoC for **GAA / AMS / MRAM** heterogeneous integration. |
-| **[EduController](https://samizo-aitl.github.io/EduController/en/)** + <br>**[SoC DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | Training material for **FSM, PID, and LLM-based control**, along with **HDL templates** (Verilog/C code assisted by AI). |
-| **[AITL-H](https://samizo-aitl.github.io/AITL-H/en/)** + <br>**[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | Full teaching suite for **three-layer intelligent control architecture (FSM × PID × LLM)** as a reproducible PoC.<br>⚠️ *Under Development* |
+| **[🎛️ EduController](https://samizo-aitl.github.io/EduController/en/)** + <br>**[SoC DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | Training material for **FSM, PID, and LLM-based control**, along with **HDL templates** (Verilog/C code assisted by AI). |
+| **[🤖 AITL-H](https://samizo-aitl.github.io/AITL-H/en/)** + <br>**[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | Full teaching suite for **three-layer intelligent control architecture (FSM × PID × LLM)** as a reproducible PoC.<br>⚠️ *Under Development* |
 
 <div align="center">
   <img src="../images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
