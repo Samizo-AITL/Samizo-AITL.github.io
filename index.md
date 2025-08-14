@@ -123,6 +123,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 [![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/about/career-summary/)  
 [![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/blob/main/about/career-summary.md)
+
 **三溝真一（Shinichi Samizo）** の技術経歴と専門分野をまとめた詳細レポートです。
 
 - 半導体デバイス（ロジック・メモリ・高耐圧混載）  
