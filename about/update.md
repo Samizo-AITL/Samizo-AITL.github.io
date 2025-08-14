@@ -7,6 +7,7 @@ title: 更新履歴（Update Log)
 
 # 🕘 更新履歴（Update Log)
 [![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
+
 このページでは、「Technical Portfolio by Shinichi Samizo」および関連教材の改訂履歴を記録しています。  
 主な更新は、GitHub Pages サイト構成・教材追加・構成改訂・README更新などです。
 
