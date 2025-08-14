@@ -90,46 +90,6 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 ## 🏛️ **提言・連携・国際協働に向けて**
 
-以下では、**政策・技術連携・LLM導入** に関する構想や提案を示しています：
-
-- 🏛️ **[国家提言：AITL構想](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)**  
-　**教育 × AI × 制御** を軸とした **中長期的ビジョン**（※AI活用の教育導入とPoC設計連携の提案を含む)<br>⚠️ *本提案はv4.0素案（Draft）段階であり、内容は検討中です*
-
-- 🤝 **[OpenAI向けメッセージ](./about/openai-message.md)**  
-　**ChatGPT活用事例** と **統合設計への提案**（※教材整備・国際展開への活用方法も含まれています）
-
----
-
-## 📚 **補足資料・更新履歴**
-
-| 項目 | 内容 |
-|------|------|
-| 🕘 **[更新履歴](./about/update.md)** | 教材の **更新履歴・構成変更** ログ |
-| 🧠 **[ChatGPT活用レベル診断](./about/chatgpt-skill-eval.md)** | 本サイト運営者の**LLM活用スキル（レベル5）評価レポート**です。構造設計・記憶活用・教材生成の視点から評価されています。 |
-| 📋 **[Geminiレビュー](./about/gemini-review.md)** | **Google Gemini** による **教材評価レポート** |
-| 🌐 **[English Version](./en/index.md)** | 英語ポータルへのリンク |
-
----
-
-## 👤 **執筆者 / Author**
-
-**三溝真一（Shinichi Samizo）**  
-- **信州大学大学院 電気電子工学** 修了  
-- 元 **セイコーエプソン株式会社** 技術者（1997年〜）
-
-📌 **経験領域** → 📘 **[キャリア要約を見る](./about/career-summary.md)**  
-- **半導体デバイス（ロジック・メモリ・高耐圧混載）**  
-- **インクジェット薄膜ピエゾアクチュエータ**  
-- **PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育**
-
-📬 **連絡先**
-- ✉️ Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
-- 🐦 X: [https://x.com/shin3t72](https://x.com/shin3t72)  
-- 💻 GitHub: [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/)
-
-
-## 🏛️ **提言・連携・国際協働に向けて**
-
 | アイコン | プロジェクト名 | 分野 | 内容 |
 |----------|----------------|------|------|
 | 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **教育 × AI × 制御** を軸とした **中長期的ビジョン**（AI活用教育導入とPoC設計連携の提案を含む）<br>⚠️ Draft段階 |
@@ -155,8 +115,19 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 | **氏名 / Name** | 三溝真一（Shinichi Samizo） |
 | **学歴 / Education** | 信州大学大学院 電気電子工学 修了 |
 | **経歴 / Career** | 元 セイコーエプソン株式会社 技術者（1997年〜） |
-| **経験領域 / Expertise** | 半導体デバイス（ロジック・メモリ・高耐圧混載）<br>インクジェット薄膜ピエゾアクチュエータ<br>PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育 |
 | **リンク / Contact** | ✉️ [Email](mailto:shin3t72@gmail.com) / 🐦 [X](https://x.com/shin3t72) / 💻 [GitHub](https://samizo-aitl.github.io/) |
+
+---
+
+## 📌 **キャリア要約 / Career Summary**
+
+[![📄 View Career Summary](https://img.shields.io/badge/View-Doc-lightgrey?logo=markdown)](./about/career-summary.md)  
+**三溝真一（Shinichi Samizo）** の技術経歴と専門分野をまとめた詳細レポートです。
+
+- 半導体デバイス（ロジック・メモリ・高耐圧混載）  
+- インクジェット薄膜ピエゾアクチュエータ  
+- PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育  
+- 教材設計・PoC構築・AI活用設計支援
 
 ---
 
