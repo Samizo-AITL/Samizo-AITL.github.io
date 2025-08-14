@@ -3,7 +3,10 @@ layout: default
 title: Update Log
 ---
 
+---
+
 # 🕘 Update Log
+[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to%20Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/) 
 
 This page documents the update history of the "Technical Portfolio by Shinichi Samizo"  
 including GitHub Pages site updates, new materials, structural revisions, and README improvements.
