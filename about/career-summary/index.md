@@ -7,7 +7,7 @@ description: 半導体・制御・インクジェット・教育の横断経験�
 ---
 
 # 🛠️ 経験要約 / Career Summary
-[![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)]({{ site.baseurl }}/)  
+[![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)]({{ site.baseurl }}/)
 
 **三溝真一**は、制御理論・電磁界解析から半導体デバイス開発、PZTアクチュエータ、PrecisionCoreプリントヘッド製品化に至るまで、  
 **「技術 → 仕組み → 教育」へと連続的に深化してきた技術者**です。
