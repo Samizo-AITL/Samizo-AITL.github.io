@@ -5,7 +5,7 @@ title: Samizo-AITL Portal (English)
 
 ---
 
-# 🎓 Samizo-AITL Portal
+# 🎓 Samizo-AITL Portal 
 
 > "Read the structure, create the motion, accelerate with AI" – A portal for learning the fusion of physics and intelligence
 
