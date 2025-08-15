@@ -9,7 +9,7 @@ description: Samizoによる半導体×AI×制御 統合教材ポータル　　
 # 🎓 Samizo-AITL Portal
 > **「構造を読む、動きを作る、AIで加速する」** — *物理と知能の融合を学ぶポータル*
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)  
+[![License: Hybrid](https://img.shields.io/badge/License-Hybrid-blue.svg)](https://github.com/Samizo-AITL/Edusemi-v4x#-license)
 
 **Samizo-AITLポータル**は、三溝真一による個人プロジェクトです。  
 **半導体 × 制御 × AI** を軸に、知識・現象・技術の断片を**構造的に整理・接続**し、  
