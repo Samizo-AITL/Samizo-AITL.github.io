@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default 
 title: Samizo-AITL Portal (English) 
 description: Integrated Semiconductor × AI × Control Educational Portal by Samizo
 ---
