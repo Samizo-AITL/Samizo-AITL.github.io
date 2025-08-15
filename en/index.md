@@ -135,11 +135,6 @@ Detailed report of **Shinichi Samizo**'s technical background and expertise:
 
 ---
 
-© 2025 **Shinichi Samizo** — **MIT License**  
-Educational materials, code, diagrams, and templates are available under the **MIT License** (intended for educational/research use; no direct relation to any commercial products).
-
----
-
 ## 🖼️ **Technology Integration Architecture (Realistic Version)**
 
 <p align="center">
