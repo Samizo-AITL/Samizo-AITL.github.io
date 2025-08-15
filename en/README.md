@@ -9,7 +9,7 @@ title: Samizo-AITL Portal (English)
 
 > "Read the structure, create the motion, accelerate with AI" – A portal for learning the fusion of physics and intelligence
 
-[![License: Hybrid](https://img.shields.io/badge/License-Hybrid-blue.svg)](https://github.com/Samizo-AITL/Edusemi-v4x#-license)
+[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/Edusemi-v4x/#-ライセンス--license)
 
 **Samizo-AITL Portal** is a personal project by **Shinichi Samizo**,  
 aimed at **systematically organizing and connecting fragmented knowledge, technologies, and physical phenomena**  
