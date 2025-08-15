@@ -6,8 +6,10 @@ title: Samizo-AITL Portal (English)
 ---
 
 # 🎓 Samizo-AITL Portal
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](../LICENSE)  
-[![GitHub Pages](https://img.shields.io/badge/view-site-green)](https://samizo-aitl.github.io/en/)
+
+> "Read the structure, create the motion, accelerate with AI" – A portal for learning the fusion of physics and intelligence
+
+[![License: Hybrid](https://img.shields.io/badge/License-Hybrid-blue.svg)](https://github.com/Samizo-AITL/Edusemi-v4x#-license)
 
 **Samizo-AITL Portal** is a personal project by **Shinichi Samizo**,  
 aimed at **systematically organizing and connecting fragmented knowledge, technologies, and physical phenomena**  
@@ -122,12 +124,6 @@ with the mission to “understand physical structures, test ideas through PoC, a
 - ✉️ Email: [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
 - 🐦 X (Twitter): [https://x.com/shin3t72](https://x.com/shin3t72)  
 - 💻 GitHub: [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/)
-
----
-
-© 2025 **Shinichi Samizo** — **MIT License**  
-All educational materials, code, diagrams, and templates are released under the MIT License  
-and are free to use for research and educational purposes (not tied to any commercial product).
 
 ---
 
