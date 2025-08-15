@@ -9,7 +9,7 @@ description: Integrated Semiconductor × AI × Control Educational Portal by Sam
 # 🎓 Samizo-AITL Portal
 > **"Read the structure, create the motion, accelerate with AI"** — *A portal for learning the fusion of physics and intelligence*
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)  
+[![License: Hybrid](https://img.shields.io/badge/License-Hybrid-blue.svg)](https://github.com/Samizo-AITL/Edusemi-v4x#-license)
 
 **Samizo-AITL Portal** is a personal project by **Shinichi Samizo**.  
 Focusing on **Semiconductors × Control × AI**, it systematically organizes and connects fragments of knowledge, phenomena, and technologies to support **education**, **PoC (Proof of Concept)**, and **policy proposals**.
