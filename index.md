@@ -9,7 +9,7 @@ description: Samizoによる半導体×AI×制御 統合教材ポータル　　
 # 🎓 Samizo-AITL Portal
 > **「構造を読む、動きを作る、AIで加速する」** — *物理と知能の融合を学ぶポータル*
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)  
+[![License: Hybrid](https://img.shields.io/badge/License-Hybrid-blue.svg)](https://github.com/Samizo-AITL/Edusemi-v4x#-license)
 
 **Samizo-AITLポータル**は、三溝真一による個人プロジェクトです。  
 **半導体 × 制御 × AI** を軸に、知識・現象・技術の断片を**構造的に整理・接続**し、  
@@ -117,7 +117,6 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 | **経歴 / Career** | 元 セイコーエプソン株式会社 技術者（1997年〜） |
 | **リンク / Contact** | ✉️ [Email](mailto:shin3t72@gmail.com) / 🐦 [X](https://x.com/shin3t72) / 💻 [GitHub](https://samizo-aitl.github.io/) |
 
-
 ---
 
 ## 📌 **キャリア要約 / Career Summary**
@@ -129,10 +128,6 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 - インクジェット薄膜ピエゾアクチュエータ  
 - PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育  
 - 教材設計・PoC構築・AI活用設計支援
----
-
-© 2025 **Shinichi Samizo** — **MIT License**  
-教材・コード・図面・テンプレートは、**MITライセンス** のもとで自由にご活用いただけます（※本サイトは教育・研究用途を主眼としており、商用製品との直接的関連はありません）。
 
 ---
 
