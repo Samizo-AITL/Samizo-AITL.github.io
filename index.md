@@ -86,12 +86,13 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 ## 🧩 半導体 × 制御 × AI × 教材群を統合したフレームワーク
 
-```mermaid
+<div class="mermaid">
 flowchart TD
-    A[🎓 Edusemi-v4x<br/>半導体SoC設計の基盤教材] 
-        --> B[🎛️ EduController<br/>制御理論 × AI × SoC設計] 
-        --> C[🧠 AITL-H<br/>知能制御アーキテクチャ & PoC]
-        --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教材群を統合したフレームワーク]
+    A[🎓 Edusemi-v4x<br/>半導体SoC設計の基盤教材]
+    --> B[🎛️ EduController<br/>制御理論 × AI × SoC設計]
+    --> C[🧠 AITL-H<br/>知能制御アーキテクチャ & PoC]
+    --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教材群を統合したフレームワーク]
+</div>
 
     style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
     style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
