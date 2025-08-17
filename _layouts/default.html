@@ -15,22 +15,32 @@
     <!-- Mermaid JS（CDN） -->
     <script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 
-    <!-- Mermaid 初期化：ライトテーマ固定＋中央寄せ -->
+    <!-- Mermaid 初期化：code→div 置換 ＋ ライト固定 ＋ 中央寄せ -->
     <script>
       document.addEventListener('DOMContentLoaded', function () {
-        // 中央寄せ（Pages側のみ; GitHub本体には影響しません）
-        document.querySelectorAll('.mermaid').forEach(function(el){
+        // 1) ```mermaid で生成された <code class="language-mermaid"> を <div class="mermaid"> に変換
+        document.querySelectorAll('code.language-mermaid').forEach(function (code) {
+          const pre = code.closest('pre');
+          const div = document.createElement('div');
+          div.className = 'mermaid';
+          div.textContent = code.textContent; // 中身（グラフ定義）をそのまま移す
+          if (pre) pre.replaceWith(div); else code.replaceWith(div);
+        });
+
+        // 2) 中央寄せ（Pages側だけに効く）
+        document.querySelectorAll('.mermaid').forEach(function (el) {
           el.style.display = 'block';
           el.style.margin = '1.5rem auto';
           el.style.maxWidth = '960px';
           el.style.textAlign = 'center';
         });
 
+        // 3) Mermaid をライトテーマで初期化（ダーク連動を無効化）
         if (window.mermaid) {
           mermaid.initialize({
             startOnLoad: true,
-            securityLevel: 'loose', // <br/>等のHTMLラベルやclickを許可
-            theme: 'default'        // ← ダークモード連動をやめ、常にライトに固定
+            securityLevel: 'loose',
+            theme: 'default'
           });
         }
       });
