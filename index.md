@@ -84,6 +84,8 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 | 🤖 | **AITL-H**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) | [🧠 AI] [🎛️ 制御] [🧪 PoC] | **三層型知能制御アーキテクチャ（FSM×PID×LLM）** を概念実証（PoC）として再現可能な統合教材<br>⚠️ 開発・検証中 |
 |  | ┗ 📦 **PoCマニュアル**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/docs/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | [🧠 AI] [🎛️ 制御] [🧪 PoC] | AITL-HのPoC手順書・構成解説 |
 
+---
+
 ## 🧩 半導体 × 制御 × AI × 教材群を統合したフレームワーク
 
 ```mermaid
