@@ -92,7 +92,7 @@ flowchart TD
         --> C[🧠 AITL-H<br/>知能制御アーキテクチャ & PoC]
         --> D[🏛️ AITL-Strategy-Proposal<br/>教育 × AI × 制御 ― 中長期ビジョン・政策提言]
 
-    D --> E[🌐 産学官連携・国際協働<br/>Industry–Academia–Gov / Global Alliances]
+    D --> E[🌐 産学官連携・国際協働<br/>グローバル連携・PoCパートナーシップ]
 
     %% スタイル
     style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
@@ -104,7 +104,7 @@ flowchart TD
     %% 注釈
     classDef note fill:#ffffff,stroke:#999,stroke-dasharray:3 3,color:#333;
     N["🎓 半導体 → 🎛️ 制御理論 → 🧠 知能制御 → 🏛️ 提言・連携 の四層構造"]:::note
-    D --> N
+    E --> N
 ```
 
 ---
