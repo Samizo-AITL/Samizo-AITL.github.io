@@ -11,5 +11,22 @@
     <main>
       {{ content }}
     </main>
+
+    <!-- Mermaid JS（CDN） -->
+    <script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+    <!-- Mermaid 初期化（ダーク/ライトの自動切替・セキュリティ緩和） -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        if (window.mermaid) {
+          const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          mermaid.initialize({
+            startOnLoad: true,
+            securityLevel: 'loose',   // HTMLラベルやクリック等を使うため
+            theme: prefersDark ? 'dark' : 'default'
+          });
+        }
+      });
+    </script>
   </body>
 </html>
