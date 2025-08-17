@@ -84,12 +84,22 @@ through the process of **analyzing physical phenomena, validating via PoC, and s
 | **[🎛️ EduController](https://samizo-aitl.github.io/EduController/en/)** + <br>**[SoC DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | Training material for **FSM, PID, and LLM-based control**, along with **HDL templates** (Verilog/C code assisted by AI). |
 | **[🤖 AITL-H](https://samizo-aitl.github.io/AITL-H/)** + <br>**[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | Full teaching suite for **three-layer intelligent control architecture (FSM × PID × LLM)** as a reproducible PoC.<br>⚠️ *Under Development* |
 
-<div align="center">
-  <img src="../images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
-  <p><em><strong>
-    Educational framework connecting Semiconductors, Control, and AI for hands-on intelligent control application and PoC evaluation.
-  </strong></em></p>
-</div>
+---
+
+## 🧩 Integrated Framework of Semiconductors × Control × AI × Educational Materials
+
+```mermaid
+flowchart TD
+    A[🎓 Edusemi-v4x<br/>Foundational Materials for Semiconductor SoC Design]
+        --> B[🎛️ EduController<br/>Control Theory × AI × SoC Design]
+        --> C[🧠 AITL-H<br/>Intelligent Control Architecture & PoC]
+        --> D[🏛️ AITL-Strategy-Proposal<br/>Integrated Framework of Semiconductors × Control × AI × Educational Materials]
+
+    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
+    style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
+    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
+    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
+```
 
 ---
 
