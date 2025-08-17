@@ -92,7 +92,7 @@ through the process of **analyzing physical phenomena, validating via PoC, and s
 flowchart TD
     A[🎓 Edusemi-v4x<br/>Foundational Materials for Semiconductor SoC Design]
         --> B[🎛️ EduController<br/>Control Theory × AI × SoC Design]
-        --> C[🧠 AITL-H<br/>Intelligent Control Architecture & PoC]
+        --> C[🤖 AITL-H<br/>Intelligent Control Architecture & PoC]
         --> D[🏛️ AITL-Strategy-Proposal<br/>Integrated Framework of Semiconductors × Control × AI × Educational Materials]
 
     style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
