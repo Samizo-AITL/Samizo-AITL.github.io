@@ -94,10 +94,6 @@ flowchart TD
     --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教材群を統合したフレームワーク]
 </div>
 
-    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
-    style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
-    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
-    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
 ```
 
 ---
