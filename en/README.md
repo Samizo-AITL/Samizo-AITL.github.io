@@ -52,19 +52,25 @@ Below is a list of core projects featured in this portal, spanning areas such as
 
 ---
 
-## 🧠 **AITL Integration Philosophy**
+## 🧠 Background of the AITL Integrated Concept
 
-**Samizo-AITL** is a cross-disciplinary framework that integrates  
-**Semiconductors × Control Systems × AI**,  
-with the mission to “understand physical structures, test ideas through PoC, and support learning through AI.”
+**Samizo-AITL** organically integrates **Semiconductors × Control × AI**,  
+providing a unified framework for **Education, Conception, and Design**  
+through the process of **analyzing physical phenomena, validating via PoC, and supporting design with AI**.
 
-> 📘 All educational materials and PoC designs are released under the MIT License.  
-> While AI tools like ChatGPT are used as assistants, the author takes full responsibility for the structure and content.  
+> 📘 All educational materials and PoC projects in this repository are released under a **Hybrid License scheme**:  
+> - **Code** : [MIT License](https://opensource.org/licenses/MIT)  
+>   (Free to use, modify, and redistribute)  
+> - **Text materials** : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+>   (Attribution required)  
+> - **Figures & diagrams** : [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+>   (Non-commercial use only)  
+> - **External references** : Follow the original license of the source (with proper citation)  
 {: .annotation-narrow}
 
-> 💡 [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/) serves as the core educational suite,  
-> reconstructed from real-world industrial experience specifically for educational purposes.  
-> (*It is not affiliated with any specific product or company.*)  
+> 💡 The core curriculum, [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/),  
+> is an **educational program reconstructed from the author’s professional experience and research results**.  
+> It is not related to any specific products or corporate activities.  
 {: .annotation-narrow}
 
 ---
