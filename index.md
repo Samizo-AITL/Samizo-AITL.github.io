@@ -92,22 +92,21 @@ flowchart TD
         --> C[🧠 AITL-H<br/>Intelligent Control Architecture & PoC]
         --> D[🏛️ AITL-Strategy-Proposal<br/>Education × AI × Control — Mid/Long-term Vision & Policy / PoC Partnerships]
 
-    %% 連携・国際協働の強調（サブノード）
     D --> E[🌐 Liaison & International Collaboration<br/>Industry–Academia–Gov / Global Alliances]
 
-    %% スタイル
-    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2px
-    style B fill:#f9f9e6,stroke:#ff9900,stroke-width:2px
-    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2px
-    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2px
+    %% Styles
+    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
+    style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
+    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
+    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
     style E fill:#ffffff,stroke:#2a8f6a,stroke-dasharray:3 3,color:#2a8f6a
 
-    %% 注釈
+    %% Note
     classDef note fill:#ffffff,stroke:#999,stroke-dasharray:3 3,color:#333;
-    N["半導体 → 制御理論 → 知能制御 → 提言・連携 の四層で<br/>教材開発・PoC・社会実装を接続する全体アーキテクチャ"]:::note
+    N["🎓 半導体 → 🎛️ 制御理論 → 🧠 知能制御 → 🏛️ 提言・連携 の四層構造"]:::note
     D --> N
 
-    %% （任意）クリックで各サイトに飛ばす場合は下の3行のコメントを外してください
+    %% (Optional) link nodes
     %% click A "https://samizo-aitl.github.io/Edusemi-v4x/" _blank
     %% click B "https://samizo-aitl.github.io/EduController/" _blank
     %% click C "https://samizo-aitl.github.io/AITL-H/" _blank
