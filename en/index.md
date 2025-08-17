@@ -51,15 +51,25 @@ developed from multiple perspectives including education, PoC, AI utilization, p
 
 ---
 
-## 🧠 **Background of the AITL Integrated Concept**
+## 🧠 Background of the AITL Integrated Concept
 
-**Samizo-AITL** organically connects **Semiconductors × Control × AI**,  
-integrating the process of **analyzing physical structures, validating through PoC, and supporting design with AI** into education, concept development, and engineering.
+**Samizo-AITL** organically integrates **Semiconductors × Control × AI**,  
+providing a unified framework for **Education, Conception, and Design**  
+through the process of **analyzing physical phenomena, validating via PoC, and supporting design with AI**.
 
-> 📘 All materials and PoC examples in this project group are released under the **MIT License**. While AI tools such as ChatGPT are used as assistants, the overall structure, verification, and writing responsibility lie entirely with the author.  
+> 📘 All educational materials and PoC projects in this repository are released under a **Hybrid License scheme**:  
+> - **Code** : [MIT License](https://opensource.org/licenses/MIT)  
+>   (Free to use, modify, and redistribute)  
+> - **Text materials** : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+>   (Attribution required)  
+> - **Figures & diagrams** : [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+>   (Non-commercial use only)  
+> - **External references** : Follow the original license of the source (with proper citation)  
 {: .annotation-narrow}
 
-> 💡 The core curriculum [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/en/) is reconstructed from the author's professional experience and research, and is unrelated to any specific commercial product or company activity.  
+> 💡 The core curriculum, [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/),  
+> is an **educational program reconstructed from the author’s professional experience and research results**.  
+> It is not related to any specific products or corporate activities.  
 {: .annotation-narrow}
 
 ---
