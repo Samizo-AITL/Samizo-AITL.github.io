@@ -92,6 +92,25 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
   </strong></em></p>
 </div>
 
+```mermaid
+flowchart TD
+    A[📘 Edusemi-v4x<br/>Foundation of Semiconductor SoC Design] 
+        --> B[⚙️ EduController<br/>Control Theory × AI × SoC Design] 
+        --> C[🧠 AITL-H<br/>Intelligent Control Architecture & PoC]
+
+
+    %% スタイル定義
+    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2px
+    style B fill:#f9f9e6,stroke:#ff9900,stroke-width:2px
+    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2px
+
+    %% 注釈
+    classDef note fill:#ffffff,stroke:#999,stroke-dasharray: 3 3,color:#333;
+    D["半導体 × 制御 × AI を統合し、知能制御の応用を実装・評価する三層教材"]:::note
+    C --> D
+```
+
+
 ---
 
 ## 🏛️ **提言・連携・国際協働に向けて**
