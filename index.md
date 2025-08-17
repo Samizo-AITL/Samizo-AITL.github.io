@@ -85,14 +85,14 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 |  | ┗ 📦 **PoCマニュアル**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/docs/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | [🧠 AI] [🎛️ 制御] [🧪 PoC] | AITL-HのPoC手順書・構成解説 |
 
 
-## 🏛️ 半導体 × 制御 × AI × 教育による政策提言
+## 🧩 半導体 × 制御 × AI × 教育 ― AITL構想の概要
 
 ```mermaid
 flowchart TD
     A[🎓 Edusemi-v4x<br/>半導体SoC設計の基盤教材] 
         --> B[🎛️ EduController<br/>制御理論 × AI × SoC設計] 
         --> C[🧠 AITL-H<br/>知能制御アーキテクチャ & PoC]
-        --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教育 ― 政策提言]
+        --> D[🏛️ AITL-Strategy-Proposal<br/>AITL構想の全体像]
 
     style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
     style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
