@@ -94,8 +94,6 @@ flowchart TD
     --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教材群を統合したフレームワーク]
 </div>
 
-```
-
 ---
 
 ## 🏛️ **提言・連携・国際協働に向けて**
