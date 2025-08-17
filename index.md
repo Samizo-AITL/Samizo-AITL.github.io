@@ -87,30 +87,24 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 ```mermaid
 flowchart TD
-    A[🎓 Edusemi-v4x<br/>Foundation of Semiconductor SoC Design] 
-        --> B[🎛️ EduController<br/>Control Theory × AI × SoC Design] 
-        --> C[🧠 AITL-H<br/>Intelligent Control Architecture & PoC]
-        --> D[🏛️ AITL-Strategy-Proposal<br/>Education × AI × Control — Mid/Long-term Vision & Policy / PoC Partnerships]
+    A[🎓 Edusemi-v4x<br/>半導体SoC設計の基盤教材] 
+        --> B[🎛️ EduController<br/>制御理論 × AI × SoC設計] 
+        --> C[🧠 AITL-H<br/>知能制御アーキテクチャ & PoC]
+        --> D[🏛️ AITL-Strategy-Proposal<br/>教育 × AI × 制御 ― 中長期ビジョン・政策提言]
 
-    D --> E[🌐 Liaison & International Collaboration<br/>Industry–Academia–Gov / Global Alliances]
+    D --> E[🌐 産学官連携・国際協働<br/>Industry–Academia–Gov / Global Alliances]
 
-    %% Styles
+    %% スタイル
     style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
     style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
     style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
     style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
     style E fill:#ffffff,stroke:#2a8f6a,stroke-dasharray:3 3,color:#2a8f6a
 
-    %% Note
+    %% 注釈
     classDef note fill:#ffffff,stroke:#999,stroke-dasharray:3 3,color:#333;
     N["🎓 半導体 → 🎛️ 制御理論 → 🧠 知能制御 → 🏛️ 提言・連携 の四層構造"]:::note
     D --> N
-
-    %% (Optional) link nodes
-    %% click A "https://samizo-aitl.github.io/Edusemi-v4x/" _blank
-    %% click B "https://samizo-aitl.github.io/EduController/" _blank
-    %% click C "https://samizo-aitl.github.io/AITL-H/" _blank
-    %% click D "https://samizo-aitl.github.io/AITL-Strategy-Proposal/" _blank
 ```
 
 ---
