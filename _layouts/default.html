@@ -15,15 +15,22 @@
     <!-- Mermaid JS（CDN） -->
     <script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 
-    <!-- Mermaid 初期化（ダーク/ライトの自動切替・セキュリティ緩和） -->
+    <!-- Mermaid 初期化：ライトテーマ固定＋中央寄せ -->
     <script>
       document.addEventListener('DOMContentLoaded', function () {
+        // 中央寄せ（Pages側のみ; GitHub本体には影響しません）
+        document.querySelectorAll('.mermaid').forEach(function(el){
+          el.style.display = 'block';
+          el.style.margin = '1.5rem auto';
+          el.style.maxWidth = '960px';
+          el.style.textAlign = 'center';
+        });
+
         if (window.mermaid) {
-          const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
           mermaid.initialize({
             startOnLoad: true,
-            securityLevel: 'loose',   // HTMLラベルやクリック等を使うため
-            theme: prefersDark ? 'dark' : 'default'
+            securityLevel: 'loose', // <br/>等のHTMLラベルやclickを許可
+            theme: 'default'        // ← ダークモード連動をやめ、常にライトに固定
           });
         }
       });
