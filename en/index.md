@@ -91,12 +91,22 @@ This will make the English version a full one-to-one counterpart.
 | 🤖 | **AITL-H**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) | [🧠 AI] [🎛️ Control] [🧪 PoC] | **Three-layer intelligent control architecture (FSM × PID × LLM)** as a reproducible PoC. Development in progress. |
 |  | ┗ 📦 **PoC Manual**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/docs/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | [🧠 AI] [🎛️ Control] [🧪 PoC] | PoC procedure and configuration guide for AITL-H. |
 
-<div align="center">
-  <img src="../images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
-  <p><em><strong>
-    Integrating semiconductors, control, and AI into a three-layer educational system for implementation and evaluation of intelligent control applications.
-  </strong></em></p>
-</div>
+---
+
+## 🧩 Integrated Framework of Semiconductors × Control × AI × Educational Materials
+
+```mermaid
+flowchart TD
+    A[🎓 Edusemi-v4x<br/>Foundational Materials for Semiconductor SoC Design]
+        --> B[🎛️ EduController<br/>Control Theory × AI × SoC Design]
+        --> C[🧠 AITL-H<br/>Intelligent Control Architecture & PoC]
+        --> D[🏛️ AITL-Strategy-Proposal<br/>Integrated Framework of Semiconductors × Control × AI × Educational Materials]
+
+    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
+    style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
+    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
+    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
+```
 
 ---
 
