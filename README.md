@@ -84,13 +84,22 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 | 🤖 | **AITL-H**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) | [🧠 AI] [🎛️ 制御] [🧪 PoC] | **三層型知能制御アーキテクチャ（FSM×PID×LLM）** を概念実証（PoC）として再現可能な統合教材<br>⚠️ 開発・検証中 |
 |  | ┗ 📦 **PoCマニュアル**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/docs/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | [🧠 AI] [🎛️ 制御] [🧪 PoC] | AITL-HのPoC手順書・構成解説 |
 
+---
 
-<div align="center">
-  <img src="./images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
-  <p><em><strong>
-    半導体・制御・AIを統合し、知能制御の応用例を実装・評価する三層構成の教材です。
-  </strong></em></p>
-</div>
+## 🧩 半導体 × 制御 × AI × 教材群を統合したフレームワーク
+
+```mermaid
+flowchart TD
+    A[🎓 Edusemi-v4x<br/>半導体SoC設計の基盤教材]
+        --> B[🎛️ EduController<br/>制御理論 × AI × SoC設計]
+        --> C[🧠 AITL-H<br/>知能制御アーキテクチャ & PoC]
+        --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教材群を統合したフレームワーク]
+
+    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
+    style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
+    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
+    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
+```
 
 ---
 
