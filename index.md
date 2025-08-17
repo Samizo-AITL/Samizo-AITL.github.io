@@ -85,17 +85,10 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 |  | ┗ 📦 **PoCマニュアル**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/docs/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | [🧠 AI] [🎛️ 制御] [🧪 PoC] | AITL-HのPoC手順書・構成解説 |
 
 
-<div align="center">
-  <img src="./images/core_materials_clean.svg" alt="Core Materials Structure" width="75%">
-  <p><em><strong>
-    半導体・制御・AIを統合し、知能制御の応用例を実装・評価する三層構成の教材です。
-  </strong></em></p>
-</div>
-
 ```mermaid
 flowchart TD
-    A[📘 Edusemi-v4x<br/>Foundation of Semiconductor SoC Design] 
-        --> B[⚙️ EduController<br/>Control Theory × AI × SoC Design] 
+    A[🎓 Edusemi-v4x<br/>Foundation of Semiconductor SoC Design] 
+        --> B[🎛️ EduController<br/>Control Theory × AI × SoC Design] 
         --> C[🧠 AITL-H<br/>Intelligent Control Architecture & PoC]
 
 
