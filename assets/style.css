@@ -125,3 +125,11 @@ img.shrink-70 {
     padding: 0.4em 0.8em;
   }
 }
+/* Mermaid を中央寄せ */
+.mermaid {
+  display: block;
+  margin: 1.5rem auto;   /* 左右autoで中央寄せ */
+  max-width: 960px;      /* 任意：上限幅 */
+  text-align: center;    /* ノード内のテキスト補助 */
+}
+
