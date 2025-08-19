@@ -60,7 +60,7 @@ description: 半導体・制御・インクジェット・教育の横断経験�
 - **BOM整備・ISO教育・技術伝承**の仕組みづくりを推進  
 
 👉 これらの経験を基盤として、**SystemDKにおける熱・応力・ノイズ制約の設計対応**を教育教材として体系化  
-[➡️ Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約](https://samizo-aitl.github.io/Edusemi-v4x/special2a_systemdk_constraints/)
+[➡️ Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
 
 ---
 
