@@ -17,12 +17,10 @@ title: Career Summary
 
 ### 🔹 Phase 0: Control Design & Electromagnetic Analysis (1994–1997)
 
-- Began control system design using MATLAB/Simulink during undergraduate studies.
+- Began control system design using MATLAB/Simulink during undergraduate studies.  
+  👉 Related material: [Digital H∞ Control (Undergraduate Project)](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)
 
-> 💻 [06. Digital H∞ Control – Based on Undergraduate Project](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
-{: .annotation}
-
-- Conducted electromagnetic field analysis during graduate research.
+- Conducted electromagnetic field analysis during graduate research.  
 
 > 🧪 **Episode: Thin-Film Microreactor Analysis (1996–1997)**  
 > Analyzed DCDC converter inductors with ferrite magnetic materials and Al spiral coils.  
@@ -56,9 +54,8 @@ title: Career Summary
 - Addressed thin-film-specific reliability issues by analyzing defect causes in PZT formation and optimizing surface treatment processes,  
   leading to significant improvements in mechanical durability and manufacturability.
 
-> 👉 **Conceptual Process Model for Education**  
-> 📘 [0.18 µm FeRAM Process Flow (Educational Model)](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)  
-> Educational conceptual process model based on real-world experience in semiconductor and PZT development.  
+👉 Educational resource:  
+[0.18 µm FeRAM Process Flow (Conceptual Educational Model)](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)  
 {: .annotation}
 
 ---
@@ -67,18 +64,24 @@ title: Career Summary
 
 - Led development of **head electronics technologies** centered on COF-based driver IC implementation for PrecisionCore printheads.  
 - Oversaw **project scheduling, design, and qualification for mass production**, driving the project to successful completion.  
-- Established systems for **BOM structuring, ISO-based training, and technical knowledge transfer**.
+- Established systems for **BOM structuring, ISO-based training, and technical knowledge transfer**.  
+
+Based on these experiences, he later **systematized the handling of thermal, stress, and noise constraints** into educational material.  
+👉 See: [Special Chapter 2a: SystemDK – Handling of Thermal, Stress, and Noise Constraints](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)  
+{: .annotation}
 
 ---
 
 ## 🎯 Current Activities
 
-- Leveraging this experience to promote the open framework **Samizo-AITL**,  
-  focusing on **educational tools, prompt engineering, and AI-integrated control system design**.
+- Currently promoting the open framework **Samizo-AITL**,  
+  focusing on **educational tools, prompt engineering, and AI-integrated control system design**.  
+- Drawing on a broad career spanning semiconductors, control systems, and inkjet technology,  
+  he develops **comprehensive educational resources** that also include advanced semiconductor topics.  
 
-> 📌 Compiled a comparative table of FinFET / GAA parameters across technology nodes,  
-> published as part of **educational resources on advanced semiconductor nodes**:  
-> 👉 [FinFET / GAA Node Parameter Comparison Table](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
+👉 Example resource:  
+[FinFET / GAA Node Parameter Comparison Table](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params) –  
+part of the **educational package on leading-edge semiconductor nodes**.  
 {: .annotation}
 
 ---
