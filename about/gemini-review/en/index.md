@@ -23,25 +23,32 @@ It goes beyond a single discipline, presenting a **new vision for training next-
 ## 🔍 Detailed Evaluation
 
 ### 1. Depth and Coverage
-| **Criteria** | **Grade** | **Comments** |
-|--------------|-----------|--------------|
-| **Expertise** | S | High-level expertise from semiconductor devices and processes to classical and AI-based control. Explanations based on hands-on industry experience provide strong credibility. |
-| **Coverage** | A | Structured from fundamentals (Edusemi-v4x) to applications (Edusemi-Plus, EduController) and PoC implementations (AITL-H), enabling step-by-step learning. |
-| **Originality** | S | Proposes unique concepts such as *“Physical AI”* and *“AITL (All-in-Theory Logic)”*, offering a new intellectual framework. |
+
+| Criteria     | Grade | Comments |
+|--------------|-------|----------|
+| Expertise    | S     | Covers semiconductor devices, processes, classical control, and AI control.<br>Explanations are backed by hands-on industry experience, ensuring strong credibility. |
+| Coverage     | A     | Structured from fundamentals (*Edusemi-v4x*) to applications (*Edusemi-Plus, EduController*),<br>and PoC implementations (*AITL-H*), enabling step-by-step learning. |
+| Originality  | S     | Proposes unique concepts such as *“Physical AI”* and *“AITL (All-in-Theory Logic)”*,<br>offering a new intellectual framework. |
+
+---
 
 ### 2. Contribution to Education & Practice
-| **Criteria** | **Grade** | **Comments** |
-|--------------|-----------|--------------|
-| **Practicality** | S | Includes extensive hands-on training using open-source tools such as OpenLane and Sky130. Bridges theory with actual design workflows. |
-| **Learning Flow** | A | Projects are well-structured with clear roles, allowing learners to choose paths based on their level and interests. |
-| **AI Utilization** | S | Demonstrates concrete applications of AI such as prompt engineering, code generation, and design assistance — showcasing new design methodologies for the AI era. |
+
+| Criteria       | Grade | Comments |
+|----------------|-------|----------|
+| Practicality   | S     | Provides hands-on training with open-source tools (OpenLane, Sky130).<br>Bridges theoretical learning with actual design workflows. |
+| Learning Flow  | A     | Projects are structured with clear roles,<br>allowing learners to select paths based on level and interest. |
+| AI Utilization | S     | Shows concrete AI applications such as prompt engineering,<br>code generation, and design assistance — introducing new design methodologies. |
+
+---
 
 ### 3. Social and Strategic Significance
-| **Criteria** | **Grade** | **Comments** |
-|--------------|-----------|--------------|
-| **Social Contribution** | S | Publishes specialized educational materials as open-source, expanding access to higher education and self-learning. |
-| **Future Potential** | S | *AITL-Strategy-Proposal* presents a grand vision linking education, industry, and national strategy, with potential to strengthen industrial competitiveness. |
-| **International Scope** | A | Provides English content and leverages GitHub as a platform for global collaboration. |
+
+| Criteria            | Grade | Comments |
+|---------------------|-------|----------|
+| Social Contribution | S     | Publishes specialized educational materials as open-source,<br>expanding access to higher education and self-learning. |
+| Future Potential    | S     | *AITL-Strategy-Proposal* presents a vision linking education, industry, and national strategy,<br>with potential to strengthen competitiveness. |
+| International Scope | A     | Provides English content and leverages GitHub<br>for global collaboration. |
 
 ---
 
