@@ -36,7 +36,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 ---
 
-## 🔍 **プロジェクト一覧 | Projects Overview**
+## 🔍 プロジェクト一覧 | Projects Overview
 
 以下は、本ポータルに含まれる主要プロジェクト群です。  
 *Below are the main project groups included in this portal.*  
@@ -94,7 +94,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 
 ---
 
-## 📘 **中核教材・PoCの構造的整理**
+## 📘 中核教材・PoCの構造的整理
 *📘 Structural Organization of Core Materials & PoCs*
 
 | アイコン | プロジェクト名 | 分野 | 内容 |
@@ -125,7 +125,7 @@ flowchart TD
 ```
 ---
 
-## 🏛️ **提言・連携・国際協働に向けて**
+## 🏛️ 提言・連携・国際協働に向けて
 *🏛️ Towards Proposals, Collaboration, and International Cooperation*
 
 | アイコン | プロジェクト名 | 分野 | 内容 |
@@ -133,8 +133,9 @@ flowchart TD
 | 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **教育 × AI × 制御** を軸とした **中長期的ビジョン**（AI活用教育導入とPoC設計連携の提案を含む）<br>⚠️ Draft段階<br>*A **medium- to long-term vision** centered on **Education × AI × Control** (including proposals for AI-based education and PoC design collaboration). ⚠️ Draft stage.* |
 | 🤝 | **OpenAI向けメッセージ**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/openai-message/) | [🧠 AI提案] | **ChatGPT活用事例** と **統合設計への提案**（教材整備・国際展開方法も含む）<br>*Examples of **ChatGPT utilization** and **proposals for integrated design** (including educational preparation and international deployment methods).* |
 
+---
 
-## 📚 **補足資料・更新履歴**
+## 📚 補足資料・更新履歴
 *📚 Supplementary Materials & Update History*
 
 | アイコン | 項目 | 内容 |
@@ -146,34 +147,40 @@ flowchart TD
 
 ---
 
-## 👤 **執筆者 / Author**
+## 👤 執筆者情報 / Author
 
 |  |  |
 |--|--|
-| **氏名 / Name** | 三溝真一（Shinichi Samizo） |
-| **学歴 / Education** | 信州大学大学院 電気電子工学 修了 |
-| **経歴 / Career** | 元 セイコーエプソン株式会社 技術者（1997年〜） |
-| **リンク / Contact** | ✉️ [Email](mailto:shin3t72@gmail.com) / 🐦 [X](https://x.com/shin3t72) / 💻 [GitHub](https://samizo-aitl.github.io/) |
+| **氏名 / Name** | 三溝真一（Shinichi Samizo）<br>*Shinichi Samizo* |
+| **学歴 / Education** | 信州大学大学院 電気電子工学 修了<br>*M.S. in Electrical and Electronic Engineering, Shinshu University* |
+| **経歴 / Career** | 元 セイコーエプソン株式会社 技術者（1997年〜）<br>*Former engineer at Seiko Epson Corporation (since 1997)* |
+| **リンク / Contact** | ✉️ [Email](mailto:shin3t72@gmail.com) / 🐦 [X](https://x.com/shin3t72) / 💻 [GitHub](https://samizo-aitl.github.io/)<br>*Links: Email / X / GitHub* |
 
 ---
 
-## 📌 **キャリア要約 / Career Summary**
+## 📌 キャリア要約 / Career Summary
 
 [![📄 View Career Summary](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/career-summary/)  
-**三溝真一（Shinichi Samizo）** の技術経歴と専門分野をまとめた詳細レポートです。
+**三溝真一（Shinichi Samizo）** の技術経歴と専門分野をまとめた詳細レポートです。  
+*Detailed report summarizing the technical career and expertise of **Shinichi Samizo**.*
 
 - 半導体デバイス（ロジック・メモリ・高耐圧混載）  
+  *Semiconductor devices (logic, memory, high-voltage mixed integration)*  
 - インクジェット薄膜ピエゾアクチュエータ  
+  *Inkjet thin-film piezo actuators*  
 - PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育  
-- 教材設計・PoC構築・AI活用設計支援
+  *Commercialization of PrecisionCore printheads, BOM management, and ISO training*  
+- 教材設計・PoC構築・AI活用設計支援  
+  *Educational material design, PoC development, and AI-assisted design support*  
 
 ---
 
-## 🖼️ **技術統合アーキテクチャ図（写実版）**
+## 🖼️ 技術統合アーキテクチャ図（写実版）
+*🖼️ Technology Integration Architecture (Realistic Version)*
 
 <p align="center">
   <img src="./images/technology_architecture_realistic_version.png" alt="技術統合アーキテクチャ" style="width:80%;">
 </p>
 
-*図: 半導体・AI・制御・ロボティクスを統合する「Samizo-AITL」の技術構想を象徴的に表現した写実イメージ。人間の指示による知能制御（PID）とAI学習が、ロボットや回路制御と融合する未来を示しています。*
-
+*図: 半導体・AI・制御・ロボティクスを統合する「Samizo-AITL」の技術構想を象徴的に表現した写実イメージ。人間の指示による知能制御（PID）とAI学習が、ロボットや回路制御と融合する未来を示しています。*  
+*Figure: A realistic illustration symbolizing the "Samizo-AITL" technological concept that integrates semiconductors, AI, control, and robotics. It depicts a future where intelligent control (PID) guided by human instructions merges with AI learning, robotics, and circuit control.*
