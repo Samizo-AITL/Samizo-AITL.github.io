@@ -109,7 +109,7 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 ---
 
 ## 🧩 半導体 × 制御 × AI × 教材群を統合したフレームワーク
-🧩 An Integrated Framework of Semiconductors × Control × AI × Educational Materials*
+*🧩 An Integrated Framework of Semiconductors × Control × AI × Educational Materials*
 
 ```mermaid
 flowchart TD
