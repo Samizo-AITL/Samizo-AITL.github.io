@@ -7,17 +7,25 @@ description: Samizoによる半導体×AI×制御 統合教材ポータル　　
 ---
 
 # 🎓 Samizo-AITL Portal
-> **「構造を読む、動きを作る、AIで加速する」** — *物理と知能の融合を学ぶポータル*
+> **「構造を読む、動きを作る、AIで加速する」**  
+> *"Read structures, create dynamics, accelerate with AI"* — *A portal for learning the fusion of physics and intelligence*
 
 **Samizo-AITLポータル**は、三溝真一による個人プロジェクトです。  
 **半導体 × 制御 × AI** を軸に、知識・現象・技術の断片を**構造的に整理・接続**し、  
-教育・PoC（実現性と有効性の事前検証）・提言構築に活かすことを目的としています。
+教育・PoC（実現性と有効性の事前検証）・提言構築に活かすことを目的としています。  
+**Samizo-AITL Portal** is a personal project by *Shinichi Samizo*.  
+It connects fragments of **knowledge, phenomena, and technologies** around  
+**Semiconductors × Control × AI**, and applies them to **education, PoC (proof of concept), and proposals**.
 
 現在の主流は ChatGPT に代表される**対話AI**ですが、  
-今後は　**物理現象や構造と結びつく「物理AI」** こそが、次のトレンドになると考えています。
+今後は　**物理現象や構造と結びつく「物理AI」** こそが、次のトレンドになると考えています。  
+While conversational AI like **ChatGPT** is mainstream today,  
+the next trend will be **"Physics AI"**, tightly linked with **physical phenomena and structures**.
 
 Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の経験をもとに、  
-**言葉ではなく、動きの中でAIを使う**ための教育・PoC・構想を展開しています。
+**言葉ではなく、動きの中でAIを使う**ための教育・PoC・構想を展開しています。  
+Based on experience in both **practical implementation** and **structural analysis**,  
+Samizo-AITL develops education, PoCs, and concepts for **using AI not just in words, but in actions**.
 
 ---
 
