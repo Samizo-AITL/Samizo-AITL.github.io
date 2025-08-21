@@ -70,6 +70,10 @@ Based on these experiences, he later **systematized the handling of thermal, str
 👉 See: [Special Chapter 2a: SystemDK – Handling of Thermal, Stress, and Noise Constraints](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)  
 {: .annotation}
 
+Furthermore, these experiences also led to the construction of an **educational workflow from design to mass production launch**:  
+👉 [Practical Workflow Details (Design → Mass Production Parts Ordering)](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)  
+{: .annotation}
+
 ---
 
 ## 🎯 Current Activities
