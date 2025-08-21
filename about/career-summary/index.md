@@ -59,6 +59,7 @@ description: 半導体・制御・インクジェット・教育の横断経験�
 
 これらの経験を基盤に、実装現場で直面した課題（応力・熱・ノイズ）を教育教材として体系化。  
 詳細は [Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約 ›](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
+
 さらに、この経験をもとに **設計から量産立上げまでの教材フロー** を構築。  
  [実務フロー詳細（設計→量産部品発注） ›](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)
     
