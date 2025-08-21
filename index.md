@@ -62,22 +62,34 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 ---
 
 ## 🧠 AITL統合思想の背景
+*🧠 Background of AITL’s Integrated Philosophy*
 
 **Samizo-AITL** は、**半導体 × 制御 × AI** を有機的に結びつけ、  
+*Samizo-AITL organically integrates **Semiconductors × Control × AI**,*  
+
 「**物理現象の構造を読み解き、PoCで検証し、AIで設計を支援する**」という一連のプロセスを  
-**教育・構想・設計** に統合するためのフレームワークです。
+*to form a unified process of **analyzing the structure of physical phenomena, verifying with PoCs, and supporting design with AI**,*  
+
+**教育・構想・設計** に統合するためのフレームワークです。  
+*which serves as a framework to integrate into **education, conceptualization, and design**.*  
 
 > 📘 本プロジェクト群で公開している教材やPoCは、**ハイブリッドライセンス方式**のもと公開しています。  
+> *📘 The teaching materials and PoCs released in this project group are published under a **hybrid licensing scheme**.*  
 > - **コード (Code)** : [MIT License](https://opensource.org/licenses/MIT)  
 >   （自由に使用・改変・再配布可）  
+>   *Free to use, modify, and redistribute*  
 > - **教材テキスト (Text materials)** : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 >   （著者表示必須）  
+>   *Attribution required*  
 > - **図表・イラスト (Figures & diagrams)** : [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 >   （非商用利用のみ可）  
+>   *For non-commercial use only*  
 > - **外部引用 (External references)** : 元ライセンスに従う（引用元を明記）  
+>   *Follow the original license (cite the source explicitly)*  
 {: .annotation-narrow}
 
 > 💡 中核教材である [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/) は、筆者の**実務経験と研究成果に基づき再構成された教育用カリキュラム**であり、特定の製品や企業活動とは一切関係ありません。  
+> *💡 The core material [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/) is an **educational curriculum reconstructed from the author’s practical experience and research results**, and is not related to any specific products or corporate activities.*  
 {: .annotation-narrow}
 
 ---
