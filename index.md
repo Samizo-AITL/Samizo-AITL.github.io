@@ -123,6 +123,21 @@ flowchart TD
     style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
 ```
 
+## 🧩 半導体 × 制御 × AI × 教材群を統合したフレームワーク
+🧩 An Integrated Framework of Semiconductors × Control × AI × Educational Materials*
+
+```mermaid
+flowchart TD
+    A[🎓 Edusemi-v4x<br/>半導体SoC設計の基盤教材<br/><i>Foundational material for semiconductor SoC design</i>]
+        --> B[🎛️ EduController<br/>制御理論 × AI × SoC設計<br/><i>Control theory × AI × SoC design</i>]
+        --> C[🤖 AITL-H<br/>知能制御アーキテクチャ & PoC<br/><i>Intelligent control architecture & PoC</i>]
+        --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教材群を統合したフレームワーク<br/><i>A framework integrating semiconductors × control × AI × educational materials</i>]
+
+    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
+    style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
+    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
+    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
+```
 ---
 
 ## 🏛️ **提言・連携・国際協働に向けて**
