@@ -109,21 +109,6 @@ Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の
 ---
 
 ## 🧩 半導体 × 制御 × AI × 教材群を統合したフレームワーク
-
-```mermaid
-flowchart TD
-    A[🎓 Edusemi-v4x<br/>半導体SoC設計の基盤教材]
-        --> B[🎛️ EduController<br/>制御理論 × AI × SoC設計]
-        --> C[🤖 AITL-H<br/>知能制御アーキテクチャ & PoC]
-        --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教材群を統合したフレームワーク]
-
-    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
-    style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
-    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
-    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
-```
-
-## 🧩 半導体 × 制御 × AI × 教材群を統合したフレームワーク
 🧩 An Integrated Framework of Semiconductors × Control × AI × Educational Materials*
 
 ```mermaid
@@ -141,22 +126,23 @@ flowchart TD
 ---
 
 ## 🏛️ **提言・連携・国際協働に向けて**
+*🏛️ Towards Proposals, Collaboration, and International Cooperation*
 
 | アイコン | プロジェクト名 | 分野 | 内容 |
 |----------|----------------|------|------|
-| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **教育 × AI × 制御** を軸とした **中長期的ビジョン**（AI活用教育導入とPoC設計連携の提案を含む）<br>⚠️ Draft段階 |
-| 🤝 | **OpenAI向けメッセージ**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/openai-message/) | [🧠 AI提案] | **ChatGPT活用事例** と **統合設計への提案**（教材整備・国際展開方法も含む） |
+| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **教育 × AI × 制御** を軸とした **中長期的ビジョン**（AI活用教育導入とPoC設計連携の提案を含む）<br>⚠️ Draft段階<br>*A **medium- to long-term vision** centered on **Education × AI × Control** (including proposals for AI-based education and PoC design collaboration). ⚠️ Draft stage.* |
+| 🤝 | **OpenAI向けメッセージ**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/openai-message/) | [🧠 AI提案] | **ChatGPT活用事例** と **統合設計への提案**（教材整備・国際展開方法も含む）<br>*Examples of **ChatGPT utilization** and **proposals for integrated design** (including educational preparation and international deployment methods).* |
 
 
 ## 📚 **補足資料・更新履歴**
+*📚 Supplementary Materials & Update History*
 
 | アイコン | 項目 | 内容 |
 |----------|------|------|
-| 🕘 | **更新履歴**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/) | 教材の **更新履歴・構成変更ログ** |
-| 🧠 | **ChatGPT活用レベル診断**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/chatgpt-skill-eval/) | LLM活用スキル（レベル5）評価レポート。構造設計・記憶活用・教材生成の観点から評価。 |
-| 📋 | **Geminiレビュー**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/gemini-review/) | **Google Gemini** による **教材評価レポート** |
-| 🌐 | **English Version**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | 英語ポータルへのリンク |
-
+| 🕘 | **更新履歴**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/) | 教材の **更新履歴・構成変更ログ**<br>*Update logs and structural change records of the materials.* |
+| 🧠 | **ChatGPT活用レベル診断**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/chatgpt-skill-eval/) | LLM活用スキル（レベル5）評価レポート。構造設計・記憶活用・教材生成の観点から評価。<br>*Evaluation report of LLM utilization skills (Level 5), assessed from perspectives of structural design, memory use, and material generation.* |
+| 📋 | **Geminiレビュー**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/gemini-review/) | **Google Gemini** による **教材評価レポート**<br>*An **educational evaluation report** by Google Gemini.* |
+| 🌐 | **English Version**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | 英語ポータルへのリンク<br>*Link to the English portal.* |
 
 ---
 
