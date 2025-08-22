@@ -280,3 +280,32 @@ body.theme-sepia h2.ornate::after {
 <path fill="none" stroke="%23b58900" stroke-width="1.4" stroke-linecap="round" d="M2 6h52m8-4l4 4-4 4M70 6h40m8 0h40m8-4l4 4-4 4M130 6h48"/>\
 </svg>');
 }
+
+/* === Ornate divider for all H1 (写本調飾り罫) === */
+body.theme-sepia h1 {
+  position: relative;
+  border-bottom: none;            /* 既存の下線を消す */
+  padding-bottom: .6em;
+  text-align: center;             /* 章扉っぽく中央寄せ */
+  letter-spacing: 2px;
+  font-family: "Playfair Display", serif;
+  font-size: 2.4em;
+  color: #4a2d00;
+  text-transform: uppercase;
+}
+
+body.theme-sepia h1::after {
+  content: "";
+  display: block;
+  width: 240px;                   /* 飾り罫の横幅 */
+  height: 16px;
+  margin: .6em auto 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: .9;
+  /* 金茶色ライン（#b58900）— URLエンコードで %23 = # */
+  background-image: url('data:image/svg+xml;utf8,\
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="16" viewBox="0 0 240 16">\
+<path fill="none" stroke="%23b58900" stroke-width="1.6" stroke-linecap="round" d="M2 8h78m10-5l5 5-5 5M90 8h60m10 0h60m10-5l5 5-5 5M160 8h78"/>\
+</svg>');
+}
