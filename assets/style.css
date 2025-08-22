@@ -196,3 +196,46 @@ body.theme-dark code {
   background: #2a2a2a;
   color: #e8e8e8;
 }
+
+/* === Sepia Library Style (fonts: Lora + Playfair Display) === */
+body.theme-sepia {
+  background: #fdf6e3;
+  color: #3b2f2f;
+  font-family: "Lora", "Times New Roman", serif;
+  line-height: 1.8;
+}
+
+body.theme-sepia h1,
+body.theme-sepia h2,
+body.theme-sepia h3 {
+  font-family: "Playfair Display", "Merriweather", serif;
+  color: #5a3b00;
+  border-bottom: 1px solid #d4c4a0;
+}
+
+/* 引用・注釈 */
+body.theme-sepia blockquote,
+body.theme-sepia .annotation,
+body.theme-sepia .annotation-narrow {
+  background-color: #fbf6eb;
+  border-left-color: #b57f00;
+  color: #4a3a2a;
+}
+
+/* リンク（落ち着いた青インク風） */
+body.theme-sepia a { color: #2f5d8a; }
+body.theme-sepia a:hover { color: #1e3d5c; }
+
+/* 表 */
+body.theme-sepia table { border: 1px solid #c8b68c; background:#faf3e5; }
+body.theme-sepia th { background:#e9ddc9; color:#3b2f2f; border:1px solid #c8b68c; }
+body.theme-sepia td { border:1px solid #d6c8a8; }
+
+/* コード（羊皮紙風） */
+body.theme-sepia pre,
+body.theme-sepia code {
+  background: #f4eadc;
+  color: #3b2f2f;
+  border-radius: 4px;
+  font-family: "Courier New", monospace;
+}
