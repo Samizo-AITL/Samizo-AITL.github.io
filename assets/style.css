@@ -355,3 +355,49 @@ body.theme-sepia .annotation-narrow {
   font-style: italic;
   color: #3a3028;
 }
+
+/* === H1〜H3 を青字に統一 === */
+body.theme-sepia h1,
+body.theme-sepia h2,
+body.theme-sepia h3 {
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  color: #003366;   /* 濃い青 */
+  border-bottom: none;   /* 下線なし */
+  text-transform: none;  /* 大文字化しない */
+  letter-spacing: 0;
+}
+
+/* H1: 大見出し */
+body.theme-sepia h1 {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 0.8em;
+}
+body.theme-sepia h1::after {
+  display: none !important; /* 飾り罫は完全削除 */
+}
+
+/* H2: 中サイズ */
+body.theme-sepia h2 {
+  font-size: 1.5em;
+  margin-top: 1.6em;
+}
+
+/* H3: 小サイズ */
+body.theme-sepia h3 {
+  font-size: 1.2em;
+  margin-top: 1.2em;
+}
+
+/* === リンクをシンプルに強調（小さめ＋太字＋下線） === */
+body.theme-sepia a {
+  color: #0066cc;             /* 明るめブルー（見出しと差別化） */
+  font-weight: 600;           /* 太字で視認性アップ */
+  font-size: 0.95em;          /* 本文より少し小さめにしてバランス調整 */
+  text-decoration: underline; /* 常に下線表示でリンク感を明確化 */
+}
+
+body.theme-sepia a:hover {
+  color: #004c99;             /* 濃い青に変化 */
+}
