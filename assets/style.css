@@ -309,3 +309,49 @@ body.theme-sepia h1::after {
 <path fill="none" stroke="%23b58900" stroke-width="1.6" stroke-linecap="round" d="M2 8h78m10-5l5 5-5 5M90 8h60m10 0h60m10-5l5 5-5 5M160 8h78"/>\
 </svg>');
 }
+
+/* --- Classical × Future Fusion (Sans-serif Unified) --- */
+body.theme-sepia {
+  background: #fdf6e3;
+  color: #2e2a24;
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.9;
+  font-size: 1.05em;
+}
+
+/* 見出し（太字サンセリフ＋未来感ブルー飾り罫） */
+body.theme-sepia h1 {
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 2.2em;
+  color: #4a2d00;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-bottom: none;
+}
+body.theme-sepia h1::after {
+  content: "";
+  display: block;
+  width: 240px;
+  height: 16px;
+  margin: .6em auto 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: .9;
+  background-image: url('data:image/svg+xml;utf8,\
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="16" viewBox="0 0 240 16">\
+<path fill="none" stroke="%23007acc" stroke-width="1.6" stroke-linecap="round" \
+d="M2 8h78m10-5l5 5-5 5M90 8h60m10 0h60m10-5l5 5-5 5M160 8h78"/>\
+</svg>');
+}
+
+/* 引用・注釈：ブルーアクセント */
+body.theme-sepia blockquote,
+body.theme-sepia .annotation,
+body.theme-sepia .annotation-narrow {
+  background-color: #fbf6eb;
+  border-left-color: #007acc;
+  font-style: italic;
+  color: #3a3028;
+}
