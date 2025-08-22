@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }} | {{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta name="color-scheme" content="light"> <!-- Mermaid等の自動ダーク回避 -->
+
+    <!-- Google Fonts（本文=Lora / 見出し=Playfair Display） -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,700;1,400&family=Playfair+Display:wght@700;800&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
   </head>
 
