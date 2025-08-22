@@ -134,20 +134,20 @@ img.shrink-70 {
   text-align: center;
 }
 
-/* === Theme: Blue-Gray (落ち着き＋未来感) === */
-body.theme-bluegray {
-  background: #e6ecf2;   /* 落ち着いたブルーグレー */
-  color: #2e2a24;        /* 本文は濃いめ茶黒で読みやすく */
-  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", 
-               "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+/* === Theme: Sepia (安心感＋クラシック) === */
+body.theme-sepia {
+  background: #fdf6e3;   /* 落ち着いたセピア */
+  color: #3b2f2f;        /* 本文は濃いめ茶 */
+  font-family: "Noto Sans JP", "Hiragino Mincho ProN", "Yu Mincho",
+               "Times New Roman", serif;
   line-height: 1.9;
   font-size: 1.05em;
 }
 
-/* 見出しを青字に統一 */
-body.theme-bluegray h1,
-body.theme-bluegray h2,
-body.theme-bluegray h3 {
+/* 見出し（青字で未来感を融合） */
+body.theme-sepia h1,
+body.theme-sepia h2,
+body.theme-sepia h3 {
   font-weight: 700;
   color: #003366;   /* 濃い青 */
   border-bottom: none;
@@ -155,32 +155,32 @@ body.theme-bluegray h3 {
   letter-spacing: 0;
 }
 
-/* H1: 左詰め */
-body.theme-bluegray h1 {
+/* H1: 左寄せ */
+body.theme-sepia h1 {
   font-size: 2em;
   text-align: left;
   margin-bottom: 0.8em;
 }
 
 /* H2: 中サイズ */
-body.theme-bluegray h2 {
+body.theme-sepia h2 {
   font-size: 1.5em;
   margin-top: 1.6em;
 }
 
 /* H3: 小サイズ */
-body.theme-bluegray h3 {
+body.theme-sepia h3 {
   font-size: 1.2em;
   margin-top: 1.2em;
 }
 
 /* リンク：シンプル強調（小さめ＋太字＋下線） */
-body.theme-bluegray a {
+body.theme-sepia a {
   color: #0066cc;
   font-weight: 600;
   font-size: 0.95em;
   text-decoration: underline;
 }
-body.theme-bluegray a:hover {
+body.theme-sepia a:hover {
   color: #004c99;
 }
