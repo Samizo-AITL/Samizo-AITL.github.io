@@ -239,3 +239,44 @@ body.theme-sepia code {
   border-radius: 4px;
   font-family: "Courier New", monospace;
 }
+
+/* === Ornate divider for "古書・写本調" === */
+body.theme-sepia h1.title-ornate {
+  position: relative;
+  border-bottom: none;            /* 既存の下線を消す */
+  padding-bottom: .6em;
+  text-align: center;             /* 章扉っぽく中央寄せ */
+  letter-spacing: 2px;
+}
+
+body.theme-sepia h1.title-ornate::after {
+  content: "";
+  display: block;
+  width: 240px;                   /* 飾り罫の横幅 */
+  height: 16px;
+  margin: .6em auto 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: .9;
+  /* 金茶色ライン（#b58900）— URLエンコードで %23 = # */
+  background-image: url('data:image/svg+xml;utf8,\
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="16" viewBox="0 0 240 16">\
+<path fill="none" stroke="%23b58900" stroke-width="1.6" stroke-linecap="round" d="M2 8h78m10-5l5 5-5 5M90 8h60m10 0h60m10-5l5 5-5 5M160 8h78"/>\
+</svg>');
+}
+
+/* h2 用の小さめオーナメント（必要なら） */
+body.theme-sepia h2.ornate::after {
+  content: "";
+  display: block;
+  width: 180px;
+  height: 12px;
+  margin: .5em 0 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: .85;
+  background-image: url('data:image/svg+xml;utf8,\
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="12" viewBox="0 0 180 12">\
+<path fill="none" stroke="%23b58900" stroke-width="1.4" stroke-linecap="round" d="M2 6h52m8-4l4 4-4 4M70 6h40m8 0h40m8-4l4 4-4 4M130 6h48"/>\
+</svg>');
+}
