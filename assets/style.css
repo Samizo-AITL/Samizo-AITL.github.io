@@ -184,3 +184,65 @@ body.theme-sepia a {
 body.theme-sepia a:hover {
   color: #004c99;
 }
+
+/* === Theme: Sepia (安心感＋クラシック＋読みやすい表) === */
+body.theme-sepia {
+  background: #fdf6e3;   /* セピア背景 */
+  color: #3b2f2f;
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic",
+               "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.9;
+  font-size: 1.05em;
+}
+
+/* 見出し：青字 */
+body.theme-sepia h1,
+body.theme-sepia h2,
+body.theme-sepia h3 {
+  font-weight: 700;
+  color: #003366;  
+  border-bottom: none;
+}
+body.theme-sepia h1 {
+  font-size: 2em;
+  text-align: left;
+  margin-bottom: 0.8em;
+}
+body.theme-sepia h2 { font-size: 1.5em; margin-top: 1.6em; }
+body.theme-sepia h3 { font-size: 1.2em; margin-top: 1.2em; }
+
+/* リンク：小さめ＋太字＋下線 */
+body.theme-sepia a {
+  color: #0066cc;
+  font-weight: 600;
+  font-size: 0.95em;
+  text-decoration: underline;
+}
+body.theme-sepia a:hover { color: #004c99; }
+
+/* 表：ヘッダー薄茶＋本文ストライプ */
+body.theme-sepia table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 1em;
+  font-size: 1em;
+  border: 1px solid #c8b68c;
+}
+body.theme-sepia th {
+  background: #e9ddc9;   /* 薄茶ヘッダー */
+  color: #3b2f2f;
+  border: 1px solid #c8b68c;
+  font-weight: 700;
+  text-align: left;
+  padding: 0.6em;
+}
+body.theme-sepia td {
+  border: 1px solid #d6c8a8;
+  padding: 0.6em;
+}
+body.theme-sepia tr:nth-child(odd) td {
+  background: #fffdf8;   /* オフホワイト */
+}
+body.theme-sepia tr:nth-child(even) td {
+  background: #fbf8f0;   /* 薄クリーム */
+}
