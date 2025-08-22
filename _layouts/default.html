@@ -7,7 +7,9 @@
     <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
   </head>
-  <body>
+
+  <!-- ★ ポータル全体をセピアモード固定 -->
+  <body class="theme-sepia">
     <main>
       {{ content }}
     </main>
@@ -18,16 +20,16 @@
     <!-- Mermaid 初期化：code→div 置換 ＋ ライト固定 ＋ 中央寄せ -->
     <script>
       document.addEventListener('DOMContentLoaded', function () {
-        // 1) ```mermaid で生成された <code class="language-mermaid"> を <div class="mermaid"> に変換
+        // 1) ```mermaid → <div class="mermaid"> に変換
         document.querySelectorAll('code.language-mermaid').forEach(function (code) {
           const pre = code.closest('pre');
           const div = document.createElement('div');
           div.className = 'mermaid';
-          div.textContent = code.textContent; // 中身（グラフ定義）をそのまま移す
+          div.textContent = code.textContent;
           if (pre) pre.replaceWith(div); else code.replaceWith(div);
         });
 
-        // 2) 中央寄せ（Pages側だけに効く）
+        // 2) 中央寄せ
         document.querySelectorAll('.mermaid').forEach(function (el) {
           el.style.display = 'block';
           el.style.margin = '1.5rem auto';
@@ -35,7 +37,7 @@
           el.style.textAlign = 'center';
         });
 
-        // 3) Mermaid をライトテーマで初期化（ダーク連動を無効化）
+        // 3) Mermaid をライトテーマで固定
         if (window.mermaid) {
           mermaid.initialize({
             startOnLoad: true,
