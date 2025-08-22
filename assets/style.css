@@ -20,7 +20,7 @@ blockquote {
   color: #333;
 }
 
-/* 注釈スタイル（HTMLやMarkdown用にクラスで指定） */
+/* 注釈スタイル */
 .annotation {
   font-size: 0.9em;
   color: #555;
@@ -32,7 +32,7 @@ blockquote {
   line-height: 1.5;
 }
 
-/* コンパクト注釈（.annotation-narrow） */
+/* コンパクト注釈 */
 .annotation-narrow {
   font-size: 0.85em;
   color: #555;
@@ -44,7 +44,7 @@ blockquote {
   line-height: 1.4;
 }
 
-/* リンクスタイル */
+/* リンクスタイル（デフォルト） */
 a {
   color: #007acc;
   text-decoration: none;
@@ -53,7 +53,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* セクション見出し */
+/* セクション見出し（デフォルト） */
 h1, h2, h3 {
   border-bottom: 1px solid #ddd;
   padding-bottom: 0.2em;
@@ -125,279 +125,62 @@ img.shrink-70 {
     padding: 0.4em 0.8em;
   }
 }
+
 /* Mermaid を中央寄せ */
 .mermaid {
   display: block;
-  margin: 1.5rem auto;   /* 左右autoで中央寄せ */
-  max-width: 960px;      /* 任意：上限幅 */
-  text-align: center;    /* ノード内のテキスト補助 */
+  margin: 1.5rem auto;
+  max-width: 960px;
+  text-align: center;
 }
 
-/* === Theme Variations for Samizo-AITL === */
-
-/* デフォルト（ライトグレー＋アクセントブルー） */
-body.theme-light {
-  background: #f5f5f5;
-  color: #222;
-}
-body.theme-light h1, 
-body.theme-light h2, 
-body.theme-light h3 {
-  color: #003366;
-  border-bottom: 1px solid #ccc;
-}
-body.theme-light blockquote,
-body.theme-light .annotation,
-body.theme-light .annotation-narrow {
-  background-color: #fafafa;
-  border-left-color: #007acc;
-}
-
-/* セピアモード（長文読書に向く） */
-body.theme-sepia {
-  background: #fdf6e3;
-  color: #3b2f2f;
-}
-body.theme-sepia h1, 
-body.theme-sepia h2, 
-body.theme-sepia h3 {
-  color: #7b4f00;
-  border-bottom: 1px solid #d9c49c;
-}
-body.theme-sepia blockquote,
-body.theme-sepia .annotation,
-body.theme-sepia .annotation-narrow {
-  background-color: #f8f1dd;
-  border-left-color: #b58900;
-}
-
-/* ダークモード（夜間・未来感） */
-body.theme-dark {
-  background: #1e1e1e;
-  color: #e0e0e0;
-}
-body.theme-dark h1, 
-body.theme-dark h2, 
-body.theme-dark h3 {
-  color: #66ccff;
-  border-bottom: 1px solid #333;
-}
-body.theme-dark a {
-  color: #00bfff;
-}
-body.theme-dark blockquote,
-body.theme-dark .annotation,
-body.theme-dark .annotation-narrow {
-  background-color: #2c2c2c;
-  border-left-color: #00bfff;
-}
-body.theme-dark pre, 
-body.theme-dark code {
-  background: #2a2a2a;
-  color: #e8e8e8;
-}
-
-/* === Sepia Library Style (fonts: Lora + Playfair Display) === */
-body.theme-sepia {
-  background: #fdf6e3;
-  color: #3b2f2f;
-  font-family: "Lora", "Times New Roman", serif;
-  line-height: 1.8;
-}
-
-body.theme-sepia h1,
-body.theme-sepia h2,
-body.theme-sepia h3 {
-  font-family: "Playfair Display", "Merriweather", serif;
-  color: #5a3b00;
-  border-bottom: 1px solid #d4c4a0;
-}
-
-/* 引用・注釈 */
-body.theme-sepia blockquote,
-body.theme-sepia .annotation,
-body.theme-sepia .annotation-narrow {
-  background-color: #fbf6eb;
-  border-left-color: #b57f00;
-  color: #4a3a2a;
-}
-
-/* リンク（落ち着いた青インク風） */
-body.theme-sepia a { color: #2f5d8a; }
-body.theme-sepia a:hover { color: #1e3d5c; }
-
-/* 表 */
-body.theme-sepia table { border: 1px solid #c8b68c; background:#faf3e5; }
-body.theme-sepia th { background:#e9ddc9; color:#3b2f2f; border:1px solid #c8b68c; }
-body.theme-sepia td { border:1px solid #d6c8a8; }
-
-/* コード（羊皮紙風） */
-body.theme-sepia pre,
-body.theme-sepia code {
-  background: #f4eadc;
-  color: #3b2f2f;
-  border-radius: 4px;
-  font-family: "Courier New", monospace;
-}
-
-/* === Ornate divider for "古書・写本調" === */
-body.theme-sepia h1.title-ornate {
-  position: relative;
-  border-bottom: none;            /* 既存の下線を消す */
-  padding-bottom: .6em;
-  text-align: center;             /* 章扉っぽく中央寄せ */
-  letter-spacing: 2px;
-}
-
-body.theme-sepia h1.title-ornate::after {
-  content: "";
-  display: block;
-  width: 240px;                   /* 飾り罫の横幅 */
-  height: 16px;
-  margin: .6em auto 0;
-  background-repeat: no-repeat;
-  background-size: contain;
-  opacity: .9;
-  /* 金茶色ライン（#b58900）— URLエンコードで %23 = # */
-  background-image: url('data:image/svg+xml;utf8,\
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="16" viewBox="0 0 240 16">\
-<path fill="none" stroke="%23b58900" stroke-width="1.6" stroke-linecap="round" d="M2 8h78m10-5l5 5-5 5M90 8h60m10 0h60m10-5l5 5-5 5M160 8h78"/>\
-</svg>');
-}
-
-/* h2 用の小さめオーナメント（必要なら） */
-body.theme-sepia h2.ornate::after {
-  content: "";
-  display: block;
-  width: 180px;
-  height: 12px;
-  margin: .5em 0 0;
-  background-repeat: no-repeat;
-  background-size: contain;
-  opacity: .85;
-  background-image: url('data:image/svg+xml;utf8,\
-<svg xmlns="http://www.w3.org/2000/svg" width="180" height="12" viewBox="0 0 180 12">\
-<path fill="none" stroke="%23b58900" stroke-width="1.4" stroke-linecap="round" d="M2 6h52m8-4l4 4-4 4M70 6h40m8 0h40m8-4l4 4-4 4M130 6h48"/>\
-</svg>');
-}
-
-/* === Ornate divider for all H1 (写本調飾り罫) === */
-body.theme-sepia h1 {
-  position: relative;
-  border-bottom: none;            /* 既存の下線を消す */
-  padding-bottom: .6em;
-  text-align: center;             /* 章扉っぽく中央寄せ */
-  letter-spacing: 2px;
-  font-family: "Playfair Display", serif;
-  font-size: 2.4em;
-  color: #4a2d00;
-  text-transform: uppercase;
-}
-
-body.theme-sepia h1::after {
-  content: "";
-  display: block;
-  width: 240px;                   /* 飾り罫の横幅 */
-  height: 16px;
-  margin: .6em auto 0;
-  background-repeat: no-repeat;
-  background-size: contain;
-  opacity: .9;
-  /* 金茶色ライン（#b58900）— URLエンコードで %23 = # */
-  background-image: url('data:image/svg+xml;utf8,\
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="16" viewBox="0 0 240 16">\
-<path fill="none" stroke="%23b58900" stroke-width="1.6" stroke-linecap="round" d="M2 8h78m10-5l5 5-5 5M90 8h60m10 0h60m10-5l5 5-5 5M160 8h78"/>\
-</svg>');
-}
-
-/* --- Classical × Future Fusion (Sans-serif Unified) --- */
-body.theme-sepia {
-  background: #fdf6e3;
-  color: #2e2a24;
-  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+/* === Theme: Blue-Gray (落ち着き＋未来感) === */
+body.theme-bluegray {
+  background: #e6ecf2;   /* 落ち着いたブルーグレー */
+  color: #2e2a24;        /* 本文は濃いめ茶黒で読みやすく */
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", 
+               "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   line-height: 1.9;
   font-size: 1.05em;
 }
 
-/* 見出し（太字サンセリフ＋未来感ブルー飾り罫） */
-body.theme-sepia h1 {
-  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  font-weight: 700;
-  font-size: 2.2em;
-  color: #4a2d00;
-  text-align: center;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  border-bottom: none;
-}
-body.theme-sepia h1::after {
-  content: "";
-  display: block;
-  width: 240px;
-  height: 16px;
-  margin: .6em auto 0;
-  background-repeat: no-repeat;
-  background-size: contain;
-  opacity: .9;
-  background-image: url('data:image/svg+xml;utf8,\
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="16" viewBox="0 0 240 16">\
-<path fill="none" stroke="%23007acc" stroke-width="1.6" stroke-linecap="round" \
-d="M2 8h78m10-5l5 5-5 5M90 8h60m10 0h60m10-5l5 5-5 5M160 8h78"/>\
-</svg>');
-}
-
-/* 引用・注釈：ブルーアクセント */
-body.theme-sepia blockquote,
-body.theme-sepia .annotation,
-body.theme-sepia .annotation-narrow {
-  background-color: #fbf6eb;
-  border-left-color: #007acc;
-  font-style: italic;
-  color: #3a3028;
-}
-
-/* === H1〜H3 を青字に統一 === */
-body.theme-sepia h1,
-body.theme-sepia h2,
-body.theme-sepia h3 {
-  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+/* 見出しを青字に統一 */
+body.theme-bluegray h1,
+body.theme-bluegray h2,
+body.theme-bluegray h3 {
   font-weight: 700;
   color: #003366;   /* 濃い青 */
-  border-bottom: none;   /* 下線なし */
-  text-transform: none;  /* 大文字化しない */
+  border-bottom: none;
+  text-transform: none;
   letter-spacing: 0;
 }
 
-/* H1: 大見出し */
-body.theme-sepia h1 {
+/* H1: 左詰め */
+body.theme-bluegray h1 {
   font-size: 2em;
-  text-align: center;
+  text-align: left;
   margin-bottom: 0.8em;
-}
-body.theme-sepia h1::after {
-  display: none !important; /* 飾り罫は完全削除 */
 }
 
 /* H2: 中サイズ */
-body.theme-sepia h2 {
+body.theme-bluegray h2 {
   font-size: 1.5em;
   margin-top: 1.6em;
 }
 
 /* H3: 小サイズ */
-body.theme-sepia h3 {
+body.theme-bluegray h3 {
   font-size: 1.2em;
   margin-top: 1.2em;
 }
 
-/* === リンクをシンプルに強調（小さめ＋太字＋下線） === */
-body.theme-sepia a {
-  color: #0066cc;             /* 明るめブルー（見出しと差別化） */
-  font-weight: 600;           /* 太字で視認性アップ */
-  font-size: 0.95em;          /* 本文より少し小さめにしてバランス調整 */
-  text-decoration: underline; /* 常に下線表示でリンク感を明確化 */
+/* リンク：シンプル強調（小さめ＋太字＋下線） */
+body.theme-bluegray a {
+  color: #0066cc;
+  font-weight: 600;
+  font-size: 0.95em;
+  text-decoration: underline;
 }
-
-body.theme-sepia a:hover {
-  color: #004c99;             /* 濃い青に変化 */
+body.theme-bluegray a:hover {
+  color: #004c99;
 }
