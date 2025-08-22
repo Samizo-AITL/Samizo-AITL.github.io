@@ -246,3 +246,31 @@ body.theme-sepia tr:nth-child(odd) td {
 body.theme-sepia tr:nth-child(even) td {
   background: #fbf8f0;   /* 薄クリーム */
 }
+
+/* === 表（実用重視：視認性アップ版） === */
+body.theme-sepia table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 1em;
+  font-size: 1em;
+  border: 1px solid #999;      /* 外枠くっきり */
+}
+
+body.theme-sepia th {
+  background: #e9ddc9;         /* 薄茶ヘッダー */
+  color: #2b2b2b;               /* コントラスト強め */
+  border: 1px solid #999;       /* 罫線濃いめ */
+  font-weight: 700;
+  text-align: left;
+  padding: 0.6em 0.7em;
+}
+
+body.theme-sepia td {
+  border: 1px solid #bbb;       /* セル境界も見やすく */
+  color: #2b2b2b;
+  padding: 0.6em 0.7em;
+}
+
+/* ストライプ（交互色をはっきり） */
+body.theme-sepia tr:nth-child(odd) td  { background: #ffffff; }  /* 白 */
+body.theme-sepia tr:nth-child(even) td { background: #f3efe6; }  /* クリーム */
