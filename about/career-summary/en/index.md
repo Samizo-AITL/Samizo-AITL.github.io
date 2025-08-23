@@ -4,6 +4,8 @@ title: "Career Summary"
 description: "Cross-disciplinary career summary in semiconductors, control, inkjet, and education"
 ---
 
+---
+
 # 🛠️ Career Summary
 
 [![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to-Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/)
