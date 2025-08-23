@@ -42,10 +42,10 @@ description: "半導体・制御・インクジェット・教育の横断経験
   [詳細はこちら › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)  
   *Participated in the ramp-up of 0.25μm DRAM, handling process setup, defect analysis, and yield improvement.*
 
-- 高耐圧混載技術を開発し、a-TFTパネル向け駆動ICへ実用化。
-   [関連教材 ›  0.18μmCMOS 1.8V/3.3V/5V混載フロントエンドプロセス（教材モデル）](https://samizo-aitl.github.io/chapter3_process_evolution/docs/0.18um_1.8V_3.3V_5V)  
+- 高耐圧混載技術を開発し、a-TFTパネル向け駆動ICへ実用化。  
+  [関連教材 › 0.18μm CMOS 1.8V/3.3V/5V 混載フロントエンドプロセス（教材モデル）](https://samizo-aitl.github.io/chapter3_process_evolution/docs/0.18um_1.8V_3.3V_5V)  
   *Developed high-voltage embedded technology (30V transistors), applied to a-TFT driver ICs.*
-
+  
 ---
 
 ### 🔹 第2フェーズ｜ピエゾ材料・アクチュエータ（2007〜2012）
