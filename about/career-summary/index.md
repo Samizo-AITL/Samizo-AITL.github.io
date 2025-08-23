@@ -49,9 +49,9 @@ description: "半導体・制御・インクジェット・教育の横断経験
 ---
 
 ### 🔹 第2フェーズ｜ピエゾ材料・アクチュエータ開発（2007〜2012）
-- FeRAM向けPZTプロセス特性評価を経て、薄膜ピエゾアクチュエータ開発に展開。  
-  *Started with PZT process evaluation for FeRAM, later applied to thin-film piezo actuators.*
+- FeRAM向けPZTプロセス特性評価を経て、薄膜ピエゾアクチュエータ開発に展開。
   [関連教材: 0.18μm FeRAM Process Flow（教材構想モデル） ›](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)
+  *Started with PZT process evaluation for FeRAM, later applied to thin-film piezo actuators.*
 
 - PZT膜の構造解析と信頼性評価に貢献し、**PrecisionCore基盤**を確立。  
   *Contributed to structural analysis and reliability of PZT films, laying foundations for **PrecisionCore technology**.*
@@ -62,10 +62,9 @@ description: "半導体・制御・インクジェット・教育の横断経験
 ---
 
 ### 🔹 第3フェーズ｜PrecisionCore製品化・教育推進（2012〜）
-- PrecisionCoreプリントヘッドの駆動IC実装COFを中心としたエレキ技術を推進。  
-  *Led electronic integration for PrecisionCore printheads, focusing on COF driver IC packaging.*
-  [この経験からの教材: Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約 ›](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)  
-
+- PrecisionCoreプリントヘッドの駆動IC実装COFを中心としたエレキ技術を推進。
+  [この経験からの教材: Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約 ›](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
+  *Led electronic integration for PrecisionCore printheads, focusing on COF driver IC 
 - 開発・設計・量産化のスケジュールを策定し、推進責任者を担当。  
   *Responsible for development-to-mass production scheduling and execution.*
 
