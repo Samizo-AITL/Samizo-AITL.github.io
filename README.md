@@ -149,12 +149,14 @@ flowchart TD
 
 ## 👤 執筆者情報 / Author
 
-|  |  |
-|--|--|
-| **氏名 / Name** | 三溝真一（Shinichi Samizo）<br>*Shinichi Samizo* |
-| **学歴 / Education** | 信州大学大学院 電気電子工学 修了<br>*M.S. in Electrical and Electronic Engineering, Shinshu University* |
-| **経歴 / Career** | 元 セイコーエプソン株式会社 技術者（1997年〜）<br>*Former engineer at Seiko Epson Corporation (since 1997)* |
-| **リンク / Contact** | ✉️ [Email](mailto:shin3t72@gmail.com) / 🐦 [X](https://x.com/shin3t72) / 💻 [GitHub](https://samizo-aitl.github.io/)<br>*Links: Email / X / GitHub* |
+| **項目 / Item** | **内容 / Details** |
+|-----------------|--------------------|
+| **氏名 / Name** | **三溝 真一**（Shinichi Samizo） |
+| **学歴 / Education** | **信州大学大学院 電気電子工学** 修了<br>*M.S. in Electrical and Electronic Engineering, Shinshu University* |
+| **経歴 / Career** | 元 **セイコーエプソン**株式会社 技術者（1997年〜）<br>*Former engineer at Seiko Epson Corporation (since 1997)* |
+| **✉️ Email** | [![Email](https://img.shields.io/badge/Email-shin3t72%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shin3t72@gmail.com) |
+| **🐦　X** | [![X](https://img.shields.io/badge/X-@shin3t72-black?style=for-the-badge&logo=x)](https://x.com/shin3t72) |
+| **💻 GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-blue?style=for-the-badge&logo=github)](https://github.com/Samizo-AITL) |
 
 ---
 
