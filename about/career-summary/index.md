@@ -50,7 +50,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
 
 ### 🔹 第2フェーズ｜ピエゾ材料・アクチュエータ（2007〜2012）
 - FeRAM向けPZTプロセス評価を経て、薄膜ピエゾアクチュエータ開発へ展開。  
-  [関連教材 › 0.18μm FeRAM Process Flow（教材モデル）](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)  
+  [関連教材 › 0.18μm FeRAM Process Flow（教材モデル）](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow.md)  
   *Started with PZT process evaluation for FeRAM, later applied to thin-film piezo actuators.*
 
 - PZT膜の構造解析と信頼性評価に貢献し、**PrecisionCore基盤**を確立。  
