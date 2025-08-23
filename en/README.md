@@ -76,14 +76,16 @@ through the process of **analyzing physical phenomena, validating via PoC, and s
 
 ---
 
-## 📘 **Core Educational Resources and PoC Structure**
+## 📘 **Structured Overview of Core Materials & PoC**
 
-| Core Material | Description |
-|---------------|-------------|
-| **[🎓 Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/en/)** | Comprehensive foundation for learning **semiconductor processes, devices, design, testing, and reliability**. |
-| ┗ 📦 **[SystemDK Special Chapter (2a)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)** | Covers **physical constraints** (SI/PI, thermal, stress, EMI/EMC), and PoC for **GAA / AMS / MRAM** heterogeneous integration. |
-| **[🎛️ EduController](https://samizo-aitl.github.io/EduController/en/)** + <br>**[SoC DesignKit](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)** | Training material for **FSM, PID, and LLM-based control**, along with **HDL templates** (Verilog/C code assisted by AI). |
-| **[🤖 AITL-H](https://samizo-aitl.github.io/AITL-H/)** + <br>**[PoC Manual](https://samizo-aitl.github.io/AITL-H/docs/)** | Full teaching suite for **three-layer intelligent control architecture (FSM × PID × LLM)** as a reproducible PoC.<br>⚠️ *Under Development* |
+| Icon | Project Name | Field | Description |
+|------|--------------|-------|-------------|
+| 🎓 | **Edusemi-v4x**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x) | [💠 Semiconductor] [🎓 Education] | Foundational curriculum to systematically learn **semiconductor processes, devices, design, testing, and reliability**. |
+|  | ┗ 📦 **SystemDK Edition (Special Ch. 2a)**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/f_chapter2a_systemdk) | [🧪 PoC] | Special module covering **SI/PI, thermal, stress, EMI/EMC** constraints, and heterogeneous integration PoC using **GAA / AMS / MRAM**. |
+| 🎛️ | **EduController**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController) | [🎛️ Control] [🧠 AI] | Curriculum to learn **FSM, PID, and LLM control** step-by-step, including **HDL description templates**. |
+|  | ┗ 📦 **SoC_DesignKit**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController/tree/main/SoC_DesignKit_by_ChatGPT) | [🎛️ Control] [🧠 AI] | **HDL template collection** for SoC design (includes AI-assisted generation). |
+| 🤖 | **AITL-H**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) | [🧠 AI] [🎛️ Control] [🧪 PoC] | **Three-layer intelligent control architecture (FSM × PID × LLM)** as a reproducible PoC. Development in progress. |
+|  | ┗ 📦 **PoC Manual**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/docs/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | [🧠 AI] [🎛️ Control] [🧪 PoC] | PoC procedure and configuration guide for AITL-H. |
 
 ---
 
