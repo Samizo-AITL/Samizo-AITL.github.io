@@ -20,7 +20,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
 ## 📘 フェーズ別キャリア | Career Phases
 
 ### 🔹 第0フェーズ｜制御設計・電磁界解析（1994〜1997）
-- 学部4年で制御設計（MATLAB / Simulink）を経験。 
+- 学部4年で制御設計（MATLAB / Simulink）を経験。<br> 
   [関連教材:「デジタル H∞ 制御」教材 ›](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
   *Experienced control design (MATLAB / Simulink) as an undergraduate. See related teaching material above.*
 
@@ -49,7 +49,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
 ---
 
 ### 🔹 第2フェーズ｜ピエゾ材料・アクチュエータ開発（2007〜2012）
-- FeRAM向けPZTプロセス特性評価を経て、薄膜ピエゾアクチュエータ開発に展開。
+- FeRAM向けPZTプロセス特性評価を経て、薄膜ピエゾアクチュエータ開発に展開。<br>
   [関連教材: 0.18μm FeRAM Process Flow（教材構想モデル） ›](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)
   *Started with PZT process evaluation for FeRAM, later applied to thin-film piezo actuators.*
 
@@ -62,15 +62,16 @@ description: "半導体・制御・インクジェット・教育の横断経験
 ---
 
 ### 🔹 第3フェーズ｜PrecisionCore製品化・教育推進（2012〜）
-- PrecisionCoreプリントヘッドの駆動IC実装COFを中心としたエレキ技術を推進。
+- PrecisionCoreプリントヘッドの駆動IC実装COFを中心としたエレキ技術を推進。<br>
   [この経験からの教材: Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約 ›](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
   *Led electronic integration for PrecisionCore printheads, focusing on COF driver IC 
+
 - 開発・設計・量産化のスケジュールを策定し、推進責任者を担当。  
   *Responsible for development-to-mass production scheduling and execution.*
 
-- **BOM整備・ISO教育・技術伝承**を推進し、教材化を実現。  
-  *Promoted **BOM management, ISO training, and knowledge transfer**, systematizing them into educational materials.* 
+- **BOM整備・ISO教育・技術伝承**を推進し、教材化を実現。<br>
   [教材: 設計→量産部品発注フロー ›](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)  
+  *Promoted **BOM management, ISO training, and knowledge transfer**, systematizing them into educational materials.* 
 
 ---
 
@@ -79,9 +80,9 @@ description: "半導体・制御・インクジェット・教育の横断経験
   オープンフレームワーク **Samizo-AITL** を構築・発信中。  
   *Building and sharing **Samizo-AITL**, an open framework for education, prompt design, and AI-integrated control.*
 
-- 半導体〜制御〜インクジェットの経験を統合し、体系的教材群を公開。  
+- 半導体〜制御〜インクジェットの経験を統合し、体系的教材群を公開。<br>
+ [教材一部資料: FinFET / GAA ノードパラメータ比較表 ›](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
   *Integrating experiences from semiconductors, control, and inkjet into structured educational content.*  
-  [教材一部資料: FinFET / GAA ノードパラメータ比較表 ›](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
 
 ---
 
