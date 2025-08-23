@@ -136,6 +136,18 @@ flowchart TD
 
 ---
 
+## 📌 **Career Summary**
+
+[![📄 View Career Summary](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/career-summary/en/)  
+Detailed report of **Shinichi Samizo**'s technical background and expertise:
+
+- **Semiconductor devices** (Logic, Memory, High-voltage mixed-signal)  
+- **Thin-film piezo** actuators for inkjet  
+- **PrecisionCore printhead** productization, BOM management, ISO education  
+- Curriculum design, PoC construction, and AI-assisted design support
+
+---
+
 ## 🖼️ **Technology Integration Architecture (Realistic Illustration)**
 
 <p align="center">
