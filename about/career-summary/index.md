@@ -58,16 +58,16 @@ description: "半導体・制御・インクジェット・教育の横断経験
 - PZT膜の構造解析と信頼性評価に貢献し、**PrecisionCore基盤**を確立。  
   *Contributed to structural analysis and reliability of PZT films, laying the foundation for **PrecisionCore technology**.*
 
-- 欠陥解析や表面処理最適化により、特有の信頼性課題を克服。  
+- 欠陥解析や表面処理最適化により、薄膜特有の信頼性課題を克服。  
   *Addressed thin-film reliability issues via defect analysis and surface treatment optimization.*
 
 ---
 
 ### 🔹 第3フェーズ｜PrecisionCore製品化・教育推進（2012〜）
-- PrecisionCoreプリントヘッドの **COF実装・駆動IC統合** を推進。  
-  [関連教材 › Special Chapter 2a: SystemDKにおける制約](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)  
-  *Led electronic integration for PrecisionCore printheads, focusing on COF driver IC packaging.*
-
+- PrecisionCoreプリントヘッドの駆動IC実装COFを中心としたエレキ技術を推進。  
+  [関連教材 › Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)  
+  *Led electronic integration for PrecisionCore printheads, focusing on COF driver IC implementation.*
+  
 - 開発・設計・量産化までのスケジュール策定と実行責任を担当。  
   *Responsible for scheduling and execution from development to mass production.*
 
