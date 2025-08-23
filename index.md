@@ -166,12 +166,12 @@ flowchart TD
 **三溝真一（Shinichi Samizo）** の技術経歴と専門分野をまとめた詳細レポートです。  
 *Detailed report summarizing the technical career and expertise of **Shinichi Samizo**.*
 
-- 半導体デバイス（ロジック・メモリ・高耐圧混載）  
-  *Semiconductor devices (logic, memory, high-voltage mixed integration)*  
-- インクジェット薄膜ピエゾアクチュエータ  
-  *Inkjet thin-film piezo actuators*  
-- PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育  
-  *Commercialization of PrecisionCore printheads, BOM management, and ISO training*  
+- **半導体デバイス**（ロジック・メモリ・高耐圧混載）  
+  ***Semiconductor devices** (logic, memory, high-voltage mixed integration)*  
+- インクジェット**薄膜ピエゾ**アクチュエータ  
+  *Inkjet **thin-film piezo** actuators*  
+- **PrecisionCoreプリントヘッド**製品化・BOM管理・ISO教育  
+  *Commercialization of **PrecisionCore printheads**, BOM management, and ISO training*  
 - 教材設計・PoC構築・AI活用設計支援  
   *Educational material design, PoC development, and AI-assisted design support*  
 
