@@ -42,7 +42,8 @@ description: "半導体・制御・インクジェット・教育の横断経験
   [詳細はこちら › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)  
   *Participated in the ramp-up of 0.25μm DRAM, handling process setup, defect analysis, and yield improvement.*
 
-- 高耐圧混載技術を開発し、a-TFTパネル向け駆動ICへ実用化。  
+- 高耐圧混載技術を開発し、a-TFTパネル向け駆動ICへ実用化。
+   [関連教材 › 0.18μm FeRAM Process Flow（教材モデル）](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)  
   *Developed high-voltage embedded technology (30V transistors), applied to a-TFT driver ICs.*
 
 ---
