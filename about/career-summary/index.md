@@ -20,8 +20,8 @@ description: "半導体・制御・インクジェット・教育の横断経験
 ## 📘 フェーズ別キャリア | Career Phases
 
 ### 🔹 第0フェーズ｜制御設計・電磁界解析（1994〜1997）
-- 学部4年で制御設計（MATLAB / Simulink）を経験。関連教材:  
-  [「デジタル H∞ 制御」教材 ›](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
+- 学部4年で制御設計（MATLAB / Simulink）を経験。 
+  [関連教材:「デジタル H∞ 制御」教材 ›](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)  
   *Experienced control design (MATLAB / Simulink) as an undergraduate. See related teaching material above.*
 
 - 大学院では電磁界解析に従事。  
@@ -73,9 +73,9 @@ description: "半導体・制御・インクジェット・教育の横断経験
 - **BOM整備・ISO教育・技術伝承**を推進し、教材化を実現。  
   *Promoted **BOM management, ISO training, and knowledge transfer**, systematizing them into educational materials.*
 
-詳細: [Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約 ›](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)  
+[詳細: Special Chapter 2a: SystemDKにおける熱・応力・ノイズ制約 ›](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)  
 さらに「設計から量産立上げまでの教材フロー」を構築。  
-[設計→量産部品発注フロー ›](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)  
+[詳細: 設計→量産部品発注フロー ›](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)  
 
 ---
 
