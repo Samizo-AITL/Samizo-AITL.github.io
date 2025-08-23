@@ -106,12 +106,12 @@ flowchart TD
 
 ---
 
-## 🏛️ **Policy, Collaboration, and Global Outreach**
+## 🏛️ **Policy Proposals, Collaboration, and International Initiatives**
 
-| Item | Description |
-|------|-------------|
-| 🏛️ **[AITL Strategy Proposal](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)** | Mid-to-long term **policy vision** connecting **Education × AI × Control**, including PoC-based curriculum design proposals. <br>⚠️ *This proposal is in Draft v4.0 stage and is under review.*|
-| 🤝 **[Message to OpenAI](../about/openai-message-en.md)** | Case studies of ChatGPT usage and proposals for international educational integration. |
+| Icon | Project Name | Field | Description |
+|------|--------------|-------|-------------|
+| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 Policy Proposal] | **Mid- to long-term vision** centered on **Education × AI × Control**, including proposals for AI-integrated education and PoC-linked design collaboration. Draft stage. |
+| 🤝 | **Message to OpenAI**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/openai-message/en/) | [🧠 AI Proposal] | **ChatGPT use cases** and **proposals for integrated design**, including curriculum development and international rollout strategies. |
 
 ---
 
