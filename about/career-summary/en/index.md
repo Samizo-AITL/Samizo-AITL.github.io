@@ -1,101 +1,76 @@
 ---
 layout: default
-title: Career Summary
----
-
+title: "Career Summary"
+description: "Cross-disciplinary career summary in semiconductors, control, inkjet, and education"
 ---
 
 # 🛠️ Career Summary
-[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to%20Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/en/) 
 
-**Shinichi Samizo** is an engineer whose career has continuously advanced through  
-**“Technology → Systemization → Education”**, with expertise spanning control theory, electromagnetic field analysis, semiconductor device development, PZT actuators, and the productization of PrecisionCore printheads.
+[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to-Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/)
+
+Shinichi Samizo is an engineer who has continuously deepened his expertise from  
+**control theory & electromagnetic analysis**, through **semiconductor device development**  
+and **PZT actuators**, to the **commercialization of PrecisionCore printheads**—  
+evolving from **technology → systems → education**.
 
 ---
 
 ## 📘 Career Phases
 
-### 🔹 Phase 0: Control Design & Electromagnetic Analysis (1994–1997)
+### 🔹 Phase 0｜Control Design & Electromagnetic Analysis (1994–1997)
+- Experienced **control design using MATLAB / Simulink** as an undergraduate.  
+  [Related Material › Digital H∞ Control](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)
 
-- Began control system design using MATLAB/Simulink during undergraduate studies.  
-  👉 Related material: [Digital H∞ Control (Undergraduate Project)](https://samizo-aitl.github.io/EduController/part04_digital/theory/06_digital_hinf_control.html)
-
-- Conducted electromagnetic field analysis during graduate research.  
-
-> 🧪 **Episode: Thin-Film Microreactor Analysis (1996–1997)**  
-> Analyzed DCDC converter inductors with ferrite magnetic materials and Al spiral coils.  
-> Proposed Q-factor loss analysis and Al/Cu selection guidelines for 500 kHz–1 MHz operation.  
-> 🔗 [More details › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor/)  
-{: .annotation}
+- Graduate research in electromagnetic field analysis.  
+  **Episode: Thin-Film Microreactor Analysis (1996–1997)**  
+  Analyzed DC-DC converter reactors using ferrite-based magnetic materials and Al spiral coil structures.  
+  Presented guidelines for Q-factor degradation and Al/Cu material selection at 500kHz–1MHz.  
+  [Details › Thin-Film Microreactor 1996](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1996/thinfilm_microreactor/)
 
 ---
 
-### 🔹 Phase 1: Semiconductor Devices (1997–2006)
+### 🔹 Phase 1｜Semiconductor Device Development (1997–2006)
+- **1997**: Joined Seiko Epson Corporation.  
+  Engaged in **logic, memory, and high-voltage process integration** (0.35–0.18μm generations).
 
-- **1997**: Joined Seiko Epson.  
-  Led process integration for **logic, memory, and high-voltage devices** in the 0.35 µm–0.18 µm generations.  
-  Responsible for cross-device integration from process design to verification.
+- **Episode: 64M DRAM Ramp-Up (1998)**  
+  Participated in mass production startup of 0.25μm DRAM, leading process setup, defect analysis, and yield improvement.  
+  [Details › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)
 
-> 🧩 **Episode: 64 M DRAM Ramp-Up (1998)**  
-> Contributed to the 0.25 µm DRAM mass production startup, focusing on defect analysis and yield improvement.  
-> 🔗 [More details › DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)  
-{: .annotation}
-
-- **High-Voltage Mixed Integration for a-TFT ICs**  
-  Led development and productization of 30 V transistor integration on 0.25 µm and 0.18 µm logic processes.  
-  Enabled mixed-voltage ICs for a-TFT panel driver applications by combining high-voltage MOS and low-voltage logic.
+- Developed **high-voltage embedded technology (30V transistors)**, applied to a-TFT driver ICs.  
+  [Related Material › 0.18μm CMOS 1.8V/3.3V/5V Embedded Front-End Process (Model)](https://samizo-aitl.github.io/Edusemi-v4x/chapter3_process_evolution/docs/0.18um_1.8V_3.3V_5V)
 
 ---
 
-### 🔹 Phase 2: PZT Materials and Actuator Development (2007–2012)
+### 🔹 Phase 2｜Piezoelectric Materials & Actuators (2007–2012)
+- Began with PZT process evaluation for FeRAM, then expanded to thin-film piezo actuator development.  
+  [Related Material › 0.18μm FeRAM Process Flow (Model)](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)
 
-- Transitioned from FeRAM-oriented PZT process evaluation to developing **thin-film piezoelectric actuators**.  
-- Contributed to **structural analysis and reliability assurance** of PZT films, forming the technological basis for PrecisionCore printhead development.  
-- Addressed thin-film-specific reliability issues by analyzing defect causes in PZT formation and optimizing surface treatment processes,  
-  leading to significant improvements in mechanical durability and manufacturability.
+- Contributed to **structural analysis and reliability of PZT films**, laying the foundation for **PrecisionCore technology**.
 
-👉 Educational resource:  
-[0.18 µm FeRAM Process Flow (Conceptual Educational Model)](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter1_memory_technologies/doc_FeRAM/0.18um_FeRAM_ProcessFlow)  
-{: .annotation}
+- Tackled thin-film reliability issues through **defect analysis and surface treatment optimization**.
 
 ---
 
-### 🔹 Phase 3: PrecisionCore Productization and Knowledge Transfer (2012–)
+### 🔹 Phase 3｜PrecisionCore Commercialization & Education (2012–)
+- Led **COF implementation and driver IC integration** for PrecisionCore printheads.  
+  [Related Material › Special Chapter 2a: Constraints in SystemDK](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
 
-- Led development of **head electronics technologies** centered on COF-based driver IC implementation for PrecisionCore printheads.  
-- Oversaw **project scheduling, design, and qualification for mass production**, driving the project to successful completion.  
-- Established systems for **BOM structuring, ISO-based training, and technical knowledge transfer**.  
+- Responsible for **scheduling and execution** from development to mass production.
 
-Based on these experiences, he later **systematized the handling of thermal, stress, and noise constraints** into educational material.  
-👉 See: [Special Chapter 2a: SystemDK – Handling of Thermal, Stress, and Noise Constraints](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)  
-{: .annotation}
-
-Furthermore, these experiences also led to the construction of an **educational workflow from design to mass production launch**:  
-👉 [Practical Workflow Details (Design → Mass Production Parts Ordering)](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)  
-{: .annotation}
+- Promoted **BOM management, ISO training, and knowledge transfer**, transforming them into structured educational content.  
+  [Related Material › Design-to-Mass Production Component Ordering Flow](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)
 
 ---
 
 ## 🎯 Current Activities
+- Building and sharing **Samizo-AITL**, an open framework for education, prompt design, and AI-integrated control.
 
-- Currently promoting the open framework **Samizo-AITL**,  
-  focusing on **educational tools, prompt engineering, and AI-integrated control system design**.  
-- Drawing on a broad career spanning semiconductors, control systems, and inkjet technology,  
-  he develops **comprehensive educational resources** that also include advanced semiconductor topics.  
-
-👉 Example resource:  
-[FinFET / GAA Node Parameter Comparison Table](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params) –  
-part of the **educational package on leading-edge semiconductor nodes**.  
-{: .annotation}
+- Integrating experiences across **semiconductors, control, and inkjet** into structured educational resources.  
+  [Related Material › FinFET / GAA Node Parameter Comparison Table](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
 
 ---
 
-> ⚠️ **Disclaimer**  
-> All process-related content (e.g., DRAM, FeRAM) on this page is based on conceptual educational models authored by Shinichi Samizo.  
-> **This information is not derived from any confidential manufacturing data or real product designs of any company.**  
-> DRAM-related content from 1998 reflects personal educational records and does not constitute confidential corporate information.  
-{: .annotation-narrow}
-
----
-
-**🔗 [日本語版 › 経験要約](../)**
+> ⚠️ **Note**  
+> The process information described here is based on conceptual models for educational purposes  
+> and is not related to actual manufacturing flows or confidential data.
