@@ -115,14 +115,14 @@ flowchart TD
 
 ---
 
-## 📚 **Supplemental Materials and Updates**
+## 📚 **Supplementary Documents & Update History**
 
-| Item | Description |
-|------|-------------|
-| 🕘 **[Update Log](../about/update-en.md)** | History of updates and structural changes. |
-| 🧠 **[ChatGPT Skill Evaluation](../about/chatgpt-skill-eval-en.md)** | LLM skill assessment (Level 5) focused on structural design, memory use, and generation strategies. |
-| 📋 **[Gemini Review](../about/gemini-review-en.md)** | Evaluation of this portal by **Google Gemini**. |
-| 🌐 **[日本語版（Japanese Version）](../index.md)** | Link to the Japanese version. |
+| Icon | Item | Description |
+|------|------|-------------|
+| 🕘 | **Update History**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/en/) | Log of curriculum updates and structural changes. |
+| 🧠 | **ChatGPT Skill Evaluation**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/chatgpt-skill-eval/en/) | Level 5 LLM usage skill evaluation from perspectives of structural design, memory utilization, and curriculum generation. |
+| 📋 | **Gemini Review**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/gemini-review/en/) | Curriculum evaluation report by **Google Gemini**. |
+| 🌐 | **English Version**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | Link to the English portal. |
 
 ---
 
