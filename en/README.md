@@ -151,12 +151,10 @@ Detailed report of **Shinichi Samizo**'s technical background and expertise:
 
 ---
 
-## 🖼️ **Technology Integration Architecture (Realistic Illustration)**
+## 🚩 Flagship PoC: Humanoid Robot Control
 
-<p align="center">
-  <img src="../images/technology_architecture_realistic_version.png" alt="Technology Architecture" style="width:80%;">
-</p>
+This figure illustrates the **culmination of the Samizo-AITL project**, showcasing the Proof of Concept for humanoid robot control.  
+It integrates a **cross-node design** spanning **22nm SoC**, **0.18µm AMS**, **0.35µm LDMOS**, and **energy harvesting**,  
+with a multi-layer architecture of **LLM, FSM, and physical control**.
 
-*Illustration: A symbolic vision of “Samizo-AITL” integrating Semiconductors, AI, Control, and Robotics.  
-It depicts a future where physical movement, intelligent control (PID), and AI learning converge under human guidance.*
-
+![Humanoid PoC](./images/Samizo_AITL_Humanoid_PoC.png){: style="width:80%;" }
