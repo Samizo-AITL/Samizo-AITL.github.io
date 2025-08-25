@@ -177,13 +177,15 @@ flowchart TD
 
 ---
 
-## 🖼️ 技術統合アーキテクチャ図（写実版）
-*🖼️ Technology Integration Architecture (Realistic Version)*
+## 🚩 フラグシップPoC：人型ロボット制御  
+*🚩 Flagship PoC: Humanoid Robot Control*
 
-<p align="center">
-  <img src="./images/technology_architecture_realistic_version.png" alt="技術統合アーキテクチャ" style="width:80%;">
-</p>
+本図は **Samizo-AITL プロジェクトの集大成** として設計された「人型ロボット制御」の概念図です。  
+22nm SoC・0.18µm AMS・0.35µm LDMOS・エネルギーハーベストを跨ぐ **クロスノード設計** と、  
+**LLM層・FSM層・物理制御層** の三層アーキテクチャを統合した PoC を示しています。  
 
-*図: 半導体・AI・制御・ロボティクスを統合する「Samizo-AITL」の技術構想を象徴的に表現した写実イメージ。人間の指示による知能制御（PID）とAI学習が、ロボットや回路制御と融合する未来を示しています。*  
-*Figure: A realistic illustration symbolizing the "Samizo-AITL" technological concept that integrates semiconductors, AI, control, and robotics. It depicts a future where intelligent control (PID) guided by human instructions merges with AI learning, robotics, and circuit control.*
+*This figure illustrates the **culmination of the Samizo-AITL project**, showcasing the Proof of Concept for humanoid robot control.  
+It integrates a **cross-node design** spanning 22nm SoC, 0.18µm AMS, 0.35µm LDMOS, and energy harvesting,  
+with a three-layer architecture of **LLM, FSM, and physical control**.*
 
+![Humanoid PoC](./images/Samizo_AITL_Humanoid_PoC.png){: style="width:80%;" }
