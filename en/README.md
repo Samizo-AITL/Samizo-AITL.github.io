@@ -154,19 +154,18 @@ Detailed report of **Shinichi Samizo**'s technical background and expertise:
 ## 🚩 Flagship PoC: Humanoid Robot Control
 
 This figure illustrates the **culmination of the Samizo-AITL project**, showcasing the Proof of Concept for humanoid robot control.  
-It integrates a **cross-node design** spanning **22nm SoC**, **0.18µm AMS**, **0.35µm LDMOS**, and **energy harvesting**,  
-with a multi-layer architecture of **LLM, FSM, and physical control**.
+It integrates a **cross-node design** spanning 22nm SoC, 0.18µm AMS, 0.35µm LDMOS, and energy harvesting,  
+with a three-layer architecture of **LLM, FSM, and physical control**.
 
-![Humanoid PoC](../images/Samizo_AITL_Humanoid_PoC.png){: style="width:80%;" }
+<p align="center">
+  <img src="../images/Samizo_AITL_Humanoid_PoC.png" alt="Humanoid PoC" width="80%">
+</p>
 
 <p align="center" style="margin:0.5rem 0 0;">
   <a href="https://samizo-aitl.github.io/AITL-H/PoC/humanoid/"
-     style="display:inline-block;padding:10px 16px;
-            border:1px solid #555;border-radius:6px;
-            background:#f8f8f8;color:#000;
+     style="display:inline-block;padding:10px 16px;border:1px solid #888;border-radius:6px;
             text-decoration:none;font-weight:600;">
     🚩 Flagship PoC: Humanoid Robot →
   </a><br>
   <em>Go to the PoC index page</em>
 </p>
-
