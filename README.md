@@ -13,17 +13,19 @@ description: Samizoによる半導体×AI×制御 統合教材ポータル　　
 **Samizo-AITLポータル**は、三溝真一による個人プロジェクトです。  
 *The Samizo-AITL Portal is a personal project by Shinichi Samizo.*  
 
-**半導体 × 制御 × AI** を軸に、知識・現象・技術の断片を**構造的に整理・接続**し、  
-教育・PoC（実現性と有効性の事前検証）・提言構築に活かすことを目的としています。  
-*It focuses on **Semiconductors × Control × AI**, structurally organizing and connecting fragments of knowledge, phenomena, and technologies, to be applied to education, proof-of-concepts, and proposals.*  
+本プロジェクトは、**半導体 × 制御 × AI** を軸に、  
+知識・現象・技術の断片を **構造的に整理・接続** し、  
+**教育・PoC（概念実証）・政策提言** に活かすことを目的としています。  
+*It focuses on **Semiconductors × Control × AI**, structurally organizing and connecting fragments of knowledge, phenomena, and technologies, to be applied to education, proofs-of-concept, and policy proposals.*  
 
-現在の主流は ChatGPT に代表される**対話AI**ですが、  
-今後は　**物理現象や構造と結びつく「物理AI」** こそが、次のトレンドになると考えています。  
-*While conversational AI such as ChatGPT is mainstream today, the next trend will be **"Physics AI"**, closely tied to physical phenomena and structures.*  
+現在の主流は ChatGPT に代表される **対話AI** ですが、  
+Samizo-AITL が目指すのは **物理現象や構造と直結する「物理AI（Physical AI）」** です。  
+*While conversational AI such as ChatGPT is mainstream today, Samizo-AITL aims for **"Physical AI"**, directly linked to physical phenomena and structures.*  
 
-Samizo-AITLは、「動かす現場」と「読み解く構造」その両方の経験をもとに、  
-**言葉ではなく、動きの中でAIを使う**ための教育・PoC・構想を展開しています。  
-*Based on experience in both **practical implementation** and **structural analysis**, Samizo-AITL develops education, PoCs, and concepts to use AI not only through words, but through actions.*  
+Samizo-AITLは、**「動かす現場」** と **「読み解く構造」** の両面で得た経験を基盤に、  
+**言葉ではなく、動きの中でAIを使う** 新しい教育・PoC・構想を展開しています。  
+*Based on experience in both **practical implementation** and **structural analysis**,  
+Samizo-AITL develops education, PoCs, and visions to use AI **not only in words, but through physical actions**.*
 
 ---
 
