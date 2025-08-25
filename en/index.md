@@ -7,16 +7,19 @@ description: Integrated Semiconductor × AI × Control Educational Portal by Sam
 ---
 
 # 🎓 Samizo-AITL Portal
-> **"Read the structure, create the motion, accelerate with AI"** — *A portal for learning the fusion of physics and intelligence*
+> *"Read structures, create dynamics, accelerate with AI" — A portal for learning the fusion of physics and intelligence*
 
-**Samizo-AITL Portal** is a personal project by **Shinichi Samizo**.  
-Focusing on **Semiconductors × Control × AI**, it systematically organizes and connects fragments of knowledge, phenomena, and technologies to support **education**, **PoC (Proof of Concept)**, and **policy proposals**.
+The **Samizo-AITL Portal** is a personal project by **Shinichi Samizo**.  
 
-While conversational AI such as ChatGPT is mainstream today,  
-I believe the next trend will be **"Physical AI"** — AI directly linked to physical phenomena and structures.
+This project focuses on **Semiconductors × Control × AI**,  
+structurally organizing and connecting fragments of knowledge, phenomena, and technologies,  
+to be applied to **education, proofs-of-concept (PoCs), and policy proposals**.  
 
-Samizo-AITL is built upon both "hands-on operational experience" and "structural analysis expertise",  
-developing education, PoC, and conceptual frameworks for **using AI in motion rather than just in words**.
+While **conversational AI** such as ChatGPT is mainstream today,  
+the next frontier is **"Physical AI"** — intelligence directly tied to physical phenomena and structures.  
+
+Samizo-AITL, built on experience in both **practical implementation** and **structural analysis**,  
+develops **education, PoCs, and strategic visions** to use AI **not only through words, but through physical actions**.  
 
 ---
 
