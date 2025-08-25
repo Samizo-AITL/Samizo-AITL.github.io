@@ -177,12 +177,4 @@ flowchart TD
 
 ---
 
-## 🖼️ 技術統合アーキテクチャ図（写実版）
-*🖼️ Technology Integration Architecture (Realistic Version)*
-
-<p align="center">
-  <img src="./images/technology_architecture_realistic_version.png" alt="技術統合アーキテクチャ" style="width:80%;">
-</p>
-
-*図: 半導体・AI・制御・ロボティクスを統合する「Samizo-AITL」の技術構想を象徴的に表現した写実イメージ。人間の指示による知能制御（PID）とAI学習が、ロボットや回路制御と融合する未来を示しています。*  
-*Figure: A realistic illustration symbolizing the "Samizo-AITL" technological concept that integrates semiconductors, AI, control, and robotics. It depicts a future where intelligent control (PID) guided by human instructions merges with AI learning, robotics, and circuit control.*
+<img src="./images/Samizo_AITL_Humanoid_PoC.png" alt="Humanoid PoC" width="80%">
