@@ -190,5 +190,3 @@ with a three-layer architecture of **LLM, FSM, and physical control**.*
 
 ![Humanoid PoC](./images/Samizo_AITL_Humanoid_PoC.png){: style="width:80%;" }
 
----
-<img src="./images/Samizo_AITL_Humanoid_PoC.png" alt="Humanoid PoC" width="80%">
