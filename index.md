@@ -188,7 +188,9 @@ flowchart TD
 It integrates a **cross-node design** spanning 22nm SoC, 0.18µm AMS, 0.35µm LDMOS, and energy harvesting,  
 with a three-layer architecture of **LLM, FSM, and physical control**.*
 
-![Humanoid PoC](./images/Samizo_AITL_Humanoid_PoC.png){: style="width:100%;" }
+<p align="center">
+  <img src="./images/Samizo_AITL_Humanoid_PoC.png" alt="Humanoid PoC" width="80%">
+</p>
 
 <p align="center" style="margin:0.5rem 0 0;">
   <a href="https://samizo-aitl.github.io/AITL-H/PoC/humanoid/"
