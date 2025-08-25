@@ -189,3 +189,13 @@ It integrates a **cross-node design** spanning 22nm SoC, 0.18µm AMS, 0.35µm LD
 with a three-layer architecture of **LLM, FSM, and physical control**.*
 
 ![Humanoid PoC](./images/Samizo_AITL_Humanoid_PoC.png){: style="width:80%;" }
+
+<p align="center" style="margin:0.5rem 0 0;">
+  <a href="https://samizo-aitl.github.io/AITL-H/PoC/humanoid/"
+     style="display:inline-block;padding:10px 16px;border:1px solid #888;border-radius:6px;
+            text-decoration:none;font-weight:600;">
+    🚩 フラグシップPoC：人型ロボット / <em>Flagship PoC: Humanoid Robot</em> →
+  </a><br>
+  <em>Go to the PoC index page</em>
+</p>
+
