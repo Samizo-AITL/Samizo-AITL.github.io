@@ -177,4 +177,18 @@ flowchart TD
 
 ---
 
+## 🚩 フラグシップPoC：人型ロボット制御  
+*🚩 Flagship PoC: Humanoid Robot Control*
+
+本図は **Samizo-AITL プロジェクトの集大成** として設計された「人型ロボット制御」の概念図です。  
+22nm SoC・0.18µm AMS・0.35µm LDMOS・エネルギーハーベストを跨ぐ **クロスノード設計** と、  
+**LLM層・FSM層・物理制御層** の三層アーキテクチャを統合した PoC を示しています。  
+
+*This figure illustrates the **culmination of the Samizo-AITL project**, showcasing the Proof of Concept for humanoid robot control.  
+It integrates a **cross-node design** spanning 22nm SoC, 0.18µm AMS, 0.35µm LDMOS, and energy harvesting,  
+with a three-layer architecture of **LLM, FSM, and physical control**.*
+
+![Humanoid PoC](./images/Samizo_AITL_Humanoid_PoC.png){: style="width:80%;" }
+
+---
 <img src="./images/Samizo_AITL_Humanoid_PoC.png" alt="Humanoid PoC" width="80%">
