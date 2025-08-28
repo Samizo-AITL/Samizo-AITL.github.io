@@ -46,6 +46,13 @@ Samizo-AITL develops education, PoCs, and visions to use AI **not only in words,
 教育・PoC・AI活用・提言・社会実装といった複数の視点から展開しています。  
 *They are developed from multiple perspectives such as education, PoC, AI utilization, proposals, and social implementation.*  
 
+> **注記 / Note**  
+> 本ページに掲載する内容には、特定企業の機密情報は一切含まれていません。  
+> 一般公開情報、基礎原理、そして筆者自身の経験・構想に基づき作成しています。  
+>  
+> No confidential information from any specific company is included.  
+> All materials are created based on public information, fundamental principles, and the author's own experience and ideas.
+
 | アイコン | **プロジェクト名** | 分野 | 内容 |
 |---------|--------------------|------|------|
 | 🧠 | **SamizoGPT**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT) | [🧠 AI] | ChatGPTの **プロンプト設計** と **支援テンプレート** 集（※一部AI支援を活用していますが、構成・検証・記述責任は筆者）<br>*A collection of **prompt designs** and **support templates** for ChatGPT (some AI assistance is used, but structure, verification, and description are the author’s responsibility).* |
