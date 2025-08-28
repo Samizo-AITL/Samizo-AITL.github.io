@@ -36,6 +36,10 @@ develops **education, PoCs, and strategic visions** to use AI **not only through
 Below are the main projects included in this portal,  
 developed from multiple perspectives including education, PoC, AI utilization, policy proposals, and social implementation.
 
+> **Note**  
+> This page does not contain any confidential information from specific companies.  
+> All materials are based on publicly available information, fundamental principles, and the author’s own experience and ideas.
+
 | Icon | **Project Name** | Field | Description |
 |------|------------------|-------|-------------|
 | 🧠 | **SamizoGPT**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT) | [🧠 AI] | A collection of **prompt designs** and **support templates** for ChatGPT.<br>⚠️ Some AI assistance is used, but structure, verification, and writing responsibility remain with the author. |
