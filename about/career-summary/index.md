@@ -86,10 +86,13 @@ description: "半導体・制御・インクジェット・教育の横断経験
   [関連教材 › FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
   *Integrating experiences from semiconductors, control, and inkjet into structured educational resources.*  
 
-- **論文成果サンプル**:  
+- **Hybrid Memory (CPU+DRAM+FeRAM)**: DRAMは大容量・高速の主役、FeRAMは不揮発・瞬時復帰の補助。  
+  **SystemDK** によるトップダウン協調設計（チップレット／コントローラ／OS）で、  
+  リフレッシュ電力と再起動時間を削減するハイブリッド構成を検討・教材化。  
   [📄 DRAM vs FeRAM Comparative Review (PDF)](./docs/review_dram_feram.pdf)  
-  *Sample paper: Comparative review on DRAM and FeRAM (first draft, IEEEtran style).*  
-
+  *DRAM provides high capacity and speed, while FeRAM complements with non-volatility and instant resume.  
+  Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid architectures that reduce refresh power and reboot time.*
+  
 ---
 
 > ⚠️ **注記 / Note**  
