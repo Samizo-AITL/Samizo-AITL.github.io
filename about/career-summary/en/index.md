@@ -68,9 +68,13 @@ evolving from **technology → systems → education**.
 ## 🎯 Current Activities
 - Building and sharing **Samizo-AITL**, an open framework for education, prompt design, and AI-integrated control.
 
-- Integrating experiences across **semiconductors, control, and inkjet** into structured educational resources.  
-  [Related Material › FinFET / GAA Node Parameter Comparison Table](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
+- Integrating experiences from semiconductors, control, and inkjet into structured educational resources.  
+  [Related Material › FinFET / GAA Node Parameter Comparison](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
 
+- **Sample Paper**:  
+  [📄 DRAM vs FeRAM Comparative Review (PDF)](../docs/review_dram_feram.pdf)  
+  *First-draft comparative review on DRAM and FeRAM (IEEEtran style).*
+  
 ---
 
 > ⚠️ **Note**  
