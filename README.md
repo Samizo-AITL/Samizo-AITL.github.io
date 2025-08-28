@@ -52,6 +52,7 @@ Samizo-AITL develops education, PoCs, and visions to use AI **not only in words,
 >  
 > No confidential information from any specific company is included.  
 > All materials are created based on public information, fundamental principles, and the author's own experience and ideas.
+ {: .annotation-narrow}
 
 | アイコン | **プロジェクト名** | 分野 | 内容 |
 |---------|--------------------|------|------|
