@@ -39,6 +39,7 @@ developed from multiple perspectives including education, PoC, AI utilization, p
 > **Note**  
 > This page does not contain any confidential information from specific companies.  
 > All materials are based on publicly available information, fundamental principles, and the author’s own experience and ideas.
+ {: .annotation-narrow}
 
 | Icon | **Project Name** | Field | Description |
 |------|------------------|-------|-------------|
