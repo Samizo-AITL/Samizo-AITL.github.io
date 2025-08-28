@@ -86,6 +86,10 @@ description: "半導体・制御・インクジェット・教育の横断経験
   [関連教材 › FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
   *Integrating experiences from semiconductors, control, and inkjet into structured educational resources.*  
 
+- **論文成果サンプル**:  
+  [📄 DRAM vs FeRAM Comparative Review (PDF)](./docs/review_dram_feram.pdf)  
+  *Sample paper: Comparative review on DRAM and FeRAM (first draft, IEEEtran style).*  
+
 ---
 
 > ⚠️ **注記 / Note**  
