@@ -86,13 +86,13 @@ description: "半導体・制御・インクジェット・教育の横断経験
   [関連教材 › FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
   *Integrating experiences from semiconductors, control, and inkjet into structured educational resources.*  
 
-- **Hybrid Memory (CPU+DRAM+FeRAM)**: DRAMは大容量・高速の主役、FeRAMは不揮発・瞬時復帰の補助。  
+- **Hybrid Memory (HBM+FeRAM)**: HBMは高帯域・大容量を提供、FeRAMは不揮発・低電力・瞬時復帰を補完。  
   **SystemDK** によるトップダウン協調設計（チップレット／コントローラ／OS）で、  
-  リフレッシュ電力と再起動時間を削減するハイブリッド構成を検討・教材化。  
-  [📄 DRAM vs FeRAM Comparative Review (PDF)](./docs/review_dram_feram.pdf)  
-  *DRAM provides high capacity and speed, while FeRAM complements with non-volatility and instant resume.  
-  Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid architectures that reduce refresh power and reboot time.*
-  
+  スタンバイ電力と再起動時間を削減するハイブリッド構成を検討・教材化。  
+  [📄 HBM+FeRAM Chiplet Integration (PDF)](./docs/HBM_FeRAM_Chiplet_MobileEdgeAI.pdf)  
+  *HBM provides high bandwidth and capacity, while FeRAM complements with non-volatility, low standby power, and instant resume.  
+  Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid memory architectures that enhance efficiency for mobile edge AI.*
+    
 ---
 
 > ⚠️ **注記 / Note**  
