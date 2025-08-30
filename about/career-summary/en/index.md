@@ -71,9 +71,9 @@ evolving from **technology → systems → education**.
 - Integrating experiences from semiconductors, control, and inkjet into structured educational resources.  
   [Related Material › FinFET / GAA Node Parameter Comparison](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
 
-- **Hybrid Memory (CPU+DRAM+FeRAM)**: DRAM provides high capacity and speed, while FeRAM complements with non-volatility and instant resume.  
-  Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid architectures that reduce refresh power and reboot time.  
-  [📄 DRAM vs FeRAM Comparative Review (PDF)](../docs/review_dram_feram.pdf)
+- **Hybrid Memory (HBM+FeRAM)**: HBM provides high bandwidth and capacity, while FeRAM complements with non-volatility, low standby power, and instant resume.  
+  Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid memory architectures that enhance efficiency for mobile edge AI.  
+  [📄 HBM+FeRAM Chiplet Integration (PDF)](../docs/HBM_FeRAM_Chiplet_MobileEdgeAI.pdf)
   
 ---
 
