@@ -92,7 +92,10 @@ description: "半導体・制御・インクジェット・教育の横断経験
   [📄 HBM+FeRAM Chiplet Integration (PDF)](./docs/HBM_FeRAM_Chiplet_MobileEdgeAI.pdf)  
   *HBM provides high bandwidth and capacity, while FeRAM complements with non-volatility, low standby power, and instant resume.  
   Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid memory architectures that enhance efficiency for mobile edge AI.*
-    
+
+- FeFET CMOS 0.18 µm Integration Study:
+  📄 [FeFET CMOS 0.18 µm Integration Study (PDF)](docs/FeFET_CMOS_018um_IntegrationStudy.pdf)
+  
 ---
 
 > ⚠️ **注記 / Note**  
