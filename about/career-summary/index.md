@@ -95,7 +95,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
 
 - FeFET CMOS 0.18 µm Integration Study:
   📄 [FeFET CMOS 0.18 µm Integration Study (PDF)](docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf)
-    📄 [FeFET CMOS 0.18 µm Integration Study (PDF)](docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf)
+    📄 [FeFET CMOS 0.18 µm Integration Study (PDF)](docs/FeFET_CMOS_018um_IntegrationStudy_Supplementary.pdf)
   
 ---
 
