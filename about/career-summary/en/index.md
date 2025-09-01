@@ -74,6 +74,13 @@ evolving from **technology → systems → education**.
 - **Hybrid Memory (HBM+FeRAM)**: HBM provides high bandwidth and capacity, while FeRAM complements with non-volatility, low standby power, and instant resume.  
   Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid memory architectures that enhance efficiency for mobile edge AI.  
   [📄 HBM+FeRAM Chiplet Integration (PDF)](../docs/HBM_FeRAM_Chiplet_MobileEdgeAI.pdf)
+
+- **FeFET CMOS 0.18 µm Integration Study**:  
+  Integration of FeFETs into a legacy 0.18 µm CMOS logic baseline with only **one additional mask (+1)**.  
+  Demonstrated **endurance beyond 10^5 cycles** and **retention exceeding 10 years at 85 °C**,  
+  enabling applications such as SRAM backup and secure key storage for IoT and automotive systems.  
+  [📄 Main Paper (PDF)](../docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf)  
+  [📄 Supplementary Figures & Tables (PDF)](../docs/FeFET_CMOS_018um_IntegrationStudy_Supplementary.pdf)
   
 ---
 
