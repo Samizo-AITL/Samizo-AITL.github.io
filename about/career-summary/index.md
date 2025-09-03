@@ -102,6 +102,10 @@ description: "半導体・制御・インクジェット・教育の横断経験
   *Integration of FeFETs into a legacy 0.18 µm CMOS logic baseline with only **one additional mask (+1)**.  
   Demonstrated **endurance beyond 10^5 cycles** and **retention exceeding 10 years at 85 °C**,  
   enabling applications such as SRAM backup and secure key storage for IoT and automotive systems.*
+
+- **ScAlN MEMS 超音波センサ研究**：PbフリーScAlN MEMSアレイを65 nm SiGe CMOSとSiPで統合し、次世代医療用超音波センサを提案。  
+  *ScAlN MEMS Ultrasonic Sensor Study: Proposed a Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP for next-generation medical ultrasonic sensors.*  
+  [📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)
   
 ---
 
