@@ -82,7 +82,7 @@ evolving from **technology → systems → education**.
   [📄 Main Paper (PDF)](../docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf)  
   [📄 Supplementary Figures & Tables (PDF)](../docs/FeFET_CMOS_018um_IntegrationStudy_Supplementary.pdf)
 
-- ScAlN MEMS Ultrasonic Sensor Study:  
+- **ScAlN MEMS Ultrasonic Sensor Study**:  
   Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP,  
   proposed for next-generation medical ultrasonic sensors.  
   [📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
