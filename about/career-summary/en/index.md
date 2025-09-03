@@ -81,6 +81,11 @@ evolving from **technology → systems → education**.
   enabling applications such as SRAM backup and secure key storage for IoT and automotive systems.  
   [📄 Main Paper (PDF)](../docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf)  
   [📄 Supplementary Figures & Tables (PDF)](../docs/FeFET_CMOS_018um_IntegrationStudy_Supplementary.pdf)
+
+- ScAlN MEMS Ultrasonic Sensor Study:  
+  Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP,  
+  proposed for next-generation medical ultrasonic sensors.  
+  [📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
   
 ---
 
