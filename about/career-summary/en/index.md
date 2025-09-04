@@ -71,9 +71,10 @@ evolving from **technology → systems → education**.
 - Integrating experiences from semiconductors, control, and inkjet into structured educational resources.  
   [Related Material › FinFET / GAA Node Parameter Comparison](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
 
-- **Hybrid Memory (HBM+FeRAM)**: HBM provides high bandwidth and capacity, while FeRAM complements with non-volatility, low standby power, and instant resume.  
-  Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid memory architectures that enhance efficiency for mobile edge AI.  
-  [📄 HBM+FeRAM Chiplet Integration (PDF)](../docs/HBM_FeRAM_Chiplet_MobileEdgeAI.pdf)
+- **LPDDR+FeRAM Chiplet Integration**:  
+  LPDDR provides low-power, high-bandwidth operation, while FeRAM complements with non-volatility, low standby power, and instant resume.  
+  Using SystemDK top-down co-design (chiplets / controllers / OS), we explore hybrid memory architectures that reduce standby power and shorten resume latency.  
+  📄 [LPDDR+FeRAM Integration (PDF)](../docs/LPDDR_FeRAM.pdf)
 
 - **FeFET CMOS 0.18 µm Integration Study**:  
   Integration of FeFETs into a legacy 0.18 µm CMOS logic baseline with only **one additional mask (+1)**.  
