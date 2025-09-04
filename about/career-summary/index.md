@@ -86,13 +86,13 @@ description: "半導体・制御・インクジェット・教育の横断経験
   [関連教材 › FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
   *Integrating experiences from semiconductors, control, and inkjet into structured educational resources.*  
 
-- **Hybrid Memory (HBM+FeRAM)**: HBMは高帯域・大容量を提供、FeRAMは不揮発・低電力・瞬時復帰を補完。  
-  **SystemDK** によるトップダウン協調設計（チップレット／コントローラ／OS）で、  
-  スタンバイ電力と再起動時間を削減するハイブリッド構成を検討・教材化。  
-  [📄 HBM+FeRAM Chiplet Integration (PDF)](./docs/HBM_FeRAM_Chiplet_MobileEdgeAI.pdf)  
-  *HBM provides high bandwidth and capacity, while FeRAM complements with non-volatility, low standby power, and instant resume.  
-  Using **SystemDK** top-down co-design (chiplets / controllers / OS), we explore and document hybrid memory architectures that enhance efficiency for mobile edge AI.*
-
+- **LPDDR+FeRAM Chiplet Integration**:  
+  LPDDRは低消費電力・高帯域を提供し、FeRAMは不揮発・低電力・瞬時復帰を補完。  
+  *LPDDR provides low-power, high-bandwidth operation, while FeRAM complements with non-volatility, low standby power, and instant resume.*  
+  SystemDKによるトップダウン設計（チップレット／コントローラ／OS）で、スタンバイ電力削減と再起動時間短縮を実現。  
+  *Using SystemDK top-down co-design (chiplets / controllers / OS), we explore hybrid memory architectures that reduce standby power and shorten resume latency.*  
+  📄 [LPDDR+FeRAM Integration (PDF)](./docs/LPDDR_FeRAM.pdf)
+  
 - **FeFET CMOS 0.18 µm Integration Study**:  
   既存の 0.18 µm CMOS ロジックフローに、**最小限の追加マスク (+1)** で FeFET を統合。  
   **耐久性 (10^5 サイクル超)** と **高温保持特性 (85℃で10年以上保持投影)** を実証し、  
