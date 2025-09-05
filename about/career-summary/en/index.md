@@ -71,22 +71,26 @@ evolving from **technology → systems → education**.
 - Integrating experiences from semiconductors, control, and inkjet into structured educational resources.  
   [Related Material › FinFET / GAA Node Parameter Comparison](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
 
-- **LPDDR+FeRAM Chiplet Integration**:  
-  LPDDR provides low-power, high-bandwidth operation, while FeRAM complements with non-volatility, low standby power, and instant resume.  
-  Using SystemDK top-down co-design (chiplets / controllers / OS), we explore hybrid memory architectures that reduce standby power and shorten resume latency.  
+- **LPDDR+FeRAM Chiplet Integration**  
+  LPDDR provides **low-power, high-bandwidth** operation, while FeRAM complements with **non-volatility, low standby power, and instant resume**.  
+  Using **SystemDK top-down co-design** (chiplets / controllers / OS), we explore hybrid memory architectures that reduce standby power and shorten resume latency.  
   📄 [LPDDR+FeRAM Integration (PDF)](../docs/LPDDR_FeRAM.pdf)
 
-- **FeFET CMOS 0.18 µm Integration Study**:  
+- **FeFET CMOS 0.18 µm Integration Study**  
   Integration of FeFETs into a legacy 0.18 µm CMOS logic baseline with only **one additional mask (+1)**.  
   Demonstrated **endurance beyond 10^5 cycles** and **retention exceeding 10 years at 85 °C**,  
   enabling applications such as SRAM backup and secure key storage for IoT and automotive systems.  
   [📄 Main Paper (PDF)](../docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf)  
   [📄 Supplementary Figures & Tables (PDF)](../docs/FeFET_CMOS_018um_IntegrationStudy_Supplementary.pdf)
 
-- **ScAlN MEMS Ultrasonic Sensor Study**:  
-  Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP,  
+- **ScAlN MEMS Ultrasonic Sensor Study**  
+  Pb-free ScAlN MEMS array integrated with **65 nm SiGe CMOS via SiP**,  
   proposed for next-generation medical ultrasonic sensors.  
-  [📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
+  📄 [ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
+
+- **Humanoid Control Architecture Research: FSM, PID, State-Space, and LLM Integration**  
+  Based on **cross-node SoC design** and **SystemDK validation**, this study integrates LLM inference, hierarchical FSM, PID/state-space control, and energy harvesting.  
+  📄 [Humanoid TCST Paper (PDF)](../docs/humanoid_tcst2025.pdf)
   
 ---
 
