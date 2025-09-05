@@ -83,19 +83,19 @@ description: "半導体・制御・インクジェット・教育の横断経験
   *Building and sharing **Samizo-AITL**, an open framework for education, prompt design, and AI-integrated control.*
 
 - 半導体〜制御〜インクジェットの経験を統合し、体系的教材群を公開。  
-  [関連教材 › FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
+  [📄 関連教材 › FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
   *Integrating experiences from semiconductors, control, and inkjet into structured educational resources.*  
 
-- **LPDDR+FeRAM Chiplet Integration**:  
-  LPDDRは低消費電力・高帯域を提供し、FeRAMは不揮発・低電力・瞬時復帰を補完。  
+- **LPDDR+FeRAM Chiplet Integration**  
+  LPDDRは **低消費電力・高帯域** を提供し、FeRAMは **不揮発・低電力・瞬時復帰** を補完。  
   *LPDDR provides low-power, high-bandwidth operation, while FeRAM complements with non-volatility, low standby power, and instant resume.*  
-  SystemDKによるトップダウン設計（チップレット／コントローラ／OS）で、スタンバイ電力削減と再起動時間短縮を実現。  
+  SystemDKによる **トップダウン設計**（チップレット／コントローラ／OS）で、スタンバイ電力削減と再起動時間短縮を実現。  
   *Using SystemDK top-down co-design (chiplets / controllers / OS), we explore hybrid memory architectures that reduce standby power and shorten resume latency.*  
   📄 [LPDDR+FeRAM Integration (PDF)](./docs/LPDDR_FeRAM.pdf)
   
-- **FeFET CMOS 0.18 µm Integration Study**:  
+- **FeFET CMOS 0.18 µm Integration Study**  
   既存の 0.18 µm CMOS ロジックフローに、**最小限の追加マスク (+1)** で FeFET を統合。  
-  **耐久性 (10^5 サイクル超)** と **高温保持特性 (85℃で10年以上保持投影)** を実証し、  
+  **耐久性 (10^5 サイクル超)** と **高温保持特性 (85℃で10年以上保持投影)** を実証。  
   SRAM バックアップや IoT/車載のキーセキュア用途に適用可能であることを示した。  
   [📄 Main Paper (PDF)](./docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf)  
   [📄 Supplementary Figures & Tables (PDF)](./docs/FeFET_CMOS_018um_IntegrationStudy_Supplementary.pdf)  
@@ -103,13 +103,15 @@ description: "半導体・制御・インクジェット・教育の横断経験
   Demonstrated **endurance beyond 10^5 cycles** and **retention exceeding 10 years at 85 °C**,  
   enabling applications such as SRAM backup and secure key storage for IoT and automotive systems.*
 
-- **ScAlN MEMS 超音波センサ研究**：PbフリーScAlN MEMSアレイを65 nm SiGe CMOSとSiPで統合し、次世代医療用超音波センサを提案。  
+- **ScAlN MEMS 超音波センサ研究**  
+  Pbフリー ScAlN MEMS アレイを **65 nm SiGe CMOS + SiP** で統合し、次世代医療用超音波センサを提案。  
   *ScAlN MEMS Ultrasonic Sensor Study: Proposed a Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP for next-generation medical ultrasonic sensors.*  
-  [📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)
+  📄 [ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)
 
-- ヒューマノイド制御アーキテクチャ研究: FSM, PID, 状態空間, LLM 統合  
-  Cross-node SoC 設計と SystemDK 検証に基づき、LLM 推論、階層型 FSM、PID 制御、エネルギーハーベスティングを統合。  
-  📄 [Humanoid TCST 論文 (PDF)](docs/humanoid_tcst2025.pdf)
+- **ヒューマノイド制御アーキテクチャ研究: FSM, PID, 状態空間, LLM 統合**  
+  **Cross-node SoC 設計** と **SystemDK 検証** に基づき、LLM推論、階層型 FSM、PID制御、エネルギーハーベスティングを統合。  
+  *Humanoid Control Architecture: Integrated LLM inference, hierarchical FSM, PID/state-space control, and energy harvesting based on cross-node SoC design and SystemDK validation.*  
+  📄 [Humanoid TCST 論文 (PDF)](./docs/humanoid_tcst2025.pdf)
   
 ---
 
