@@ -190,6 +190,12 @@ flowchart TD
 ## 🚩 フラグシップPoC：人型ロボット制御  
 *🚩 Flagship PoC: Humanoid Robot Control*
 
+> ⚠️ **注記 / Note**  
+> 本図は **教育・PoC目的の概念図** です。**安定性・応答の設計は制御理論（例：PID）を前提**とし、**FSM/LLMは外層の監督・支援層**であり制御ループの安定性保証の対象外です。  
+> 仕様・ノード構成・性能表現は **検討中／例示** を含み、今後の検証で変更される可能性があります。**機密情報は含みません**（公開情報・基礎原理・筆者の経験に基づく）。  
+> *This figure is a **conceptual, education/PoC-oriented** diagram. **Stability and response rely on control theory (e.g., PID)**; **FSM/LLM act as outer supervisory/support layers**, not part of the stability-guaranteed loop.  
+> Node choices and performance depictions include **work-in-progress/illustrative** elements and may change with validation. **No confidential information** is included (based on public info, fundamentals, and the author’s experience).*
+
 本図は **Samizo-AITL プロジェクトの集大成** として設計された「人型ロボット制御」の概念図です。  
 22nm SoC・0.18µm AMS・0.35µm LDMOS・エネルギーハーベストを跨ぐ **クロスノード設計** と、  
 **LLM層・FSM層・物理制御層** の三層アーキテクチャを統合した PoC を示しています。  
