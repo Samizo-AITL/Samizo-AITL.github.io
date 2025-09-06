@@ -133,7 +133,6 @@ flowchart TD
 | 🕘 | **Update History**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/en/) | Log of curriculum updates and structural changes. |
 | 🧠 | **ChatGPT Skill Evaluation**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/chatgpt-skill-eval/en/) | Level 5 LLM usage skill evaluation from perspectives of structural design, memory utilization, and curriculum generation. |
 | 📋 | **Gemini Review**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/gemini-review/en/) | Curriculum evaluation report by **Google Gemini**. |
-| 🌐 | **English Version**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | Link to the English portal. |
 
 ---
 
