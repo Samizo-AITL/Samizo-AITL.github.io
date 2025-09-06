@@ -158,6 +158,13 @@ Detailed report of **Shinichi Samizo**'s technical background and expertise:
 
 ## 🚩 Flagship PoC: Humanoid Robot Control
 
+> ⚠️ **Note**  
+> This figure is a **conceptual diagram for educational and PoC purposes**.  
+> - **Stability and response design rely on control theory (e.g., PID)**.  
+> - **FSM and LLM act as outer supervisory/support layers**, not part of the stability-guaranteed loop.  
+> - Node choices and performance depictions are **illustrative / work-in-progress** and may change with further validation.  
+> - **No confidential information is included**; it is based on public information, fundamental principles, and the author’s own experience.
+
 This figure illustrates the **culmination of the Samizo-AITL project**, showcasing the Proof of Concept for humanoid robot control.  
 It integrates a **cross-node design** spanning 22nm SoC, 0.18µm AMS, 0.35µm LDMOS, and energy harvesting,  
 with a three-layer architecture of **LLM, FSM, and physical control**.
