@@ -141,7 +141,6 @@ flowchart TD
 | アイコン | プロジェクト名 | 分野 | 内容 |
 |----------|----------------|------|------|
 | 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **教育 × AI × 制御** を軸とした **中長期的ビジョン**（AI活用教育導入とPoC設計連携の提案を含む）<br>⚠️ Draft段階<br>*A **medium- to long-term vision** centered on **Education × AI × Control** (including proposals for AI-based education and PoC design collaboration). ⚠️ Draft stage.* |
-| 🤝 | **OpenAI向けメッセージ**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/openai-message/) | [🧠 AI提案] | **ChatGPT活用事例** と **統合設計への提案**（教材整備・国際展開方法も含む）<br>*Examples of **ChatGPT utilization** and **proposals for integrated design** (including educational preparation and international deployment methods).* |
 
 ---
 
@@ -153,7 +152,6 @@ flowchart TD
 | 🕘 | **更新履歴**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/) | 教材の **更新履歴・構成変更ログ**<br>*Update logs and structural change records of the materials.* |
 | 🧠 | **ChatGPT活用レベル診断**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/chatgpt-skill-eval/) | LLM活用スキル（レベル5）評価レポート。構造設計・記憶活用・教材生成の観点から評価。<br>*Evaluation report of LLM utilization skills (Level 5), assessed from perspectives of structural design, memory use, and material generation.* |
 | 📋 | **Geminiレビュー**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/gemini-review/) | **Google Gemini** による **教材評価レポート**<br>*An **educational evaluation report** by Google Gemini.* |
-| 🌐 | **English Version**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | 英語ポータルへのリンク<br>*Link to the English portal.* |
 
 ---
 
