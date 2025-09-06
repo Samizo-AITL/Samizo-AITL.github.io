@@ -152,7 +152,6 @@ flowchart TD
 | 🕘 | **更新履歴**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/) | 教材の **更新履歴・構成変更ログ**<br>*Update logs and structural change records of the materials.* |
 | 🧠 | **ChatGPT活用レベル診断**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/chatgpt-skill-eval/) | LLM活用スキル（レベル5）評価レポート。構造設計・記憶活用・教材生成の観点から評価。<br>*Evaluation report of LLM utilization skills (Level 5), assessed from perspectives of structural design, memory use, and material generation.* |
 | 📋 | **Geminiレビュー**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/gemini-review/) | **Google Gemini** による **教材評価レポート**<br>*An **educational evaluation report** by Google Gemini.* |
-| 🌐 | **English Version**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | 英語ポータルへのリンク<br>*Link to the English portal.* |
 
 ---
 
