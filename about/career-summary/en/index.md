@@ -71,6 +71,13 @@ evolving from **technology → systems → education**.
 - Integrating experiences from semiconductors, control, and inkjet into structured educational resources.  
   [Related Material › FinFET / GAA Node Parameter Comparison](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)
 
+- **Educational Tutorial Paper on CFET** 
+  [Educational Perspectives on Complementary FETs (CFET): Evolution Beyond GAA and Open Challenges (PDF)](../docs/cfet_tutorial_main.pdf)  
+  This tutorial paper provides an educational overview of CFET technology.  
+  It reviews the evolution from Planar → FinFET → GAA → CFET, structural concepts, design impacts,  
+  manufacturing challenges, EDA limitations, and educational value,  
+  proposing its role in semiconductor education and research toward the 2030s.
+  
 - **LPDDR+FeRAM Chiplet Integration**  
   LPDDR provides **low-power, high-bandwidth** operation, while FeRAM complements with **non-volatility, low standby power, and instant resume**.  
   Using **SystemDK top-down co-design** (chiplets / controllers / OS), we explore hybrid memory architectures that reduce standby power and shorten resume latency.  
