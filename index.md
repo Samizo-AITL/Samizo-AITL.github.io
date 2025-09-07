@@ -160,6 +160,7 @@ flowchart TD
 | **項目 / Item** | **内容 / Details** |
 |-----------------|--------------------|
 | **氏名 / Name** | **三溝 真一**（Shinichi Samizo） |
+| **肩書 / Title** | **独立系半導体研究者**<br>*Independent Semiconductor Researcher* |
 | **学歴 / Education** | **信州大学大学院 電気電子工学** 修了<br>*M.S. in Electrical and Electronic Engineering, Shinshu University* |
 | **経歴 / Career** | 元 **セイコーエプソン**株式会社 技術者（1997年〜）<br>*Former engineer at Seiko Epson Corporation (since 1997)* |
 | **✉️ Email** | [![Email](https://img.shields.io/badge/Email-shin3t72%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shin3t72@gmail.com) |
