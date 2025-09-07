@@ -141,6 +141,7 @@ flowchart TD
 | **Item** | **Details** |
 |----------|-------------|
 | **Name** | **Shinichi Samizo** |
+| **Title** | **Independent Semiconductor Researcher** |
 | **Education** | **M.S. in Electrical and Electronic Engineering, Shinshu University** |
 | **Career** | Former **Engineer at Seiko Epson Corporation** (since 1997) |
 | **✉️ Email** | [![Email](https://img.shields.io/badge/Email-shin3t72%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shin3t72@gmail.com) |
