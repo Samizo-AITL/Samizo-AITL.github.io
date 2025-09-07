@@ -86,7 +86,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
   [📄 関連教材 › FinFET / GAA ノードパラメータ比較表](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter1_finfet_gaa/appendixf1_05_node_params)  
   *Integrating experiences from semiconductors, control, and inkjet into structured educational resources.*  
 
-- CFET 教材論文公開 / *Educational Tutorial Paper on CFET*  
+- **CFET 教材論文公開** / *Educational Tutorial Paper on CFET*  
   [Educational Perspectives on Complementary FETs (CFET): Evolution Beyond GAA and Open Challenges (PDF)](./docs/cfet_tutorial_main.pdf)
   教育的観点から CFET 技術の概要を整理したチュートリアル論文。  
   Planar → FinFET → GAA → CFET への進化、構造概念、設計インパクト、製造課題、EDA 限界、教育的価値をまとめ、  
