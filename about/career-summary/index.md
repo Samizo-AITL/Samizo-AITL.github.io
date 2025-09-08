@@ -92,8 +92,9 @@ description: "半導体・制御・インクジェット・教育の横断経験
   Planar → FinFET → GAA → CFET への進化、構造概念、設計インパクト、製造課題、EDA 限界、教育的価値をまとめ、  
   2030 年代に向けた半導体教育・研究への活用を提案。
 
-- CFET 制御統合検証 / Control-Integrated CFET Study  
-  Cross-Layer Control of CFET Interconnect Delay and Thermal Coupling via PID+FSM+LLM Supervision 
+- **CFET 制御統合検証** / Control-Integrated CFET Study  
+  CFET 配線遅延と熱結合を PID+FSM+LLM 監督で動的補償するクロスレイヤー制御概念実証 
+  *Cross-Layer Control of CFET Interconnect Delay and Thermal Coupling via PID+FSM+LLM Supervision*
   [Main Paper (PDF)](cfet_ctrl2025.pdf)
   
 - **LPDDR+FeRAM Chiplet Integration**  
