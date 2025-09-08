@@ -95,7 +95,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
 - **CFET 制御統合検証** / Control-Integrated CFET Study  
   CFET 配線遅延と熱結合を PID+FSM+LLM 監督で動的補償するクロスレイヤー制御概念実証 
   *Cross-Layer Control of CFET Interconnect Delay and Thermal Coupling via PID+FSM+LLM Supervision*
-  [Main Paper (PDF)](cfet_ctrl2025.pdf)
+  [Main Paper (PDF)](./docs/cfet_ctrl2025.pdf)
   
 - **LPDDR+FeRAM Chiplet Integration**  
   LPDDRは **低消費電力・高帯域** を提供し、FeRAMは **不揮発・低電力・瞬時復帰** を補完。  
