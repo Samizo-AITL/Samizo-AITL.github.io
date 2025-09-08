@@ -77,6 +77,10 @@ evolving from **technology → systems → education**.
   It reviews the evolution from Planar → FinFET → GAA → CFET, structural concepts, design impacts,  
   manufacturing challenges, EDA limitations, and educational value,  
   proposing its role in semiconductor education and research toward the 2030s.
+
+- **Control-Integrated CFET Study**  
+  Cross-Layer Control of CFET Interconnect Delay and Thermal Coupling via PID+FSM+LLM Supervision 
+  [Main Paper (PDF)](../docs/cfet_ctrl2025.pdf)
   
 - **LPDDR+FeRAM Chiplet Integration**  
   LPDDR provides **low-power, high-bandwidth** operation, while FeRAM complements with **non-volatility, low standby power, and instant resume**.  
