@@ -123,7 +123,12 @@ description: "半導体・制御・インクジェット・教育の横断経験
   **Cross-node SoC 設計** と **SystemDK 検証** に基づき、LLM推論、階層型 FSM、PID制御、エネルギーハーベスティングを統合。  
   *Humanoid Control Architecture: Integrated LLM inference, hierarchical FSM, PID/state-space control, and energy harvesting based on cross-node SoC design and SystemDK validation.*  
   📄 [Humanoid TCST 論文 (PDF)](./docs/humanoid_tcst2025.pdf)
-  
+
+- **SystemDK with AITL 論文公開** / Paper on Runtime-Aware DTCO  
+EDA設計フローにPID+FSM+LLM制御ループを統合し、RC遅延・熱結合・EMI変動を実時間で補償する枠組みを提案。  
+Cross-layer runtime adaptation enables guardband reduction and improved reliability across sub-2nm nodes.  
+[Main Paper (PDF)](./docs/systemdk_aitl2025.pdf)
+
 ---
 
 > ⚠️ **注記 / Note**  
