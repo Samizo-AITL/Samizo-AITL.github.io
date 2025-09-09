@@ -102,7 +102,12 @@ evolving from **technology → systems → education**.
 - **Humanoid Control Architecture Research: FSM, PID, State-Space, and LLM Integration**  
   Based on **cross-node SoC design** and **SystemDK validation**, this study integrates LLM inference, hierarchical FSM, PID/state-space control, and energy harvesting.  
   📄 [Humanoid TCST Paper (PDF)](../docs/humanoid_tcst2025.pdf)
-  
+
+- **SystemDK with AITL Paper** / Paper on Runtime-Aware DTCO  
+We propose a framework that integrates PID+FSM+LLM control loops into EDA design flows, enabling real-time compensation of RC delay, thermal coupling, and EMI variations.  
+Cross-layer runtime adaptation reduces guardbands and improves reliability across sub-2nm nodes.  
+[Main Paper (PDF)](../docs/systemdk_aitl2025.pdf)
+
 ---
 
 > ⚠️ **Note**  
