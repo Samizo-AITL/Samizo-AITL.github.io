@@ -48,7 +48,10 @@ description: "半導体・制御・インクジェット・教育の横断経験
 - **高耐圧混載技術（30Vトランジスタ）** を開発し、a-TFT駆動ICへ実用化。  
   [⚙️ 0.18μm CMOS Mixed-Voltage Process](https://samizo-aitl.github.io/Edusemi-v4x/chapter3_process_evolution/docs/0.18um_1.8V_3.3V_5V)  
   *Developed HV embedded technology applied to a-TFT driver ICs.*
-
+- **液晶ドライバーIC仕様書**  
+  [📑 LCD Driver IC Specification](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter2_high_voltage_devices/lcd_driver.md)  
+  *Specification for LCD Panel Driver IC (concept model: power rails, I/Os, gamma reference, temperature compensation, timing, pixel circuit).*
+  
 ---
 
 ### 🎛️ 第2フェーズ｜ピエゾ材料・アクチュエータ（2007〜2012）
