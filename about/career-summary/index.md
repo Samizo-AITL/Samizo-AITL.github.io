@@ -134,6 +134,11 @@ RC遅延・熱結合・EMI変動を実時間で補償し、サブ2nm世代の信
 [📄 SystemDK+AITL Main Paper (PDF)](./docs/systemdk_aitl2025.pdf)  
 *Runtime-aware DTCO framework enabling guardband reduction and reliability improvement across advanced nodes.*
 
+#### 🖨️ KNN Bio-Inkjet Printing  
+PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。  
+[Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)
+*Proposed a Bio-Inkjet architecture using lead-free KNN actuators.*
+
 ---
 
 > ⚠️ **注記 / Note**  
