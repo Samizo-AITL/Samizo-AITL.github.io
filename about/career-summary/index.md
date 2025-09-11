@@ -135,9 +135,10 @@ RC遅延・熱結合・EMI変動を実時間で補償し、サブ2nm世代の信
 *Runtime-aware DTCO framework enabling guardband reduction and reliability improvement across advanced nodes.*
 
 #### 🖨️ KNN Bio-Inkjet Printing  
-PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。  
-[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf) 
-*Proposed a Bio-Inkjet architecture using lead-free KNN actuators.*
+**PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。**  
+バルクKNN積層アクチュエータとCOFドライバIC、Siキャビティ統合により、±50Vでピコリットルスケールの液滴生成を実現。細胞パターニングやタンパク質マイクロアレイなど、バイオプリンティング応用を想定。  
+[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
+*Proposed a Bio-Inkjet architecture using lead-free KNN actuators, enabling picoliter droplet generation under ±50 V for biomedical applications such as cell patterning and protein microarrays.*
 
 ---
 
