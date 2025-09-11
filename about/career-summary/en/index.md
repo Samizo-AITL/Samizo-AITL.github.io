@@ -39,12 +39,12 @@ evolving from **technology → systems → education**.
   Participated in **mass production startup of 0.25μm DRAM**, leading process setup, defect analysis, and yield improvement.  
   [💾 DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)
 
-- **高耐圧混載技術（30Vトランジスタ）** を開発し、a-TFT駆動ICへ実用化。
-    - [⚙️ 0.18μm CMOS Embedded Front-End Process](https://samizo-aitl.github.io/Edusemi-v4x/chapter3_process_evolution/docs/0.18um_1.8V_3.3V_5V)  
-    *Developed **high-voltage embedded technology (30V transistors)**, applied to a-TFT driver ICs.*
+- Developed **high-voltage embedded technology (30V transistors)**, applied to a-TFT driver ICs.  
+  - [⚙️ 0.18μm CMOS Embedded Front-End Process](https://samizo-aitl.github.io/Edusemi-v4x/chapter3_process_evolution/docs/0.18um_1.8V_3.3V_5V)  
+    *Developed high-voltage embedded front-end technology (30V devices) integrated into standard CMOS flow, applied to a-TFT driver ICs.*
   - [📑 LCD Driver IC Specification](https://samizo-aitl.github.io/Edusemi-v4x/d_chapter2_high_voltage_devices/lcd_driver)  
     *Specification for LCD Panel Driver IC (concept model: power rails, I/Os, gamma reference, temperature compensation, timing, pixel circuit).*  
-
+    
 ---
 
 ### 🎛️ Phase 2｜Piezoelectric Materials & Actuators (2007–2012)
