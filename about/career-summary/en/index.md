@@ -113,6 +113,11 @@ Based on cross-node SoC design and SystemDK validation, presenting a next-genera
 Compensates RC delay, thermal coupling, and EMI variations in real time, reducing guardbands and enhancing sub-2nm reliability.  
 [📄 SystemDK+AITL Main Paper (PDF)](../docs/systemdk_aitl2025.pdf)
 
+#### 🖨️ KNN Bio-Inkjet Printing Study  
+**Lead-free KNN actuators applied to biocompatible inkjet systems.**  
+Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under ±50 V, targeting applications in biomedical printing such as cell patterning and protein microarrays.  
+[📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
+
 ---
 
 > ⚠️ **Note**  
