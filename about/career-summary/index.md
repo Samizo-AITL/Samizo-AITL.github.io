@@ -136,7 +136,7 @@ RC遅延・熱結合・EMI変動を実時間で補償し、サブ2nm世代の信
 
 #### 🖨️ KNN Bio-Inkjet Printing  
 PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。  
-[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)
+[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf) 
 *Proposed a Bio-Inkjet architecture using lead-free KNN actuators.*
 
 ---
