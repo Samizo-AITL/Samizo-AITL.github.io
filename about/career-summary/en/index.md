@@ -118,6 +118,11 @@ Compensates RC delay, thermal coupling, and EMI variations in real time, reducin
 Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under ±50 V, targeting applications in biomedical printing such as cell patterning and protein microarrays.  
 [📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
 
+#### 🚀 AITL on Space  
+**A robust three-layer architecture with Tri-NVM hierarchy (SRAM / MRAM / FRAM) for long-duration spacecraft autonomy.**  
+Proposes an Adaptive Intelligent Triple-Layer (AITL) control architecture integrating PID, FSM, and AI-based re-design, implemented on 22 nm FDSOI SoC with FPGA/SystemDK validation.  
+[📄 AITL on Space Main Paper (PDF)](../docs/aitl_space.pdf)
+
 ---
 
 > ⚠️ **Note**  
