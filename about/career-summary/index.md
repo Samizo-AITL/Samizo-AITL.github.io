@@ -110,10 +110,10 @@ EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題�
 [📄 LPDDR+FeRAM Integration (PDF)](./docs/LPDDR_FeRAM.pdf)  
 *Hybrid memory architecture combining low-power LPDDR with instant-resume FeRAM.*
 
-#### 🔋 FeFET CMOS 0.18 µm Integration Study  
+#### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
 **既存0.18µm CMOSに+1マスクでFeFETを統合。**  
 10^5サイクル超の耐久性と10年以上（85℃）の保持を実証し、IoT/車載向け不揮発メモリ応用を提案。  
-[📄 Main Paper](./docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf) / [📄 Supplementary](./docs/FeFET_CMOS_018um_IntegrationStudy_Supplementary.pdf)  
+[📄 fefet_cmos018_reliability.pdf](./docs/fefet_cmos018_reliability.pdf)  
 *Integration study showing FeFET endurance >10^5 and retention >10y at 85℃.*
 
 #### 🌊 ScAlN MEMS 超音波センサ研究  
