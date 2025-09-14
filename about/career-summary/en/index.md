@@ -93,10 +93,10 @@ Demonstrates real-time compensation of interconnect delay and thermal coupling u
 Achieves reduced standby power and instant resume through SystemDK top-down co-design of chiplets, controllers, and OS.  
 [📄 LPDDR+FeRAM Integration (PDF)](../docs/LPDDR_FeRAM.pdf)
 
-#### 🔋 FeFET CMOS 0.18 µm Integration Study  
-**FeFET integration into 0.18 µm CMOS baseline with minimal additional masks.**  
+#### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
+**FeFET integration into 0.18 µm CMOS baseline with +1 mask and a single ALD tool.**  
 Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling SRAM backup and secure key storage for IoT/automotive.  
-[📄 Main Paper](../docs/FeFET_CMOS018um_IntegrationStudy_Main.pdf) / [📄 Supplementary](../docs/FeFET_CMOS_018um_IntegrationStudy_Supplementary.pdf)
+[📄 fefet_cmos018_reliability.pdf](../docs/fefet_cmos018_reliability.pdf)
 
 #### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
 **Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
