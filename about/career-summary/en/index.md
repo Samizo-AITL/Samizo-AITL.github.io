@@ -120,7 +120,7 @@ Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under 
 
 #### 🚀 AITL on Space  
 **A robust three-layer architecture with Tri-NVM hierarchy (SRAM / MRAM / FRAM) for long-duration spacecraft autonomy.**  
-Proposes an Adaptive Intelligent Triple-Layer (AITL) control architecture integrating PID, FSM, and AI-based re-design, implemented on 22 nm FDSOI SoC with FPGA/SystemDK validation.  
+Proposes an Adaptive Intelligent Triple-Layer (AITL) control architecture integrating **H∞ control, FSM, and AI-based re-design**, implemented on 22 nm FDSOI SoC with FPGA/SystemDK validation.  
 [📄 AITL on Space Main Paper (PDF)](../docs/aitl_space.pdf)
 
 ---
