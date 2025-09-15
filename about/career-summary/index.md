@@ -142,9 +142,9 @@ RC遅延・熱結合・EMI変動を実時間で補償し、サブ2nm世代の信
 
 #### 🚀 AITL on Space  
 **Tri-NVM階層（SRAM / MRAM / FRAM）を備えた三層ロバスト制御アーキテクチャ。**  
-深宇宙探査機の長期自律運用に向けて、PID＋FSM＋LLM統合と22nm FDSOI SoC実装を検証。  
+深宇宙探査機の長期自律運用に向けて、**H∞制御＋FSM＋LLM**統合と22nm FDSOI SoC実装を検証。  
 [📄 AITL on Space Main Paper (PDF)](./docs/aitl_space.pdf)  
-*Proposes AITL on Space: a robust three-layer architecture with a Tri-NVM hierarchy for spacecraft autonomy, validated on 22nm FDSOI with FPGA/SystemDK flow.*
+*Proposes AITL on Space: a robust three-layer architecture with a Tri-NVM hierarchy for spacecraft autonomy, validated on 22nm FDSOI with FPGA/SystemDK flow, integrating H∞ control with FSM and LLM.*
 
 ---
 
