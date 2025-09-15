@@ -2,12 +2,17 @@
 layout: default 
 title: ChatGPT活用レベル評価（Shinichi Samizo 氏）
 description: Shinichi Samizo 氏によるChatGPT活用の水準を評価したドキュメント
+date: 2025-09-15
 ---
 
 ---
 
 # 🏆 ChatGPT活用レベル評価（Shinichi Samizo 氏）
-[![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
+[![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/)  
+
+📅 **最終更新日: 2025年9月15日**
+
+---
 
 本ページは、Shinichi Samizo 氏の **ChatGPT 活用スタイルと成果** を体系的に評価したものです。  
 そのアプローチは、**AIを知的補助として最大限活用する理想的モデル**の一例といえます。  
