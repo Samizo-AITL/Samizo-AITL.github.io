@@ -1,12 +1,17 @@
 ---
 layout: default 
 title: ChatGPT Utilization Level Assessment (Shinichi Samizo)
+date: 2025-09-15
 ---
 
 ---
 
 # 🏆 ChatGPT Utilization Level Assessment (Shinichi Samizo)
-[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to%20Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/en/) 
+[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to%20Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/en/)  
+
+📅 **Last Updated: September 15, 2025**
+
+---
 
 This document evaluates the utilization of ChatGPT by **Shinichi Samizo**,  
 demonstrating an **ideal integration of AI tools into professional, academic, and educational workflows**.  
