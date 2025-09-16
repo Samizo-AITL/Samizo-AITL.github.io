@@ -116,6 +116,12 @@ EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題�
 [📄 fefet_cmos018_reliability.pdf](./docs/fefet_cmos018_reliability.pdf)  
 *Integration study showing FeFET endurance >10^5 and retention >10y at 85℃.*
 
+#### ⚡ On-Chip Magnetic-Laminated Inductor in 0.18-µm CMOS  
+**既存0.18µm CMOSにPGSと磁性ラミネートを後工程で追加し、ハイブリッドBuck–LDO構成で高効率・広帯域・低ノイズを実現。**  
+外付けインダクタ依存をなくし、車載・IoT SoC向けに競争力ある電源アーキテクチャを提案。  
+[📄 CMOS018 Inductor + LDO Paper (PDF)](./docs/cmos018_inductor_ldo.pdf)  
+*On-chip laminated inductor with PGS in 0.18-µm CMOS, applied to a hybrid Buck–LDO regulator for >80% efficiency, wideband response, and low noise.*
+
 #### 🌊 ScAlN MEMS 超音波センサ研究  
 **PbフリーScAlN MEMSを65nm SiGe CMOSと統合。**  
 次世代医療用超音波センサとして環境調和型のアプローチを提示。  
