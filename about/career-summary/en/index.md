@@ -98,6 +98,11 @@ Achieves reduced standby power and instant resume through SystemDK top-down co-d
 Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling SRAM backup and secure key storage for IoT/automotive.  
 [📄 fefet_cmos018_reliability.pdf](../docs/fefet_cmos018_reliability.pdf)
 
+#### ⚡ On-Chip Magnetic-Laminated Inductor in 0.18-µm CMOS  
+**On-chip laminated inductor with patterned ground shield (PGS) integrated into 0.18 µm CMOS.**  
+Combined with a hybrid Buck–LDO regulator, this approach achieves >80% efficiency, wideband response, and low noise, providing a competitive alternative to external inductors for automotive and IoT SoCs.  
+[📄 CMOS018 Inductor + LDO Paper (PDF)](../docs/cmos018_inductor_ldo.pdf)
+
 #### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
 **Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
 Proposes an environmentally friendly solution for next-generation medical ultrasonic sensors.  
