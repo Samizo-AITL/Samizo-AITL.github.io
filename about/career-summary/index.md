@@ -98,6 +98,18 @@ description: "半導体・制御・インクジェット・教育の横断経験
 [📄 LPDDR+FeRAM Integration (PDF)](./docs/LPDDR_FeRAM.pdf)  
 *Hybrid memory architecture combining low-power LPDDR with instant-resume FeRAM.*
 
+#### 🌊 ScAlN MEMS 超音波センサ研究  
+**PbフリーScAlN MEMSを65nm SiGe CMOSと統合。**  
+次世代医療用超音波センサとして環境調和型のアプローチを提示。  
+[📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)  
+*Pb-free ScAlN MEMS ultrasonic sensor integrated with 65nm SiGe CMOS SiP.*
+
+#### 🖨️ KNN Bio-Inkjet Printing  
+**PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。**  
+バルクKNN積層アクチュエータとCOFドライバIC、Siキャビティ統合により、±50Vでピコリットルスケールの液滴生成を実現。細胞パターニングやタンパク質マイクロアレイなど、バイオプリンティング応用を想定。  
+[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
+*Proposed a Bio-Inkjet architecture using lead-free KNN actuators, enabling picoliter droplet generation under ±50 V for biomedical applications such as cell patterning and protein microarrays.*
+
 #### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
 **既存0.18µm CMOSに+1マスクでFeFETを統合。**  
 10^5サイクル超の耐久性と10年以上（85℃）の保持を実証し、IoT/車載向け不揮発メモリ応用を提案。  
@@ -139,18 +151,6 @@ EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題�
 深宇宙探査機の長期自律運用に向けて、**H∞制御＋FSM＋LLM**統合と22nm FDSOI SoC実装を検証。  
 [📄 AITL on Space Main Paper (PDF)](./docs/aitl_space.pdf)  
 *Proposes AITL on Space: a robust three-layer architecture with a Tri-NVM hierarchy for spacecraft autonomy, validated on 22nm FDSOI with FPGA/SystemDK flow, integrating H∞ control with FSM and LLM.*
-
-#### 🌊 ScAlN MEMS 超音波センサ研究  
-**PbフリーScAlN MEMSを65nm SiGe CMOSと統合。**  
-次世代医療用超音波センサとして環境調和型のアプローチを提示。  
-[📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)  
-*Pb-free ScAlN MEMS ultrasonic sensor integrated with 65nm SiGe CMOS SiP.*
-
-#### 🖨️ KNN Bio-Inkjet Printing  
-**PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。**  
-バルクKNN積層アクチュエータとCOFドライバIC、Siキャビティ統合により、±50Vでピコリットルスケールの液滴生成を実現。細胞パターニングやタンパク質マイクロアレイなど、バイオプリンティング応用を想定。  
-[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
-*Proposed a Bio-Inkjet architecture using lead-free KNN actuators, enabling picoliter droplet generation under ±50 V for biomedical applications such as cell patterning and protein microarrays.*
 
 ---
 
