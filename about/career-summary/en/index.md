@@ -78,16 +78,6 @@ evolving from **technology → systems → education**.
 
 ### 📑 Papers & Research Works
 
-#### 📘 Educational Tutorial Paper on CFET  
-**An educational overview of Complementary FET (CFET) technology.**  
-Reviews the evolution Planar → FinFET → GAA → CFET, structural concepts, design impacts, manufacturing challenges, EDA limitations, and educational value.  
-[📄 CFET Tutorial Paper (PDF)](../docs/cfet_tutorial_main.pdf)
-
-#### ⚙️ Control-Integrated CFET Study  
-**Proof-of-concept for cross-layer CFET control.**  
-Demonstrates real-time compensation of interconnect delay and thermal coupling using PID+FSM+LLM supervision.  
-[📄 CFET Control Main Paper (PDF)](../docs/cfet_ctrl2025.pdf)
-
 #### 💾 LPDDR+FeRAM Chiplet Integration  
 **Hybrid memory architecture combining low-power LPDDR and non-volatile FeRAM.**  
 Achieves reduced standby power and instant resume through SystemDK top-down co-design of chiplets, controllers, and OS.  
@@ -103,30 +93,40 @@ Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling 
 Combined with a hybrid Buck–LDO regulator, this approach achieves >80% efficiency, wideband response, and low noise, providing a competitive alternative to external inductors for automotive and IoT SoCs.  
 [📄 CMOS018 Inductor + LDO Paper (PDF)](../docs/cmos018_inductor_ldo.pdf)
 
-#### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
-**Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
-Proposes an environmentally friendly solution for next-generation medical ultrasonic sensors.  
-[📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
-
-#### 🤖 Humanoid Control Architecture Research  
-**Integration of LLM, FSM, PID, and state-space control.**  
-Based on cross-node SoC design and SystemDK validation, presenting a next-generation humanoid control architecture.  
-[📄 Humanoid TCST Paper (PDF)](../docs/humanoid_tcst2025.pdf)
+#### 📘 Educational Tutorial Paper on CFET  
+**An educational overview of Complementary FET (CFET) technology.**  
+Reviews the evolution Planar → FinFET → GAA → CFET, structural concepts, design impacts, manufacturing challenges, EDA limitations, and educational value.  
+[📄 CFET Tutorial Paper (PDF)](../docs/cfet_tutorial_main.pdf)
 
 #### 🖥️ SystemDK with AITL Paper  
 **Runtime-aware DTCO framework with PID+FSM+LLM loops.**  
 Compensates RC delay, thermal coupling, and EMI variations in real time, reducing guardbands and enhancing sub-2nm reliability.  
 [📄 SystemDK+AITL Main Paper (PDF)](../docs/systemdk_aitl2025.pdf)
 
-#### 🖨️ KNN Bio-Inkjet Printing Study  
-**Lead-free KNN actuators applied to biocompatible inkjet systems.**  
-Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under ±50 V, targeting applications in biomedical printing such as cell patterning and protein microarrays.  
-[📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
+#### ⚙️ Control-Integrated CFET Study  
+**Proof-of-concept for cross-layer CFET control.**  
+Demonstrates real-time compensation of interconnect delay and thermal coupling using PID+FSM+LLM supervision.  
+[📄 CFET Control Main Paper (PDF)](../docs/cfet_ctrl2025.pdf)
+
+#### 🤖 Humanoid Control Architecture Research  
+**Integration of LLM, FSM, PID, and state-space control.**  
+Based on cross-node SoC design and SystemDK validation, presenting a next-generation humanoid control architecture.  
+[📄 Humanoid TCST Paper (PDF)](../docs/humanoid_tcst2025.pdf)
 
 #### 🚀 AITL on Space  
 **A robust three-layer architecture with Tri-NVM hierarchy (SRAM / MRAM / FRAM) for long-duration spacecraft autonomy.**  
 Proposes an Adaptive Intelligent Triple-Layer (AITL) control architecture integrating **H∞ control, FSM, and AI-based re-design**, implemented on 22 nm FDSOI SoC with FPGA/SystemDK validation.  
 [📄 AITL on Space Main Paper (PDF)](../docs/aitl_space.pdf)
+
+#### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
+**Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
+Proposes an environmentally friendly solution for next-generation medical ultrasonic sensors.  
+[📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
+
+#### 🖨️ KNN Bio-Inkjet Printing Study  
+**Lead-free KNN actuators applied to biocompatible inkjet systems.**  
+Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under ±50 V, targeting applications in biomedical printing such as cell patterning and protein microarrays.  
+[📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
 
 ---
 
