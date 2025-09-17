@@ -83,6 +83,16 @@ evolving from **technology → systems → education**.
 Achieves reduced standby power and instant resume through SystemDK top-down co-design of chiplets, controllers, and OS.  
 [📄 LPDDR+FeRAM Integration (PDF)](../docs/LPDDR_FeRAM.pdf)
 
+#### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
+**Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
+Proposes an environmentally friendly solution for next-generation medical ultrasonic sensors.  
+[📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
+
+#### 🖨️ KNN Bio-Inkjet Printing Study  
+**Lead-free KNN actuators applied to biocompatible inkjet systems.**  
+Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under ±50 V, targeting applications in biomedical printing such as cell patterning and protein microarrays.  
+[📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
+
 #### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
 **FeFET integration into 0.18 µm CMOS baseline with +1 mask and a single ALD tool.**  
 Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling SRAM backup and secure key storage for IoT/automotive.  
@@ -117,16 +127,6 @@ Based on cross-node SoC design and SystemDK validation, presenting a next-genera
 **A robust three-layer architecture with Tri-NVM hierarchy (SRAM / MRAM / FRAM) for long-duration spacecraft autonomy.**  
 Proposes an Adaptive Intelligent Triple-Layer (AITL) control architecture integrating **H∞ control, FSM, and AI-based re-design**, implemented on 22 nm FDSOI SoC with FPGA/SystemDK validation.  
 [📄 AITL on Space Main Paper (PDF)](../docs/aitl_space.pdf)
-
-#### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
-**Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
-Proposes an environmentally friendly solution for next-generation medical ultrasonic sensors.  
-[📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
-
-#### 🖨️ KNN Bio-Inkjet Printing Study  
-**Lead-free KNN actuators applied to biocompatible inkjet systems.**  
-Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under ±50 V, targeting applications in biomedical printing such as cell patterning and protein microarrays.  
-[📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
 
 ---
 
