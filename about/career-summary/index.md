@@ -92,18 +92,6 @@ description: "半導体・制御・インクジェット・教育の横断経験
 
 ### 📑 論文・研究成果 / Papers & Research Works
 
-#### 📘 CFET 教材論文  
-**教育的観点からCFETを体系整理したチュートリアル。**  
-Planar → FinFET → GAA → CFET までの進化、構造概念、設計・製造課題、教育的価値を俯瞰。  
-[📄 CFET Tutorial Paper (PDF)](./docs/cfet_tutorial_main.pdf)  
-*Educational tutorial paper on CFET: device evolution, design impact, manufacturing challenges, and its value for semiconductor education.*
-
-#### ⚙️ CFET 制御統合検証  
-**CFET配線遅延と熱結合を、PID+FSM+LLM で動的補償する新制御概念を実証。**  
-EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題に対処。  
-[📄 CFET Control Main Paper (PDF)](./docs/cfet_ctrl2025.pdf)  
-*Proof-of-concept for cross-layer control of CFET delay/thermal coupling via PID+FSM+LLM.*
-
 #### 💾 LPDDR+FeRAM Chiplet Integration  
 **低消費電力LPDDRと不揮発FeRAMをチップレットで統合。**  
 スタンバイ電力削減と瞬時復帰を両立するメモリアーキテクチャを提案。  
@@ -122,17 +110,11 @@ EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題�
 [📄 CMOS018 Inductor + LDO Paper (PDF)](./docs/cmos018_inductor_ldo.pdf)  
 *On-chip laminated inductor with PGS in 0.18-µm CMOS, applied to a hybrid Buck–LDO regulator for >80% efficiency, wideband response, and low noise.*
 
-#### 🌊 ScAlN MEMS 超音波センサ研究  
-**PbフリーScAlN MEMSを65nm SiGe CMOSと統合。**  
-次世代医療用超音波センサとして環境調和型のアプローチを提示。  
-[📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)  
-*Pb-free ScAlN MEMS ultrasonic sensor integrated with 65nm SiGe CMOS SiP.*
-
-#### 🤖 ヒューマノイド制御アーキテクチャ研究  
-**LLM + FSM + PID + 状態空間制御を統合。**  
-クロスノードSoC設計とSystemDK検証に基づき、次世代ロボット制御アーキテクチャを提案。  
-[📄 Humanoid TCST 論文 (PDF)](./docs/humanoid_tcst2025.pdf)  
-*Humanoid control architecture integrating LLM inference, hierarchical FSM, PID/state-space control, and energy harvesting.*
+#### 📘 CFET 教材論文  
+**教育的観点からCFETを体系整理したチュートリアル。**  
+Planar → FinFET → GAA → CFET までの進化、構造概念、設計・製造課題、教育的価値を俯瞰。  
+[📄 CFET Tutorial Paper (PDF)](./docs/cfet_tutorial_main.pdf)  
+*Educational tutorial paper on CFET: device evolution, design impact, manufacturing challenges, and its value for semiconductor education.*
 
 #### 🖥️ SystemDK with AITL 論文公開  
 **EDA設計フローに制御ループ（PID+FSM+LLM）を統合。**  
@@ -140,17 +122,35 @@ RC遅延・熱結合・EMI変動を実時間で補償し、サブ2nm世代の信
 [📄 SystemDK+AITL Main Paper (PDF)](./docs/systemdk_aitl2025.pdf)  
 *Runtime-aware DTCO framework enabling guardband reduction and reliability improvement across advanced nodes.*
 
-#### 🖨️ KNN Bio-Inkjet Printing  
-**PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。**  
-バルクKNN積層アクチュエータとCOFドライバIC、Siキャビティ統合により、±50Vでピコリットルスケールの液滴生成を実現。細胞パターニングやタンパク質マイクロアレイなど、バイオプリンティング応用を想定。  
-[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
-*Proposed a Bio-Inkjet architecture using lead-free KNN actuators, enabling picoliter droplet generation under ±50 V for biomedical applications such as cell patterning and protein microarrays.*
+#### ⚙️ CFET 制御統合検証  
+**CFET配線遅延と熱結合を、PID+FSM+LLM で動的補償する新制御概念を実証。**  
+EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題に対処。  
+[📄 CFET Control Main Paper (PDF)](./docs/cfet_ctrl2025.pdf)  
+*Proof-of-concept for cross-layer control of CFET delay/thermal coupling via PID+FSM+LLM.*
+
+#### 🤖 ヒューマノイド制御アーキテクチャ研究  
+**LLM + FSM + PID + 状態空間制御を統合。**  
+クロスノードSoC設計とSystemDK検証に基づき、次世代ロボット制御アーキテクチャを提案。  
+[📄 Humanoid TCST 論文 (PDF)](./docs/humanoid_tcst2025.pdf)  
+*Humanoid control architecture integrating LLM inference, hierarchical FSM, PID/state-space control, and energy harvesting.*
 
 #### 🚀 AITL on Space  
 **Tri-NVM階層（SRAM / MRAM / FRAM）を備えた三層ロバスト制御アーキテクチャ。**  
 深宇宙探査機の長期自律運用に向けて、**H∞制御＋FSM＋LLM**統合と22nm FDSOI SoC実装を検証。  
 [📄 AITL on Space Main Paper (PDF)](./docs/aitl_space.pdf)  
 *Proposes AITL on Space: a robust three-layer architecture with a Tri-NVM hierarchy for spacecraft autonomy, validated on 22nm FDSOI with FPGA/SystemDK flow, integrating H∞ control with FSM and LLM.*
+
+#### 🌊 ScAlN MEMS 超音波センサ研究  
+**PbフリーScAlN MEMSを65nm SiGe CMOSと統合。**  
+次世代医療用超音波センサとして環境調和型のアプローチを提示。  
+[📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)  
+*Pb-free ScAlN MEMS ultrasonic sensor integrated with 65nm SiGe CMOS SiP.*
+
+#### 🖨️ KNN Bio-Inkjet Printing  
+**PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。**  
+バルクKNN積層アクチュエータとCOFドライバIC、Siキャビティ統合により、±50Vでピコリットルスケールの液滴生成を実現。細胞パターニングやタンパク質マイクロアレイなど、バイオプリンティング応用を想定。  
+[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
+*Proposed a Bio-Inkjet architecture using lead-free KNN actuators, enabling picoliter droplet generation under ±50 V for biomedical applications such as cell patterning and protein microarrays.*
 
 ---
 
