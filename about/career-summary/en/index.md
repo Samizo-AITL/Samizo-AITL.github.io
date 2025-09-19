@@ -78,6 +78,11 @@ evolving from **technology → systems → education**.
 
 ### 📑 Papers & Research Works
 
+#### 🧩 Historical Case Study: 0.25-µm DRAM & VSRAM  
+**Case study of 0.25 µm 64M DRAM ramp-up and mobile pseudo-SRAM (VSRAM) mass production.**  
+Covers technology transfer at Epson’s Sakata Fab, process ramp-up methodology, yield-improvement cycle, and the historical impact leading to the world’s first camera phone. Also discusses why 0.18 µm trench VSRAM was abandoned, marking the end of 1T-1C pseudo-SRAM.  
+[📄 DRAM & VSRAM History Paper (PDF)](../docs/dram_vsram_history.pdf)
+
 #### 💾 LPDDR+FeRAM Chiplet Integration  
 **Hybrid memory architecture combining low-power LPDDR and non-volatile FeRAM.**  
 Achieves reduced standby power and instant resume through SystemDK top-down co-design of chiplets, controllers, and OS.  
