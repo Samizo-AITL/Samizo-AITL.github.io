@@ -92,6 +92,12 @@ description: "半導体・制御・インクジェット・教育の横断経験
 
 ### 📑 論文・研究成果 / Papers & Research Works
 
+#### 🧩 Historical Case Study: 0.25-µm DRAM & VSRAM
+**0.25µm DRAM立ち上げとVSRAM量産の技術移管事例を整理。**  
+酒田工場におけるプロセス立ち上げ、歩留まり改善、不良解析、そしてモバイルVSRAM応用の歴史的事例を論文形式でまとめた。  
+[📄 DRAM & VSRAM History Paper (PDF)](./docs/dram_vsram_history.pdf)  
+*Case study of 0.25-µm DRAM ramp-up and pseudo-SRAM mass production, with educational insights for process transfer and yield improvement.*
+
 #### 💾 LPDDR+FeRAM Chiplet Integration  
 **低消費電力LPDDRと不揮発FeRAMをチップレットで統合。**  
 スタンバイ電力削減と瞬時復帰を両立するメモリアーキテクチャを提案。  
