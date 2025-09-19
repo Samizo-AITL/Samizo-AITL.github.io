@@ -35,9 +35,11 @@ evolving from **technology → systems → education**.
 - **1997**: Joined Seiko Epson Corporation.  
   Engaged in **logic, memory, and high-voltage process integration** (0.35–0.18μm generations).
 
-- **Episode: 64M DRAM Ramp-Up (1998)**  
-  Participated in **mass production startup of 0.25μm DRAM**, leading process setup, defect analysis, and yield improvement.  
-  [💾 DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)
+- **DRAM/VSRAM Technology Archive**  
+  Participated in ramp-up of 0.25µm DRAM (1998) and VSRAM (2001).  
+  **Led process setup, defect analysis, and yield improvement.**  
+  [📎 DRAM/VSRAM Technology Archive](https://samizo-aitl.github.io/Edusemi-Plus/archive/paper/dram_vsram/)  
+  *Documentation of ramp-up activities for DRAM and VSRAM, including process setup methods, case studies of defect analysis, and yield improvement practices.*
 
 - Developed **high-voltage embedded technology (30V transistors)**, applied to a-TFT driver ICs.  
   - [⚙️ 0.18μm CMOS Embedded Front-End Process](https://samizo-aitl.github.io/Edusemi-v4x/chapter3_process_evolution/docs/0.18um_1.8V_3.3V_5V)  
