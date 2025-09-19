@@ -39,11 +39,11 @@ description: "半導体・制御・インクジェット・教育の横断経験
   **0.35〜0.18μm世代のロジック・メモリ・高耐圧プロセス統合** を担当。  
   *Joined Seiko Epson in 1997, engaged in **logic, memory, and HV process integration**.*
 
-- **エピソード：64M DRAM立ち上げ（1998年）**  
-  0.25μm DRAM量産立上げに参画。  
+- **DRAM/VSRAM 技術アーカイブ**  
+  0.25µm DRAM 量産立ち上げ（1998年）および VSRAM 量産立ち上げ（2001年）に参画。  
   **プロセス立上げ・不良解析・歩留改善** を推進。  
-  [💾 DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/paper/dram_vsram/)  
-  *Participated in ramp-up of 0.25μm DRAM: process setup, defect analysis, yield improvement.*
+  [📎 DRAM/VSRAM 技術アーカイブ](https://samizo-aitl.github.io/Edusemi-Plus/archive/paper/dram_vsram/)  
+  *Participated in ramp-up of 0.25µm DRAM (1998) and VSRAM (2001): process setup, defect analysis, yield improvement.*
 
 - **高耐圧混載技術（30Vトランジスタ）** を開発し、a-TFT駆動ICへ実用化。  
   - [⚙️ 0.18μm CMOS Mixed-Voltage Process](https://samizo-aitl.github.io/Edusemi-v4x/chapter3_process_evolution/docs/0.18um_1.8V_3.3V_5V)  
