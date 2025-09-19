@@ -42,7 +42,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
 - **エピソード：64M DRAM立ち上げ（1998年）**  
   0.25μm DRAM量産立上げに参画。  
   **プロセス立上げ・不良解析・歩留改善** を推進。  
-  [💾 DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/in1998/DRAM_Startup_64M_1998/)  
+  [💾 DRAM Startup 1998](https://samizo-aitl.github.io/Edusemi-Plus/archive/paper/dram_vsram/)  
   *Participated in ramp-up of 0.25μm DRAM: process setup, defect analysis, yield improvement.*
 
 - **高耐圧混載技術（30Vトランジスタ）** を開発し、a-TFT駆動ICへ実用化。  
