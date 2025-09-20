@@ -74,14 +74,19 @@ Samizo-AITL develops education, PoCs, and visions to use AI **not only in words,
 ## 🧠 AITL統合思想の背景
 *🧠 Background of AITL’s Integrated Philosophy*
 
-**Samizo-AITL** は、**半導体 × 制御 × AI** を有機的に結びつけ、  
-*Samizo-AITL organically integrates **Semiconductors × Control × AI**,*  
+**AITL (AI-Integrated Transition & Loop)** は、  
+**PID制御 × FSM遷移 × LLM再設計** を統合した三層アーキテクチャです。  
+これにより、**物理制約を取り込んだリアルタイム設計・制御・再設計** が可能となります。  
+
+**Samizo-AITL** は、このAITL思想を基盤に、  
+**半導体 × 制御 × AI** を有機的に結びつけ、  
+*Samizo-AITL builds on this AITL concept to organically integrate **Semiconductors × Control × AI**,*  
 
 「**物理現象の構造を読み解き、PoCで検証し、AIで設計を支援する**」という一連のプロセスを  
-*to form a unified process of **analyzing the structure of physical phenomena, verifying with PoCs, and supporting design with AI**,*  
+*forming a unified process of **analyzing physical structures, verifying with PoCs, and supporting design with AI**,*  
 
-**教育・構想・設計** に統合するためのフレームワークです。  
-*which serves as a framework to integrate into **education, conceptualization, and design**.*  
+**教育・構想・設計** に展開するためのフレームワークです。  
+*which serves as a framework to extend into **education, conceptualization, and design**.*
 
 > 📘 本プロジェクト群で公開している教材やPoCは、**ハイブリッドライセンス方式**のもと公開しています。  
 > *📘 The teaching materials and PoCs released in this project group are published under a **hybrid licensing scheme**.*  
