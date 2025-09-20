@@ -122,7 +122,7 @@ flowchart TD
 
 | Icon | Project Name | Field | Description |
 |------|--------------|-------|-------------|
-| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 Policy Proposal] | **Mid- to long-term vision** centered on **Education × AI × Control**, including proposals for AI-integrated education and PoC-linked design collaboration. Draft stage. |
+| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/en/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 Policy Proposal] | A **national strategy draft** integrating **Education × Control × AI × Physical Constraints**. Grounded in PoC demonstrations across semiconductors, robotics, and space, it aims to simultaneously advance **international standardization, economic security, and human resource development**. Currently in draft stage. |
 
 ---
 
