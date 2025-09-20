@@ -172,13 +172,17 @@ Detailed report of **Shinichi Samizo**'s technical background and expertise:
 > ⚠️ **Note**  
 > This figure is a **conceptual diagram for educational and PoC purposes**.  
 > - **Stability and response design rely on control theory (e.g., PID)**.  
-> - **FSM and LLM act as outer supervisory/support layers**, not part of the stability-guaranteed loop.  
-> - Node choices and performance depictions are **illustrative / work-in-progress** and may change with further validation.  
+> - **FSM and LLM serve as supervisory/adaptive layers**, not part of the stability-guaranteed loop.  
+> - Node configurations and performance are **illustrative and subject to change** through validation.  
 > - **No confidential information is included**; it is based on public information, fundamental principles, and the author’s own experience.
 
-This figure illustrates the **culmination of the Samizo-AITL project**, showcasing the Proof of Concept for humanoid robot control.  
-It integrates a **cross-node design** spanning 22nm SoC, 0.18µm AMS, 0.35µm LDMOS, and energy harvesting,  
-with a three-layer architecture of **LLM, FSM, and physical control**.
+This figure represents the **flagship PoC of the Samizo-AITL strategy**, demonstrating humanoid robot control.  
+It adopts a **cross-node design** spanning 22nm SoC, 0.18µm AMS, 0.35µm LDMOS, and energy harvesting—  
+linking **advanced and legacy nodes** to contribute to **economic security, supply chain resilience, and cost efficiency**.  
+
+Furthermore, it integrates **SystemDK-based physical constraint analysis** (thermal, stress, EMI, delay)  
+with the **AITL three-layer control architecture (PID × FSM × LLM)**,  
+providing a framework for **runtime, physics-aware DTCO** that goes beyond conventional EDA flows.
 
 <p align="center">
   <img src="../images/Samizo_AITL_Humanoid_PoC.png" alt="Humanoid PoC" width="80%">
