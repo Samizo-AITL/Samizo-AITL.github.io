@@ -140,7 +140,7 @@ flowchart TD
 
 | アイコン | プロジェクト名 | 分野 | 内容 |
 |----------|----------------|------|------|
-| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **教育 × AI × 制御** を軸とした **中長期的ビジョン**（AI活用教育導入とPoC設計連携の提案を含む）<br>⚠️ Draft段階<br>*A **medium- to long-term vision** centered on **Education × AI × Control** (including proposals for AI-based education and PoC design collaboration). ⚠️ Draft stage.* |
+| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **教育 × 制御 × AI × 物理制約** を統合した **政策・産業・教育の三位一体ビジョン**。<br>半導体・ロボット・宇宙などのPoC実測に基づき、**国際標準化・経済安全保障・人材育成**を同時に推進する国家戦略Draft。<br>*A **policy–industry–education integrated vision** uniting **Education × Control × AI × Physical constraints**. Grounded in PoC measurements (semiconductors, robotics, space), it simultaneously advances **international standardization, economic security, and talent development** as a national strategy draft.* |
 
 ---
 
