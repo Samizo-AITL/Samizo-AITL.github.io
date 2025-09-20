@@ -61,9 +61,14 @@ developed from multiple perspectives including education, PoC, AI utilization, p
 
 ## 🧠 Background of the AITL Integrated Concept
 
-**Samizo-AITL** organically integrates **Semiconductors × Control × AI**,  
-providing a unified framework for **Education, Conception, and Design**  
-through the process of **analyzing physical phenomena, validating via PoC, and supporting design with AI**.
+**AITL (AI-Integrated Transition & Loop)** is a three-layer architecture that  
+combines **PID control**, **FSM-based transitions**, and **LLM-driven redesign**.  
+This enables **real-time and physics-aware design, control, and reconfiguration**.
+
+**Samizo-AITL** builds on this concept, organically integrating  
+**Semiconductors × Control × AI** into a unified framework.  
+It connects the process of **analyzing physical phenomena, validating through PoC,  
+and supporting design with AI** to advance **Education, Conception, and Design**.
 
 > 📘 All educational materials and PoC projects in this repository are released under a **Hybrid License scheme**:  
 > - **Code** : [MIT License](https://opensource.org/licenses/MIT)  
