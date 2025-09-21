@@ -135,6 +135,11 @@ Based on cross-node SoC design and SystemDK validation, presenting a next-genera
 Proposes an Adaptive Intelligent Triple-Layer (AITL) control architecture integrating **H∞ control, FSM, and AI-based re-design**, implemented on 22 nm FDSOI SoC with FPGA/SystemDK validation.  
 [📄 AITL on Space Main Paper (PDF)](../docs/aitl_space.pdf)
 
+#### ✈️ SkyEdge High-Altitude Drone Platform  
+**Reference design of SkyEdge: a secure high-altitude UAV integrating H∞ control, domestically manufactured devices, and advanced mechanical design.**  
+Features sensor fusion, variable-pitch rotor scheduling, PQC-based security, and FSM/LLM-assisted control optimization, targeting robust disturbance rejection and reliable operation up to 10 km.  
+[📄 SkyEdge Drone Paper (PDF)](../docs/skyedge_drone.pdf)
+
 ---
 
 > ⚠️ **Note**  
