@@ -158,6 +158,12 @@ EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題�
 [📄 AITL on Space Main Paper (PDF)](./docs/aitl_space.pdf)  
 *Proposes AITL on Space: a robust three-layer architecture with a Tri-NVM hierarchy for spacecraft autonomy, validated on 22nm FDSOI with FPGA/SystemDK flow, integrating H∞ control with FSM and LLM.*
 
+#### ✈️ SkyEdge 高高度ドローンプラットフォーム研究  
+**H∞制御・民生デバイス・先進機械設計を統合した高高度ドローンのリファレンス設計を提示。**  
+センサーフュージョン、可変ピッチロータ、PQCセキュリティ、FSM/LLM連携による制御最適化を特徴とする。  
+[📄 SkyEdge Drone Paper (PDF)](./docs/skyedge_drone.pdf)  
+*Reference design of a secure high-altitude drone platform integrating H∞ control, domestic device manufacturing, advanced mechanics, and PQC-based security.*
+
 ---
 
 > ⚠️ **注記 / Note**  
