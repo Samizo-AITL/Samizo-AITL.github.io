@@ -85,10 +85,15 @@ evolving from **technology → systems → education**.
 Covers technology transfer at Epson’s Sakata Fab, process ramp-up methodology, yield-improvement cycle, and the historical impact leading to the world’s first camera phone. Also discusses why 0.18 µm trench VSRAM was abandoned, marking the end of 1T-1C pseudo-SRAM.  
 [📄 DRAM & VSRAM History Paper (PDF)](../docs/dram_vsram_history.pdf)
 
-#### 💾 LPDDR+FeRAM Chiplet Integration  
-**Hybrid memory architecture combining low-power LPDDR and non-volatile FeRAM.**  
-Achieves reduced standby power and instant resume through SystemDK top-down co-design of chiplets, controllers, and OS.  
-[📄 LPDDR+FeRAM Integration (PDF)](../docs/LPDDR_FeRAM.pdf)
+#### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
+**FeFET integration into 0.18 µm CMOS baseline with +1 mask and a single ALD tool.**  
+Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling SRAM backup and secure key storage for IoT/automotive.  
+[📄 fefet_cmos018_reliability.pdf](../docs/fefet_cmos018_reliability.pdf)
+
+#### ⚡ On-Chip Magnetic-Laminated Inductor in 0.18-µm CMOS  
+**On-chip laminated inductor with patterned ground shield (PGS) integrated into 0.18 µm CMOS.**  
+Combined with a hybrid Buck–LDO regulator, this approach achieves >80% efficiency, wideband response, and low noise, providing a competitive alternative to external inductors for automotive and IoT SoCs.  
+[📄 CMOS018 Inductor + LDO Paper (PDF)](../docs/cmos018_inductor_ldo.pdf)
 
 #### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
 **Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
@@ -100,15 +105,15 @@ Proposes an environmentally friendly solution for next-generation medical ultras
 Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under ±50 V, targeting applications in biomedical printing such as cell patterning and protein microarrays.  
 [📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
 
-#### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
-**FeFET integration into 0.18 µm CMOS baseline with +1 mask and a single ALD tool.**  
-Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling SRAM backup and secure key storage for IoT/automotive.  
-[📄 fefet_cmos018_reliability.pdf](../docs/fefet_cmos018_reliability.pdf)
+#### 🖥️ SystemDK for 3D-IC  
+**Constraint-driven design framework integrating multi-physics into EDA.**  
+Maps FEM thermal/stress simulations and S-parameter EMI analysis into EDA constraints (STA derates, placement blockages, CTS shielding). Case studies on a 4-die TSV stack demonstrated **87% slack recovery, 11 °C hotspot reduction, and 23% eye-opening improvement**, validating SystemDK as a physically consistent DTCO methodology.  
+[📄 SystemDK for 3D-IC Paper (PDF)](../docs/systemdk_3dic.pdf)
 
-#### ⚡ On-Chip Magnetic-Laminated Inductor in 0.18-µm CMOS  
-**On-chip laminated inductor with patterned ground shield (PGS) integrated into 0.18 µm CMOS.**  
-Combined with a hybrid Buck–LDO regulator, this approach achieves >80% efficiency, wideband response, and low noise, providing a competitive alternative to external inductors for automotive and IoT SoCs.  
-[📄 CMOS018 Inductor + LDO Paper (PDF)](../docs/cmos018_inductor_ldo.pdf)
+#### 💾 LPDDR+FeRAM Chiplet Integration  
+**Hybrid memory architecture combining low-power LPDDR and non-volatile FeRAM.**  
+Achieves reduced standby power and instant resume through SystemDK top-down co-design of chiplets, controllers, and OS.  
+[📄 LPDDR+FeRAM Integration (PDF)](../docs/LPDDR_FeRAM.pdf)
 
 #### 📘 Educational Tutorial Paper on CFET  
 **An educational overview of Complementary FET (CFET) technology.**  
