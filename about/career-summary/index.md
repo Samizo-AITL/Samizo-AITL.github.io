@@ -98,11 +98,17 @@ description: "半導体・制御・インクジェット・教育の横断経験
 [📄 DRAM & VSRAM History Paper (PDF)](./docs/dram_vsram_history.pdf)  
 *Case study of 0.25-µm DRAM ramp-up and pseudo-SRAM mass production, with educational insights for process transfer and yield improvement.*
 
-#### 💾 LPDDR+FeRAM Chiplet Integration  
-**低消費電力LPDDRと不揮発FeRAMをチップレットで統合。**  
-スタンバイ電力削減と瞬時復帰を両立するメモリアーキテクチャを提案。  
-[📄 LPDDR+FeRAM Integration (PDF)](./docs/LPDDR_FeRAM.pdf)  
-*Hybrid memory architecture combining low-power LPDDR with instant-resume FeRAM.*
+#### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
+**既存0.18µm CMOSに+1マスクでFeFETを統合。**  
+10^5サイクル超の耐久性と10年以上（85℃）の保持を実証し、IoT/車載向け不揮発メモリ応用を提案。  
+[📄 fefet_cmos018_reliability.pdf](./docs/fefet_cmos018_reliability.pdf)  
+*Integration study showing FeFET endurance >10^5 and retention >10y at 85℃.*
+
+#### ⚡ On-Chip Magnetic-Laminated Inductor in 0.18-µm CMOS  
+**既存0.18µm CMOSにPGSと磁性ラミネートを後工程で追加し、ハイブリッドBuck–LDO構成で高効率・広帯域・低ノイズを実現。**  
+外付けインダクタ依存をなくし、車載・IoT SoC向けに競争力ある電源アーキテクチャを提案。  
+[📄 CMOS018 Inductor + LDO Paper (PDF)](./docs/cmos018_inductor_ldo.pdf)  
+*On-chip laminated inductor with PGS in 0.18-µm CMOS, applied to a hybrid Buck–LDO regulator for >80% efficiency, wideband response, and low noise.*
 
 #### 🌊 ScAlN MEMS 超音波センサ研究  
 **PbフリーScAlN MEMSを65nm SiGe CMOSと統合。**  
@@ -116,17 +122,17 @@ description: "半導体・制御・インクジェット・教育の横断経験
 [📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
 *Proposed a Bio-Inkjet architecture using lead-free KNN actuators, enabling picoliter droplet generation under ±50 V for biomedical applications such as cell patterning and protein microarrays.*
 
-#### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
-**既存0.18µm CMOSに+1マスクでFeFETを統合。**  
-10^5サイクル超の耐久性と10年以上（85℃）の保持を実証し、IoT/車載向け不揮発メモリ応用を提案。  
-[📄 fefet_cmos018_reliability.pdf](./docs/fefet_cmos018_reliability.pdf)  
-*Integration study showing FeFET endurance >10^5 and retention >10y at 85℃.*
+#### 🖥️ SystemDK for 3D-IC
+**マルチフィジックス制約をEDAフローへ統合する新フレームワーク。**  
+TSVスタックにおけるRC遅延、熱ホットスポット、応力起因しきい値シフト、EMIジッタをFEM解析やSパラ抽出からEDA制約へ直接マッピングし、設計の物理一貫性を実現。  
+[📄 SystemDK for 3D-IC Paper (PDF)](./docs/systemdk_3dic.pdf)  
+*Constraint-driven design framework integrating thermal, stress, and EMI/EMC results into EDA flows, demonstrating 87% slack recovery, 11 °C hotspot reduction, and 23% eye-opening improvement.*
 
-#### ⚡ On-Chip Magnetic-Laminated Inductor in 0.18-µm CMOS  
-**既存0.18µm CMOSにPGSと磁性ラミネートを後工程で追加し、ハイブリッドBuck–LDO構成で高効率・広帯域・低ノイズを実現。**  
-外付けインダクタ依存をなくし、車載・IoT SoC向けに競争力ある電源アーキテクチャを提案。  
-[📄 CMOS018 Inductor + LDO Paper (PDF)](./docs/cmos018_inductor_ldo.pdf)  
-*On-chip laminated inductor with PGS in 0.18-µm CMOS, applied to a hybrid Buck–LDO regulator for >80% efficiency, wideband response, and low noise.*
+#### 💾 LPDDR+FeRAM Chiplet Integration  
+**低消費電力LPDDRと不揮発FeRAMをチップレットで統合。**  
+スタンバイ電力削減と瞬時復帰を両立するメモリアーキテクチャを提案。  
+[📄 LPDDR+FeRAM Integration (PDF)](./docs/LPDDR_FeRAM.pdf)  
+*Hybrid memory architecture combining low-power LPDDR with instant-resume FeRAM.*
 
 #### 📘 CFET 教材論文  
 **教育的観点からCFETを体系整理したチュートリアル。**  
