@@ -145,6 +145,11 @@ Proposes an Adaptive Intelligent Triple-Layer (AITL) control architecture integr
 Features sensor fusion, variable-pitch rotor scheduling, PQC-based security, and FSM/LLM-assisted control optimization, targeting robust disturbance rejection and reliable operation up to 10 km.  
 [📄 SkyEdge Drone Paper (PDF)](../docs/skyedge_drone.pdf)
 
+#### 🧮 Post-CFET Device Architectures: Materials, Integration, and Design Perspectives  
+**Comprehensive survey of post-CFET device options and roadmap (2030–2045).**  
+Covers 2D material FETs, Monolithic 3D integration, Spintronics/Quantum devices, and Heterogeneous atomic-scale integration. Discusses physical principles, integration challenges, reliability issues, EDA/PDK requirements, educational perspectives, and provides a **2030–2045 roadmap**.  
+[📄 Post-CFET Main Paper (PDF)](../docs/post_cfet.pdf)
+
 ---
 
 > ⚠️ **Note**  
