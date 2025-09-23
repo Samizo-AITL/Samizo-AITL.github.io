@@ -170,6 +170,12 @@ EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題�
 [📄 SkyEdge Drone Paper (PDF)](./docs/skyedge_drone.pdf)  
 *Reference design of a secure high-altitude drone platform integrating H∞ control, domestic device manufacturing, advanced mechanics, and PQC-based security.*
 
+#### 🧮 Post-CFET Device Architectures: Materials, Integration, and Design Perspectives
+**ポストCFETにおける材料・集積・応用・EDAの展望を包括的に整理。**  
+2D材料FET、モノリシック3D、スピントロニクス／量子デバイス、ヘテロ集積を比較し、2030–2045ロードマップを提示。  
+[📄 Post-CFET Main Paper (PDF)](./docs/post_cfet.pdf)  
+*Comprehensive survey of post-CFET device options, their principles, reliability, design/EDA implications, and a 2030–2045 roadmap.*
+
 ---
 
 > ⚠️ **注記 / Note**  
