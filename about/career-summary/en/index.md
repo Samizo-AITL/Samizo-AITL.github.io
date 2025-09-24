@@ -85,6 +85,12 @@ evolving from **technology → systems → education**.
 Covers technology transfer at Epson’s Sakata Fab, process ramp-up methodology, yield-improvement cycle, and the historical impact leading to the world’s first camera phone. Also discusses why 0.18 µm trench VSRAM was abandoned, marking the end of 1T-1C pseudo-SRAM.  
 [📄 DRAM & VSRAM History Paper (PDF)](../docs/dram_vsram_history.pdf)
 
+
+#### 🧪 Historical Case Study on Ti Silicide (TiSi₂) Reliability Issues  
+**Case study of TiSi₂ phase-transition instability at the 0.25 µm CMOS node for LCD driver ICs.** 
+Analyzes incomplete C49→C54 transformation aggravated by boron absorption, which caused localized high-resistance spots and yield loss in 1 Mbit SRAM macros. Discusses redundancy limitations in embedded macros, provisional countermeasures (etch tuning), and permanent solutions (optimized RTA). Highlights educational lessons on scaling risks, HV compatibility, and the intersection of process technology and reliability.  
+[📄 TiSi₂ Reliability Case Paper (PDF)](../docs/tisilicide_case.pdf)
+
 #### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
 **FeFET integration into 0.18 µm CMOS baseline with +1 mask and a single ALD tool.**  
 Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling SRAM backup and secure key storage for IoT/automotive.  
