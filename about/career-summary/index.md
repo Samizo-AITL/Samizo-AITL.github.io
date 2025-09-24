@@ -101,7 +101,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
 #### 🧪 Historical Case Study on Ti Silicide (TiSi₂) Reliability Issues  
 **0.25µm CMOSノードにおけるTiSi₂相転移不安定性の歴史的事例を分析。**  
 HVデバイス互換性の制約下でのノード選択、埋込SRAMの歩留まり低下、冗長回路の制約、対策（エッチング条件・RTA最適化）を整理し、教育的価値を強調した。  
-[📄 TiSi₂ Reliability Case Paper (PDF)](./docs/tisilicide_case.pdf)  
+[📄 TiSi₂ Reliability Case Paper (PDF)](./docs/tisalicide_case.pdf)  
 *Historical case study of TiSi₂ phase-transition instability at the 0.25µm node, analyzing SRAM yield loss, redundancy limitations, and process countermeasures, with educational insights.*
 
 #### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
