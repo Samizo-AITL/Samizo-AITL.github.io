@@ -104,6 +104,12 @@ HVデバイス互換性の制約下でのノード選択、埋込SRAMの歩留�
 [📄 TiSi₂ Reliability Case Paper (PDF)](./docs/tisalicide_case.pdf)  
 *Historical case study of TiSi₂ phase-transition instability at the 0.25µm node, analyzing SRAM yield loss, redundancy limitations, and process countermeasures, with educational insights.*
 
+#### 🎯 Process-Based Differentiation for Analog CMOS  
+**0.18µm CMOSにおけるMOSFET 1/f ノイズを50%以上低減する製造技術差別化戦略。**  
+エピ基板、ウェルドーピング、酸化膜厚制御、H₂アニールによるプロセス改良を組み合わせ、アナログ性能を強化した事例を論文形式で整理。  
+[📄 CMOS 0.18µm Noise Reduction Paper (PDF)](./docs/cmos018_noise.pdf)  
+*Process-based differentiation achieving >50% reduction in MOSFET 1/f noise at the 0.18µm CMOS node, with implications for biomedical, sensor, and automotive analog applications.*
+
 #### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
 **既存0.18µm CMOSに+1マスクでFeFETを統合。**  
 10^5サイクル超の耐久性と10年以上（85℃）の保持を実証し、IoT/車載向け不揮発メモリ応用を提案。  
