@@ -91,6 +91,11 @@ Covers technology transfer at Epson’s Sakata Fab, process ramp-up methodology,
 Analyzes incomplete C49→C54 transformation aggravated by boron absorption, which caused localized high-resistance spots and yield loss in 1 Mbit SRAM macros. Discusses redundancy limitations in embedded macros, provisional countermeasures (etch tuning), and permanent solutions (optimized RTA). Highlights educational lessons on scaling risks, HV compatibility, and the intersection of process technology and reliability.  
 [📄 TiSi₂ Reliability Case Paper (PDF)](../docs/tisalicide_case.pdf)
 
+#### 🎯 Process-Based Differentiation for Analog CMOS  
+**Process-based differentiation achieving >50% reduction in MOSFET 1/f noise at the 0.18 µm CMOS node.**  
+Presents a combined strategy of epitaxial substrate, optimized well doping, controlled oxide thickness with pre-clean, hydrogen anneal, and suitable device geometry. Demonstrates noise reduction robust across temperature (25–125 °C) and long-term aging (1000 h at 85 °C). Highlights implications for biomedical circuits, sensors, automotive/industrial analog, and precision instrumentation, while emphasizing educational value in linking process/device optimization to analog circuit performance.  
+[📄 CMOS 0.18 µm Noise Reduction Paper (PDF)](../docs/cmos018_noise.pdf)
+
 #### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
 **FeFET integration into 0.18 µm CMOS baseline with +1 mask and a single ALD tool.**  
 Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling SRAM backup and secure key storage for IoT/automotive.  
