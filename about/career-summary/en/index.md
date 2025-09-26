@@ -106,6 +106,11 @@ Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling 
 Combined with a hybrid Buck–LDO regulator, this approach achieves >80% efficiency, wideband response, and low noise, providing a competitive alternative to external inductors for automotive and IoT SoCs.  
 [📄 CMOS018 Inductor + LDO Paper (PDF)](../docs/cmos018_inductor_ldo.pdf)
 
+#### 🖨️ Inkjet Tutorial Paper  
+**Comprehensive tutorial on inkjet technology.**  
+Covers actuation principles, droplet formation physics, ink materials, system engineering, device structures, design/analysis methods, and applications. Emphasizes practically useful ranges, MEMS/CMOS co-design hints, and educational exercises. Future outlook includes Pb-free piezoelectrics, low-voltage actuation, digital-twin workflows, and bio-integration.  
+[📄 Inkjet Tutorial Paper (PDF)](../docs/inkjet_tutorial.pdf)
+
 #### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
 **Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
 Proposes an environmentally friendly solution for next-generation medical ultrasonic sensors.  
