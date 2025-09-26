@@ -122,6 +122,12 @@ HVデバイス互換性の制約下でのノード選択、埋込SRAMの歩留�
 [📄 CMOS018 Inductor + LDO Paper (PDF)](./docs/cmos018_inductor_ldo.pdf)  
 *On-chip laminated inductor with PGS in 0.18-µm CMOS, applied to a hybrid Buck–LDO regulator for >80% efficiency, wideband response, and low noise.*
 
+#### 🖨️ Inkjet Tutorial Paper  
+**インクジェット技術の原理・材料・応用を体系的に整理したチュートリアル。**  
+アクチュエーション原理、液滴生成物理、インク材料、システム設計、デバイス構造、解析手法、応用事例まで幅広く解説し、教育的価値を重視。  
+[📄 Inkjet Tutorial Paper (PDF)](./docs/inkjet_tutorial.pdf)  
+*Comprehensive tutorial on inkjet technology covering actuation principles, droplet physics, materials, system/device design, analysis approaches, and applications, with emphasis on educational insights.*
+
 #### 🌊 ScAlN MEMS 超音波センサ研究  
 **PbフリーScAlN MEMSを65nm SiGe CMOSと統合。**  
 次世代医療用超音波センサとして環境調和型のアプローチを提示。  
