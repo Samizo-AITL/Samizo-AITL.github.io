@@ -92,107 +92,124 @@ description: "半導体・制御・インクジェット・教育の横断経験
 
 ### 📑 論文・研究成果 / Papers & Research Works
 
-#### 🧩 Historical Case Study: 0.25-µm DRAM & VSRAM
+#### 🧩 Historical Case Study: 0.25-µm DRAM & VSRAM  
 **0.25µm DRAM立ち上げとVSRAM量産の技術移管事例を整理。**  
-酒田工場におけるプロセス立ち上げ、歩留まり改善、不良解析、そしてモバイルVSRAM応用の歴史的事例を論文形式でまとめた。  
+酒田工場における歩留まり改善・不良解析・モバイル応用の歴史的意義を強調。  
 [📄 DRAM & VSRAM History Paper (PDF)](./docs/dram_vsram_history.pdf)  
-*Case study of 0.25-µm DRAM ramp-up and pseudo-SRAM mass production, with educational insights for process transfer and yield improvement.*
+*Case study of 0.25-µm DRAM ramp-up and pseudo-SRAM mass production.*  
+*Highlights process transfer, yield-improvement cycles, and educational insights.*
 
 #### 🧪 Historical Case Study on Ti Silicide (TiSi₂) Reliability Issues  
-**0.25µm CMOSノードにおけるTiSi₂相転移不安定性の歴史的事例を分析。**  
-HVデバイス互換性の制約下でのノード選択、埋込SRAMの歩留まり低下、冗長回路の制約、対策（エッチング条件・RTA最適化）を整理し、教育的価値を強調した。  
+**0.25µm CMOSノードにおけるTiSi₂相転移不安定性を解析。**  
+SRAM歩留まり低下、冗長性限界、RTA最適化などの対策を整理。  
 [📄 TiSi₂ Reliability Case Paper (PDF)](./docs/tisalicide_case.pdf)  
-*Historical case study of TiSi₂ phase-transition instability at the 0.25µm node, analyzing SRAM yield loss, redundancy limitations, and process countermeasures, with educational insights.*
+*Analysis of TiSi₂ phase-transition instability at 0.25µm CMOS node.*  
+*Discusses redundancy limits, yield loss, and process countermeasures.*
 
 #### 🎯 Process-Based Differentiation for Analog CMOS  
-**0.18µm CMOSにおけるMOSFET 1/f ノイズを50%以上低減する製造技術差別化戦略。**  
-エピ基板、ウェルドーピング、酸化膜厚制御、H₂アニールによるプロセス改良を組み合わせ、アナログ性能を強化した事例を論文形式で整理。  
+**0.18µm CMOSでMOSFET 1/fノイズを50%以上低減。**  
+基板・ドーピング・酸化膜・H₂アニール最適化による差別化戦略。  
 [📄 CMOS 0.18µm Noise Reduction Paper (PDF)](./docs/cmos018_noise.pdf)  
-*Process-based differentiation achieving >50% reduction in MOSFET 1/f noise at the 0.18µm CMOS node, with implications for biomedical, sensor, and automotive analog applications.*
+*Achieves >50% reduction in 1/f noise at 0.18µm CMOS.*  
+*Validated across temperature/aging, with implications for analog/sensor ICs.*
 
 #### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
 **既存0.18µm CMOSに+1マスクでFeFETを統合。**  
-10^5サイクル超の耐久性と10年以上（85℃）の保持を実証し、IoT/車載向け不揮発メモリ応用を提案。  
-[📄 fefet_cmos018_reliability.pdf](./docs/fefet_cmos018_reliability.pdf)  
-*Integration study showing FeFET endurance >10^5 and retention >10y at 85℃.*
+耐久性10⁵サイクル・保持10年以上を実証し、IoT/車載応用に適用。  
+[📄 FeFET CMOS Reliability Paper (PDF)](./docs/fefet_cmos018_reliability.pdf)  
+*FeFET integrated into 0.18µm CMOS baseline with +1 mask.*  
+*Endurance >10⁵ cycles and retention >10 years at 85 °C.*
 
 #### ⚡ On-Chip Magnetic-Laminated Inductor in 0.18-µm CMOS  
-**既存0.18µm CMOSにPGSと磁性ラミネートを後工程で追加し、ハイブリッドBuck–LDO構成で高効率・広帯域・低ノイズを実現。**  
-外付けインダクタ依存をなくし、車載・IoT SoC向けに競争力ある電源アーキテクチャを提案。  
+**磁性ラミネート＋PGSを追加したオンチップインダクタ。**  
+Buck–LDO統合で高効率・広帯域・低ノイズ電源を実現。  
 [📄 CMOS018 Inductor + LDO Paper (PDF)](./docs/cmos018_inductor_ldo.pdf)  
-*On-chip laminated inductor with PGS in 0.18-µm CMOS, applied to a hybrid Buck–LDO regulator for >80% efficiency, wideband response, and low noise.*
+*On-chip laminated inductor in 0.18µm CMOS with hybrid Buck–LDO.*  
+*Achieves >80% efficiency and competitive IoT/automotive power delivery.*
 
 #### 🖨️ Inkjet Tutorial Paper  
-**インクジェット技術の原理・材料・応用を体系的に整理したチュートリアル。**  
-アクチュエーション原理、液滴生成物理、インク材料、システム設計、デバイス構造、解析手法、応用事例まで幅広く解説し、教育的価値を重視。  
+**インクジェット技術を体系的に整理したチュートリアル。**  
+原理・液滴物理・材料・設計・応用を俯瞰し、教育的価値を強調。  
 [📄 Inkjet Tutorial Paper (PDF)](./docs/inkjet_tutorial.pdf)  
-*Comprehensive tutorial on inkjet technology covering actuation principles, droplet physics, materials, system/device design, analysis approaches, and applications, with emphasis on educational insights.*
+*Comprehensive tutorial on inkjet technology and applications.*  
+*Emphasizes actuation, droplet physics, co-design, and research outlook.*
 
 #### 🌊 ScAlN MEMS 超音波センサ研究  
-**PbフリーScAlN MEMSを65nm SiGe CMOSと統合。**  
-次世代医療用超音波センサとして環境調和型のアプローチを提示。  
+**PbフリーScAlNを65nm SiGe CMOSと統合。**  
+環境調和型の医療用MEMS超音波センサを提案。  
 [📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)  
-*Pb-free ScAlN MEMS ultrasonic sensor integrated with 65nm SiGe CMOS SiP.*
+*Pb-free ScAlN MEMS ultrasonic sensor integrated with CMOS.*  
+*Targets eco-friendly and reliable medical imaging applications.*
 
 #### 🖨️ KNN Bio-Inkjet Printing  
-**PbフリーKNNアクチュエータを用いたBio-Inkjetアーキテクチャを提案。**  
-バルクKNN積層アクチュエータとCOFドライバIC、Siキャビティ統合により、±50Vでピコリットルスケールの液滴生成を実現。細胞パターニングやタンパク質マイクロアレイなど、バイオプリンティング応用を想定。  
+**PbフリーKNN積層アクチュエータを用いたBio-Inkjet。**  
+±50Vでピコリットル液滴生成、細胞・タンパク質パターニングを実現。  
 [📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
-*Proposed a Bio-Inkjet architecture using lead-free KNN actuators, enabling picoliter droplet generation under ±50 V for biomedical applications such as cell patterning and protein microarrays.*
+*Bio-Inkjet architecture using lead-free KNN actuators.*  
+*Enables picoliter droplets for biomedical printing applications.*
 
-#### 🖥️ SystemDK for 3D-IC
-**マルチフィジックス制約をEDAフローへ統合する新フレームワーク。**  
-TSVスタックにおけるRC遅延、熱ホットスポット、応力起因しきい値シフト、EMIジッタをFEM解析やSパラ抽出からEDA制約へ直接マッピングし、設計の物理一貫性を実現。  
+#### 🖥️ SystemDK for 3D-IC  
+**マルチフィジックス制約をEDAに統合する新フレームワーク。**  
+TSVスタックで遅延・熱・応力・EMIを設計制約にマッピング。  
 [📄 SystemDK for 3D-IC Paper (PDF)](./docs/systemdk_3dic.pdf)  
-*Constraint-driven design framework integrating thermal, stress, and EMI/EMC results into EDA flows, demonstrating 87% slack recovery, 11 °C hotspot reduction, and 23% eye-opening improvement.*
+*Constraint-driven DTCO with FEM and EMI analysis integration.*  
+*Validated with 87% slack recovery and 23% signal integrity gain.*
 
 #### 💾 LPDDR+FeRAM Chiplet Integration  
-**低消費電力LPDDRと不揮発FeRAMをチップレットで統合。**  
-スタンバイ電力削減と瞬時復帰を両立するメモリアーキテクチャを提案。  
+**低消費電力LPDDRとFeRAMをチップレットで統合。**  
+スタンバイ低減と瞬時復帰を両立する新メモリアーキテクチャ。  
 [📄 LPDDR+FeRAM Integration (PDF)](./docs/LPDDR_FeRAM.pdf)  
-*Hybrid memory architecture combining low-power LPDDR with instant-resume FeRAM.*
+*Hybrid LPDDR+FeRAM chiplet design for IoT/automotive.*  
+*Delivers instant resume and low standby power.*
 
 #### 📘 CFET 教材論文  
-**教育的観点からCFETを体系整理したチュートリアル。**  
-Planar → FinFET → GAA → CFET までの進化、構造概念、設計・製造課題、教育的価値を俯瞰。  
+**CFET技術を教育的観点から体系整理。**  
+進化史・設計影響・製造課題・教育的価値をレビュー。  
 [📄 CFET Tutorial Paper (PDF)](./docs/cfet_tutorial_main.pdf)  
-*Educational tutorial paper on CFET: device evolution, design impact, manufacturing challenges, and its value for semiconductor education.*
+*Educational tutorial on CFET evolution and challenges.*  
+*Covers Planar→FinFET→GAA→CFET and EDA implications.*
 
-#### 🖥️ SystemDK with AITL 論文公開  
-**EDA設計フローに制御ループ（PID+FSM+LLM）を統合。**  
-RC遅延・熱結合・EMI変動を実時間で補償し、サブ2nm世代の信頼性を向上。  
+#### 🖥️ SystemDK with AITL 論文  
+**PID+FSM+LLM制御ループをEDAフローに統合。**  
+遅延・熱・EMI変動を実時間補償し、サブ2nm信頼性を強化。  
 [📄 SystemDK+AITL Main Paper (PDF)](./docs/systemdk_aitl2025.pdf)  
-*Runtime-aware DTCO framework enabling guardband reduction and reliability improvement across advanced nodes.*
+*Runtime-aware DTCO integrating control loops into design.*  
+*Improves reliability and reduces guardbands at advanced nodes.*
 
 #### ⚙️ CFET 制御統合検証  
-**CFET配線遅延と熱結合を、PID+FSM+LLM で動的補償する新制御概念を実証。**  
-EDAに制御理論を導入し、サブ2nm世代での信号遅延・熱問題に対処。  
+**CFET配線遅延・熱結合をPID+FSM+LLMで動的補償。**  
+EDAに制御理論を導入し、サブ2nmでの信号遅延問題に対応。  
 [📄 CFET Control Main Paper (PDF)](./docs/cfet_ctrl2025.pdf)  
-*Proof-of-concept for cross-layer control of CFET delay/thermal coupling via PID+FSM+LLM.*
+*Cross-layer CFET control using PID, FSM, and LLM.*  
+*Proof-of-concept for delay/thermal compensation in nanoscale nodes.*
 
 #### 🤖 ヒューマノイド制御アーキテクチャ研究  
 **LLM + FSM + PID + 状態空間制御を統合。**  
-クロスノードSoC設計とSystemDK検証に基づき、次世代ロボット制御アーキテクチャを提案。  
+次世代ロボットの制御最適化アーキテクチャを提示。  
 [📄 Humanoid TCST 論文 (PDF)](./docs/humanoid_tcst2025.pdf)  
-*Humanoid control architecture integrating LLM inference, hierarchical FSM, PID/state-space control, and energy harvesting.*
+*Humanoid control architecture combining AI and control theory.*  
+*Validated through cross-node SoC/SystemDK co-design.*
 
 #### 🚀 AITL on Space  
-**Tri-NVM階層（SRAM / MRAM / FRAM）を備えた三層ロバスト制御アーキテクチャ。**  
-深宇宙探査機の長期自律運用に向けて、**H∞制御＋FSM＋LLM**統合と22nm FDSOI SoC実装を検証。  
+**Tri-NVM階層を備えた三層制御アーキテクチャ。**  
+深宇宙探査機の長期自律運用に向けて検証。  
 [📄 AITL on Space Main Paper (PDF)](./docs/aitl_space.pdf)  
-*Proposes AITL on Space: a robust three-layer architecture with a Tri-NVM hierarchy for spacecraft autonomy, validated on 22nm FDSOI with FPGA/SystemDK flow, integrating H∞ control with FSM and LLM.*
+*AITL architecture with Tri-NVM for spacecraft autonomy.*  
+*Integrates H∞, FSM, and AI-based redesign on 22nm FDSOI.*
 
 #### ✈️ SkyEdge 高高度ドローンプラットフォーム研究  
-**H∞制御・民生デバイス・先進機械設計を統合した高高度ドローンのリファレンス設計を提示。**  
-センサーフュージョン、可変ピッチロータ、PQCセキュリティ、FSM/LLM連携による制御最適化を特徴とする。  
+**高高度UAV向けにH∞制御・機械設計・PQCセキュリティを統合。**  
+センサーフュージョンと可変ピッチロータを特徴とする設計。  
 [📄 SkyEdge Drone Paper (PDF)](./docs/skyedge_drone.pdf)  
-*Reference design of a secure high-altitude drone platform integrating H∞ control, domestic device manufacturing, advanced mechanics, and PQC-based security.*
+*Reference design of a secure high-altitude UAV.*  
+*Combines H∞ control, mechanics, and PQC-assisted optimization.*
 
-#### 🧮 Post-CFET Device Architectures: Materials, Integration, and Design Perspectives
-**ポストCFETにおける材料・集積・応用・EDAの展望を包括的に整理。**  
-2D材料FET、モノリシック3D、スピントロニクス／量子デバイス、ヘテロ集積を比較し、2030–2045ロードマップを提示。  
+#### 🧮 Post-CFET Device Architectures: Materials, Integration, and Design Perspectives  
+**ポストCFETにおける材料・集積・設計の展望を包括的に整理。**  
+2D材料・3D集積・スピントロニクス・量子デバイスを比較しロードマップ提示。  
 [📄 Post-CFET Main Paper (PDF)](./docs/post_cfet.pdf)  
-*Comprehensive survey of post-CFET device options, their principles, reliability, design/EDA implications, and a 2030–2045 roadmap.*
+*Survey of post-CFET device architectures and integration.*  
+*Provides a 2030–2045 roadmap for emerging device options.*
 
 ---
 
