@@ -81,89 +81,105 @@ evolving from **technology → systems → education**.
 ### 📑 Papers & Research Works
 
 #### 🧩 Historical Case Study: 0.25-µm DRAM & VSRAM  
-**Case study of 0.25 µm 64M DRAM ramp-up and mobile pseudo-SRAM (VSRAM) mass production.**  
-Covers technology transfer at Epson’s Sakata Fab, process ramp-up methodology, yield-improvement cycle, and the historical impact leading to the world’s first camera phone. Also discusses why 0.18 µm trench VSRAM was abandoned, marking the end of 1T-1C pseudo-SRAM.  
+**Case study of 0.25 µm DRAM ramp-up and VSRAM mass production.**  
+Analyzes process transfer at Epson’s Sakata Fab, yield-improvement cycles, and defect analysis.  
+Provides historical insights into process migration and mobile memory development.  
 [📄 DRAM & VSRAM History Paper (PDF)](../docs/dram_vsram_history.pdf)
 
-
 #### 🧪 Historical Case Study on Ti Silicide (TiSi₂) Reliability Issues  
-**Case study of TiSi₂ phase-transition instability at the 0.25 µm CMOS node for LCD driver ICs.** 
-Analyzes incomplete C49→C54 transformation aggravated by boron absorption, which caused localized high-resistance spots and yield loss in 1 Mbit SRAM macros. Discusses redundancy limitations in embedded macros, provisional countermeasures (etch tuning), and permanent solutions (optimized RTA). Highlights educational lessons on scaling risks, HV compatibility, and the intersection of process technology and reliability.  
+**Reliability study of TiSi₂ phase-transition instability at 0.25 µm CMOS.**  
+Examines incomplete C49→C54 transformation, boron absorption, and SRAM yield loss.  
+Highlights redundancy limitations, etch/RTA countermeasures, and scaling risks.  
 [📄 TiSi₂ Reliability Case Paper (PDF)](../docs/tisalicide_case.pdf)
 
 #### 🎯 Process-Based Differentiation for Analog CMOS  
-**Process-based differentiation achieving >50% reduction in MOSFET 1/f noise at the 0.18 µm CMOS node.**  
-Presents a combined strategy of epitaxial substrate, optimized well doping, controlled oxide thickness with pre-clean, hydrogen anneal, and suitable device geometry. Demonstrates noise reduction robust across temperature (25–125 °C) and long-term aging (1000 h at 85 °C). Highlights implications for biomedical circuits, sensors, automotive/industrial analog, and precision instrumentation, while emphasizing educational value in linking process/device optimization to analog circuit performance.  
+**Process-based approach reducing MOSFET 1/f noise by >50% at 0.18 µm CMOS.**  
+Uses epi substrate, optimized doping, oxide control, H₂ annealing, and geometry tuning.  
+Demonstrates robustness across temperature/aging, with impact on analog/sensor ICs.  
 [📄 CMOS 0.18 µm Noise Reduction Paper (PDF)](../docs/cmos018_noise.pdf)
 
 #### 🔋 Low-Cost Integration of 1.8-V FeFET on 0.18-µm CMOS  
-**FeFET integration into 0.18 µm CMOS baseline with +1 mask and a single ALD tool.**  
-Demonstrated endurance >10^5 cycles and retention >10 years at 85 °C, enabling SRAM backup and secure key storage for IoT/automotive.  
-[📄 fefet_cmos018_reliability.pdf](../docs/fefet_cmos018_reliability.pdf)
+**FeFET integrated into 0.18 µm CMOS with +1 mask and ALD process.**  
+Shows endurance >10⁵ cycles and retention >10 years at 85 °C.  
+Enables IoT/automotive non-volatile memory for backup and secure key storage.  
+[📄 FeFET CMOS Reliability Paper (PDF)](../docs/fefet_cmos018_reliability.pdf)
 
 #### ⚡ On-Chip Magnetic-Laminated Inductor in 0.18-µm CMOS  
-**On-chip laminated inductor with patterned ground shield (PGS) integrated into 0.18 µm CMOS.**  
-Combined with a hybrid Buck–LDO regulator, this approach achieves >80% efficiency, wideband response, and low noise, providing a competitive alternative to external inductors for automotive and IoT SoCs.  
+**On-chip laminated inductor with PGS integrated into 0.18 µm CMOS.**  
+Implemented in hybrid Buck–LDO regulator achieving >80% efficiency and wideband response.  
+Provides competitive alternative to external inductors for IoT and automotive SoCs.  
 [📄 CMOS018 Inductor + LDO Paper (PDF)](../docs/cmos018_inductor_ldo.pdf)
 
 #### 🖨️ Inkjet Tutorial Paper  
-**Comprehensive tutorial on inkjet technology.**  
-Covers actuation principles, droplet formation physics, ink materials, system engineering, device structures, design/analysis methods, and applications. Emphasizes practically useful ranges, MEMS/CMOS co-design hints, and educational exercises. Future outlook includes Pb-free piezoelectrics, low-voltage actuation, digital-twin workflows, and bio-integration.  
+**Comprehensive tutorial on inkjet principles, materials, and applications.**  
+Covers actuation modes, droplet physics, ink chemistry, system/device design, and analysis.  
+Outlines future directions: Pb-free piezoelectrics, low-voltage actuation, and bio-integration.  
 [📄 Inkjet Tutorial Paper (PDF)](../docs/inkjet_tutorial.pdf)
 
 #### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
-**Pb-free ScAlN MEMS array integrated with 65 nm SiGe CMOS via SiP.**  
-Proposes an environmentally friendly solution for next-generation medical ultrasonic sensors.  
+**Pb-free ScAlN MEMS integrated with 65 nm SiGe CMOS via SiP.**  
+Demonstrates eco-friendly, high-sensitivity ultrasonic MEMS arrays.  
+Targets next-generation medical imaging and non-destructive sensing.  
 [📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
 
 #### 🖨️ KNN Bio-Inkjet Printing Study  
-**Lead-free KNN actuators applied to biocompatible inkjet systems.**  
-Proposes a Bio-Inkjet architecture achieving picoliter droplet generation under ±50 V, targeting applications in biomedical printing such as cell patterning and protein microarrays.  
+**Bio-Inkjet system using Pb-free KNN actuators under ±50 V drive.**  
+Achieves picoliter-scale droplet generation for biological samples.  
+Enables safe, sustainable bio-printing of cells and proteins.  
 [📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
 
 #### 🖥️ SystemDK for 3D-IC  
-**Constraint-driven design framework integrating multi-physics into EDA.**  
-Maps FEM thermal/stress simulations and S-parameter EMI analysis into EDA constraints (STA derates, placement blockages, CTS shielding). Case studies on a 4-die TSV stack demonstrated **87% slack recovery, 11 °C hotspot reduction, and 23% eye-opening improvement**, validating SystemDK as a physically consistent DTCO methodology.  
+**Constraint-driven DTCO framework integrating multi-physics into EDA.**  
+Maps FEM thermal/stress and EMI analysis into STA/placement constraints.  
+Validated on TSV stacks: 87% slack recovery, 11 °C hotspot reduction, 23% eye-opening gain.  
 [📄 SystemDK for 3D-IC Paper (PDF)](../docs/systemdk_3dic.pdf)
 
 #### 💾 LPDDR+FeRAM Chiplet Integration  
-**Hybrid memory architecture combining low-power LPDDR and non-volatile FeRAM.**  
-Achieves reduced standby power and instant resume through SystemDK top-down co-design of chiplets, controllers, and OS.  
+**Hybrid memory combining low-power LPDDR with FeRAM chiplets.**  
+SystemDK co-design enables reduced standby power and instant resume.  
+Applies to IoT/automotive systems requiring efficient, reliable memory.  
 [📄 LPDDR+FeRAM Integration (PDF)](../docs/LPDDR_FeRAM.pdf)
 
 #### 📘 Educational Tutorial Paper on CFET  
-**An educational overview of Complementary FET (CFET) technology.**  
-Reviews the evolution Planar → FinFET → GAA → CFET, structural concepts, design impacts, manufacturing challenges, EDA limitations, and educational value.  
+**Educational overview of Complementary FET (CFET) technology.**  
+Reviews device evolution: Planar → FinFET → GAA → CFET.  
+Highlights design/manufacturing challenges and teaching applications.  
 [📄 CFET Tutorial Paper (PDF)](../docs/cfet_tutorial_main.pdf)
 
 #### 🖥️ SystemDK with AITL Paper  
-**Runtime-aware DTCO framework with PID+FSM+LLM loops.**  
-Compensates RC delay, thermal coupling, and EMI variations in real time, reducing guardbands and enhancing sub-2nm reliability.  
+**Runtime-aware DTCO framework with PID+FSM+LLM control loops.**  
+Real-time compensation of RC delay, thermal, and EMI variability.  
+Reduces guardbands and enhances sub-2nm reliability.  
 [📄 SystemDK+AITL Main Paper (PDF)](../docs/systemdk_aitl2025.pdf)
 
 #### ⚙️ Control-Integrated CFET Study  
 **Proof-of-concept for cross-layer CFET control.**  
-Demonstrates real-time compensation of interconnect delay and thermal coupling using PID+FSM+LLM supervision.  
+Applies PID+FSM+LLM for delay and thermal compensation in nanoscale nodes.  
+Demonstrates dynamic reliability improvement in sub-2nm ICs.  
 [📄 CFET Control Main Paper (PDF)](../docs/cfet_ctrl2025.pdf)
 
 #### 🤖 Humanoid Control Architecture Research  
-**Integration of LLM, FSM, PID, and state-space control.**  
-Based on cross-node SoC design and SystemDK validation, presenting a next-generation humanoid control architecture.  
+**Control framework integrating LLM, FSM, PID, and state-space methods.**  
+Validated via cross-node SoC and SystemDK co-design.  
+Supports next-generation humanoid robots with adaptive control.  
 [📄 Humanoid TCST Paper (PDF)](../docs/humanoid_tcst2025.pdf)
 
 #### 🚀 AITL on Space  
-**A robust three-layer architecture with Tri-NVM hierarchy (SRAM / MRAM / FRAM) for long-duration spacecraft autonomy.**  
-Proposes an Adaptive Intelligent Triple-Layer (AITL) control architecture integrating **H∞ control, FSM, and AI-based re-design**, implemented on 22 nm FDSOI SoC with FPGA/SystemDK validation.  
+**Adaptive Intelligent Triple-Layer (AITL) control with Tri-NVM hierarchy.**  
+Combines H∞ control, FSM, and AI re-design on 22 nm FDSOI SoC.  
+Enables long-duration spacecraft autonomy and reliability.  
 [📄 AITL on Space Main Paper (PDF)](../docs/aitl_space.pdf)
 
 #### ✈️ SkyEdge High-Altitude Drone Platform  
-**Reference design of SkyEdge: a secure high-altitude UAV integrating H∞ control, domestically manufactured devices, and advanced mechanical design.**  
-Features sensor fusion, variable-pitch rotor scheduling, PQC-based security, and FSM/LLM-assisted control optimization, targeting robust disturbance rejection and reliable operation up to 10 km.  
+**Reference design for secure high-altitude UAV with H∞ control.**  
+Features sensor fusion, variable-pitch rotor, PQC security, and FSM/LLM control.  
+Ensures robust performance and reliable operation up to 10 km.  
 [📄 SkyEdge Drone Paper (PDF)](../docs/skyedge_drone.pdf)
 
-#### 🧮 Post-CFET Device Architectures: Materials, Integration, and Design Perspectives  
-**Comprehensive survey of post-CFET device options and roadmap (2030–2045).**  
-Covers 2D material FETs, Monolithic 3D integration, Spintronics/Quantum devices, and Heterogeneous atomic-scale integration. Discusses physical principles, integration challenges, reliability issues, EDA/PDK requirements, educational perspectives, and provides a **2030–2045 roadmap**.  
+#### 🧮 Post-CFET Device Architectures  
+**Comprehensive survey of post-CFET device architectures (2030–2045).**  
+Compares 2D FETs, monolithic 3D, spintronics, and quantum devices.  
+Provides roadmap on materials, integration, reliability, and EDA/PDK needs.  
 [📄 Post-CFET Main Paper (PDF)](../docs/post_cfet.pdf)
 
 ---
