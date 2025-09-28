@@ -127,27 +127,6 @@ Buck–LDO統合で高効率・広帯域・低ノイズ電源を実現。
 *On-chip laminated inductor in 0.18µm CMOS with hybrid Buck–LDO.*  
 *Achieves >80% efficiency and competitive IoT/automotive power delivery.*
 
-#### 🖨️ Inkjet Tutorial Paper  
-**インクジェット技術を体系的に整理したチュートリアル。**  
-原理・液滴物理・材料・設計・応用を俯瞰し、教育的価値を強調。  
-[📄 Inkjet Tutorial Paper (PDF)](./docs/inkjet_tutorial.pdf)  
-*Comprehensive tutorial on inkjet technology and applications.*  
-*Emphasizes actuation, droplet physics, co-design, and research outlook.*
-
-#### 🌊 ScAlN MEMS 超音波センサ研究  
-**PbフリーScAlNを65nm SiGe CMOSと統合。**  
-環境調和型の医療用MEMS超音波センサを提案。  
-[📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)  
-*Pb-free ScAlN MEMS ultrasonic sensor integrated with CMOS.*  
-*Targets eco-friendly and reliable medical imaging applications.*
-
-#### 🖨️ KNN Bio-Inkjet Printing  
-**PbフリーKNN積層アクチュエータを用いたBio-Inkjet。**  
-±50Vでピコリットル液滴生成、細胞・タンパク質パターニングを実現。  
-[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
-*Bio-Inkjet architecture using lead-free KNN actuators.*  
-*Enables picoliter droplets for biomedical printing applications.*
-
 #### 🖥️ SystemDK for 3D-IC  
 **マルチフィジックス制約をEDAに統合する新フレームワーク。**  
 TSVスタックで遅延・熱・応力・EMIを設計制約にマッピング。  
@@ -210,6 +189,34 @@ EDAに制御理論を導入し、サブ2nmでの信号遅延問題に対応。
 [📄 Post-CFET Main Paper (PDF)](./docs/post_cfet.pdf)  
 *Survey of post-CFET device architectures and integration.*  
 *Provides a 2030–2045 roadmap for emerging device options.*
+
+#### 🖨️ Inkjet Tutorial Paper  
+**インクジェット技術を体系的に整理したチュートリアル。**  
+原理・液滴物理・材料・設計・応用を俯瞰し、教育的価値を強調。  
+[📄 Inkjet Tutorial Paper (PDF)](./docs/inkjet_tutorial.pdf)  
+*Comprehensive tutorial on inkjet technology and applications.*  
+*Emphasizes actuation, droplet physics, co-design, and research outlook.*
+
+#### 🌊 ScAlN MEMS 超音波センサ研究  
+**PbフリーScAlNを65nm SiGe CMOSと統合。**  
+環境調和型の医療用MEMS超音波センサを提案。  
+[📄 ScAlN Ultrasonic Paper (PDF)](./docs/scaln_ultrasonic.pdf)  
+*Pb-free ScAlN MEMS ultrasonic sensor integrated with CMOS.*  
+*Targets eco-friendly and reliable medical imaging applications.*
+
+#### 🖨️ KNN Bio-Inkjet Printing  
+**PbフリーKNN積層アクチュエータを用いたBio-Inkjet。**  
+±50Vでピコリットル液滴生成、細胞・タンパク質パターニングを実現。  
+[📄 Bio-Inkjet Paper (PDF)](./docs/bioinkjet_knn.pdf)  
+*Bio-Inkjet architecture using lead-free KNN actuators.*  
+*Enables picoliter droplets for biomedical printing applications.*
+
+#### ⚙️ SystemDK Inkjet Framework  
+**産業用ピエゾインクジェットの設計支援フレームワーク。**  
+電気・機械・流体を統合したSystemDKにより設計効率を大幅改善。  
+[📄 SystemDK Inkjet Paper (PDF)](./docs/systemdk_inkjet.pdf)  
+*Design support framework for industrial piezoelectric inkjet using SystemDK.*  
+*Accelerates multiphysics modeling and proof-of-concept development.*
 
 ---
 
