@@ -110,24 +110,6 @@ Implemented in hybrid Buck–LDO regulator achieving >80% efficiency and wideban
 Provides competitive alternative to external inductors for IoT and automotive SoCs.  
 [📄 CMOS018 Inductor + LDO Paper (PDF)](../docs/cmos018_inductor_ldo.pdf)
 
-#### 🖨️ Inkjet Tutorial Paper  
-**Comprehensive tutorial on inkjet principles, materials, and applications.**  
-Covers actuation modes, droplet physics, ink chemistry, system/device design, and analysis.  
-Outlines future directions: Pb-free piezoelectrics, low-voltage actuation, and bio-integration.  
-[📄 Inkjet Tutorial Paper (PDF)](../docs/inkjet_tutorial.pdf)
-
-#### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
-**Pb-free ScAlN MEMS integrated with 65 nm SiGe CMOS via SiP.**  
-Demonstrates eco-friendly, high-sensitivity ultrasonic MEMS arrays.  
-Targets next-generation medical imaging and non-destructive sensing.  
-[📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
-
-#### 🖨️ KNN Bio-Inkjet Printing Study  
-**Bio-Inkjet system using Pb-free KNN actuators under ±50 V drive.**  
-Achieves picoliter-scale droplet generation for biological samples.  
-Enables safe, sustainable bio-printing of cells and proteins.  
-[📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
-
 #### 🖥️ SystemDK for 3D-IC  
 **Constraint-driven DTCO framework integrating multi-physics into EDA.**  
 Maps FEM thermal/stress and EMI analysis into STA/placement constraints.  
@@ -181,6 +163,30 @@ Ensures robust performance and reliable operation up to 10 km.
 Compares 2D FETs, monolithic 3D, spintronics, and quantum devices.  
 Provides roadmap on materials, integration, reliability, and EDA/PDK needs.  
 [📄 Post-CFET Main Paper (PDF)](../docs/post_cfet.pdf)
+
+#### 🖨️ Inkjet Tutorial Paper  
+**Comprehensive tutorial on inkjet principles, materials, and applications.**  
+Covers actuation modes, droplet physics, ink chemistry, system/device design, and analysis.  
+Outlines future directions: Pb-free piezoelectrics, low-voltage actuation, and bio-integration.  
+[📄 Inkjet Tutorial Paper (PDF)](../docs/inkjet_tutorial.pdf)
+
+#### 🌊 ScAlN MEMS Ultrasonic Sensor Study  
+**Pb-free ScAlN MEMS integrated with 65 nm SiGe CMOS via SiP.**  
+Demonstrates eco-friendly, high-sensitivity ultrasonic MEMS arrays.  
+Targets next-generation medical imaging and non-destructive sensing.  
+[📄 ScAlN Ultrasonic Paper (PDF)](../docs/scaln_ultrasonic.pdf)
+
+#### 🖨️ KNN Bio-Inkjet Printing Study  
+**Bio-Inkjet system using Pb-free KNN actuators under ±50 V drive.**  
+Achieves picoliter-scale droplet generation for biological samples.  
+Enables safe, sustainable bio-printing of cells and proteins.  
+[📄 Bio-Inkjet Paper (PDF)](../docs/bioinkjet_knn.pdf)
+
+#### ⚙️ SystemDK Inkjet Framework  
+**Design support framework for industrial piezoelectric inkjet systems.**  
+Unifies electrical, mechanical, and fluidic domains into a System Design Kit (SystemDK).  
+Improves droplet control accuracy, shortens design cycles, and accelerates prototyping.  
+[📄 SystemDK Inkjet Paper (PDF)](../docs/systemdk_inkjet.pdf)
 
 ---
 
