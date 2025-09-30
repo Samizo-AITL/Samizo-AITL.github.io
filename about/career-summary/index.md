@@ -75,7 +75,7 @@ description: "半導体・制御・インクジェット・教育の横断経験
   *Responsible for scheduling and execution from development to mass production.*
 
 - **BOM整備・ISO教育・技術伝承** を教材化し、組織横断で推進。  
-  [📑 設計→量産部品発注フロー](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)  
+  [📑 設計→量産部品発注フロー](https://samizo-aitl.github.io/EduMecha/08_production_process/1production_process_flow.html)  
   *Promoted BOM management, ISO training, and knowledge transfer as structured content.*
 
 ---
