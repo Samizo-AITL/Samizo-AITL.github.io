@@ -66,7 +66,7 @@ evolving from **technology → systems → education**.
 - Responsible for **scheduling and execution** from development to mass production.
 
 - Promoted **BOM management, ISO training, and knowledge transfer**, transforming them into structured educational content.  
-  [📑 Design-to-Mass Production Ordering Flow](https://samizo-aitl.github.io/EduMecha/08_production_process/production_process_flow.html)
+  [📑 Design-to-Mass Production Ordering Flow](https://samizo-aitl.github.io/EduMecha/08_production_process/1production_process_flow.html)
 
 ---
 
