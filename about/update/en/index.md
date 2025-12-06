@@ -13,6 +13,7 @@ including GitHub Pages site updates, new materials, structural revisions, and RE
 
 | Date       | Description                                                                 |
 |------------|-----------------------------------------------------------------------------|
+| 2025-12-06 | Added SemiDevKit — an integrated 8-module educational suite covering device physics → BSIM4 compact modeling → SPICE simulation → reliability (NBTI/HCI) → VLSI physical design |
 | 2025-08-26 | Replaced the final **Flagship PoC: Humanoid Robot Control** illustration on the portal site with a new figure showing **cross-node design + integrated control architecture** |
 | 2025-08-23 | Portal site layout updated (navigation structure improved, unified display) |
 | 2025-08-14 | Added English version of main portal (`index.md`) with links to `/en/` projects |
