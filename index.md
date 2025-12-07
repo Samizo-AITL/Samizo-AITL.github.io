@@ -1,233 +1,122 @@
 ---
 layout: default
-title: Samizo-AITL Portal 
-description: Samizoによる半導体×AI×制御 統合教材ポータル　　　
+title: Samizo-AITL Portal
+description: 半導体デバイス技術の全体像を体系化するポータル
 ---
 
----
+# 🎓 Samizo-AITL Portal  
+> **「半導体デバイス技術の全体像を構造的に示す」**  
+> *“A structured portal for understanding the full landscape of semiconductor device technology.”*
 
-# 🎓 Samizo-AITL Portal
-> **「構造を読む、動きを作る、AIで加速する」**  
-> *"Read structures, create dynamics, accelerate with AI" — A portal for learning the fusion of physics and intelligence*
+**Samizo-AITLポータル**は、三溝真一による  
+**半導体デバイス技術（構造・物理・製造・設計・産業）の全体像を体系的に学べる統合ポータル**です。
 
-**Samizo-AITLポータル**は、三溝真一による個人プロジェクトです。  
-*The Samizo-AITL Portal is a personal project by Shinichi Samizo.*  
+本ポータルでは次の三大教材を軸に、  
+半導体デバイス技術を **“構造 → 物理 → プロセス → モデル → 回路 → 産業”** と一気通貫で理解できます。
 
-本プロジェクトは、**半導体 × 制御 × AI** を軸に、  
-知識・現象・技術の断片を **構造的に整理・接続** し、  
-**教育・PoC（概念実証）・政策提言** に活かすことを目的としています。  
-*It focuses on **Semiconductors × Control × AI**, structurally organizing and connecting fragments of knowledge, phenomena, and technologies, to be applied to education, proofs-of-concept, and policy proposals.*  
+- **Edusemi-v4x（体系）**  
+- **SemiDevKit（物理と実装）**  
+- **Edusemi-Plus（技術拡張）**
 
-現在の主流は ChatGPT に代表される **対話AI** ですが、  
-Samizo-AITL が目指すのは **物理現象や構造と直結する「物理AI（Physical AI）」** です。  
-*While conversational AI such as ChatGPT is mainstream today, Samizo-AITL aims for **"Physical AI"**, directly linked to physical phenomena and structures.*  
-
-Samizo-AITLは、**「動かす現場」** と **「読み解く構造」** の両面で得た経験を基盤に、  
-**言葉ではなく、動きの中でAIを使う** 新しい教育・PoC・構想を展開しています。  
-*Based on experience in both **practical implementation** and **structural analysis**,  
-Samizo-AITL develops education, PoCs, and visions to use AI **not only in words, but through physical actions**.*
+AITL（AI × 制御 × LLM）は、  
+**これらの物理基盤を応用して「動きをつくる」第2層コンセプト（Applied Layer）**として扱います。
 
 ---
 
-## 🔗 公式リンク | Official Links
+# 🧩 Main Core（中核教材）
 
-| 言語 / Language | GitHub Pages 🌐 | GitHub 💻 |
-|-----------------|----------------|-----------|
-| 🇯🇵 Japanese | [![🌐 GitHub Pages JP](https://img.shields.io/badge/GitHub%20Pages-日本語版-brightgreen?logo=github)](https://samizo-aitl.github.io/) | [![💻 GitHub Repo JP](https://img.shields.io/badge/GitHub-日本語版-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
-| 🇺🇸 English | [![🌐 GitHub Pages EN](https://img.shields.io/badge/GitHub%20Pages-English-brightgreen?logo=github)](https://samizo-aitl.github.io/en/) | [![💻 GitHub Repo EN](https://img.shields.io/badge/GitHub-English-blue?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/en) |
+## 1️⃣ Edusemi-v4x（SystemDK 含む）
+**半導体プロセス・デバイス・設計の体系教材**  
+*Foundational material covering semiconductor processes, devices, and design.*
 
----
+- FEOL/BEOL、MOSFET、SiC/GaN  
+- PDK・設計フロー  
+- **SystemDK：熱・応力・SI/PI・EMI・配線遅延**の物理制約解析  
 
-## 🔍 プロジェクト一覧 | Projects Overview
-
-以下は、本ポータルに含まれる主要プロジェクト群です。  
-*Below are the main project groups included in this portal.*  
-
-教育・PoC・AI活用・提言・社会実装といった複数の視点から展開しています。  
-*They are developed from multiple perspectives such as education, PoC, AI utilization, proposals, and social implementation.*  
-
-> **注記 / Note**  
-> 本ページに掲載する内容には、特定企業の機密情報は一切含まれていません。  
-> 一般公開情報、基礎原理、そして筆者自身の経験・構想に基づき作成しています。  
->  
-> No confidential information from any specific company is included.  
-> All materials are created based on public information, fundamental principles, and the author's own experience and ideas.
- {: .annotation-narrow}
-
-| アイコン | **プロジェクト名** | 分野 | 内容 |
-|---------|--------------------|------|------|
-| 🧠 | **SamizoGPT**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT) | [🧠 AI] | ChatGPTの **プロンプト設計** と **支援テンプレート** 集（※一部AI支援を活用していますが、構成・検証・記述責任は筆者）<br>*A collection of **prompt designs** and **support templates** for ChatGPT (some AI assistance is used, but structure, verification, and description are the author’s responsibility).* |
-| 📡 | **SemiTechBot**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot) | [💠 半導体] [🧠 AI] | **半導体技術支援** に特化した **チャットボット**（SamizoGPT応用）<br>⚠️ FlaskベースのBotアプリは開発中<br>*A chatbot specialized in **semiconductor technical support** (application of SamizoGPT). ⚠️ Flask-based bot app under development.* |
-| 🎓 | **Edusemi-v4x**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x) | [💠 半導体] [🎓 教育] | **プロセス・設計・PDK演習** を体系的に学べる **半導体教材**<br>*Semiconductor learning material covering **process, design, and PDK exercises** in a systematic way.* |
-| 💠 | **SemiDevKit**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit) | [💠 半導体] [🎓 教育] | **デバイス物理 → BSIM4モデル → SPICE解析 → 信頼性 → レイアウト（OpenLane）** を一貫して学べる統合教材スイート。8モジュール構成。<br>*An integrated educational suite covering **device physics → BSIM4 compact modeling → SPICE simulation → reliability (NBTI/HCI) → VLSI physical design**, built as an 8-module unified toolkit.* |
-| ➕ | **Edusemi-Plus**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus) | [💠 半導体] [🧪 材料] [🧠 AI] [💰 投資] [🌍 地政学] [🏭 産業] | **材料・AI・産業・地政学・投資**の視点で半導体と社会構造を結ぶ**拡張教材**<br>*An extended learning resource linking semiconductors and social structures from the perspectives of **materials, AI, industry, geopolitics, and investment**.* |
-| 🎛️ | **EduController**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController) | [🎛️ 制御] [🧠 AI] | **PID制御〜LLM統合** までを扱う **制御×AI教材**<br>*A Control × AI learning resource covering from **PID control to LLM integration**.* |
-| ⚙️ | **EduMecha**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduMecha) | [⚙️ 機械] | **Creoによる機械設計演習**（筐体構造設計）<br>*Mechanical design exercises using **Creo** (enclosure structure design).*<br>⚠️ Creoの演習ファイルはありません。<br>*⚠️ Creo practice files are not included.* |
-| 🎓 | **EduLms**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduLms) | [🎓 教育] | **品質・環境・技能訓練**を統合した **LMS対応教材**<br>*LMS-ready learning material integrating **quality, environment, and skill training**.* |
-| 🤖 | **AITL-H**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) | [🧠 AI] [🎛️ 制御] | **FSM × PID × LLM** による **三層型知能制御アーキテクチャ**<br>⚠️ 開発・検証中<br>*A **three-layer intelligent control architecture** combining FSM × PID × LLM. ⚠️ Under development and testing.* |
-| 🖨️ | **Inkjet**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Inkjet) | [🛠 製品技術] | **インクジェット構造・駆動波形・評価データ** のアーカイブ<br>*An archive of **inkjet structures, drive waveforms, and evaluation data**.* |
-| 💰 | **AssetPortfolio**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) | [💰 投資] | **ETF・NISA** を活用した **技術者向け資産運用教材**<br>*Investment learning material for engineers using **ETFs and NISA**.* |
-| 🎮 | **Rekiden**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Rekiden) | [🏯 歴史] [🧠 AI] | ChatGPT連携の **歴史シミュレーション教材**<br>*A history simulation learning resource integrated with ChatGPT.* |
-| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **AITL (AI-Integrated Transition & Loop)** を中核とし、**教育 × 制御 × AI × 物理制約** を統合した **国家戦略提言**。<br>PoC実測（半導体・ロボット・宇宙）に基づき、**国際標準化・経済安全保障・人材育成**を同時推進する。<br>⚠️ Draft段階<br>*A **national strategy proposal** centered on **AITL (AI-Integrated Transition & Loop)**, integrating **Education × Control × AI × Physical constraints**. Grounded in PoC validations (semiconductors, robotics, space), it simultaneously advances **international standardization, economic security, and talent development**. ⚠️ Draft stage.* |
+[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)  
+[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x)
 
 ---
 
-## 🧠 AITL統合思想の背景
-*🧠 Background of AITL’s Integrated Philosophy*
+## 2️⃣ SemiDevKit
+**デバイス物理 → モデル → SPICE → 信頼性 → レイアウトまで一貫して再現できる実装スイート**  
+*A unified toolkit reproducing device physics, compact modeling, SPICE analysis, reliability evaluation, and layout.*
 
-**AITL (AI-Integrated Transition & Loop)** は、  
-**PID制御 × FSM遷移 × LLM再設計** を統合した三層アーキテクチャです。  
-これにより、**物理制約を取り込んだリアルタイム設計・制御・再設計** が可能となります。  
+- Poisson / Drift-Diffusion solver  
+- BSIM4 モデル生成  
+- SPICE解析（DC/AC, I–V, C–V, NBTI/HCI）  
+- OpenLane-Lite によるレイアウト生成  
 
-**Samizo-AITL** は、このAITL思想を基盤に、  
-**半導体 × 制御 × AI** を有機的に結びつけ、  
-*Samizo-AITL builds on this AITL concept to organically integrate **Semiconductors × Control × AI**,*  
-
-「**物理現象の構造を読み解き、PoCで検証し、AIで設計を支援する**」という一連のプロセスを  
-*forming a unified process of **analyzing physical structures, verifying with PoCs, and supporting design with AI**,*  
-
-**教育・構想・設計** に展開するためのフレームワークです。  
-*which serves as a framework to extend into **education, conceptualization, and design**.*
-
-> 📘 本プロジェクト群で公開している教材やPoCは、**ハイブリッドライセンス方式**のもと公開しています。  
-> *📘 The teaching materials and PoCs released in this project group are published under a **hybrid licensing scheme**.*  
-> - **コード (Code)** : [MIT License](https://opensource.org/licenses/MIT)  
->   （自由に使用・改変・再配布可）  
->   *Free to use, modify, and redistribute*  
-> - **教材テキスト (Text materials)** : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
->   （著者表示必須）  
->   *Attribution required*  
-> - **図表・イラスト (Figures & diagrams)** : [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
->   （非商用利用のみ可）  
->   *For non-commercial use only*  
-> - **外部引用 (External references)** : 元ライセンスに従う（引用元を明記）  
->   *Follow the original license (cite the source explicitly)*  
-{: .annotation-narrow}
-
-> 💡 中核教材である [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/) は、筆者の**実務経験と研究成果に基づき再構成された教育用カリキュラム**であり、特定の製品や企業活動とは一切関係ありません。  
-> *💡 The core material [**Edusemi-v4x**](https://samizo-aitl.github.io/Edusemi-v4x/) is an **educational curriculum reconstructed from the author’s practical experience and research results**, and is not related to any specific products or corporate activities.*  
-{: .annotation-narrow}
+[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)  
+[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
 
 ---
 
-## 📘 中核教材・PoCの構造的整理
-*📘 Structural Organization of Core Materials & PoCs*
+## 3️⃣ Edusemi-Plus（技術拡張教材）
+**Edusemi-v4x・SemiDevKit を補強する材料・産業・装置の拡張教材**  
+*Technical extension material supporting the main semiconductor curriculum.*
 
-| アイコン | プロジェクト名 | 分野 | 内容 |
-|----------|----------------|------|------|
-| 🎓 | **Edusemi-v4x**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x) | [💠 半導体] [🎓 教育] | **半導体プロセス・デバイス・設計・テスト・信頼性** を体系的に学べる基盤教材。<br>*A foundational material to systematically learn **semiconductor processes, devices, design, testing, and reliability**.* |
-|  |┗ 📦 **SystemDK編（特別編 第2a章）**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/f_chapter2a_systemdk) | [🧪 PoC] | **SI/PI・熱・応力・EMI/EMC** の物理制約を統合設計し、**GAA / AMS / MRAM** を活用した異種統合PoCを扱う特別編教材（Edusemi-v4x内包）<br>*A special edition material (within Edusemi-v4x) that integrates physical constraints of **SI/PI, thermal, stress, and EMI/EMC**, and handles heterogeneous integration PoCs utilizing **GAA / AMS / MRAM**.* |
-| 🎛️ | **EduController**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController) | [🎛️ 制御] [🧠 AI] | **FSM・PID・LLM制御** を段階的に学ぶ教材と、**HDL記述テンプレート** 一式。<br>※Verilog/Cコード生成はAI支援、筆者は制御構成を担当<br>*A learning material to study **FSM, PID, and LLM control** step by step, along with a full set of **HDL description templates**. (Verilog/C code generation is AI-assisted; the control design is by the author.)* |
-|  | ┗ 📦 **SoC_DesignKit**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/SoC_DesignKit_by_ChatGPT/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController/tree/main/SoC_DesignKit_by_ChatGPT) | [🎛️ 制御] [🧠 AI] | SoC設計用の**HDLテンプレート集**（AI支援生成を含む）<br>*A collection of **HDL templates** for SoC design (including AI-assisted generation).* |
-| 🤖 | **AITL-H**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H) | [🧠 AI] [🎛️ 制御] [🧪 PoC] | **三層型知能制御アーキテクチャ（FSM×PID×LLM）** を概念実証（PoC）として再現可能な統合教材<br>⚠️ 開発・検証中<br>*An integrated learning material enabling reproducible PoCs of a **three-layer intelligent control architecture (FSM × PID × LLM)**. ⚠️ Under development/testing.* |
-|  | ┗ 📦 **PoCマニュアル**<br>[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/docs/)<br>[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H/tree/main/docs) | [🧠 AI] [🎛️ 制御] [🧪 PoC] | AITL-HのPoC手順書・構成解説<br>*A manual and structural explanation for AITL-H PoCs.* |
+- SiC / GaN / 材料工学  
+- PCB / パッケージング  
+- Fab / EUV / 製造装置  
+- 半導体産業構造（技術に直結する部分）  
 
----
-
-## 🧩 半導体 × 制御 × AI × 教材群を統合したフレームワーク
-*🧩 An Integrated Framework of Semiconductors × Control × AI × Educational Materials*
-
-```mermaid
-flowchart TD
-    A[🎓 Edusemi-v4x<br/>半導体SoC設計の基盤教材<br/><i>Foundational material for semiconductor SoC design</i>]
-        --> B[🎛️ EduController<br/>制御理論 × AI × SoC設計<br/><i>Control theory × AI × SoC design</i>]
-        --> C[🤖 AITL-H<br/>知能制御アーキテクチャ & PoC<br/><i>Intelligent control architecture & PoC</i>]
-        --> D[🏛️ AITL-Strategy-Proposal<br/>半導体 × 制御 × AI × 教材群を統合したフレームワーク<br/><i>A framework integrating semiconductors × control × AI × educational materials</i>]
-
-    style A fill:#e6f0ff,stroke:#3366cc,stroke-width:2.5px
-    style B fill:#fff7e6,stroke:#ff9900,stroke-width:2.5px
-    style C fill:#f0e6ff,stroke:#6633cc,stroke-width:2.5px
-    style D fill:#e8fff0,stroke:#2a8f6a,stroke-width:2.5px
-```
----
-
-## 🏛️ 提言・連携・国際協働に向けて
-*🏛️ Towards Proposals, Collaboration, and International Cooperation*
-
-| アイコン | プロジェクト名 | 分野 | 内容 |
-|----------|----------------|------|------|
-| 🏛️ | **AITL-Strategy-Proposal**<br>[![🌐 GitHub Pages](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-Strategy-Proposal/)<br>[![💻 GitHub Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-Strategy-Proposal) | [📑 政策提言] | **AITL (AI-Integrated Transition & Loop)** を中核とし、**教育 × 制御 × AI × 物理制約** を統合した **国家戦略提言**。<br>PoC実測（半導体・ロボット・宇宙）に基づき、**国際標準化・経済安全保障・人材育成**を同時推進する。<br>⚠️ Draft段階<br>*A **national strategy proposal** centered on **AITL (AI-Integrated Transition & Loop)**, integrating **Education × Control × AI × Physical constraints**. Grounded in PoC validations (semiconductors, robotics, space), it simultaneously advances **international standardization, economic security, and talent development**. ⚠️ Draft stage.* |
+[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/)  
+[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus)
 
 ---
 
-## 📚 補足資料・更新履歴
-*📚 Supplementary Materials & Update History*
+# 🎛️ Applied Layer（制御 × AI / 応用層）
 
-| アイコン | 項目 | 内容 |
-|----------|------|------|
-| 🕘 | **更新履歴**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/) | 教材の **更新履歴・構成変更ログ**<br>*Update logs and structural change records of the materials.* |
-| 🧠 | **ChatGPT活用レベル診断**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/chatgpt-skill-eval/) | LLM活用スキル（レベル5）評価レポート。構造設計・記憶活用・教材生成の観点から評価。<br>*Evaluation report of LLM utilization skills (Level 5), assessed from perspectives of structural design, memory use, and material generation.* |
-| 📋 | **Geminiレビュー**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/gemini-review/) | **Google Gemini** による **教材評価レポート**<br>*An **educational evaluation report** by Google Gemini.* |
+## EduController（SoC_DesignKit 含む）
+**PID・FSM・LLM を統合した制御教材**  
+*Integrated learning materials for PID, FSM, and LLM-based adaptive control.*
 
----
-
-## 👤 執筆者情報 / Author
-
-| **項目 / Item** | **内容 / Details** |
-|-----------------|--------------------|
-| **氏名 / Name** | **三溝 真一**（Shinichi Samizo） |
-| **肩書 / Title** | **独立系半導体研究者**<br>*Independent Semiconductor Researcher* |
-| **学歴 / Education** | **信州大学大学院 電気電子工学** 修了<br>*M.S. in Electrical and Electronic Engineering, Shinshu University* |
-| **経歴 / Career** | 元 **セイコーエプソン**株式会社 技術者（1997年〜）<br>*Former engineer at Seiko Epson Corporation (since 1997)* |
-| **✉️ Email** | [![Email](https://img.shields.io/badge/Email-shin3t72%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shin3t72@gmail.com) |
-| **🐦　X** | [![X](https://img.shields.io/badge/X-@shin3t72-black?style=for-the-badge&logo=x)](https://x.com/shin3t72) |
-| **💻 GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-blue?style=for-the-badge&logo=github)](https://github.com/Samizo-AITL) |
+[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)  
+[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController)
 
 ---
 
-## 📌 キャリア要約 / Career Summary
+## AITL-H（PoC）
+**PID × FSM × LLM の三層アーキテクチャを再現可能なPoC教材**  
+*A reproducible PoC for a three-layer intelligent control architecture.*
 
-[![📄 View Career Summary](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/career-summary/)  
-**三溝真一（Shinichi Samizo）** の技術経歴と専門分野をまとめた詳細レポートです。  
-*Detailed report summarizing the technical career and expertise of **Shinichi Samizo**.*
-
-- **半導体デバイス**（ロジック・メモリ・高耐圧混載）  
-  ***Semiconductor devices** (logic, memory, high-voltage mixed integration)*  
-- インクジェット**薄膜ピエゾ**アクチュエータ  
-  *Inkjet **thin-film piezo** actuators*  
-- **PrecisionCoreプリントヘッド**製品化・BOM管理・ISO教育  
-  *Commercialization of **PrecisionCore printheads**, BOM management, and ISO training*  
-- 教材設計・PoC構築・AI活用設計支援  
-  *Educational material design, PoC development, and AI-assisted design support*  
+[![🌐 View Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/)  
+[![💻 View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H)
 
 ---
 
-## 🚩 フラグシップPoC：人型ロボット制御  
-*🚩 Flagship PoC: Humanoid Robot Control*
+# 🏛️ Integration Layer（社会・構想層）
+※ 旧 Strategy は古いため、**新しい戦略リポジトリを後日構築予定**。
 
-> ⚠️ **注記 / Note**  
-> 本図は **教育・PoC目的の概念図** であり、**安定性・応答設計は制御理論（例：PID）を前提**としています。  
-> **FSM/LLMは外層の監督・適応層**であり、制御ループの安定性保証の対象外です。  
-> ノード構成・性能表現は **検討中／例示** を含み、今後の検証で変更される可能性があります。  
-> **機密情報は一切含みません**（公開情報・基礎原理・筆者の経験に基づく）。  
-> *This figure is a **conceptual, education/PoC-oriented** diagram. **Stability and response rely on control theory (e.g., PID)**, while **FSM/LLM act as supervisory/adaptive layers**.  
-> Node choices and performance are illustrative and subject to change. **No confidential information** is included (based on public info, fundamentals, and the author’s experience).*
+---
 
-本図は **Samizo-AITL戦略の象徴的フラグシップPoC** として設計された「人型ロボット制御」の概念図です。  
-22nm SoC・0.18µm AMS・0.35µm LDMOS・エネルギーハーベストを跨ぐ **クロスノード設計** を採用し、  
-**先端ノードとレガシーノードを統合**することで、**経済安全保障・供給網強靭化・低コスト実装**にも資するアーキテクチャを示しています。  
+# 📚 Supplementary Layer（補助・周辺プロジェクト）
 
-さらに、**SystemDKによる物理制約解析（熱・応力・EMI・遅延）** と、  
-**AITL三層制御（PID × FSM × LLM）** を統合し、  
-従来型EDAでは実現できなかった **Runtime Physics-Aware DTCO** を実証する枠組みを提示しています。  
+| プロジェクト | 内容 | Badges |
+|--------------|------|--------|
+| **EduMecha** | 機械設計（Creo） | [![🌐](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
+| **Inkjet** | 薄膜ピエゾ構造アーカイブ | [![🌐](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
+| **SamizoGPT** | プロンプト体系・AI活用 | [![🌐](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/) |
+| **SemiTechBot** | 半導体Q&A Bot | [![🌐](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) |
+| **Rekiden** | 歴史 × AI 教材 | [![🌐](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) |
+| **AssetPortfolio** | 技術者向け投資教材 | [![🌐](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) |
 
-*This figure illustrates the **flagship PoC of the Samizo-AITL strategy**, showcasing humanoid robot control.  
-It integrates a **cross-node design** spanning 22nm SoC, 0.18µm AMS, and 0.35µm LDMOS with energy harvesting—  
-linking **advanced and legacy nodes** to contribute to **economic security, supply chain resilience, and cost efficiency**.  
+---
 
-By combining **SystemDK-based physical constraint analysis (thermal, stress, EMI, delay)**  
-with **AITL three-layer control (PID × FSM × LLM)**,  
-it demonstrates a framework for **runtime, physics-aware DTCO** beyond conventional EDA flows.*
+# 👤 Author（現行情報を保持）
 
-<p align="center">
-  <img src="./images/Samizo_AITL_Humanoid_PoC.png" alt="Humanoid PoC" width="80%">
-</p>
+| 項目 | 内容 |
+|------|-------|
+| **氏名 / Name** | **三溝 真一（Shinichi Samizo）** |
+| **肩書 / Title** | **独立系半導体研究者** |
+| **Email** | [shin3t72@gmail.com](mailto:shin3t72@gmail.com) |
+| **X (Twitter)** | https://x.com/shin3t72 |
+| **GitHub** | https://github.com/Samizo-AITL |
+| **Career Summary** | https://samizo-aitl.github.io/about/career-summary/ |
 
-<p align="center" style="margin:0.5rem 0 0;">
-  <a href="https://samizo-aitl.github.io/AITL-H/PoC/humanoid/"
-     style="display:inline-block;padding:10px 16px;border:1px solid #888;border-radius:6px;
-            text-decoration:none;font-weight:600;">
-    🚩 フラグシップPoC：人型ロボット / <em>Flagship PoC: Humanoid Robot</em> →
-  </a><br>
-  <em>Go to the PoC index page</em>
-</p>
+---
+
+# 🕘 Update Log  
+更新履歴はこちら：  
+https://samizo-aitl.github.io/about/update/
