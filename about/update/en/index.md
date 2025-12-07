@@ -13,6 +13,7 @@ including GitHub Pages site updates, new materials, structural revisions, and RE
 
 | Date       | Description                                                                 |
 |------------|-----------------------------------------------------------------------------|
+| 2025-12-07 | Fully restructured the Samizo-AITL Portal.<br>• Redefined the three core repositories as **Edusemi-v4x / SemiDevKit / Edusemi-Plus**<br>• Completely redesigned the top page into a three-layer structure (Core / Applied / Supplement)<br>• Added JP/EN language-switch badges directly below the hero section<br>• Streamlined the Author and Update Log sections<br>• Refined all project descriptions and unified the visual design<br>• Marked the old AITL-Strategy-Proposal repository as “to be renewed” for a future update |
 | 2025-12-06 | Added SemiDevKit — an integrated 8-module educational suite covering device physics → BSIM4 compact modeling → SPICE simulation → reliability (NBTI/HCI) → VLSI physical design |
 | 2025-08-26 | Replaced the final **Flagship PoC: Humanoid Robot Control** illustration on the portal site with a new figure showing **cross-node design + integrated control architecture** |
 | 2025-08-23 | Portal site layout updated (navigation structure improved, unified display) |
