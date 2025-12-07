@@ -115,10 +115,10 @@ Additional repositories that complement the core and applied layers.
 | **Title** | Independent Semiconductor Researcher |
 | **Links** | [![Email](https://img.shields.io/badge/Email-shin3t72%40gmail.com-red?logo=gmail)](mailto:shin3t72@gmail.com) [![X](https://img.shields.io/badge/X-@shin3t72-black?logo=x)](https://x.com/shin3t72) [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-blue?logo=github)](https://github.com/Samizo-AITL) |
 
-[![📄 Career Summary](https://img.shields.io/badge/View-Career_Summary-orange?logo=markdown)](https://samizo-aitl.github.io/about/career-summary/)
+[![📄 Career Summary](https://img.shields.io/badge/View-Career_Summary-orange?logo=markdown)](https://samizo-aitl.github.io/about/career-summary/en/)
 
 ---
 
 # 🕘 Update Log
 
-[![📄 View Update Log](https://img.shields.io/badge/View-Update_Log-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/)
+[![📄 View Update Log](https://img.shields.io/badge/View-Update_Log-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/en/)
