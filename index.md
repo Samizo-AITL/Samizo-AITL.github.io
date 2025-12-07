@@ -110,3 +110,10 @@ AITL（AI × 制御 × LLM）は、
   *Commercialization of **PrecisionCore printheads**, BOM management, and ISO training*  
 - 教材設計・PoC構築・AI活用設計支援  
   *Educational material design, PoC development, and AI-assisted design support*  
+
+## 📚 更新履歴
+*📚 Supplementary Materials & Update History*
+
+| アイコン | 項目 | 内容 |
+|----------|------|------|
+| 🕘 | **更新履歴**<br>[![📄 View Doc](https://img.shields.io/badge/View-Doc-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/) | 教材の **更新履歴・構成変更ログ**<br>*Update logs and structural change records of the materials.* |
