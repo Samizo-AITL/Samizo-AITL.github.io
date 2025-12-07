@@ -82,15 +82,3 @@ AITL（AI × 制御 × LLM）は、
 
 ---
 
-# 👤 Author
-
-[![👤 Author Profile](https://img.shields.io/badge/Profile-Author-orange?logo=github)](https://samizo-aitl.github.io/about/career-summary/)  
-[![🐦 X (Twitter)](https://img.shields.io/badge/X-@shin3t72-black?logo=x)](https://x.com/shin3t72)  
-[![📧 Email](https://img.shields.io/badge/Email-shin3t72@gmail.com-red?logo=gmail)](mailto:shin3t72@gmail.com)  
-[![💻 GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-blue?logo=github)](https://github.com/Samizo-AITL)
-
----
-
-# 🕘 Update Log
-
-[![📄 View Update Log](https://img.shields.io/badge/View-Update_Log-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/)
