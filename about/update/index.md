@@ -14,6 +14,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2025-12-08 | **AITL-Controller（PID × FSM × LLM 三層制御アーキテクチャ）を新規追加。**<br>・GitHubリポジトリ公開<br>・Pythonパッケージ構成（src/aitl_controller）確立<br>・4つのデモ（simple/disturbance/tracking/tuning）追加<br>・pytestテストスイート整備<br>・GitHub Pages（docs/）公開<br>・最小動作例、アーキテクチャ図、README整備 |
 | 2025-12-07 | Samizo-AITLポータルを全面再構成。<br>・中核教材を **Edusemi-v4x / SemiDevKit / Edusemi-Plus** の3本柱に再定義<br>・Topページ構成を全面刷新（Core / Applied / Supplementの3層構造）<br>・言語切替バッジ（JP/EN）をHero直下に導入<br>・Author/Update Logセクションを軽量化<br>・全プロジェクト説明を整理し、統一デザインに再編<br>・旧AITL-Strategy-Proposalは今後リニューアル予定として位置付け |
 | 2025-12-06 | SemiDevKit（半導体8モジュール統合教材スイート）をポートフォリオに追加 |
 | 2025-08-26 | ポータルサイト末尾の **フラッグシップPoC（人型ロボット制御）** 図解を差し替え（クロスノード設計＋制御アーキテクチャ統合図を採用） |
