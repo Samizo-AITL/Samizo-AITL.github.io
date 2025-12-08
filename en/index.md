@@ -78,12 +78,17 @@ AI-assisted adaptation, and HDL generation templates for SoC implementations.
 
 ---
 
-## AITL-Controller (Lightweight Python Implementation)
-A minimal and clean Python implementation of the  
-**AITL three-layer control architecture: PID × FSM × LLM**.
+## AITL-Controller
 
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller/)
+**Prototype controller using a three-layer structure  
+(PID × FSM × LLM), implemented in minimal Python.**
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller)
+![Status](https://img.shields.io/badge/Status-Under_Review-orange)
+
+> ⚠️ **Experimental / Under Review**  
+> Concept prototype only. Not for production use.
 
 ---
 
