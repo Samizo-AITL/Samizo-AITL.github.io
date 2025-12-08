@@ -78,8 +78,6 @@ AI-assisted adaptation, and HDL generation templates for SoC implementations.
 
 ---
 
----
-
 ## AITL-Controller (Lightweight Python Implementation)
 A minimal and clean Python implementation of the  
 **AITL three-layer control architecture: PID × FSM × LLM**.
