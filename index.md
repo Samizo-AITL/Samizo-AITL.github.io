@@ -79,6 +79,23 @@ Main Core を活用し、“動きをつくる・適応させる” 応用技術
 ---
 
 ## AITL-Controller
+
+**PID × FSM × LLM の三層制御アーキテクチャを  
+最小構成の Python 実装として試作した「実験用コントローラ」。**
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller)
+![Status](https://img.shields.io/badge/Status-内容検証中-orange)
+
+> ⚠️ **内容検証中 / Experimental**
+>
+> このリポジトリは、PID（閉ループ制御）・FSM（モード監督）・LLM（パラメータ初期化）を組み合わせた  
+> AITL アーキテクチャの **コンセプト検証用プロトタイプ** です。  
+> 多次元制御系やロバスト制御理論（H∞ 等）と同等の性能・保証は一切ありません。  
+> 制御設計や実機適用の「参考」にとどめ、V–I 特性を含む実プラントへの適用時には  
+> 必ず別途検証・安全設計を行ってください。
+
+## AITL-Controller
 **PID × FSM × LLM の三層制御アーキテクチャを  
 最小構成の Python 実装として提供する軽量コントローラ。**
 
