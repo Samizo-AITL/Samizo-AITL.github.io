@@ -78,6 +78,15 @@ Main Core を活用し、“動きをつくる・適応させる” 応用技術
 
 ---
 
+## AITL-Controller
+**PID × FSM × LLM の三層制御アーキテクチャを  
+最小構成の Python 実装として提供する軽量コントローラ。**
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller)
+
+---
+
 ## AITL-H（PoC）
 **PID × FSM × LLM の三層アーキテクチャの概念実証（PoC）教材。**
 
