@@ -83,7 +83,7 @@ AI-assisted adaptation, and HDL generation templates for SoC implementations.
 **Prototype controller using a three-layer structure  
 (PID × FSM × LLM), implemented in minimal Python.**
 
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controlle-a-type)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controlle-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
 
 ---
