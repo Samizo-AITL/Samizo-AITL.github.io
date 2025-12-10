@@ -85,10 +85,6 @@ AI-assisted adaptation, and HDL generation templates for SoC implementations.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controlle-a-type)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
-![Status](https://img.shields.io/badge/Status-Under_Review-orange)
-
-> ⚠️ **Experimental / Under Review**  
-> Concept prototype only. Not for production use.
 
 ---
 
