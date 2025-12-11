@@ -108,6 +108,7 @@ Main Core を活用し、“動きをつくる・適応させる” 応用技術
 |--------------|------|------|
 | **EduMecha** | Creoを用いた機械設計教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
 | **Inkjet** | 薄膜ピエゾ構造アーカイブ | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
+| **EduLms** | 統合型学習管理システム（ISO教育・品質教育） | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
 | **SamizoGPT** | プロンプト体系・AI活用 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/) |
 | **SemiTechBot** | 半導体Q&Aチャットボット | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) |
 | **Rekiden** | 歴史 × AI シミュレーション教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) |
