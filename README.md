@@ -82,7 +82,7 @@ Main Core を活用し、“動きをつくる・適応させる” 応用技術
 
 ---
 
-## AITL Silicon Pathway
+## AITL-Silicon-Pathway
 
 **PID × FSM × LLM 三層制御アーキテクチャを  
 Python → RTL → GDSII → SPICE まで実装する「制御 × ASIC」教材。**  
