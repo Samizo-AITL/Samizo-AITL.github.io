@@ -82,6 +82,17 @@ Main Core を活用し、“動きをつくる・適応させる” 応用技術
 
 ---
 
+## AITL Silicon Pathway
+
+**PID × FSM × LLM 三層制御アーキテクチャを  
+Python → RTL → GDSII → SPICE まで実装する「制御 × ASIC」教材。**  
+※ 現在作成中（Chapter 1 公開済、以降順次追加）
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-silicon-pathway/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-silicon-pathway)
+
+---
+
 ## AITL-H（PoC）
 **PID × FSM × LLM の三層アーキテクチャの概念実証（PoC）教材。**
 
