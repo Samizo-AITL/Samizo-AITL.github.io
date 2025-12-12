@@ -88,6 +88,17 @@ AI-assisted adaptation, and HDL generation templates for SoC implementations.
 
 ---
 
+## AITL-Silicon-Pathway
+
+A hands-on educational project that implements the **AITL control architecture**  
+from Python models down to **RTL, ASIC layout, and SPICE-level analysis**.  
+*(Currently under development — Chapter 1 released, subsequent chapters in progress)*
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-silicon-pathway/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-silicon-pathway)
+
+---
+
 ## AITL-H (PoC)
 A reproducible proof-of-concept implementation of the **AITL three-layer control architecture**  
 based on PID × FSM × LLM.
