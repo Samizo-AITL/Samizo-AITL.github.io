@@ -29,7 +29,7 @@ Samizo-AITL の中心となる 3 リポジトリ。
 
 ---
 
-## 1️⃣ Edusemi-v4x（SystemDK 含む）
+## 1️⃣ Edusemi-v4x
 **半導体プロセス・デバイス・設計を体系的に学べる基幹教材。**  
 構造、物理、回路設計、PDK、さらに SystemDK による **熱・応力・SI/PI・EMI** の物理制約解析まで網羅。
 
@@ -63,7 +63,7 @@ Main Core を活用し、“動きをつくる・適応させる” 応用技術
 
 ---
 
-## EduController（SoC_DesignKit 含む）
+## EduController
 **PID・FSM・LLM を統合した知能制御教材。**  
 制御工学の基礎から、AI適応・HDLテンプレート生成まで扱う。
 
