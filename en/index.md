@@ -35,7 +35,7 @@ They form a complete conceptual map of semiconductor device technology.
 
 ---
 
-## 1️⃣ Edusemi-v4x (with SystemDK)
+## 1️⃣ Edusemi-v4x 
 A **systematic and comprehensive curriculum** covering semiconductor processes, devices, PDKs, circuit basics, and  
 SystemDK-based physical analyses including **thermal, stress, SI/PI, and EMI constraints**.
 
@@ -69,7 +69,7 @@ Technologies that apply the semiconductor foundation to **dynamic systems, contr
 
 ---
 
-## EduController (includes SoC_DesignKit)
+## EduController 
 A structured learning resource covering PID control, FSM design,  
 AI-assisted adaptation, and HDL generation templates for SoC implementations.
 
