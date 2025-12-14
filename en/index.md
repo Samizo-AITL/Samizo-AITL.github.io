@@ -120,6 +120,29 @@ but as a **thinking framework** for separating control, judgment, and redesign.
 
 ---
 
+---
+
+## vi-control-asic-sky130
+A **hands-on educational control ASIC** demonstrating a complete flow from
+**control theory to silicon**, using **PID + FSM** and a **digital-only RTL → GDS**
+implementation on **OpenLane + SKY130**.
+
+Key characteristics:
+
+- Voltage–Current (V–I) based digital control
+- Fixed-point PID implementation with explicit saturation
+- FSM-based safety supervision
+- PWM generation
+- Full open-source RTL-to-GDS flow
+
+This repository highlights the **fundamental differences between MCU-based control
+and ASIC-based deterministic control**, with clarity and reproducibility as primary goals.
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/vi-control-asic-sky130/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/vi-control-asic-sky130)
+
+---
+
 # 📚 Supplementary Layer (Experiments & Supporting Materials)
 Repositories that support, extend, or experimentally explore ideas introduced in the core and applied layers.
 
