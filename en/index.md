@@ -14,30 +14,35 @@ description: A structured portal for understanding the full landscape of semicon
 
 ---
 
-**The Samizo-AITL Portal** is a comprehensive learning platform created by Shinichi Samizo,  
-aimed at providing a **structured understanding of semiconductor device technology**—  
-from physical structures and materials to device physics, compact models, circuits, reliability, and manufacturing ecosystems.
+The **Samizo-AITL Portal** is an integrated educational platform created by **Shinichi Samizo**,  
+designed to provide a **structured and realistic understanding of semiconductor device technology**.
 
-This portal is built around three core repositories:
+The primary focus of this portal is **semiconductor devices themselves**—  
+their physical structures, operating principles, manufacturing processes, compact models,  
+circuit integration, reliability, and industrial ecosystems.
 
-- **Edusemi-v4x — foundational framework**
-- **SemiDevKit — physical modeling & implementation**
-- **Edusemi-Plus — extended semiconductor domains**
-
-AITL (AI × Control × LLM) serves as the **Applied Layer**,  
-leveraging these semiconductor foundations to create intelligent dynamic systems.
+AI, control theory, and LLM-related topics are treated as **secondary, applied concepts**,  
+introduced only where they help organize design thinking or extend existing engineering workflows.
 
 ---
 
 # 🧩 Main Core (Foundational Repositories)
-The central components of Samizo-AITL.  
-They form a complete conceptual map of semiconductor device technology.
+The core repositories form a **complete conceptual map of semiconductor device technology**,  
+from physics to manufacturing and system-level constraints.
 
 ---
 
-## 1️⃣ Edusemi-v4x 
-A **systematic and comprehensive curriculum** covering semiconductor processes, devices, PDKs, circuit basics, and  
-SystemDK-based physical analyses including **thermal, stress, SI/PI, and EMI constraints**.
+## 1️⃣ Edusemi-v4x
+A **systematic curriculum** covering semiconductor devices and processes, including:
+
+- Device structures and operating physics  
+- Process integration flows  
+- Compact models and PDK concepts  
+- Circuit-level fundamentals  
+- SystemDK-based physical constraints  
+  (thermal, stress, SI/PI, EMI)
+
+This repository serves as the **primary backbone** of the portal.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x)
@@ -45,9 +50,15 @@ SystemDK-based physical analyses including **thermal, stress, SI/PI, and EMI con
 ---
 
 ## 2️⃣ SemiDevKit
-A **fully integrated device development kit** that spans  
-Poisson/Drift-Diffusion simulation, BSIM4 compact modeling, SPICE simulation,  
-NBTI/HCI reliability analysis, and physical layout using OpenLane-Lite.
+An **implementation-oriented device development kit** that bridges theory and practice:
+
+- Poisson / Drift–Diffusion solvers  
+- BSIM4 compact modeling  
+- SPICE simulation  
+- NBTI / HCI reliability analysis  
+- Physical layout using OpenLane-Lite  
+
+This kit emphasizes **how physical models become real circuits**.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
@@ -55,23 +66,38 @@ NBTI/HCI reliability analysis, and physical layout using OpenLane-Lite.
 ---
 
 ## 3️⃣ Edusemi-Plus
-A comprehensive extension material that connects semiconductor fundamentals with  
-**materials, packaging, PCB, advanced fabs, global supply chains, equipment, and industrial structures**.  
-It complements and expands the core technical understanding.
+Extended materials connecting semiconductor fundamentals with surrounding domains:
+
+- Advanced materials (SiC, GaN, etc.)  
+- Packaging and PCB considerations  
+- Manufacturing equipment and fabs  
+- Supply chains and industrial structures  
+
+This repository **extends** the core technical framework without replacing it.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus)
 
 ---
 
-# 🎛️ Applied Layer (Control × AI × LLM)
-Technologies that apply the semiconductor foundation to **dynamic systems, control, and intelligence**.
+# 🎛️ Applied Layer (Control & AI – Applied Concepts)
+This layer explores how the semiconductor foundation can be applied to  
+**dynamic systems and control problems**, while respecting established engineering practices.
+
+Conventional control theory (PID, FSM) remains the **primary method**,  
+with AI/LLM treated as **design and analysis aids**, not replacements.
 
 ---
 
-## EduController 
-A structured learning resource covering PID control, FSM design,  
-AI-assisted adaptation, and HDL generation templates for SoC implementations.
+## EduController
+An educational resource focused on **control fundamentals**, including:
+
+- PID control principles  
+- FSM-based supervisory logic  
+- Control-oriented design thinking  
+- Optional HDL template generation for SoC contexts  
+
+The goal is **conceptual clarity**, not proposing new control paradigms.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController)
@@ -79,52 +105,37 @@ AI-assisted adaptation, and HDL generation templates for SoC implementations.
 ---
 
 ## AITL-Controller-A-Type
+A **minimal experimental controller** implemented in Python,  
+used to explore a three-layer separation:
 
-**Prototype controller using a three-layer structure  
-(PID × FSM × LLM), implemented in minimal Python.**
+- Control (PID)  
+- Decision / supervision (FSM)  
+- Design assistance (LLM)
+
+This project is **not intended as a production-ready control solution**,  
+but as a **thinking framework** for separating control, judgment, and redesign.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
 
 ---
 
-## AITL-Silicon-Pathway
-
-A hands-on educational project that implements the **AITL control architecture**  
-from Python models down to **RTL, ASIC layout, and SPICE-level analysis**.  
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-silicon-pathway/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-silicon-pathway)
+# 📚 Supplementary Layer (Experiments & Supporting Materials)
+Repositories that support, extend, or experimentally explore ideas introduced in the core and applied layers.
 
 ---
-
-## AITL-H (PoC)
-A reproducible proof-of-concept implementation of the **AITL three-layer control architecture**  
-based on PID × FSM × LLM.
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/AITL-H)
-
----
-
-# 🏛️ Integration Layer (Concepts & Future Strategy)
-The previous Strategy repository will be replaced with a new framework that integrates  
-**Semiconductors × Control × AI × Physical Constraints** into a modern national-level technical strategy.
-
----
-
-# 📚 Supplementary Layer
-Additional repositories that complement the core and applied layers.
 
 | Project | Description | Link |
-|---------|-------------|------|
+|--------|-------------|------|
+| **AITL-Silicon-Pathway** | Experimental project connecting control concepts from Python to RTL, GDSII, and SPICE | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-silicon-pathway/) |
+| **AITL-H** | Proof-of-concept implementation of a three-layer (PID × FSM × LLM) architecture | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
 | **EduMecha** | Mechanical design exercises using Creo | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
 | **Inkjet** | Thin-film piezo actuator structures and analysis | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
-| **EduLms** | Integrated learning management system for ISO-based quality & environmental education | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
-| **SamizoGPT** | Prompt engineering & AI workflow templates | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/) |
-| **SemiTechBot** | Semiconductor Q&A chatbot | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) |
-| **Rekiden** | History × AI simulation material | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) |
-| **AssetPortfolio** | Investment guide for engineers (ETF/NISA) | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) |
+| **EduLms** | Learning management materials for ISO-based quality and environmental education | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
+| **SamizoGPT** | Prompt design and AI usage frameworks | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/) |
+| **SemiTechBot** | Semiconductor-focused Q&A chatbot | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) |
+| **Rekiden** | History × AI simulation materials | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) |
+| **AssetPortfolio** | Investment guide for engineers (ETF / NISA) | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) |
 
 ---
 
@@ -134,12 +145,11 @@ Additional repositories that complement the core and applied layers.
 |------|---------|
 | **Name** | Shinichi Samizo |
 | **Title** | Independent Semiconductor Researcher |
-| **Links** | [![Email](https://img.shields.io/badge/Email-shin3t72%40gmail.com-red?logo=gmail)](mailto:shin3t72@gmail.com) [![X](https://img.shields.io/badge/X-@shin3t72-black?logo=x)](https://x.com/shin3t72) [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-blue?logo=github)](https://github.com/Samizo-AITL) |
+| **Links** | [Email](mailto:shin3t72@gmail.com) · [X](https://x.com/shin3t72) · [GitHub](https://github.com/Samizo-AITL) |
 
-[![📄 Career Summary](https://img.shields.io/badge/View-Career_Summary-orange?logo=markdown)](https://samizo-aitl.github.io/about/career-summary/en/)
+[📄 Career Summary](https://samizo-aitl.github.io/about/career-summary/en/)
 
 ---
 
 # 🕘 Update Log
-
-[![📄 View Update Log](https://img.shields.io/badge/View-Update_Log-orange?logo=markdown)](https://samizo-aitl.github.io/about/update/en/)
+[📄 View Update Log](https://samizo-aitl.github.io/about/update/en/)
