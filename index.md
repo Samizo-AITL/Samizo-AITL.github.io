@@ -123,6 +123,19 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 
 ---
 
+## vi-control-asic-sky130
+**V–I 制御（PID + FSM）を RTL → GDS まで一気通貫で実装する  
+デジタル制御 ASIC 教材。**
+
+- 制御理論 → 固定小数点 → Verilog → OpenLane → SKY130
+- MCU 制御と ASIC 制御の決定的違いを可視化
+- 教育用途・実務試作の両立を目的とした最小構成
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/vi-control-asic-sky130/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/vi-control-asic-sky130)
+
+---
+
 # 📚 Supplementary Layer（補助・周辺教材）
 Main Core や Applied Layer を補完する周辺教材・試作・PoC 群。
 
