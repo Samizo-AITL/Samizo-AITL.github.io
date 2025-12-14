@@ -14,6 +14,9 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2025-12-09 | **Samizo-AITLポータルの思想整理およびAITL位置づけを再定義。**<br>・AITL（PID × FSM × LLM）を「制御手法」ではなく **設計・判断を整理する補助的フレーム**として再位置づけ<br>・半導体デバイス技術（構造・物理・プロセス・モデル）を主軸とする方針を明確化<br>・Topページ（JP/EN）にて「既存制御（PID/FSM）が十分機能する領域を尊重する」記述を追加<br>・AITLの誇張的表現（制御置換・万能性を示唆する表現）を削除・修正 |
+| 2025-12-09 | **ポータル構成の階層整理を実施（Applied / Supplementary 再編）。**<br>・AITL-Controller-A-Type を「実験用・思考整理用コントローラ」として明示<br>・**AITL-Silicon-Pathway / AITL-H を Applied Layer から Supplementary Layer へ移動**<br>・AITL関連教材を「補助・周辺教材」として整理し、主軸教材との役割分離を明確化 |
+| 2025-12-09 | **英語版ポータル（/en）を日本語版と同一思想で全面改訂。**<br>・AITLを「secondary / applied concept」として再定義<br>・Semiconductor device technology を主語とする記述へ全面修正<br>・“AITL control architecture” を研究・教育用フレームとして限定的に説明 |
 | 2025-12-08 | **AITL-Controller（PID × FSM × LLM 三層制御アーキテクチャ）を新規追加。**<br>・GitHubリポジトリ公開<br>・Pythonパッケージ構成（src/aitl_controller）確立<br>・4つのデモ（simple/disturbance/tracking/tuning）追加<br>・pytestテストスイート整備<br>・GitHub Pages（docs/）公開<br>・最小動作例、アーキテクチャ図、README整備 |
 | 2025-12-07 | Samizo-AITLポータルを全面再構成。<br>・中核教材を **Edusemi-v4x / SemiDevKit / Edusemi-Plus** の3本柱に再定義<br>・Topページ構成を全面刷新（Core / Applied / Supplementの3層構造）<br>・言語切替バッジ（JP/EN）をHero直下に導入<br>・Author/Update Logセクションを軽量化<br>・全プロジェクト説明を整理し、統一デザインに再編<br>・旧AITL-Strategy-Proposalは今後リニューアル予定として位置付け |
 | 2025-12-06 | SemiDevKit（半導体8モジュール統合教材スイート）をポートフォリオに追加 |
