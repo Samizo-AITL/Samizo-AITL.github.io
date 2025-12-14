@@ -148,7 +148,6 @@ Repositories that support, extend, or experimentally explore ideas introduced in
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **AITL-Silicon-Pathway** | Experimental project connecting control concepts from Python to RTL, GDSII, and SPICE | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-silicon-pathway/) |
 | **AITL-H** | Proof-of-concept implementation of a three-layer (PID × FSM × LLM) architecture | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
 | **EduMecha** | Mechanical design exercises using Creo | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
 | **Inkjet** | Thin-film piezo actuator structures and analysis | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
