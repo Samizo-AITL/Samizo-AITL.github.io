@@ -117,7 +117,7 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 
 ---
 
-## vi-control-asic-sky130
+## V-I Control ASIC on SKY130
 **V–I 制御（PID + FSM）を RTL → GDS まで一気通貫で実装する  
 デジタル制御 ASIC 教材。**
 
