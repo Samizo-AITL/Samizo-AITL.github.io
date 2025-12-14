@@ -120,7 +120,7 @@ but as a **thinking framework** for separating control, judgment, and redesign.
 
 ---
 
-## vi-control-asic-sky130
+## V-I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from
 **control theory to silicon**, using **PID + FSM** and a **digital-only RTL → GDS**
 implementation on **OpenLane + SKY130**.
