@@ -143,7 +143,6 @@ Main Core や Applied Layer を補完する周辺教材・試作・PoC 群。
 
 | プロジェクト | 内容 | Link |
 |--------------|------|------|
-| **AITL-Silicon-Pathway** | 制御構造を Python → RTL → GDSII → SPICE まで接続する実験教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-silicon-pathway/) |
 | **AITL-H** | PID × FSM × LLM 三層構造の概念実証（PoC） | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
 | **EduMecha** | Creo を用いた機械設計教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
 | **Inkjet** | 薄膜ピエゾ構造アーカイブ | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
