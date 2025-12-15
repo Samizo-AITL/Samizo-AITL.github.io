@@ -141,8 +141,7 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 設計思想・技術背景・途中検討の記録は Zenn にまとめています。  
 教材や実装の「なぜ」を補足する位置づけです。
 
-- 🔗 Zenn: Shinichi Samizo  
-  https://zenn.dev/samizo_aitl
+- 🔗 [Zenn: Shinichi Samizo](https://zenn.dev/samizo_aitl)
 
 ---
 
