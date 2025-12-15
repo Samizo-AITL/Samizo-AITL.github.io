@@ -141,6 +141,16 @@ and ASIC-based deterministic control**, with clarity and reproducibility as prim
 
 ---
 
+# 📝 Technical Notes (Zenn)
+
+Design concepts, technical background, and intermediate design considerations are documented on Zenn.  
+This serves as supplementary material explaining the *why* behind the educational content and implementations.
+
+- 🔗 Zenn: Shinichi Samizo  
+  https://zenn.dev/samizo_aitl
+
+---
+
 # 📚 Supplementary Layer (Experiments & Supporting Materials)
 Repositories that support, extend, or experimentally explore ideas introduced in the core and applied layers.
 
