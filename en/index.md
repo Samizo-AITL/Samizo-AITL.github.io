@@ -8,6 +8,8 @@ description: A structured portal for understanding the full landscape of semicon
 > **“A structured portal for understanding the full landscape of semiconductor device technology.”**  
 > *「半導体デバイス技術の全体像を構造的に示す」*
 
+[![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
+
 ## 🌐 Language
 [![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
 [![English Version](https://img.shields.io/badge/English-Version-blue?logo=github)](https://samizo-aitl.github.io/en/)
