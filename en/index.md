@@ -146,8 +146,7 @@ and ASIC-based deterministic control**, with clarity and reproducibility as prim
 Design concepts, technical background, and intermediate design considerations are documented on Zenn.  
 This serves as supplementary material explaining the *why* behind the educational content and implementations.
 
-- 🔗 Zenn: Shinichi Samizo  
-  https://zenn.dev/samizo_aitl
+- 🔗 [Zenn: Shinichi Samizo](https://zenn.dev/samizo_aitl)
 
 ---
 
