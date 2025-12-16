@@ -114,6 +114,10 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 を目的とするものではなく、  
 **「制御・判断・再設計を分離して考えるための思考実験」**として位置付けています。
 
+また、単なる概念検証に留まらず、  
+**劣化・不確実性を含む条件下での挙動を通じて  
+制御構造と Reliability の関係を評価すること**を目的としています。
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
 
