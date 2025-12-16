@@ -117,6 +117,10 @@ used to explore a three-layer separation:
 This project is **not intended as a production-ready control solution**,  
 but as a **thinking framework** for separating control, judgment, and redesign.
 
+Beyond a mere conceptual demonstration,
+this project aims to evaluate the relationship between control architecture and reliability
+through system behavior under conditions involving degradation and uncertainty.
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
 
