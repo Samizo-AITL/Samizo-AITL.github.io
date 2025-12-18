@@ -196,3 +196,58 @@ body.theme-sepia td {
 /* ストライプ */
 body.theme-sepia tr:nth-child(odd) td { background: #ffffff; }
 body.theme-sepia tr:nth-child(even) td { background: #f3efe6; }
+
+/* === Theme: Engineering (Semiconductor / Control / AITL) === */
+body.theme-engineering {
+  background: #f9fafb;          /* クールホワイト */
+  color: #1f2933;               /* 工学向けダークグレー */
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+  font-size: 1em;
+}
+
+/* 見出し：制御・工学ブルー */
+body.theme-engineering h1,
+body.theme-engineering h2,
+body.theme-engineering h3 {
+  color: #003366;
+  border-bottom: 1px solid #d1d5db;
+}
+
+/* 引用・注釈：仕様書トーン */
+body.theme-engineering blockquote,
+body.theme-engineering .annotation,
+body.theme-engineering .annotation-narrow {
+  background: #f1f5f9;
+  border-left-color: #2563eb;
+  color: #1f2933;
+}
+
+/* リンク：控えめ・技術文書寄り */
+body.theme-engineering a {
+  color: #2563eb;
+  text-decoration: none;
+}
+body.theme-engineering a:hover {
+  text-decoration: underline;
+}
+
+/* コード・数式背景 */
+body.theme-engineering pre,
+body.theme-engineering code {
+  background: #eef2f7;
+  color: #0f172a;
+}
+
+/* 表：データシート風 */
+body.theme-engineering table {
+  border: 1.5px solid #cbd5e1;
+}
+body.theme-engineering th {
+  background: #e5e7eb;
+  font-weight: 700;
+}
+body.theme-engineering td {
+  background: #ffffff;
+}
+
