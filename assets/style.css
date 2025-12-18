@@ -5,7 +5,17 @@
    Base
 =================================================== */
 body {
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  /* ★ 技術用フォント（半導体・制御・仕様書 標準） */
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic UI",
+    "Yu Gothic",
+    sans-serif;
+
   line-height: 1.7;
   color: #1f2933;
   background: #f9fafb;        /* クールホワイト */
@@ -84,7 +94,14 @@ pre, code {
   background: #eef2f7;        /* 数式・コード向け */
   padding: 0.3em 0.6em;
   border-radius: 4px;
-  font-family: "Courier New", monospace;
+  font-family:
+    ui-monospace,
+    SFMono-Regular,
+    Menlo,
+    Consolas,
+    "Liberation Mono",
+    "Courier New",
+    monospace;
   color: #0f172a;
 }
 
