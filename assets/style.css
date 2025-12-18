@@ -1,119 +1,154 @@
-/* === Samizo-AITL Custom Style === */
+/* === Samizo-AITL Custom Style : Engineering Only === */
+/* Semiconductor / Control / AITL Portal */
 
+/* ===================================================
+   Base
+=================================================== */
 body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   line-height: 1.7;
-  color: #222;
-  background: #fff;
+  color: #1f2933;
+  background: #f9fafb;        /* クールホワイト */
   padding: 1em;
   max-width: 980px;
   margin: auto;
+  font-size: 1em;
 }
 
-/* 一般引用用ブロック（Markdownの > に対応） */
-blockquote {
-  background: #f8f9fa;
-  border-left: 4px solid #007acc;
-  margin: 1em 0;
-  padding: 0.8em 1em;
-  font-style: normal;
-  color: #333;
+/* ===================================================
+   Headings
+=================================================== */
+h1, h2, h3 {
+  color: #003366;             /* 工学ブルー */
+  border-bottom: 1px solid #d1d5db;
+  padding-bottom: 0.2em;
+  margin-top: 2em;
 }
 
-/* 注釈スタイル */
-.annotation {
-  font-size: 0.9em;
-  color: #555;
-  background-color: #f9f9f9;
-  border-left: 4px solid #007acc;
-  padding: 0.4em 0.8em;
-  margin: 0.5em 0;
-  border-radius: 3px;
-  line-height: 1.5;
-}
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.15em; }
 
-/* コンパクト注釈 */
-.annotation-narrow {
-  font-size: 0.85em;
-  color: #555;
-  background-color: #f9f9f9;
-  border-left: 3px solid #007acc;
-  padding: 0.3em 0.6em;
-  margin: 0.3em 0;
-  border-radius: 3px;
-  line-height: 1.4;
-}
-
-/* リンクスタイル（デフォルト） */
+/* ===================================================
+   Links
+=================================================== */
 a {
-  color: #007acc;
+  color: #2563eb;             /* 制御・仕様書寄りブルー */
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
 }
 
-/* セクション見出し（デフォルト） */
-h1, h2, h3 {
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.2em;
-  margin-top: 2em;
-  color: #003366;
+/* ===================================================
+   Blockquote (Markdown > )
+=================================================== */
+blockquote {
+  background: #f1f5f9;
+  border-left: 4px solid #2563eb;
+  margin: 1em 0;
+  padding: 0.8em 1em;
+  font-style: normal;
+  color: #1f2933;
 }
 
-/* コードブロック */
+/* ===================================================
+   Annotation
+=================================================== */
+.annotation {
+  font-size: 0.9em;
+  color: #334155;
+  background-color: #f1f5f9;
+  border-left: 4px solid #2563eb;
+  padding: 0.4em 0.8em;
+  margin: 0.5em 0;
+  border-radius: 3px;
+  line-height: 1.5;
+}
+
+.annotation-narrow {
+  font-size: 0.85em;
+  color: #334155;
+  background-color: #f1f5f9;
+  border-left: 3px solid #2563eb;
+  padding: 0.3em 0.6em;
+  margin: 0.3em 0;
+  border-radius: 3px;
+  line-height: 1.4;
+}
+
+/* ===================================================
+   Code / Pre / Math
+=================================================== */
 pre, code {
-  background: #f4f4f4;
+  background: #eef2f7;        /* 数式・コード向け */
   padding: 0.3em 0.6em;
   border-radius: 4px;
   font-family: "Courier New", monospace;
+  color: #0f172a;
 }
 
-/* 表のスタイル（デフォルト） */
+/* ===================================================
+   Table (Data Sheet Style)
+=================================================== */
 table {
   border-collapse: collapse;
   width: 100%;
   margin-top: 1em;
   font-size: 1em;
+  border: 1.5px solid #cbd5e1;
 }
-table, th, td {
-  border: 1px solid #ccc;
-}
-th, td {
-  padding: 0.6em;
+
+th {
+  background: #e5e7eb;
+  border: 1.5px solid #cbd5e1;
+  font-weight: 700;
+  padding: 0.6em 0.8em;
   text-align: left;
 }
 
-/* 画像調整 */
+td {
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  padding: 0.6em 0.8em;
+}
+
+/* ===================================================
+   Images
+=================================================== */
 img {
   max-width: 100%;
   height: auto;
 }
+
 img.shrink-70 {
   width: 70%;
-  height: auto;
   display: block;
   margin: 1em auto;
 }
 
-/* モバイル対応 */
+/* ===================================================
+   Mermaid
+=================================================== */
+.mermaid {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 960px;
+  text-align: center;
+}
+
+/* ===================================================
+   Responsive
+=================================================== */
 @media (max-width: 768px) {
   body {
     font-size: 1.05em;
     padding: 0.8em;
   }
 
-  h1 {
-    font-size: 1.6em;
-  }
-
-  h2 {
-    font-size: 1.3em;
-  }
-
-  h3 {
-    font-size: 1.1em;
-  }
+  h1 { font-size: 1.6em; }
+  h2 { font-size: 1.3em; }
+  h3 { font-size: 1.1em; }
 
   table {
     font-size: 0.95em;
@@ -125,129 +160,3 @@ img.shrink-70 {
     padding: 0.4em 0.8em;
   }
 }
-
-/* Mermaid を中央寄せ */
-.mermaid {
-  display: block;
-  margin: 1.5rem auto;
-  max-width: 960px;
-  text-align: center;
-}
-
-/* === Theme: Sepia (安心感＋クラシック＋実用性) === */
-body.theme-sepia {
-  background: #fdf6e3;   /* セピア背景 */
-  color: #3b2f2f;
-  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic",
-               "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.9;
-  font-size: 1.05em;
-}
-
-/* 見出し：青字 */
-body.theme-sepia h1,
-body.theme-sepia h2,
-body.theme-sepia h3 {
-  font-weight: 700;
-  color: #003366;  
-  border-bottom: none;
-}
-body.theme-sepia h1 {
-  font-size: 2em;
-  text-align: left;
-  margin-bottom: 0.8em;
-}
-body.theme-sepia h2 { font-size: 1.5em; margin-top: 1.6em; }
-body.theme-sepia h3 { font-size: 1.2em; margin-top: 1.2em; }
-
-/* リンク：小さめ＋太字＋下線 */
-body.theme-sepia a {
-  color: #0066cc;
-  font-weight: 600;
-  font-size: 0.95em;
-  text-decoration: underline;
-}
-body.theme-sepia a:hover { color: #004c99; }
-
-/* === 表（実用的・視認性強化版） === */
-body.theme-sepia table {
-  border-collapse: collapse;
-  width: 100%;
-  margin-top: 1em;
-  font-size: 1em;
-  border: 2px solid #999;        /* 外枠を太めに */
-}
-
-body.theme-sepia th {
-  background: #e9ddc9;           /* 薄茶ヘッダー */
-  color: #2b2b2b;
-  border: 2px solid #999;        /* ヘッダー罫線は太めで強調 */
-  font-weight: 700;
-  text-align: left;
-  padding: 0.8em 1em;            /* 余白広め */
-}
-
-body.theme-sepia td {
-  border: 1.5px solid #bbb;      /* セル境界もしっかり */
-  color: #2b2b2b;
-  padding: 0.8em 1em;
-}
-
-/* ストライプ */
-body.theme-sepia tr:nth-child(odd) td { background: #ffffff; }
-body.theme-sepia tr:nth-child(even) td { background: #f3efe6; }
-
-/* === Theme: Engineering (Semiconductor / Control / AITL) === */
-body.theme-engineering {
-  background: #f9fafb;          /* クールホワイト */
-  color: #1f2933;               /* 工学向けダークグレー */
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.7;
-  font-size: 1em;
-}
-
-/* 見出し：制御・工学ブルー */
-body.theme-engineering h1,
-body.theme-engineering h2,
-body.theme-engineering h3 {
-  color: #003366;
-  border-bottom: 1px solid #d1d5db;
-}
-
-/* 引用・注釈：仕様書トーン */
-body.theme-engineering blockquote,
-body.theme-engineering .annotation,
-body.theme-engineering .annotation-narrow {
-  background: #f1f5f9;
-  border-left-color: #2563eb;
-  color: #1f2933;
-}
-
-/* リンク：控えめ・技術文書寄り */
-body.theme-engineering a {
-  color: #2563eb;
-  text-decoration: none;
-}
-body.theme-engineering a:hover {
-  text-decoration: underline;
-}
-
-/* コード・数式背景 */
-body.theme-engineering pre,
-body.theme-engineering code {
-  background: #eef2f7;
-  color: #0f172a;
-}
-
-/* 表：データシート風 */
-body.theme-engineering table {
-  border: 1.5px solid #cbd5e1;
-}
-body.theme-engineering th {
-  background: #e5e7eb;
-  font-weight: 700;
-}
-body.theme-engineering td {
-  background: #ffffff;
-}
-
