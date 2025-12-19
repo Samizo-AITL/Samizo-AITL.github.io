@@ -159,11 +159,8 @@ This serves as supplementary material explaining the *why* behind the educationa
 # 📚 Supplementary Layer (Experiments & Supporting Materials)
 Repositories that support, extend, or experimentally explore ideas introduced in the core and applied layers.
 
----
-
 | Project | Description | Link |
 |--------|-------------|------|
-| **AITL-H** | Proof-of-concept implementation of a three-layer (PID × FSM × LLM) architecture | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
 | **EduMecha** | Mechanical design exercises using Creo | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
 | **Inkjet** | Thin-film piezo actuator structures and analysis | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
 | **EduLms** | Learning management materials for ISO-based quality and environmental education | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
@@ -171,6 +168,7 @@ Repositories that support, extend, or experimentally explore ideas introduced in
 | **SemiTechBot** | Semiconductor-focused Q&A chatbot | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) |
 | **Rekiden** | History × AI simulation materials | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) |
 | **AssetPortfolio** | Investment guide for engineers (ETF / NISA) | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) |
+| **AITL-H** | Discontinued design study of a three-layer (PID × FSM × LLM) architecture; preserved as an architectural and educational archive | [![Archive](https://img.shields.io/badge/View-Archive-lightgrey?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
 
 ---
 
