@@ -14,6 +14,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2025-12-19 | **AITL-H を設計アーカイブとして正式に Discontinued（開発終了）と位置づけ。**<br>・PID × FSM × LLM 三層構造は実装対象ではなく、設計思想・限界検討の記録として保存<br>・Supplementary Layer 内の **Archived Project** として明示<br>・以降の機能追加・PoC拡張は行わない方針を明確化 |
 | 2025-12-14 | **V–I制御ASIC教材「vi-control-asic-sky130」を新規追加。**<br>・PID＋FSM による V–I（電圧・電流）ベースのデジタル制御を題材とした教育用 ASIC プロジェクト<br>・制御理論 → 固定小数点 → Verilog RTL → OpenLane → SKY130 → GDS までの一気通貫教材を構築<br>・MCU制御と ASIC制御の本質的差異（確定遅延・安全性・構造可視性）を明示<br>・Samizo-AITL ポータル（JP/EN）の **Applied Layer** に統合 |
 | 2025-12-09 | **Samizo-AITLポータルの思想整理およびAITL位置づけを再定義。**<br>・AITL（PID × FSM × LLM）を「制御手法」ではなく **設計・判断を整理する補助的フレーム**として再位置づけ<br>・半導体デバイス技術（構造・物理・プロセス・モデル）を主軸とする方針を明確化<br>・Topページ（JP/EN）にて「既存制御（PID/FSM）が十分機能する領域を尊重する」記述を追加<br>・AITLの誇張的表現（制御置換・万能性を示唆する表現）を削除・修正 |
 | 2025-12-09 | **ポータル構成の階層整理を実施（Applied / Supplementary 再編）。**<br>・AITL-Controller-A-Type を「実験用・思考整理用コントローラ」として明示<br>・**AITL-Silicon-Pathway / AITL-H を Applied Layer から Supplementary Layer へ移動**<br>・AITL関連教材を「補助・周辺教材」として整理し、主軸教材との役割分離を明確化 |
