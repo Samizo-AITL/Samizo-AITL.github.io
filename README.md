@@ -152,6 +152,7 @@ Main Core や Applied Layer を補完する周辺教材・試作・PoC 群。
 
 | プロジェクト | 内容 | Link |
 |--------------|------|------|
+| **mems-ana** | MEMS 構造解析（pre-FEM）設計探索ツール | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/) |
 | **EduMecha** | Creo を用いた機械設計教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
 | **Inkjet** | 薄膜ピエゾ構造アーカイブ | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
 | **EduLms** | ISO・品質教育を含む学習管理教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
