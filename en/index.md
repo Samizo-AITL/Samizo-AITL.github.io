@@ -157,6 +157,8 @@ are tested against real physical structures**.
 - The structure itself becomes a modeling constraint
 - The limits of abstraction are immediately exposed
 
+---
+
 ## mems-ana
 **MEMS structural analysis tool (pre-FEM design exploration)**
 
