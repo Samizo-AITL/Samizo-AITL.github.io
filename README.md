@@ -87,7 +87,7 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 
 ---
 
-## EduController
+## 4️⃣ EduController
 **制御工学の基礎を中心とした教育用教材。**
 
 - PID 制御
@@ -102,7 +102,7 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 
 ---
 
-## AITL-Controller-A-Type
+## 5️⃣ AITL-Controller-A-Type
 **PID・FSM・LLM の三層構造を  
 最小構成の Python 実装で検証するための実験用コントローラ。**
 
@@ -123,7 +123,7 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 
 ---
 
-## V-I Control ASIC on SKY130
+## 6️⃣ V-I Control ASIC on SKY130
 **V–I 制御（PID + FSM）を RTL → GDS まで一気通貫で実装する  
 デジタル制御 ASIC 教材。**
 
@@ -147,7 +147,7 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 
 ---
 
-## mems-ana
+## 7️⃣ mems-ana
 **MEMS 構造解析（pre-FEM）設計探索ツール**
 
 FEM 前段での形状・対称性・スケーリング確認を目的とした  
