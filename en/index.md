@@ -147,6 +147,28 @@ and ASIC-based deterministic control**, with clarity and reproducibility as prim
 
 ---
 
+# MEMS (Bringing Abstraction Back to Physics)
+
+A boundary domain where  
+**abstract models learned in semiconductors and control  
+are tested against real physical structures**.
+
+- Voltage → stress → displacement
+- The structure itself becomes a modeling constraint
+- The limits of abstraction are immediately exposed
+
+## mems-ana
+**MEMS structural analysis tool (pre-FEM design exploration)**
+
+A lightweight **pre-FEM shape sanity check tool**  
+for validating geometry, symmetry, and scaling  
+before full FEM analysis.
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
+
+---
+
 # 📝 Technical Notes (Zenn)
 
 Design concepts, technical background, and intermediate design considerations are documented on Zenn.  
