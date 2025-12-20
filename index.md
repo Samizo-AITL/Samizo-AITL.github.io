@@ -142,6 +142,26 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 
 ---
 
+## MEMS（抽象を物理に引き戻す）
+
+半導体・制御で扱った  
+**抽象モデルが、実際の構造物でどこまで通用するか**を確認する境界領域。
+
+- 電圧 → 応力 → 変位
+- 構造そのものがモデル制約になる
+- 抽象の限界が即座に可視化される
+
+### mems-ana
+**MEMS 構造解析（pre-FEM）設計探索ツール**
+
+FEM 前段での形状・対称性・スケーリング確認を目的とした  
+**pre-FEM 形状検証ツール**。
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
+
+---
+
 # 📝 Technical Notes（Zenn）
 
 設計思想・技術背景・途中検討の記録は Zenn にまとめています。  
