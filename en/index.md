@@ -28,7 +28,7 @@ introduced only where they help organize design thinking or extend existing engi
 
 ---
 
-# 🧩 Main Core (Foundational Repositories)
+# 💠 Main Core (Foundational Repositories)
 The core repositories form a **complete conceptual map of semiconductor device technology**,  
 from physics to manufacturing and system-level constraints.
 
@@ -147,7 +147,7 @@ and ASIC-based deterministic control**, with clarity and reproducibility as prim
 
 ---
 
-# MEMS (Bringing Abstraction Back to Physics)
+# ⚙️ MEMS (Bringing Abstraction Back to Physics)
 
 A boundary domain where  
 **abstract models learned in semiconductors and control  
