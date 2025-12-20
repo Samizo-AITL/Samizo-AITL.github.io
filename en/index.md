@@ -185,7 +185,6 @@ Repositories that support, extend, or experimentally explore ideas introduced in
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **mems-ana** | Lightweight MEMS structural analysis tool for pre-FEM design exploration | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/) |
 | **EduMecha** | Mechanical design exercises using Creo | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
 | **Inkjet** | Thin-film piezo actuator structures and analysis | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
 | **EduLms** | Learning management materials for ISO-based quality and environmental education | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
