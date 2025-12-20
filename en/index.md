@@ -91,7 +91,7 @@ with AI/LLM treated as **design and analysis aids**, not replacements.
 
 ---
 
-## EduController
+## 4️⃣ EduController
 An educational resource focused on **control fundamentals**, including:
 
 - PID control principles  
@@ -106,7 +106,7 @@ The goal is **conceptual clarity**, not proposing new control paradigms.
 
 ---
 
-## AITL-Controller-A-Type
+## 5️⃣ AITL-Controller-A-Type
 A **minimal experimental controller** implemented in Python,  
 used to explore a three-layer separation:
 
@@ -126,7 +126,7 @@ through system behavior under conditions involving degradation and uncertainty.
 
 ---
 
-## V-I Control ASIC on SKY130
+## 6️⃣ V-I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from
 **control theory to silicon**, using **PID + FSM** and a **digital-only RTL → GDS**
 implementation on **OpenLane + SKY130**.
@@ -159,7 +159,7 @@ are tested against real physical structures**.
 
 ---
 
-## mems-ana
+## 7️⃣ mems-ana
 **MEMS structural analysis tool (pre-FEM design exploration)**
 
 A lightweight **pre-FEM shape sanity check tool**  
