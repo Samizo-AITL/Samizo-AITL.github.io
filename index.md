@@ -181,12 +181,8 @@ Main Core や Applied Layer を補完する周辺教材・試作・PoC 群。
 | プロジェクト | 内容 | Link |
 |--------------|------|------|
 | **EduMecha** | Creo を用いた機械設計教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
-| **Inkjet** | 薄膜ピエゾ構造アーカイブ | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
+| **Inkjet** | インクジェットアーカイブ | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
 | **EduLms** | ISO・品質教育を含む学習管理教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
-| **SamizoGPT** | プロンプト設計・AI活用整理 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT/) |
-| **SemiTechBot** | 半導体 Q&A チャットボット | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/) |
-| **Rekiden** | 歴史 × AI シミュレーション教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Rekiden/) |
-| **AssetPortfolio** | 技術者向け資産運用教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) |
 
 ### 🗄 Discontinued / Archived Projects
 
