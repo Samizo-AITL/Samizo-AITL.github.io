@@ -171,6 +171,28 @@ before full FEM analysis.
 
 ---
 
+## 8️⃣ Inkjet Printing (Design Trade-off Models)
+
+**An educational project set that visualizes the causal relationship between  
+print quality, printing speed, and dot behavior in inkjet printing  
+using minimal models.**
+
+The project focuses on three primary design axes:
+
+- **Drop density** (print quality and graininess)
+- **Throughput** (printing speed)
+- **Dot spread** (ink–media interaction)
+
+These trade-offs are explored through  
+**simple Python-based simulations and visualizations**,  
+with the goal of enabling intuitive understanding of design causality  
+rather than reproducing real printer behavior.
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-dts)
+
+---
+
 # 📝 Technical Notes (Zenn)
 
 Design concepts, technical background, and intermediate design considerations are documented on Zenn.  
