@@ -211,6 +211,7 @@ Repositories that support, extend, or experimentally explore ideas introduced in
 | **Inkjet** | Thin-film piezo actuator structures and analysis | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
 | **EduLms** | Learning management materials for ISO-based quality and environmental education | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
 | **AITL-H** | Discontinued design study of a three-layer (PID × FSM × LLM) architecture; preserved as an architectural and educational archive | [![Archive](https://img.shields.io/badge/View-Archive-lightgrey?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
+| **AITL Animation Demos** | Experimental animation demos for visualizing AITL concepts | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/) |
 
 ---
 
