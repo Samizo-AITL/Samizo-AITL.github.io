@@ -164,6 +164,23 @@ FEM 前段での形状・対称性・スケーリング確認を目的とした
 
 ---
 
+## 🖨 Inkjet Printing (Design Trade-off Models)
+
+**インクジェット印刷における「画質 × 速度 × ドット挙動」の因果関係を  
+最小モデルで可視化する教育用プロジェクト群。**
+
+- Drop density（画質）
+- Throughput（速度）
+- Dot spread（メディア相互作用）
+
+といった設計軸を、  
+**Python による簡易シミュレーションと視覚化**で理解することを目的としています。
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-dts)
+
+---
+
 # 📝 Technical Notes（Zenn）
 
 設計思想・技術背景・途中検討の記録は Zenn にまとめています。  
