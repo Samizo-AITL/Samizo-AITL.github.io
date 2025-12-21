@@ -164,7 +164,7 @@ FEM 前段での形状・対称性・スケーリング確認を目的とした
 
 ---
 
-## 🖨 Inkjet Printing (Design Trade-off Models)
+## 8️⃣ Inkjet Printing (Design Trade-off Models)
 
 **インクジェット印刷における「画質 × 速度 × ドット挙動」の因果関係を  
 最小モデルで可視化する教育用プロジェクト群。**
