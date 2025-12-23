@@ -264,7 +264,7 @@ Repositories that support, extend, or experimentally explore ideas introduced in
 |------|---------|
 | **Name** | Shinichi Samizo |
 | **Title** | Independent Semiconductor Researcher |
-| **Links** | [Email](mailto:shin3t72@gmail.com) · [X](https://x.com/shin3t72) · [GitHub](https://github.com/Samizo-AITL) |
+| **Links** | [GitHub](https://github.com/Samizo-AITL) |
 
 [📄 Career Summary](https://samizo-aitl.github.io/about/career-summary/en/)
 
