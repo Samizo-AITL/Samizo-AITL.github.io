@@ -1,30 +1,85 @@
 ---
 layout: default
-title: Samizo-AITL Portal (EN)
-description: A structured portal for understanding the full landscape of semiconductor device technology
+title: Samizo-AITL Portal
+description: An integrated portal connecting semiconductor devices, MEMS, control, and intelligent systems
 ---
 
 # 🎓 Samizo-AITL Portal  
-> **“A structured portal for understanding the full landscape of semiconductor device technology.”**  
-> *「半導体デバイス技術の全体像を構造的に示す」*
+> **“Connecting physics, devices, control, and intelligence in a unified structure”**  
+> *A structured portal for understanding engineering systems from physical principles to intelligent control.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 
-## 🌐 Language
-[![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
+## 🌐 Language / 言語
 [![English Version](https://img.shields.io/badge/English-Version-blue?logo=github)](https://samizo-aitl.github.io/en/)
+[![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
 
 ---
 
-The **Samizo-AITL Portal** is an integrated educational platform created by **Shinichi Samizo**,  
-designed to provide a **structured and realistic understanding of semiconductor device technology**.
+The **Samizo-AITL Portal**, created by **Shinichi Samizo**,  
+is an **integrated technical portal for systematically understanding semiconductor devices, MEMS, and control systems based on a shared physical foundation**.
 
-The primary focus of this portal is **semiconductor devices themselves**—  
-their physical structures, operating principles, manufacturing processes, compact models,  
-circuit integration, reliability, and industrial ecosystems.
+The primary goal of this portal is to organize engineering technologies through a consistent causal structure:
 
-AI, control theory, and LLM-related topics are treated as **secondary, applied concepts**,  
-introduced only where they help organize design thinking or extend existing engineering workflows.
+**Physics → Structure → Devices → Process → Models → Systems → Control → Intelligence**
+
+By doing so, the portal enables **cross-disciplinary understanding**, rather than treating each field in isolation.
+
+---
+
+## 🧩 Technical Domains Covered
+
+### 🟦 Semiconductor Devices
+- CMOS, FinFET, and CFET device structures  
+- Semiconductor physics, electrical characteristics, and fabrication processes  
+- Physical modeling, SPICE, and design-oriented perspectives  
+
+### 🟩 MEMS & Mechatronics
+- Sensors and actuators: structures and operating principles  
+- Coupled mechanical–electrical system models  
+- Connections between FEM, fabrication processes, and device physics  
+
+### 🟧 Control & Intelligence
+- Classical control methods such as PID and FSM-based supervision  
+- Model-based control design and stability considerations  
+- Intelligent supervisory layers using LLMs (AITL concept)  
+
+---
+
+## 🧠 Positioning of AITL
+
+AI, control theory, and LLM-based technologies are **not treated as standalone topics**.
+
+Instead, they are positioned as:
+
+**“The outermost layer that enables full utilization of physical models and engineered systems.”**
+
+Within this portal, the system architecture is viewed as a **multi-layer structure**:
+
+- Inner layers: Physics, devices, and MEMS  
+- Middle layers: System modeling and control theory  
+- Outer layers: Intelligence, adaptation, and redesign  
+
+This concept is referred to as  
+**AITL (Adaptive Intelligent Technology Loop)**  
+and will be explained step by step using conceptual diagrams and animations.
+
+---
+
+## 🎥 Concept Visualization
+
+To enhance intuitive understanding, the portal will progressively introduce  
+**concept animations (SVG / GIF)** illustrating the flow from:
+
+**Physics → Devices → Systems → Control → Intelligence**
+
+These visualizations are intended to help readers from different backgrounds  
+grasp the **overall structure at a glance**.
+
+---
+
+> **Samizo-AITL is not a collection of isolated explanations.  
+> It is a portal designed to reveal the structural backbone that connects engineering technologies.**
 
 ---
 
