@@ -66,18 +66,6 @@ and will be explained step by step using conceptual diagrams and animations.
 
 ---
 
-## 🎥 Concept Visualization
-
-To enhance intuitive understanding, the portal will progressively introduce  
-**concept animations (SVG / GIF)** illustrating the flow from:
-
-**Physics → Devices → Systems → Control → Intelligence**
-
-These visualizations are intended to help readers from different backgrounds  
-grasp the **overall structure at a glance**.
-
----
-
 > **Samizo-AITL is not a collection of isolated explanations.  
 > It is a portal designed to reveal the structural backbone that connects engineering technologies.**
 
