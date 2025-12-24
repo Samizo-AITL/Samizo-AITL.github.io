@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Samizo-AITL Portal
-description: 半導体・MEMS・制御を貫く物理基盤技術と知能化アーキテクチャの統合ポータル
+description: 物理からデバイス、制御、知能化までを因果構造で統合する技術アーカイブ
 ---
 
 # 🎓 Samizo-AITL Portal  
-> **「物理からデバイス、制御、知能化までを一つの構造で示す」**  
-> *A structured portal connecting physics, devices, systems, and intelligent control.*
+> **物理 → デバイス → 制御 → 知能化を  
+> 一つの因果構造で統合する技術アーカイブ**  
+> *A unified framework connecting physics, devices, systems, and intelligent control.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
@@ -18,24 +19,63 @@ description: 半導体・MEMS・制御を貫く物理基盤技術と知能化ア
 
 ---
 
-## 🧭 What is Samizo-AITL?
+## 🚀 What You Can Gain from This Portal
 
-**Samizo-AITL ポータル**は、三溝真一による  
-**半導体デバイス、MEMS、制御工学を共通の物理基盤から再統合するための技術アーカイブ**です。
+**Samizo-AITL** は、半導体・MEMS・制御・AI を  
+**「物理基盤から一気通貫で理解・設計できる構造」**として  
+再構築した技術ポータルです。
 
-工学システムを構成する要素を、
+このポータルで得られるもの：
 
-**物理 → 構造 → デバイス → プロセス → モデル → システム → 制御 → 知能化**
+- 分野横断の技術を **因果構造として理解** できる  
+- 物理モデルを起点に **制御・知能化まで接続** できる  
+- 教材・PoC・実装を **再利用可能な設計構造** として扱える  
 
-という **一貫した因果構造**で整理し、  
-**分野横断で再利用可能な設計理解**を目的としています。
+単なる教材集ではなく、  
+**技術体系そのものを「設計可能な形」で提示すること**を目的としています。
+
+---
+
+## 🎯 Who Is This Portal For?
+
+Samizo-AITL は、以下の技術者・研究者を対象としています。
+
+- 物理モデル起点で設計を行いたい **半導体・MEMS・制御系エンジニア**  
+- AI / LLM を **制御の代替ではなく、監督・再設計層として使いたい人**  
+- 分野横断で **技術体系を再構築したい研究者・設計者**
+
+※ 初学者向け入門サイトではありません。  
+本ポータルは **設計のための構造アーカイブ** です。
+
+---
+
+## 🧩 AITL Structure Map（全体構造）
+
+```mermaid
+flowchart TB
+  P[Physical / Devices / MEMS] --> M[Models]
+  M --> C[Control Theory]
+  C --> R[Real-time PID Loop]
+  R --> S[FSM Supervisor]
+  S --> I[LLM Intelligence]
+  I -.-> R
+  I -.-> S
+```
+
+AITL（Adaptive Intelligent Technology Loop）では、
+
+- **内側**：物理・デバイス・MEMS（制約を生む層）  
+- **中間**：モデル・制御理論（挙動を決める層）  
+- **外側**：FSM / LLM（判断・再設計・適応）
+
+という三層構造で、  
+**物理モデルを正しく「使い切る」ための知能化**を行います。
 
 ---
 
 ## 🗂 Samizo-AITL Directory Overview（全体像）
 
-> **本ポータルは「ディレクトリ構成＝設計思想」です。**  
-> まず全体構造を見てから、各教材に進んでください。
+> **本ポータルは「ディレクトリ構成＝設計思想」です。**
 
 ```text
 Samizo-AITL/
@@ -54,64 +94,7 @@ Samizo-AITL/
 └─ 04_Archives/      PoC・履歴・技術資産
 ```
 
-初めての方は
-01_DevEnv → 02_CodeGen → 03_Docs の順で辿ってください。
-
----
-
-## 🧩 AITL Structure Map（関係性の全体像）
-
-```mermaid
-flowchart TB
-  P[Physical / Devices / MEMS] --> M[Models]
-  M --> C[Control Theory]
-  C --> R[Real-time PID Loop]
-  R --> S[FSM Supervisor]
-  S --> I[LLM Intelligence]
-  I -.-> R
-  I -.-> S
-```
-
----
-
-## 🎯 Who is this portal for?
-
-Samizo-AITL は、以下の技術者・研究者を対象としています。
-
-- 物理モデル起点で設計を行いたい半導体・MEMS・制御系エンジニア  
-- AI / LLM を **制御の代替ではなく、設計・監督層として使いたい人**  
-- 分野横断で **因果構造を崩さずに理解・再構築したい人**
-
-※ 初学者向け入門サイトではありません。  
-本ポータルは **設計のための構造アーカイブ**です。
-
----
-
-## 🧠 AITL（Adaptive Intelligent Technology Loop）の位置づけ
-
-AITL では、知能化技術を次のように位置づけます。
-
-- **内側**：物理・デバイス・MEMS（制約を生む層）  
-- **中間**：モデル・制御理論（挙動を決める層）  
-- **外側**：知能化・適応・再設計（判断と更新の層）
-
-AI / LLM は **実時間制御ループの外側**に配置され、  
-物理モデルを正しく「使い切る」ための監督層として扱われます。
-
----
-
-## 🗺 How to use this portal（読み方ガイド）
-
-1. **設計思想の把握**  
-   → Physical-First 工学と AITL 全体像  
-2. **Main Core（物理・デバイス基盤）**  
-   → 半導体・MEMS の制約とモデル  
-3. **Applied Layer（制御・知能化）**  
-   → PID / FSM / LLM の役割分担  
-4. **PoC・実装例**  
-   → 実装された構造として確認
-
-推奨順：  
+**推奨順**：  
 **思想 → 物理 → 制御 → 知能**
 
 ---
