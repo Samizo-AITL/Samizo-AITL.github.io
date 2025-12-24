@@ -5,4 +5,4 @@ permalink: /about/marp/
 
 # Marp
 
-- ▶ [プレゼンを開く](samizo-aitl-presentation.html)
+- ▶ **[GitHub Pagesでプレゼンを見る](https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html)**
