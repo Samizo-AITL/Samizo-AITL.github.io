@@ -34,6 +34,34 @@ while preserving physical meaning, constraints, and causality.
 
 ---
 
+## 🗂 Samizo-AITL Directory Overview
+
+> **In this portal, the directory structure itself represents the design philosophy.**  
+> Start by understanding the overall structure, then dive into each project.
+
+```text
+Samizo-AITL/
+├─ 01_DevEnv/        Environment & reproducibility
+│   └─ VSCode / Python / Toolchain
+│
+├─ 02_CodeGen/       Implementation, control, and generation
+│   ├─ PID           Real-time control (stability, V–I control)
+│   ├─ FSM           State transitions and mode management
+│   └─ LLM           Supervision and redesign (non–real-time)
+│
+├─ 03_Docs/          Documentation, education, design philosophy
+│   ├─ Edusemi-v4x
+│   ├─ EduController
+│   └─ Edusemi-Plus
+│
+└─ 04_Archives/      PoCs, history, and technical assets
+```
+
+For first-time visitors, follow this order:
+01_DevEnv → 02_CodeGen → 03_Docs
+
+---
+
 ## 🎯 Intended Audience
 
 Samizo-AITL is intended for engineers and researchers who:
