@@ -9,6 +9,8 @@ description: 半導体・MEMS・制御を貫く物理基盤技術と知能化ア
 > *A structured portal connecting physics, devices, systems, and intelligent control.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
+[![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
+
 
 ## 🌐 Language / 言語
 [![English Version](https://img.shields.io/badge/English-Version-blue?logo=github)](https://samizo-aitl.github.io/en/)
@@ -69,6 +71,14 @@ AI / LLM は **実時間制御ループの外側**に配置され、
 
 推奨順：  
 **思想 → 物理 → 制御 → 知能**
+
+---
+
+## 📝 Essays / Design Philosophy (Zenn)
+
+**設計思想・物理起点工学・AITL構造に関する考察記事は Zenn に集約しています。**
+
+[![Zenn Articles](https://img.shields.io/badge/Read-Zenn-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
 
 ---
 
@@ -167,5 +177,6 @@ AI / LLM は **実時間制御ループの外側**に配置され、
 **三溝 真一（Shinichi Samizo）**  
 独立系半導体研究者  
 
-- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)  
+- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
+- Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)  
 - Career Summary: [https://samizo-aitl.github.io/about/career-summary/](https://samizo-aitl.github.io/about/career-summary/)
