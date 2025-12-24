@@ -8,9 +8,6 @@ description: An integrated portal connecting semiconductor devices, MEMS, contro
 > **“Connecting physics, devices, control, and intelligence in a unified structure”**  
 > *A structured portal for understanding engineering systems from physical principles to intelligent control.*
 
-> This site is an independent technical portal operated by an individual,
-and is not affiliated with any university, research institute, or company.
-
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 
 ## 🌐 Language / 言語
