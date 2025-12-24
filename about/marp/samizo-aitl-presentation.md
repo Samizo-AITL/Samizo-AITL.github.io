@@ -16,7 +16,7 @@ size: 16:9
 
 ## ❓ なぜ Physical-First 工学が必要なのか
 
-- 🤖 AI や制御がブラックボックス化している  　
+- 🤖 AI や制御がブラックボックス化している  
 - 📐 数式・モデル・実装が分断されている  
 - 🧩 半導体・制御・AI が別々に語られている  
 
@@ -25,19 +25,19 @@ size: 16:9
 
 ---
 
-## 🏗 工学システムの階層構造
+## 🏗 工学システムの階層構造（概念）
 
-```mermaid
-graph TD
-  P[🧱 Physics<br/>物理・材料・デバイス]
-  M[📐 Models<br/>数理モデル・等価回路]
-  C[🎛 Control<br/>PID・FSM]
-  I[🧠 Intelligence<br/>LLM・監督・再設計]
-
-  P --> M
-  M --> C
-  C --> I
-```
+🧱 **Physics（物理・材料・デバイス）**  
+材料特性・構造制約・実挙動  
+↓  
+📐 **Models（数理モデル・等価回路）**  
+意味を持つパラメータ化  
+↓  
+🎛 **Control（PID・FSM）**  
+実時間安定性・決定論的制御  
+↓  
+🧠 **Intelligence（LLM）**  
+診断・判断・再設計（監督層）
 
 👉 各層は  
 **責務・時間スケール・役割が明確に分離**
@@ -61,18 +61,14 @@ graph TD
 
 ## 🧪 Samizo-AITL における実装対応
 
-```mermaid
-flowchart LR
-  A[Edusemi-v4x<br/>🧱 物理・デバイス] --> B[EduController<br/>🎛 制御]
-  B --> C[AITL Framework<br/>🧠 知能監督]
-```
-
-- **Edusemi-v4x**  
-  物理・デバイスモデル／半導体プロセス  
-- **EduController**  
-  PID・FSM による制御設計  
-- **AITL Framework**  
-  LLM による監督・再設計レイヤ  
+🧱 **Edusemi-v4x**  
+物理・デバイスモデル／半導体プロセス  
+↓  
+🎛 **EduController**  
+PID・FSM による制御設計  
+↓  
+🧠 **AITL Framework**  
+LLM による監督・再設計レイヤ  
 
 👉 各教材は  
 **同一構造の異なるレイヤ切り出し**
@@ -87,7 +83,7 @@ flowchart LR
 - **物理的意味を持つパラメータ**
 
 ❌ ブラックボックス近似  
-❌ AI による直接フィッティング
+❌ AI による直接フィッティング  
 
 👉 **意味を失ったモデルは使わない**
 
@@ -100,7 +96,7 @@ flowchart LR
 - FSM による状態・モード管理  
 - **決定論的・説明可能な振る舞い**
 
-❌ 実時間制御への確率的判断導入
+❌ 実時間制御への確率的判断導入  
 
 👉 安定性は **数学と構造で保証**
 
@@ -119,19 +115,18 @@ flowchart LR
 ---
 
 ## 🔁 AITL  
-## 閉ループ知能制御アーキテクチャ
+## 閉ループ知能制御アーキテクチャ（概念）
 
-```mermaid
-sequenceDiagram
-  participant Physics as 🧱 Physics
-  participant Control as 🎛 Control
-  participant LLM as 🧠 LLM
-
-  Physics->>Control: 状態・モデル
-  Control->>Physics: 制御入力
-  Control->>LLM: 状態・ログ
-  LLM-->>Control: 再設計・調整指示
-```
+🧱 **Physics / Model**  
+状態・モデルを定義  
+↓  
+🎛 **Control（PID・FSM）**  
+制御入力で物理を駆動  
+＋ 状態・ログを上位へ  
+↓  
+🧠 **LLM（Supervisor）**  
+診断・再設計・調整指示  
+（※ 制御ループの外側）
 
 👉 **人の思考力 × 機械の信頼性**
 
@@ -157,4 +152,3 @@ sequenceDiagram
 🔗 https://samizo-aitl.github.io/
 
 <!-- force rebuild -->
-
