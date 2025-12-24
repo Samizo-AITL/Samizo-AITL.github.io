@@ -62,6 +62,21 @@ For first-time visitors, follow this order:
 
 ---
 
+## 🧩 AITL Structure Map（関係性の全体像）
+
+```mermaid
+flowchart TB
+  P[Physical / Devices / MEMS] --> M[Models]
+  M --> C[Control Theory]
+  C --> R[Real-time PID Loop]
+  R --> S[FSM Supervisor]
+  S --> I[LLM Intelligence]
+  I -.-> R
+  I -.-> S
+```
+
+---
+
 ## 🎯 Intended Audience
 
 Samizo-AITL is intended for engineers and researchers who:
