@@ -80,10 +80,9 @@ AI・制御・LLM といった知能化技術は、
 - デバイスモデル
 - 回路設計
 - PDK
-- SystemDK による  
-  **熱・応力・SI/PI・EMI などの物理制約解析**
+- SystemDK による、熱・応力・SI/PI・EMI などの物理制約解析
 
-までを一貫して扱います。
+  までを一貫して扱います。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x)
