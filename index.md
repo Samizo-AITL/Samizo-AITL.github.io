@@ -73,6 +73,17 @@ AI・制御・LLM といった知能化技術は、
 
 ---
 
+## 🧭 全体構造を俯瞰する（設計思想）
+
+本ポータルで扱う  
+**Physical-First 工学** と  
+**知能制御アーキテクチャ（PID × FSM × LLM）** の全体構造は、  
+以下のスライドで俯瞰できます。
+
+- [Physical-First 工学と知能制御アーキテクチャ（スライド）](/about/marp/samizo-aitl-presentation.html)
+
+---
+
 # 💠  Main Core（中核教材）
 半導体デバイス技術そのものを体系的に理解するための基幹教材群。
 
@@ -251,10 +262,6 @@ Main Core や Applied Layer を補完する周辺教材・試作・PoC 群。
 | プロジェクト | 内容 | Link |
 |--------------|------|------|
 | **AITL-H** | PID × FSM × LLM 三層構造の設計思想・限界検討アーカイブ（開発終了） | [![Archive](https://img.shields.io/badge/View-Archive-lightgrey?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
-
----
-
-- [Physical-First 工学と知能制御アーキテクチャ（スライド）](/about/marp/samizo-aitl-presentation.html)
 
 ---
 
