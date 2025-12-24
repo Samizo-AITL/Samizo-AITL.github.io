@@ -62,7 +62,7 @@ For first-time visitors, follow this order:
 
 ---
 
-## 🧩 AITL Structure Map（関係性の全体像）
+## 🧩 AITL Structure Map
 
 ```mermaid
 flowchart TB
