@@ -9,6 +9,8 @@ description: An integrated portal presenting a physical-first architecture for s
 > *A design-oriented technical archive for physical-first engineering systems.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
+[![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
+
 
 ## 🌐 Language
 [![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
@@ -85,6 +87,14 @@ Recommended flow:
 **Philosophy → Physics → Control → Intelligence**
 
 This avoids tool-driven or fragmented understanding.
+
+---
+
+## 📝 Essays / Design Philosophy (Zenn)
+
+**Essays on design philosophy, physical-first engineering, and the AITL architecture are published on Zenn.**
+
+[![Zenn Articles](https://img.shields.io/badge/Read-Zenn-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
 
 ---
 
@@ -239,7 +249,8 @@ Chronological record of site and repository updates.
 **Shinichi Samizo**  
 Independent Semiconductor Researcher  
 
-- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)  
+- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
+- Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)
 - Career Summary: [https://samizo-aitl.github.io/about/career-summary/en/](https://samizo-aitl.github.io/about/career-summary/en/)
 
 ---
