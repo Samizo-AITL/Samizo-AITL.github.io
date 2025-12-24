@@ -9,11 +9,21 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 # 🕘 更新履歴（Update Log)
 [![Samizo-AITLポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/) 
 
-このページでは、「Technical Portfolio by Shinichi Samizo」および関連教材の改訂履歴を記録しています。  
-主な更新は、GitHub Pages サイト構成・教材追加・構成改訂・README更新などです。
+このページでは、「Technical Portfolio by Shinichi Samizo」および  
+**Samizo-AITL ポータルと関連教材群の改訂履歴**を記録しています。
+
+主な更新対象は以下を含みます。
+
+- GitHub Pages サイト構成の変更  
+- 教材・PoC の追加／整理  
+- 設計思想・構造の再定義  
+- README・解説文書の改訂  
+
+---
 
 | 日付       | 内容 |
 |------------|------|
+| 2025-12-24 | **ポータル（JP/EN）導線の欠落を修正し、トップページと更新履歴の整合を回復。**<br>・Top（JP/EN）に **AITL Animation Demos** への導線を正式追加<br>・Top（JP/EN）に **Update Log** への導線を復活<br>・Author セクションのリンク表記を Markdown リンクに統一（自動リンク依存を排除）<br>・Update Log（JP）に **英語版更新履歴へのクロスリンク**を明示 |
 | 2025-12-20 | **MEMS（抽象を物理に引き戻す）レイヤを Supplementary Layer に新設。**<br>・半導体／制御で扱った抽象モデルを物理構造で検証する位置づけを明確化<br>・MEMS pre-FEM 設計探索ツール **mems-ana** を正式統合（Site / Repo リンク追加）<br>・日本語／英語ポータル双方に MEMS セクションを追加し、全体構造を「半導体 → 制御 → MEMS」の流れで整理 |
 | 2025-12-19 | **AITL-H を設計アーカイブとして正式に Discontinued（開発終了）と位置づけ。**<br>・PID × FSM × LLM 三層構造は実装対象ではなく、設計思想・限界検討の記録として保存<br>・Supplementary Layer 内の **Archived Project** として明示<br>・以降の機能追加・PoC拡張は行わない方針を明確化 |
 | 2025-12-14 | **V–I制御ASIC教材「vi-control-asic-sky130」を新規追加。**<br>・PID＋FSM による V–I（電圧・電流）ベースのデジタル制御を題材とした教育用 ASIC プロジェクト<br>・制御理論 → 固定小数点 → Verilog RTL → OpenLane → SKY130 → GDS までの一気通貫教材を構築<br>・MCU制御と ASIC制御の本質的差異（確定遅延・安全性・構造可視性）を明示<br>・Samizo-AITL ポータル（JP/EN）の **Applied Layer** に統合 |
