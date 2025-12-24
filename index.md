@@ -32,6 +32,33 @@ description: 半導体・MEMS・制御を貫く物理基盤技術と知能化ア
 
 ---
 
+## 🗂 Samizo-AITL Directory Map（全体構造）
+
+> **本ポータルは「ディレクトリ構成＝設計思想」です。**  
+> 図を読む代わりに、構造を辿ってください。
+
+```text
+Samizo-AITL/
+├─ 01_DevEnv/        ← 環境・再現性（VSCode / Python / Toolchain）
+│
+├─ 02_CodeGen/       ← 実装・制御・生成
+│   ├─ PID           実時間制御（安定化・V–I 制御）
+│   ├─ FSM           状態遷移・モード管理
+│   └─ LLM           監督・再設計・適応
+│
+├─ 03_Docs/          ← 理解・教育・設計思想
+│   ├─ Edusemi-v4x
+│   ├─ EduController
+│   └─ Edusemi-Plus
+│
+└─ 04_Archives/      ← PoC・履歴・技術資産
+```
+
+初めての方は
+01_DevEnv → 02_CodeGen → 03_Docs の順で辿ってください。
+
+---
+
 ## 🎯 Who is this portal for?
 
 Samizo-AITL は、以下の技術者・研究者を対象としています。
