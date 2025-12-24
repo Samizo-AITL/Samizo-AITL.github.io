@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Marp
 permalink: /about/marp/
 ---
 
-# Marp Presentation
+# Marp
 
-▶ **[プレゼンを開く](./samizo-aitl-presentation.html)**
+- ▶ [プレゼンを開く](samizo-aitl-presentation.html)
