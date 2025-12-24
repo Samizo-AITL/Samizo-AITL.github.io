@@ -25,17 +25,18 @@
 <strong>因果的・階層的な構造</strong> が不可欠</p>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="3" data-paginate="true" data-theme="default" lang="ja-JP" data-marpit-pagination="3" style="--paginate:true;--theme:default;" data-marpit-pagination-total="11" data-size="16:9">
-<h2 id="%F0%9F%8F%97-%E5%B7%A5%E5%AD%A6%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E9%9A%8E%E5%B1%A4%E6%A7%8B%E9%80%A0"><img class="emoji" draggable="false" alt="🏗" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f3d7.svg" data-marp-twemoji=""/> 工学システムの階層構造</h2>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-mermaid">graph TD
-  P[<img class="emoji" draggable="false" alt="🧱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9f1.svg" data-marp-twemoji=""/> Physics&lt;br/&gt;物理・材料・デバイス]
-  M[<img class="emoji" draggable="false" alt="📐" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f4d0.svg" data-marp-twemoji=""/> Models&lt;br/&gt;数理モデル・等価回路]
-  C[<img class="emoji" draggable="false" alt="🎛" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f39b.svg" data-marp-twemoji=""/> Control&lt;br/&gt;PID・FSM]
-  I[<img class="emoji" draggable="false" alt="🧠" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9e0.svg" data-marp-twemoji=""/> Intelligence&lt;br/&gt;LLM・監督・再設計]
-
-  P --&gt; M
-  M --&gt; C
-  C --&gt; I
-</code></pre>
+<h2 id="%F0%9F%8F%97-%E5%B7%A5%E5%AD%A6%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E9%9A%8E%E5%B1%A4%E6%A7%8B%E9%80%A0%E6%A6%82%E5%BF%B5"><img class="emoji" draggable="false" alt="🏗" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f3d7.svg" data-marp-twemoji=""/> 工学システムの階層構造（概念）</h2>
+<p><img class="emoji" draggable="false" alt="🧱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9f1.svg" data-marp-twemoji=""/> <strong>Physics（物理・材料・デバイス）</strong><br />
+材料特性・構造制約・実挙動<br />
+↓<br />
+<img class="emoji" draggable="false" alt="📐" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f4d0.svg" data-marp-twemoji=""/> <strong>Models（数理モデル・等価回路）</strong><br />
+意味を持つパラメータ化<br />
+↓<br />
+<img class="emoji" draggable="false" alt="🎛" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f39b.svg" data-marp-twemoji=""/> <strong>Control（PID・FSM）</strong><br />
+実時間安定性・決定論的制御<br />
+↓<br />
+<img class="emoji" draggable="false" alt="🧠" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9e0.svg" data-marp-twemoji=""/> <strong>Intelligence（LLM）</strong><br />
+診断・判断・再設計（監督層）</p>
 <p><img class="emoji" draggable="false" alt="👉" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f449.svg" data-marp-twemoji=""/> 各層は<br />
 <strong>責務・時間スケール・役割が明確に分離</strong></p>
 </section>
@@ -55,18 +56,14 @@ LLM による診断・判断・再設計</li>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5" data-paginate="true" data-theme="default" lang="ja-JP" data-marpit-pagination="5" style="--paginate:true;--theme:default;" data-marpit-pagination-total="11" data-size="16:9">
 <h2 id="%F0%9F%A7%AA-samizo-aitl-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AE%9F%E8%A3%85%E5%AF%BE%E5%BF%9C"><img class="emoji" draggable="false" alt="🧪" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9ea.svg" data-marp-twemoji=""/> Samizo-AITL における実装対応</h2>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-mermaid">flowchart LR
-  A[Edusemi-v4x&lt;br/&gt;<img class="emoji" draggable="false" alt="🧱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9f1.svg" data-marp-twemoji=""/> 物理・デバイス] --&gt; B[EduController&lt;br/&gt;<img class="emoji" draggable="false" alt="🎛" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f39b.svg" data-marp-twemoji=""/> 制御]
-  B --&gt; C[AITL Framework&lt;br/&gt;<img class="emoji" draggable="false" alt="🧠" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9e0.svg" data-marp-twemoji=""/> 知能監督]
-</code></pre>
-<ul>
-<li><strong>Edusemi-v4x</strong><br />
-物理・デバイスモデル／半導体プロセス</li>
-<li><strong>EduController</strong><br />
-PID・FSM による制御設計</li>
-<li><strong>AITL Framework</strong><br />
-LLM による監督・再設計レイヤ</li>
-</ul>
+<p><img class="emoji" draggable="false" alt="🧱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9f1.svg" data-marp-twemoji=""/> <strong>Edusemi-v4x</strong><br />
+物理・デバイスモデル／半導体プロセス<br />
+↓<br />
+<img class="emoji" draggable="false" alt="🎛" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f39b.svg" data-marp-twemoji=""/> <strong>EduController</strong><br />
+PID・FSM による制御設計<br />
+↓<br />
+<img class="emoji" draggable="false" alt="🧠" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9e0.svg" data-marp-twemoji=""/> <strong>AITL Framework</strong><br />
+LLM による監督・再設計レイヤ</p>
 <p><img class="emoji" draggable="false" alt="👉" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f449.svg" data-marp-twemoji=""/> 各教材は<br />
 <strong>同一構造の異なるレイヤ切り出し</strong></p>
 </section>
@@ -106,17 +103,17 @@ LLM による監督・再設計レイヤ</li>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9" data-paginate="true" data-theme="default" lang="ja-JP" data-marpit-pagination="9" style="--paginate:true;--theme:default;" data-marpit-pagination-total="11" data-size="16:9">
 <h2 id="%F0%9F%94%81-aitl"><img class="emoji" draggable="false" alt="🔁" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f501.svg" data-marp-twemoji=""/> AITL</h2>
-<h2 id="%E9%96%89%E3%83%AB%E3%83%BC%E3%83%97%E7%9F%A5%E8%83%BD%E5%88%B6%E5%BE%A1%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3">閉ループ知能制御アーキテクチャ</h2>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-mermaid">sequenceDiagram
-  participant Physics as <img class="emoji" draggable="false" alt="🧱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9f1.svg" data-marp-twemoji=""/> Physics
-  participant Control as <img class="emoji" draggable="false" alt="🎛" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f39b.svg" data-marp-twemoji=""/> Control
-  participant LLM as <img class="emoji" draggable="false" alt="🧠" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9e0.svg" data-marp-twemoji=""/> LLM
-
-  Physics-&gt;&gt;Control: 状態・モデル
-  Control-&gt;&gt;Physics: 制御入力
-  Control-&gt;&gt;LLM: 状態・ログ
-  LLM--&gt;&gt;Control: 再設計・調整指示
-</code></pre>
+<h2 id="%E9%96%89%E3%83%AB%E3%83%BC%E3%83%97%E7%9F%A5%E8%83%BD%E5%88%B6%E5%BE%A1%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E6%A6%82%E5%BF%B5">閉ループ知能制御アーキテクチャ（概念）</h2>
+<p><img class="emoji" draggable="false" alt="🧱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9f1.svg" data-marp-twemoji=""/> <strong>Physics / Model</strong><br />
+状態・モデルを定義<br />
+↓<br />
+<img class="emoji" draggable="false" alt="🎛" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f39b.svg" data-marp-twemoji=""/> <strong>Control（PID・FSM）</strong><br />
+制御入力で物理を駆動<br />
+＋ 状態・ログを上位へ<br />
+↓<br />
+<img class="emoji" draggable="false" alt="🧠" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9e0.svg" data-marp-twemoji=""/> <strong>LLM（Supervisor）</strong><br />
+診断・再設計・調整指示<br />
+（※ 制御ループの外側）</p>
 <p><img class="emoji" draggable="false" alt="👉" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f449.svg" data-marp-twemoji=""/> <strong>人の思考力 × 機械の信頼性</strong></p>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10" data-paginate="true" data-theme="default" lang="ja-JP" data-marpit-pagination="10" style="--paginate:true;--theme:default;" data-marpit-pagination-total="11" data-size="16:9">
