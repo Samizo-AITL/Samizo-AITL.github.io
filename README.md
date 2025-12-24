@@ -53,6 +53,23 @@ Samizo-AITL/
 
 ---
 
+## 🧩 AITL Structure Map（関係性の全体像）
+
+```mermaid
+flowchart TB
+  P[Physical / Devices / MEMS] --> M[Models]
+  M --> C[Control Theory]
+  C --> R[Real-time PID Loop]
+  R --> S[FSM Supervisor]
+  S --> I[LLM Intelligence]
+  I -.-> R
+  I -.-> S
+```
+
+---
+
+---
+
 ## 🎯 Who is this portal for?
 
 Samizo-AITL は、以下の技術者・研究者を対象としています。
