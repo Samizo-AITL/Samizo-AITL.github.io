@@ -8,7 +8,6 @@ description: 半導体・MEMS・制御を貫く物理基盤技術と知能化ア
 > **「物理からデバイス、制御、知能化までを一つの構造で示す」**  
 > *“A structured portal connecting physics, devices, systems, and intelligent control.”*
 
-> **公式声明**  
 > 本サイトは、特定の大学・研究機関・企業に所属しない  
 > **個人による独立技術ポータル**です。
 
