@@ -5,57 +5,82 @@ permalink: /about/marp/
 
 # Marp
 
-このページは **Marp で作成したプレゼン資料の入口** です。  
-編集・公開の役割分担と、更新手順を明確にまとめています。
+このページは **Marp で作成したプレゼン資料の入口** です。
+ここを見れば、
+
+- どのファイルを編集すればよいか
+- なぜ md だけでは反映されないのか
+- どうすれば確実に公開されるのか
+
+が一度で分かるようにしています。
 
 ---
 
-## ▶ 公開中のプレゼン
+## ▶ 公開中のプレゼン（閲覧用）
 
-- ▶ **[GitHub Pagesでプレゼンを見る](https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html)**
+- ▶ https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html
 
-※ このリンク先は **HTML（公開物）** です。
+※ ブラウザに表示されるのは **常に HTML（公開物）** です。
 
 ---
 
-## 📁 ファイル構成（重要）
+## ファイル構成と役割（最重要）
 
 <pre>
 about/marp/
-├ samizo-aitl-presentation.md    ← 編集するのはこれ（ソース）
-├ samizo-aitl-presentation.html  ← 公開されるのはこれ（成果物）
+├ samizo-aitl-presentation.md    ← 編集するファイル（Marpソース）
+├ samizo-aitl-presentation.html  ← 公開されるファイル（成果物）
 └ index.md                       ← この説明ページ
 </pre>
 
-- `.md` ：編集用（Marpソース）
-- `.html`：公開用（GitHub Pages が配信）
+### 各ファイルの役割
 
-👉 **GitHub Pages は Marp を実行しません**  
-👉 **HTML は自動生成されません**
+- samizo-aitl-presentation.md  
+  人が編集するソース。これだけでは公開は変わらない。
+
+- samizo-aitl-presentation.html  
+  GitHub Pages が配信する公開物。これを更新したときだけ表示が変わる。
+
+GitHub Pages は Marp を実行せず、HTML は自動生成されません。
 
 ---
 
-## ✏ 編集方法
+## 編集方法
 
-編集するファイル：
+編集するのは次のファイルだけです。
 
 about/marp/samizo-aitl-presentation.md
 
 ---
 
-## 🚀 公開反映手順（必須）
+## 公開反映の手順（理由付き）
 
-md を編集しただけでは表示は変わりません。
+md を編集しただけでは公開ページは更新されません。
+理由は、GitHub Pages が HTML を配信するだけだからです。
 
-1. Marp で HTML を生成  
-2. HTML を commit & push  
-3. GitHub Pages に反映
+### 手順1：MarpでHTMLを生成
+
+marp about/marp/samizo-aitl-presentation.md --html -o about/marp/samizo-aitl-presentation.html
+
+### 手順2：HTMLをGitに反映
+
+git add about/marp/samizo-aitl-presentation.html
+git commit -m "Update Marp HTML"
+git push origin main
+
+### 手順3：表示確認
+
+https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html
+
+Ctrl + F5 で強制再読み込み。
 
 ---
 
-## ✅ 運用まとめ
+## 運用チェックリスト
 
-md を編集  
-→ marp で html 生成  
-→ git commit & push  
-→ 公開ページ更新
+- md を編集した
+- marp で html を生成した
+- html を commit & push した
+- 公開URLを再読み込みした
+
+すべて満たせば、必ず反映されます。
