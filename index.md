@@ -19,6 +19,16 @@ description: 物理からデバイス、制御、知能化までを因果構造�
 
 ---
 
+## ▶ はじめての方へ（Overview）
+
+Samizo-AITL の設計思想と全体像を、  
+短いスライドにまとめています。  
+**まずはこちらをご覧ください。**
+
+▶ https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html
+
+---
+
 ## 🚀 What You Can Gain from This Portal
 
 **Samizo-AITL** は、半導体・MEMS・制御・AI を  
