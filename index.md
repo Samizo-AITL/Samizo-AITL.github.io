@@ -32,8 +32,6 @@ description: 半導体・MEMS・制御を貫く物理基盤技術と知能化ア
 
 ---
 
----
-
 ## 🗂 Samizo-AITL Directory Overview（全体像）
 
 > **本ポータルは「ディレクトリ構成＝設計思想」です。**  
