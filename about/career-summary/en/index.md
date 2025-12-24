@@ -62,17 +62,6 @@ His work evolves along a clear trajectory:
 
 ---
 
-## 📑 Representative Technical Contributions
-*(Detailed documents and full paper lists are provided separately in the portal.)*
-
-- DRAM / VSRAM process ramp-up and yield-improvement case studies  
-- Low-noise and high-voltage device design in 0.18-µm CMOS  
-- Reliability and structural analysis of thin-film piezoelectric actuators  
-- SystemDK-based integration of thermal, stress, and EMI constraints  
-- Comprehensive tutorials on semiconductor devices and industrial inkjet systems
-
----
-
 > ⚠️ **Note**  
 > All process descriptions are based on **conceptual and educational models**  
 > and do not reflect confidential manufacturing information.
