@@ -78,9 +78,9 @@ Ctrl + F5 で強制再読み込み。
 
 ## 運用チェックリスト
 
-- md を編集した
-- marp で html を生成した
-- html を commit & push した
-- 公開URLを再読み込みした
+[ ] samizo-aitl-presentation.md を編集した
+[ ] marp で samizo-aitl-presentation.html を生成した
+[ ] html を git commit & git push した
+[ ] 公開URLを Ctrl+F5 で確認した
 
 すべて満たせば、必ず反映されます。
