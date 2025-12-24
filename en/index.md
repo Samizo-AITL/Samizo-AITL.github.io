@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Samizo-AITL Portal
-description: An integrated portal presenting a physical-first architecture for semiconductor devices, MEMS, control, and intelligent systems
+description: A physical-first engineering archive integrating semiconductor devices, MEMS, control, and intelligent systems through a unified causal architecture
 ---
 
 # 🎓 Samizo-AITL Portal  
-> **Connecting physics, devices, control, and intelligence in a single coherent structure**  
-> *A design-oriented technical archive for physical-first engineering systems.*
+> **A physical-first framework that connects devices, control, and intelligence  
+> through a single coherent causal structure**  
+> *A design-oriented technical archive for engineers and researchers.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
@@ -18,47 +19,48 @@ description: An integrated portal presenting a physical-first architecture for s
 
 ---
 
-## 🧭 What is Samizo-AITL?
+## 🚀 What This Portal Provides
 
-The **Samizo-AITL Portal**, created by **Shinichi Samizo**, is a  
-**design-oriented technical archive** that reorganizes semiconductor devices, MEMS, and control engineering  
-around a **shared physical foundation**.
+**Samizo-AITL** is not a collection of isolated tutorials.  
+It is a **structural archive** that enables you to:
 
-Rather than explaining individual technologies in isolation,  
-this portal presents engineering systems through a **single causal structure**:
+- Understand engineering systems **from physical constraints upward**
+- Connect **devices → models → control → intelligence** without breaking causality
+- Reconstruct **design decisions**, not just implementations
+- Reuse architectural thinking across **education, PoC, and real design work**
 
-**Physics → Structure → Devices → Process → Models → Systems → Control → Intelligence**
-
-The goal is to enable readers to **reconstruct design decisions**  
-while preserving physical meaning, constraints, and causality.
+This portal is built for engineers who need  
+**structure, not abstraction shortcuts**.
 
 ---
 
-## 🗂 Samizo-AITL Directory Overview
+## 🎯 Intended Audience
 
-> **In this portal, the directory structure itself represents the design philosophy.**  
-> Start by understanding the overall structure, then dive into each project.
+This portal is designed for engineers and researchers who:
 
-```text
-Samizo-AITL/
-├─ 01_DevEnv/        Environment & reproducibility
-│   └─ VSCode / Python / Toolchain
-│
-├─ 02_CodeGen/       Implementation, control, and generation
-│   ├─ PID           Real-time control (stability, V–I control)
-│   ├─ FSM           State transitions and mode management
-│   └─ LLM           Supervision and redesign (non–real-time)
-│
-├─ 03_Docs/          Documentation, education, design philosophy
-│   ├─ Edusemi-v4x
-│   ├─ EduController
-│   └─ Edusemi-Plus
-│
-└─ 04_Archives/      PoCs, history, and technical assets
-```
+- Start system design **from physical models and constraints**
+- Treat control theory as a **first-class design element**
+- Use AI / LLMs as **supervisory and analytical layers**, not black-box controllers
+- Need **cross-domain understanding without collapsing physical meaning**
 
-For first-time visitors, follow this order:
-01_DevEnv → 02_CodeGen → 03_Docs
+⚠️ This is **not an introductory tutorial site**.  
+It is a **reference archive for design-oriented engineering work**.
+
+---
+
+## 🧭 What Is Samizo-AITL?
+
+The **Samizo-AITL Portal**, created by **Shinichi Samizo**, reorganizes  
+semiconductor devices, MEMS, and control engineering around a  
+**shared physical-first design philosophy**.
+
+Instead of explaining technologies in isolation,  
+systems are presented through a **single causal chain**:
+
+**Physics → Structure → Devices → Process → Models → Systems → Control → Intelligence**
+
+This approach allows readers to follow *why* design decisions exist,  
+not just *how* to implement them.
 
 ---
 
@@ -75,61 +77,59 @@ flowchart TB
   I -.-> S
 ```
 
----
-
-## 🎯 Intended Audience
-
-Samizo-AITL is intended for engineers and researchers who:
-
-- Design systems **starting from physical models and constraints**
-- Use AI / LLMs as **supervisory, analytical, or redesign layers**, not as black-box controllers
-- Seek **cross-disciplinary understanding without collapsing causality**
-
-This portal is **not an introductory tutorial**.  
-It is a **structural reference for design-oriented engineering work**.
-
----
-
-## 🧠 Positioning of Intelligence (AITL)
-
-AI, control theory, and LLM-based technologies are **not treated as standalone solutions**.
-
-They are positioned as:
-
-> **The outermost layer that enables correct and complete utilization of physical models.**
-
-The system architecture is viewed as a **layered structure**:
+### Architectural Positioning
 
 - **Inner layers**: Physics, devices, MEMS (constraint-defining layers)  
-- **Middle layers**: System modeling and classical control theory  
-- **Outer layers**: Intelligence, adaptation, and redesign  
+- **Middle layers**: Modeling and classical control theory  
+- **Outer layers**: Intelligence, supervision, and redesign  
 
 This layered concept is referred to as  
 **AITL — Adaptive Intelligent Technology Loop**.
 
 LLMs are explicitly placed **outside the real-time control loop**,  
-serving as tools for supervision, diagnosis, and redesign.
+supporting diagnosis, analysis, and redesign.
 
 ---
 
-## 🗺 How to Read This Portal
+## 🗂 Directory Overview (Structural Map)
 
-The portal is designed to be explored in the following order:
+> **The directory structure itself represents the design philosophy.**
 
-1. **Design philosophy and architecture**  
-   → Physical-first engineering and AITL structure  
+```text
+Samizo-AITL/
+├─ 01_DevEnv/        Environment & reproducibility
+│   └─ VSCode / Python / Toolchain
+│
+├─ 02_CodeGen/       Implementation, control, and generation
+│   ├─ PID           Real-time control (stability, V–I control)
+│   ├─ FSM           State transitions and supervisory logic
+│   └─ LLM           Supervision and redesign (non–real-time)
+│
+├─ 03_Docs/          Documentation, education, design philosophy
+│   ├─ Edusemi-v4x
+│   ├─ EduController
+│   └─ Edusemi-Plus
+│
+└─ 04_Archives/      PoCs, history, and technical assets
+```
+
+**Recommended entry order**:  
+**Architecture → Physics → Control → Intelligence**
+
+---
+
+## 🗺 How to Navigate This Portal
+
+1. **Architecture & philosophy**  
+   → Physical-first engineering and AITL concepts  
 2. **Main Core (physical foundations)**  
-   → Semiconductor devices, MEMS, and physical constraints  
-3. **Applied Layer (control and intelligence)**  
-   → Roles of PID, FSM, and LLMs  
+   → Semiconductor devices, MEMS, physical constraints  
+3. **Applied Layer (control & intelligence)**  
+   → PID, FSM, and LLM roles  
 4. **Proof-of-concept implementations**  
-   → Verification through working systems
+   → Verification through working systems  
 
-Recommended flow:
-
-**Philosophy → Physics → Control → Intelligence**
-
-This avoids tool-driven or fragmented understanding.
+This order avoids tool-driven or fragmented understanding.
 
 ---
 
