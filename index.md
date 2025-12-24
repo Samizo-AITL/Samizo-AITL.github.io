@@ -134,11 +134,20 @@ AITL 概念を可視化する試験的デモ集。
 
 ---
 
+# 🕘 Update Log
+
+**サイトおよび教材の更新履歴はこちらに集約しています。**  
+設計思想・教材構成・PoC の更新は、必ずログとして残します。
+
+- [📄 更新履歴を見る](https://samizo-aitl.github.io/about/update/)
+
+---
+
 # 👤 Author
 
 **三溝 真一（Shinichi Samizo）**  
 独立系半導体研究者  
 
-- GitHub: https://github.com/Samizo-AITL  
-- Zenn: https://zenn.dev/samizo_aitl  
-- Career Summary: https://samizo-aitl.github.io/about/career-summary/
+- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
+- Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)  
+- Career Summary: [https://samizo-aitl.github.io/about/career-summary/](https://samizo-aitl.github.io/about/career-summary/)
