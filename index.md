@@ -112,7 +112,7 @@ Samizo-AITL/
 ---
 
 ## 1️⃣ Edusemi-v4x
-**半導体プロセス・デバイス・回路設計を物理起点で体系化する基幹教材。**
+半導体プロセス・デバイス・回路設計を**物理起点で体系化する基幹教材**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x)
@@ -120,7 +120,7 @@ Samizo-AITL/
 ---
 
 ## 2️⃣ SemiDevKit
-**物理モデルから SPICE・信頼性・レイアウトまでを接続する実装キット。**
+物理モデルから **SPICE・信頼性・レイアウト**までを接続する実装キット。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
@@ -128,7 +128,7 @@ Samizo-AITL/
 ---
 
 ## 3️⃣ Edusemi-Plus
-**材料・装置・産業構造を物理視点で拡張する補助教材。**
+材料・装置・産業構造を、**物理視点で拡張する補助教材**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus)
@@ -140,7 +140,7 @@ Samizo-AITL/
 ---
 
 ## 4️⃣ EduController
-**PID・FSM を中心に制御構造を理解するための教材。**
+PID・FSM を中心に**制御構造を理解するための教材**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController)
@@ -148,7 +148,7 @@ Samizo-AITL/
 ---
 
 ## 5️⃣ AITL-Controller-A-Type
-**PID × FSM × LLM 三層構造の最小 PoC。**
+PID × FSM × LLM **三層構造の最小 PoC**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
@@ -156,7 +156,7 @@ Samizo-AITL/
 ---
 
 ## 6️⃣ V–I Control ASIC on SKY130
-**V–I 制御（PID + FSM）を RTL → GDS まで実装する ASIC 教材。**
+V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/vi-control-asic-sky130/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/vi-control-asic-sky130)
@@ -168,7 +168,7 @@ Samizo-AITL/
 ---
 
 ## 7️⃣ mems-ana
-**抽象モデルの限界を確認する pre-FEM MEMS 解析ツール。**
+抽象モデルの限界を確認する **pre-FEM MEMS 解析ツール**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
@@ -176,7 +176,7 @@ Samizo-AITL/
 ---
 
 ## 8️⃣ Inkjet Printing — Design Trade-off Models
-**画質・速度・ドット挙動の因果関係を最小モデルで可視化する教材。**
+画質・速度・ドット挙動の因果関係を**最小モデルで可視化する教材**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-dts)
@@ -184,7 +184,7 @@ Samizo-AITL/
 ---
 
 # 🎞 AITL Animation Demos
-**AITL 概念を可視化するための試験的アニメーションデモ集。**
+AITL 概念を可視化するための**試験的アニメーションデモ集**。
 
 [![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
 
