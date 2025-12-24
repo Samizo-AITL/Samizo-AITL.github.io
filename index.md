@@ -25,7 +25,7 @@ Samizo-AITL の設計思想と全体像を、
 短いスライドにまとめています。  
 **まずはこちらをご覧ください。**
 
-▶ https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html
+▶ [はじめての方はこちら（Overview スライド）](https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html)
 
 ---
 
