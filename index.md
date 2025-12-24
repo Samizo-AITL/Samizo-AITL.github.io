@@ -6,7 +6,7 @@ description: 半導体・MEMS・制御を貫く物理基盤技術と知能化ア
 
 # 🎓 Samizo-AITL Portal  
 > **「物理からデバイス、制御、知能化までを一つの構造で示す」**  
-> *“A structured portal connecting physics, devices, systems, and intelligent control.”*
+> *A structured portal connecting physics, devices, systems, and intelligent control.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 
@@ -16,121 +16,85 @@ description: 半導体・MEMS・制御を貫く物理基盤技術と知能化ア
 
 ---
 
+## 🧭 What is Samizo-AITL?
+
 **Samizo-AITL ポータル**は、三溝真一による  
-**半導体デバイス、MEMS、制御工学を共通の物理基盤から体系的に理解するための統合技術ポータル**です。
+**半導体デバイス・MEMS・制御工学を「共通の物理基盤」から再統合するための技術アーカイブ**です。
 
-本ポータルの主眼は、  
-工学システムを構成する要素を  
+本ポータルの目的は、  
+工学システムを構成する要素を次の因果鎖で整理し、
 
-**「物理 → 構造 → デバイス → プロセス → モデル → システム → 制御 → 知能化」**  
+**物理 → 構造 → デバイス → プロセス → モデル → システム → 制御 → 知能化**
 
-という一貫した因果構造で整理し、  
-**分野横断的に理解できる形で提示すること**にあります。
+という **一貫した設計構造として理解・再利用できる形で提示すること**にあります。
+
+個別技術の百科事典ではなく、  
+**設計判断の背後にある構造そのもの**を主題としています。
 
 ---
 
 ## 🎯 Who is this portal for?
 
-Samizo-AITL は、次のような技術者・研究者を主な対象としています。
+Samizo-AITL は、次のような技術者・研究者を主対象としています。
 
-- 半導体・MEMS・制御分野で **物理モデルを起点に設計したい人**
-- AI / LLM を **制御や設計の「外側」に正しく使いたい人**
-- 分野横断で **因果構造を崩さずに理解・再構築したい人**
+- 半導体・MEMS・制御分野で **物理モデル起点の設計**を行いたい方  
+- AI / LLM を **制御や設計の「外側」に正しく配置したい方**  
+- 分野横断で **因果構造を崩さずに再構築したい方**
 
 ※ 初学者向けの入門サイトではありません。  
-本ポータルは **構造を理解し、設計に使うための技術基盤**です。
+本ポータルは **理解するためではなく、設計に使うための技術基盤**です。
 
 ---
 
-## 🧩 対象とする技術領域
+## 🧠 Positioning of Intelligence (AITL)
 
-### 🟦 Semiconductor Devices
-- CMOS / FinFET / CFET などのデバイス構造
-- 半導体物性・電気特性・プロセス技術
-- 物理モデル・SPICE・設計指向の整理
+AI・LLM は万能解ではありません。  
+本ポータルでは、知能化技術を次のように位置づけます。
 
-### 🟩 MEMS & Mechatronics
-- センサ・アクチュエータの構造と原理
-- 機械系・電気系の結合モデル
-- FEM・製造プロセス・デバイス物理の接続
+- **内側**：物理・デバイス・MEMS（制約を生む層）  
+- **中間**：モデル・制御理論（振る舞いを決める層）  
+- **外側**：知能化・適応・再設計（判断と更新の層）
 
-### 🟧 Control & Intelligence
-- PID・状態遷移（FSM）によるシステム制御
-- モデルに基づく制御設計と安定性理解
-- LLM を用いた再設計・監督層（AITL構想）
+この多層構造を  
+**AITL（Adaptive Intelligent Technology Loop）** と呼び、
 
----
+> *「物理モデルを正しく理解し、使い切るための最外層」*
 
-## 🧠 AITL の位置づけ
-
-AI・制御・LLM といった知能化技術は、  
-単独で扱う対象ではなく、
-
-**「物理モデルを正しく理解し、使い切るための最外層」**
-
-として位置づけられます。
-
-本ポータルでは、
-
-- 内側：物理・デバイス・MEMS  
-- 中間：システムモデル・制御理論  
-- 外側：知能化・適応・再設計  
-
-という **多層構造（AITL：Adaptive Intelligent Technology Loop）** を  
-概念図・アニメーションを交えて段階的に示していきます。
+として LLM を扱います。
 
 ---
 
-> **Samizo-AITL は、個別技術の解説ではなく  
-> 「技術を貫く構造そのもの」を示すことを目的としたポータルです。**
+## 🗺 How to read this portal
 
----
-
-## 🧭 全体構造を俯瞰する（設計思想）
-
-本ポータルで扱う  
-**Physical-First 工学** と  
-**知能制御アーキテクチャ（PID × FSM × LLM）** の全体構造は、  
-以下のスライドで俯瞰できます。
-
-- [Physical-First 工学と知能制御アーキテクチャ（スライド）](/about/marp/samizo-aitl-presentation.html)
-
----
-
-## 🗺 How to use this portal（読み方ガイド）
-
-本ポータルは、以下の流れで読むことを想定しています。
+本ポータルは、次の順で読むことを想定しています。
 
 1. **設計思想の把握**  
-   → Physical-First 工学と AITL 構造を理解  
-2. **物理・デバイス基盤（Main Core）**  
-   → 半導体・MEMS の物理モデルと制約を確認  
-3. **制御・知能化（Applied Layer）**  
-   → PID / FSM / LLM をどこにどう使うかを学ぶ  
+   → Physical-First 工学と AITL 全体像  
+2. **Main Core（物理・デバイス基盤）**  
+   → 半導体・MEMS の制約とモデル  
+3. **Applied Layer（制御・知能化）**  
+   → PID / FSM / LLM の役割分担  
 4. **PoC・実装例**  
-   → 実際に動く構造として確認する
+   → 実装された構造としての確認
 
-「どこから読めばいいか分からない」状態を作らないため、  
-**思想 → 物理 → 制御 → 知能** の順での閲覧を推奨します。
+「どこから読めばよいか分からない」状態を作らないため、  
+**思想 → 物理 → 制御 → 知能** の順を推奨します。
 
 ---
 
-# 💠  Main Core（中核教材）
-半導体デバイス技術そのものを体系的に理解するための基幹教材群。
+# 💠 Main Core（中核教材）
+**半導体デバイス技術を物理起点で体系化する基幹教材群**
 
 ---
 
 ## 1️⃣ Edusemi-v4x
-**半導体プロセス・デバイス・回路設計を体系的に学ぶための基幹教材。**
+**半導体プロセス・デバイス・回路設計を一貫構造で扱う基幹教材。**
 
 - MOS 構造・物理
 - プロセスフロー
 - デバイスモデル
-- 回路設計
-- PDK
-- SystemDK による、熱・応力・SI/PI・EMI などの物理制約解析
-
-までを一貫して扱います。
+- 回路設計・PDK
+- SystemDK による熱・応力・SI/PI・EMI 解析
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x)
@@ -138,56 +102,35 @@ AI・制御・LLM といった知能化技術は、
 ---
 
 ## 2️⃣ SemiDevKit
-**物理モデルから SPICE、信頼性、レイアウトまでを一貫して扱う  
-デバイス開発実装キット。**
+**物理モデルから SPICE・信頼性・レイアウトまでを接続する実装キット。**
 
-- Poisson / Drift-Diffusion solver
-- BSIM4 モデル
-- NBTI / HCI 信頼性解析
-- OpenLane-Lite によるレイアウト生成
-
-など、**「物理が回路になるまで」**を実装レベルで追体験できます。
+- Poisson / Drift-Diffusion solver  
+- BSIM4  
+- NBTI / HCI  
+- OpenLane-Lite
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
 
 ---
 
-## 3️⃣ Edusemi-Plus（技術拡張教材）
-**材料・装置・パッケージ・産業構造など、  
-半導体技術の周辺領域を基幹体系へ接続する拡張教材。**
+## 3️⃣ Edusemi-Plus
+**材料・装置・産業構造を物理視点で接続する拡張教材。**
 
-- SiC / GaN
-- EUV
-- 製造装置
-- ファブ運営
-- サプライチェーン
-
-などを、物理・デバイス視点から整理します。
+- SiC / GaN  
+- EUV  
+- 製造装置  
+- ファブ運営・サプライチェーン
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus)
 
 ---
 
-# 🎛️ Applied Layer（制御・AI / 応用層）
-Main Core の物理基盤を前提に、  
-**「動き」「制御」「適応」をどう設計するか**を考える応用レイヤ。
-
-ここでは、既存の制御工学（PID・FSM）を尊重し、  
-AI/LLM は **設計や判断を補助する位置づけ**で扱います。
-
----
+# 🎛 Applied Layer（制御・知能化）
 
 ## 4️⃣ EduController
-**制御工学の基礎を中心とした教育用教材。**
-
-- PID 制御
-- FSM（状態遷移）
-- 制御設計の考え方
-- HDL テンプレート生成（補助的）
-
-を通じて、**制御の基本構造を理解すること**を目的とします。
+PID・FSM を中心に **制御構造の基本を整理する教育教材。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController)
@@ -195,20 +138,11 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 ---
 
 ## 5️⃣ AITL-Controller-A-Type
-**PID・FSM・LLM の三層構造を  
-最小構成の Python 実装で検証するための実験用コントローラ。**
+**PID × FSM × LLM 三層構造の最小実装 PoC。**
 
-本リポジトリは、
-
-- 新しい制御手法の提案
-- PID の代替
-
-を目的とするものではなく、  
-**「制御・判断・再設計を分離して考えるための思考実験」**として位置付けています。
-
-また、単なる概念検証に留まらず、  
-**劣化・不確実性を含む条件下での挙動を通じて  
-制御構造と Reliability の関係を評価すること**を目的としています。
+- 制御と判断の分離
+- 劣化・不確実性下での挙動確認
+- Reliability 視点の評価
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
@@ -216,97 +150,41 @@ AI/LLM は **設計や判断を補助する位置づけ**で扱います。
 ---
 
 ## 6️⃣ V-I Control ASIC on SKY130
-**V–I 制御（PID + FSM）を RTL → GDS まで一気通貫で実装する  
-デジタル制御 ASIC 教材。**
-
-- 制御理論 → 固定小数点 → Verilog → OpenLane → SKY130
-- MCU 制御と ASIC 制御の決定的違いを可視化
-- 教育用途・実務試作の両立を目的とした最小構成
+**V–I 制御（PID + FSM）を RTL → GDS まで実装する ASIC 教材。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/vi-control-asic-sky130/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/vi-control-asic-sky130)
 
 ---
 
-# ⚙️ MEMS（抽象を物理に引き戻す）
-
-半導体・制御で扱った  
-**抽象モデルが、実際の構造物でどこまで通用するか**を確認する境界領域。
-
-- 電圧 → 応力 → 変位
-- 構造そのものがモデル制約になる
-- 抽象の限界が即座に可視化される
-
----
+# ⚙️ MEMS（抽象の限界を可視化）
 
 ## 7️⃣ mems-ana
-**MEMS 構造解析（pre-FEM）設計探索ツール**
-
-FEM 前段での形状・対称性・スケーリング確認を目的とした  
-**pre-FEM 形状検証ツール**。
+**pre-FEM 構造検証ツール**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
 
 ---
 
-## 8️⃣ Inkjet Printing (Design Trade-off Models)
-
-**インクジェット印刷における「画質 × 速度 × ドット挙動」の因果関係を  
-最小モデルで可視化する教育用プロジェクト群。**
-
-- Drop density（画質）
-- Throughput（速度）
-- Dot spread（メディア相互作用）
-
-といった設計軸を、  
-**Python による簡易シミュレーションと視覚化**で理解することを目的としています。
+## 8️⃣ Inkjet Printing Models
+**画質 × 速度 × ドット挙動の因果モデル化。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-dts)
 
 ---
 
-# 📝 Technical Notes（Zenn）
-
-設計思想・技術背景・途中検討の記録は Zenn にまとめています。  
-教材や実装の「なぜ」を補足する位置づけです。
-
-- 🔗 [Zenn: Shinichi Samizo](https://zenn.dev/samizo_aitl)
-
----
-
-# 📚 Supplementary Layer（補助・周辺教材）
-Main Core や Applied Layer を補完する周辺教材・試作・PoC 群。
-
----
-
-| プロジェクト | 内容 | Link |
-|--------------|------|------|
-| **EduMecha** | Creo を用いた機械設計教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
-| **Inkjet** | インクジェットアーカイブ | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
-| **EduLms** | ISO・品質教育を含む学習管理教材 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
-| **AITL Animation Demos** | AITL概念可視化のための試験的アニメデモ集 | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/) |
-
-### 🗄 Discontinued / Archived Projects
-
-| プロジェクト | 内容 | Link |
-|--------------|------|------|
-| **AITL-H** | PID × FSM × LLM 三層構造の設計思想・限界検討アーカイブ（開発終了） | [![Archive](https://img.shields.io/badge/View-Archive-lightgrey?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
-
----
-
 # 👤 Author
 
-| Item | Details |
-|------|--------|
-| **Name** | 三溝 真一（Shinichi Samizo） |
-| **Title** | 独立系半導体研究者 |
-| **Links** | [GitHub](https://github.com/Samizo-AITL) |
+**三溝 真一（Shinichi Samizo）**  
+独立系半導体研究者  
 
-[📄 Career Summary](https://samizo-aitl.github.io/about/career-summary/)
+- GitHub: https://github.com/Samizo-AITL  
+- Career Summary: https://samizo-aitl.github.io/about/career-summary/
 
 ---
 
-# 🕘 Update Log
-[📄 View Update Log](https://samizo-aitl.github.io/about/update/)
+> **Samizo-AITL は  
+> 技術を「説明」するための場所ではなく、  
+> 技術を「設計するための構造」を公開するアーカイブです。**
