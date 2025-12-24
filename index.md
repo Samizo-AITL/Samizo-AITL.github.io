@@ -254,6 +254,10 @@ Main Core や Applied Layer を補完する周辺教材・試作・PoC 群。
 
 ---
 
+- [Physical-First 工学と知能制御アーキテクチャ（スライド）](/about/marp/samizo-aitl-presentation.html)
+
+---
+
 # 👤 Author
 
 | Item | Details |
