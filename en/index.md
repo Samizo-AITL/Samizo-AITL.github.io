@@ -222,8 +222,8 @@ through **simple Python simulations**.
 **Shinichi Samizo**  
 Independent Semiconductor Researcher  
 
-- GitHub: https://github.com/Samizo-AITL  
-- Career Summary: https://samizo-aitl.github.io/about/career-summary/en/
+- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
+- Career Summary: [https://samizo-aitl.github.io/about/career-summary/en/](https://samizo-aitl.github.io/about/career-summary/en/)
 
 ---
 
