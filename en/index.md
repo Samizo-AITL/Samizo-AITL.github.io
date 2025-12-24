@@ -6,7 +6,7 @@ description: An integrated portal presenting a physical-first architecture for s
 
 # 🎓 Samizo-AITL Portal  
 > **Connecting physics, devices, control, and intelligence in a single coherent structure**  
-> *A design-oriented technical archive for engineering systems.*
+> *A design-oriented technical archive for physical-first engineering systems.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 
@@ -22,13 +22,13 @@ The **Samizo-AITL Portal**, created by **Shinichi Samizo**, is a
 **design-oriented technical archive** that reorganizes semiconductor devices, MEMS, and control engineering  
 around a **shared physical foundation**.
 
-The purpose of this portal is not to explain individual technologies in isolation,  
-but to present engineering systems through a **consistent causal structure**:
+Rather than explaining individual technologies in isolation,  
+this portal presents engineering systems through a **single causal structure**:
 
 **Physics → Structure → Devices → Process → Models → Systems → Control → Intelligence**
 
-This structure allows readers to **reconstruct engineering decisions**  
-without breaking physical or causal consistency.
+The goal is to enable readers to **reconstruct design decisions**  
+while preserving physical meaning, constraints, and causality.
 
 ---
 
@@ -49,9 +49,9 @@ It is a **structural reference for design-oriented engineering work**.
 
 AI, control theory, and LLM-based technologies are **not treated as standalone solutions**.
 
-In this portal, they are positioned as:
+They are positioned as:
 
-> **The outermost layer that enables full and correct utilization of physical models.**
+> **The outermost layer that enables correct and complete utilization of physical models.**
 
 The system architecture is viewed as a **layered structure**:
 
@@ -80,11 +80,11 @@ The portal is designed to be explored in the following order:
 4. **Proof-of-concept implementations**  
    → Verification through working systems
 
-Readers are encouraged to follow the flow:
+Recommended flow:
 
 **Philosophy → Physics → Control → Intelligence**
 
-to avoid tool-driven or fragmented understanding.
+This avoids tool-driven or fragmented understanding.
 
 ---
 
@@ -191,7 +191,8 @@ A **hands-on educational control ASIC** demonstrating a complete flow from
 # ⚙️ MEMS — Where Abstraction Meets Reality
 
 A boundary domain where  
-**abstract models are tested against real physical structures**.
+**abstract models are tested against real physical structures**,  
+revealing the limits of simplification.
 
 ---
 
@@ -210,10 +211,26 @@ Minimal models visualizing trade-offs between:
 - Throughput  
 - Dot behavior  
 
-through **simple Python simulations**.
+through **simple Python simulations**,  
+serving as a domain-specific example of physical trade-offs.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-dts)
+
+---
+
+# 🎞 AITL Animation Demos
+Experimental animation demos visualizing  
+**AITL concepts and layered control structures**.
+
+[![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
+
+---
+
+# 🕘 Update Log
+Chronological record of site and repository updates.
+
+[📄 View update history](https://samizo-aitl.github.io/about/update/en/)
 
 ---
 
@@ -222,7 +239,7 @@ through **simple Python simulations**.
 **Shinichi Samizo**  
 Independent Semiconductor Researcher  
 
-- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
+- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)  
 - Career Summary: [https://samizo-aitl.github.io/about/career-summary/en/](https://samizo-aitl.github.io/about/career-summary/en/)
 
 ---
