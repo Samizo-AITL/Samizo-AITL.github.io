@@ -27,6 +27,19 @@ By doing so, the portal enables **cross-disciplinary understanding**, rather tha
 
 ---
 
+## 🎯 Intended Audience
+
+The Samizo-AITL Portal is primarily designed for:
+
+- Engineers and researchers who want to **design systems starting from physical models**
+- Practitioners who aim to use **AI / LLMs as supervisory or design-support layers**, not as black-box controllers
+- Readers seeking **cross-disciplinary understanding without breaking causal and physical consistency**
+
+This portal is **not intended as an introductory tutorial**.  
+It is a **structural and design-oriented technical foundation**.
+
+---
+
 ## 🧩 Technical Domains Covered
 
 ### 🟦 Semiconductor Devices
@@ -68,6 +81,25 @@ and will be explained step by step using conceptual diagrams and animations.
 
 > **Samizo-AITL is not a collection of isolated explanations.  
 > It is a portal designed to reveal the structural backbone that connects engineering technologies.**
+
+---
+
+## 🗺 How to Navigate This Portal
+
+This portal is designed to be read in the following order:
+
+1. **Design philosophy and structure**  
+   → Understand the Physical-First approach and the AITL concept  
+2. **Physical foundations (Main Core)**  
+   → Semiconductor devices, MEMS, and physical constraints  
+3. **Control and intelligence (Applied Layer)**  
+   → Where and how PID, FSM, and LLMs are used  
+4. **Proof-of-concept implementations**  
+   → Verify ideas through working systems and code
+
+Readers are encouraged to follow the flow:  
+**Philosophy → Physics → Control → Intelligence**  
+to avoid fragmented or tool-centric understanding.
 
 ---
 
