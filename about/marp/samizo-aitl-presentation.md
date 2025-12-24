@@ -155,3 +155,6 @@ sequenceDiagram
 - 📘 モデルから実装まで再現可能な技術教育  
 
 🔗 https://samizo-aitl.github.io/
+
+<!-- force rebuild -->
+
