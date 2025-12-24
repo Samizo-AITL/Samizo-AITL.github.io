@@ -174,8 +174,8 @@ PID・FSM を中心に **制御構造の基本を整理する教育教材。**
 **三溝 真一（Shinichi Samizo）**  
 独立系半導体研究者  
 
-- GitHub: https://github.com/Samizo-AITL  
-- Career Summary: https://samizo-aitl.github.io/about/career-summary/
+- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
+- Career Summary: [https://samizo-aitl.github.io/about/career-summary/](https://samizo-aitl.github.io/about/career-summary/)
 
 ---
 
