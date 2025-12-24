@@ -1,116 +1,101 @@
 ---
 layout: default
 title: Samizo-AITL Portal
-description: An integrated portal connecting semiconductor devices, MEMS, control, and intelligent systems
+description: An integrated portal presenting a physical-first architecture for semiconductor devices, MEMS, control, and intelligent systems
 ---
 
 # 🎓 Samizo-AITL Portal  
-> **“Connecting physics, devices, control, and intelligence in a unified structure”**  
-> *A structured portal for understanding engineering systems from physical principles to intelligent control.*
+> **Connecting physics, devices, control, and intelligence in a single coherent structure**  
+> *A design-oriented technical archive for engineering systems.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 
-## 🌐 Language / 言語
+## 🌐 Language
 [![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
 [![English Version](https://img.shields.io/badge/English-Version-blue?logo=github)](https://samizo-aitl.github.io/en/)
 
 ---
 
-The **Samizo-AITL Portal**, created by **Shinichi Samizo**,  
-is an **integrated technical portal for systematically understanding semiconductor devices, MEMS, and control systems based on a shared physical foundation**.
+## 🧭 What is Samizo-AITL?
 
-The primary goal of this portal is to organize engineering technologies through a consistent causal structure:
+The **Samizo-AITL Portal**, created by **Shinichi Samizo**, is a  
+**design-oriented technical archive** that reorganizes semiconductor devices, MEMS, and control engineering  
+around a **shared physical foundation**.
+
+The purpose of this portal is not to explain individual technologies in isolation,  
+but to present engineering systems through a **consistent causal structure**:
 
 **Physics → Structure → Devices → Process → Models → Systems → Control → Intelligence**
 
-By doing so, the portal enables **cross-disciplinary understanding**, rather than treating each field in isolation.
+This structure allows readers to **reconstruct engineering decisions**  
+without breaking physical or causal consistency.
 
 ---
 
 ## 🎯 Intended Audience
 
-The Samizo-AITL Portal is primarily designed for:
+Samizo-AITL is intended for engineers and researchers who:
 
-- Engineers and researchers who want to **design systems starting from physical models**
-- Practitioners who aim to use **AI / LLMs as supervisory or design-support layers**, not as black-box controllers
-- Readers seeking **cross-disciplinary understanding without breaking causal and physical consistency**
+- Design systems **starting from physical models and constraints**
+- Use AI / LLMs as **supervisory, analytical, or redesign layers**, not as black-box controllers
+- Seek **cross-disciplinary understanding without collapsing causality**
 
-This portal is **not intended as an introductory tutorial**.  
-It is a **structural and design-oriented technical foundation**.
-
----
-
-## 🧩 Technical Domains Covered
-
-### 🟦 Semiconductor Devices
-- CMOS, FinFET, and CFET device structures  
-- Semiconductor physics, electrical characteristics, and fabrication processes  
-- Physical modeling, SPICE, and design-oriented perspectives  
-
-### 🟩 MEMS & Mechatronics
-- Sensors and actuators: structures and operating principles  
-- Coupled mechanical–electrical system models  
-- Connections between FEM, fabrication processes, and device physics  
-
-### 🟧 Control & Intelligence
-- Classical control methods such as PID and FSM-based supervision  
-- Model-based control design and stability considerations  
-- Intelligent supervisory layers using LLMs (AITL concept)  
+This portal is **not an introductory tutorial**.  
+It is a **structural reference for design-oriented engineering work**.
 
 ---
 
-## 🧠 Positioning of AITL
+## 🧠 Positioning of Intelligence (AITL)
 
-AI, control theory, and LLM-based technologies are **not treated as standalone topics**.
+AI, control theory, and LLM-based technologies are **not treated as standalone solutions**.
 
-Instead, they are positioned as:
+In this portal, they are positioned as:
 
-**“The outermost layer that enables full utilization of physical models and engineered systems.”**
+> **The outermost layer that enables full and correct utilization of physical models.**
 
-Within this portal, the system architecture is viewed as a **multi-layer structure**:
+The system architecture is viewed as a **layered structure**:
 
-- Inner layers: Physics, devices, and MEMS  
-- Middle layers: System modeling and control theory  
-- Outer layers: Intelligence, adaptation, and redesign  
+- **Inner layers**: Physics, devices, MEMS (constraint-defining layers)  
+- **Middle layers**: System modeling and classical control theory  
+- **Outer layers**: Intelligence, adaptation, and redesign  
 
-This concept is referred to as  
-**AITL (Adaptive Intelligent Technology Loop)**  
-and will be explained step by step using conceptual diagrams and animations.
+This layered concept is referred to as  
+**AITL — Adaptive Intelligent Technology Loop**.
 
----
-
-> **Samizo-AITL is not a collection of isolated explanations.  
-> It is a portal designed to reveal the structural backbone that connects engineering technologies.**
+LLMs are explicitly placed **outside the real-time control loop**,  
+serving as tools for supervision, diagnosis, and redesign.
 
 ---
 
-## 🗺 How to Navigate This Portal
+## 🗺 How to Read This Portal
 
-This portal is designed to be read in the following order:
+The portal is designed to be explored in the following order:
 
-1. **Design philosophy and structure**  
-   → Understand the Physical-First approach and the AITL concept  
-2. **Physical foundations (Main Core)**  
+1. **Design philosophy and architecture**  
+   → Physical-first engineering and AITL structure  
+2. **Main Core (physical foundations)**  
    → Semiconductor devices, MEMS, and physical constraints  
-3. **Control and intelligence (Applied Layer)**  
-   → Where and how PID, FSM, and LLMs are used  
+3. **Applied Layer (control and intelligence)**  
+   → Roles of PID, FSM, and LLMs  
 4. **Proof-of-concept implementations**  
-   → Verify ideas through working systems and code
+   → Verification through working systems
 
-Readers are encouraged to follow the flow:  
-**Philosophy → Physics → Control → Intelligence**  
-to avoid fragmented or tool-centric understanding.
+Readers are encouraged to follow the flow:
+
+**Philosophy → Physics → Control → Intelligence**
+
+to avoid tool-driven or fragmented understanding.
 
 ---
 
-# 💠 Main Core (Foundational Repositories)
-The core repositories form a **complete conceptual map of semiconductor device technology**,  
-from physics to manufacturing and system-level constraints.
+# 💠 Main Core — Foundational Repositories
+The Main Core forms a **coherent technical backbone**  
+covering semiconductor technology from physics to system-level constraints.
 
 ---
 
 ## 1️⃣ Edusemi-v4x
-A **systematic curriculum** covering semiconductor devices and processes, including:
+A **systematic curriculum** covering semiconductor devices and processes:
 
 - Device structures and operating physics  
 - Process integration flows  
@@ -119,23 +104,19 @@ A **systematic curriculum** covering semiconductor devices and processes, includ
 - SystemDK-based physical constraints  
   (thermal, stress, SI/PI, EMI)
 
-This repository serves as the **primary backbone** of the portal.
-
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x)
 
 ---
 
 ## 2️⃣ SemiDevKit
-An **implementation-oriented device development kit** that bridges theory and practice:
+An **implementation-oriented development kit** bridging theory and practice:
 
 - Poisson / Drift–Diffusion solvers  
 - BSIM4 compact modeling  
 - SPICE simulation  
 - NBTI / HCI reliability analysis  
 - Physical layout using OpenLane-Lite  
-
-This kit emphasizes **how physical models become real circuits**.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
@@ -145,36 +126,33 @@ This kit emphasizes **how physical models become real circuits**.
 ## 3️⃣ Edusemi-Plus
 Extended materials connecting semiconductor fundamentals with surrounding domains:
 
-- Advanced materials (SiC, GaN, etc.)  
-- Packaging and PCB considerations  
+- Advanced materials (SiC, GaN)  
 - Manufacturing equipment and fabs  
+- Packaging and system integration  
 - Supply chains and industrial structures  
-
-This repository **extends** the core technical framework without replacing it.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus)
 
 ---
 
-# 🎛️ Applied Layer (Control & AI – Applied Concepts)
-This layer explores how the semiconductor foundation can be applied to  
-**dynamic systems and control problems**, while respecting established engineering practices.
+# 🎛 Applied Layer — Control & Intelligence
 
-Conventional control theory (PID, FSM) remains the **primary method**,  
-with AI/LLM treated as **design and analysis aids**, not replacements.
+This layer explores how physical foundations are applied to  
+**dynamic systems and control problems**.
+
+Classical control (PID, FSM) remains the **primary control mechanism**,  
+while AI/LLMs are treated as **architectural support tools**, not replacements.
 
 ---
 
 ## 4️⃣ EduController
-An educational resource focused on **control fundamentals**, including:
+An educational resource focused on **control fundamentals**:
 
 - PID control principles  
 - FSM-based supervisory logic  
 - Control-oriented design thinking  
-- Optional HDL template generation for SoC contexts  
-
-The goal is **conceptual clarity**, not proposing new control paradigms.
+- Optional HDL template generation  
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController)
@@ -182,125 +160,72 @@ The goal is **conceptual clarity**, not proposing new control paradigms.
 ---
 
 ## 5️⃣ AITL-Controller-A-Type
-A **minimal experimental controller** implemented in Python,  
-used to explore a three-layer separation:
+A **minimal experimental controller** implemented in Python to explore:
 
-- Control (PID)  
-- Decision / supervision (FSM)  
-- Design assistance (LLM)
+- Separation of control (PID)  
+- Supervision and decision logic (FSM)  
+- Redesign and analysis support (LLM)
 
-This project is **not intended as a production-ready control solution**,  
-but as a **thinking framework** for separating control, judgment, and redesign.
-
-Beyond a mere conceptual demonstration,
-this project aims to evaluate the relationship between control architecture and reliability
-through system behavior under conditions involving degradation and uncertainty.
+This project is a **thinking framework**,  
+not a proposal for a new control algorithm.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
 
 ---
 
-## 6️⃣ V-I Control ASIC on SKY130
-A **hands-on educational control ASIC** demonstrating a complete flow from
-**control theory to silicon**, using **PID + FSM** and a **digital-only RTL → GDS**
-implementation on **OpenLane + SKY130**.
+## 6️⃣ V–I Control ASIC on SKY130
+A **hands-on educational control ASIC** demonstrating a complete flow from  
+**control theory to silicon** using **PID + FSM**.
 
-Key characteristics:
-
-- Voltage–Current (V–I) based digital control
-- Fixed-point PID implementation with explicit saturation
-- FSM-based safety supervision
-- PWM generation
-- Full open-source RTL-to-GDS flow
-
-This repository highlights the **fundamental differences between MCU-based control
-and ASIC-based deterministic control**, with clarity and reproducibility as primary goals.
+- Deterministic digital V–I control  
+- Fixed-point PID with explicit saturation  
+- FSM-based safety supervision  
+- Full RTL → GDS flow on OpenLane + SKY130  
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/vi-control-asic-sky130/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/vi-control-asic-sky130)
 
 ---
 
-# ⚙️ MEMS (Bringing Abstraction Back to Physics)
+# ⚙️ MEMS — Where Abstraction Meets Reality
 
 A boundary domain where  
-**abstract models learned in semiconductors and control  
-are tested against real physical structures**.
-
-- Voltage → stress → displacement
-- The structure itself becomes a modeling constraint
-- The limits of abstraction are immediately exposed
+**abstract models are tested against real physical structures**.
 
 ---
 
 ## 7️⃣ mems-ana
-**MEMS structural analysis tool (pre-FEM design exploration)**
-
-A lightweight **pre-FEM shape sanity check tool**  
-for validating geometry, symmetry, and scaling  
-before full FEM analysis.
+**Pre-FEM MEMS structural exploration tool**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
 
 ---
 
-## 8️⃣ Inkjet Printing (Design Trade-off Models)
+## 8️⃣ Inkjet Printing — Design Trade-off Models
+Minimal models visualizing trade-offs between:
 
-**An educational project set that visualizes the causal relationship between  
-print quality, printing speed, and dot behavior in inkjet printing  
-using minimal models.**
+- Print quality  
+- Throughput  
+- Dot behavior  
 
-The project focuses on three primary design axes:
-
-- **Drop density** (print quality and graininess)
-- **Throughput** (printing speed)
-- **Dot spread** (ink–media interaction)
-
-These trade-offs are explored through  
-**simple Python-based simulations and visualizations**,  
-with the goal of enabling intuitive understanding of design causality  
-rather than reproducing real printer behavior.
+through **simple Python simulations**.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-dts)
 
 ---
 
-# 📝 Technical Notes (Zenn)
-
-Design concepts, technical background, and intermediate design considerations are documented on Zenn.  
-This serves as supplementary material explaining the *why* behind the educational content and implementations.
-
-- 🔗 [Zenn: Shinichi Samizo](https://zenn.dev/samizo_aitl)
-
----
-
-# 📚 Supplementary Layer (Experiments & Supporting Materials)
-Repositories that support, extend, or experimentally explore ideas introduced in the core and applied layers.
-
-| Project | Description | Link |
-|--------|-------------|------|
-| **EduMecha** | Mechanical design exercises using Creo | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduMecha/) |
-| **Inkjet** | Thin-film piezo actuator structures and analysis | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Inkjet/) |
-| **EduLms** | Learning management materials for ISO-based quality and environmental education | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduLms/) |
-| **AITL Animation Demos** | Experimental animation demos for visualizing AITL concepts | [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/) |
-| **AITL-H** | Discontinued design study of a three-layer (PID × FSM × LLM) architecture; preserved as an architectural and educational archive | [![Archive](https://img.shields.io/badge/View-Archive-lightgrey?logo=github)](https://samizo-aitl.github.io/AITL-H/) |
-
----
-
 # 👤 Author
 
-| Item | Details |
-|------|---------|
-| **Name** | Shinichi Samizo |
-| **Title** | Independent Semiconductor Researcher |
-| **Links** | [GitHub](https://github.com/Samizo-AITL) |
+**Shinichi Samizo**  
+Independent Semiconductor Researcher  
 
-[📄 Career Summary](https://samizo-aitl.github.io/about/career-summary/en/)
+- GitHub: https://github.com/Samizo-AITL  
+- Career Summary: https://samizo-aitl.github.io/about/career-summary/en/
 
 ---
 
-# 🕘 Update Log
-[📄 View Update Log](https://samizo-aitl.github.io/about/update/en/)
+> **Samizo-AITL is not a tutorial site.  
+> It is a published structural archive for physical-first engineering design.**
