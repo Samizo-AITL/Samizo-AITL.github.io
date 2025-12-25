@@ -5,141 +5,138 @@ paginate: true
 size: 16:9
 ---
 
-# 🧱 Physical-First Engineering  
-# 🧠 Intelligent Control Architecture
+# 🧱 Physical-First 工学と 🧠 知能制御アーキテクチャ
 
-### An Integrated Design Philosophy for  
-### Semiconductors / Control / AI  
+### 半導体／制御／AI の統合設計思想  
 
 🔗 https://samizo-aitl.github.io/
 
 ---
 
-## ❓ Why Physical-First Engineering Matters
+## ❓ なぜ Physical-First 工学が必要なのか 
 
-- 🤖 AI and control systems are becoming black boxes  
-- 📐 Mathematics, models, and implementation are fragmented  
-- 🧩 Semiconductors, control, and AI are discussed separately  
+- 🤖 AI や制御がブラックボックス化している  
+- 📐 数式・モデル・実装が分断されている  
+- 🧩 半導体・制御・AI が別々に語られている  
 
-👉 Engineering systems require  
-**causal and hierarchical structures**
-
----
-
-## 🏗 Hierarchical Structure of Engineering Systems (Concept)
-
-- 🧱 **Physics (Materials / Devices)**  
-  Material properties, structural constraints, real behavior
-- 📐 **Models (Mathematical / Equivalent Circuits)**  
-  Meaningful parameterization
-- 🎛 **Control (PID / FSM)**  
-  Real-time stability and deterministic control
-- 🧠 **Intelligence (LLM)**  
-  Diagnosis, decision-making, and redesign (supervisory layer)
-
-👉 Each layer has  
-**clearly separated responsibilities, time scales, and roles**
+👉 工学システムには  
+**因果的・階層的な構造** が不可欠
 
 ---
 
-## 🧭 Role Allocation by Layer
+## 🏗 工学システムの階層構造（概念）
 
-- 🧱 **Physics**  
-  Material properties, device behavior, structural constraints  
-- 📐 **Models**  
-  Mathematical models, equivalent circuits, parameterization  
-- 🎛 **Control**  
-  Real-time stability via PID and FSM  
-- 🧠 **Intelligence**  
-  Diagnosis, decision-making, and redesign using LLMs  
+- 🧱 **Physics（物理・材料・デバイス）**  
+  材料特性・構造制約・実挙動
+- 📐 **Models（数理モデル・等価回路）**  
+  意味を持つパラメータ化
+- 🎛 **Control（PID・FSM）**  
+  実時間安定性・決定論的制御
+- 🧠 **Intelligence（LLM）**  
+  診断・判断・再設計（監督層）
 
-👉 “Intelligence” belongs **only to the outermost layer**
+👉 各層は  
+**責務・時間スケール・役割が明確に分離**
 
 ---
 
-## 🧪 Implementation in Samizo-AITL
+## 🧭 各レイヤの役割分担
+
+- 🧱 **物理（Physics）**  
+  材料特性・デバイス挙動・構造制約  
+- 📐 **モデル（Models）**  
+  数理モデル・等価回路・パラメータ化  
+- 🎛 **制御（Control）**  
+  PID・FSM による実時間安定性  
+- 🧠 **知能（Intelligence）**  
+  LLM による診断・判断・再設計  
+
+👉 「賢さ」は **最外層にだけ置く**
+
+---
+
+## 🧪 Samizo-AITL における実装対応
 
 - 🧱 **Edusemi-v4x**  
-  Physics, device models, semiconductor processes
+  物理・デバイスモデル／半導体プロセス
 - 🎛 **EduController**  
-  Control design using PID and FSM
+  PID・FSM による制御設計
 - 🧠 **AITL Framework**  
-  Supervisory and redesign layer powered by LLMs  
+  LLM による監督・再設計レイヤ  
 
-👉 Each material represents  
-**a different layer extracted from the same structure**
-
----
-
-## 🧱 Physics & Models Layer
-
-- Material properties and device physics  
-- Compact models / equivalent circuits  
-- **Parameters with physical meaning**
-
-❌ Black-box approximation  
-❌ Direct AI-based fitting  
-
-👉 **Models without meaning are not acceptable**
+👉 各教材は  
+**同一構造の異なるレイヤ切り出し**
 
 ---
 
-## 🎛 Control Layer (PID & FSM)
+## 🧱 物理・モデル層（Physics & Models）
 
-- Real-time feedback control using PID  
-- State and mode management using FSM  
-- **Deterministic and explainable behavior**
+- 材料特性・デバイス物理  
+- コンパクトモデル／等価回路  
+- **物理的意味を持つパラメータ**
 
-❌ Probabilistic decision-making in real-time loops  
+❌ ブラックボックス近似  
+❌ AI による直接フィッティング  
 
-👉 Stability is guaranteed by  
-**mathematics and structure**
-
----
-
-## 🧠 Intelligence Layer (LLM)
-
-- Decision-making as a supervisory layer  
-- Fault analysis and performance diagnosis  
-- Controller redesign and parameter tuning  
-
-👉 Operates **outside the real-time control loop**  
-👉 Extends human thinking, not replaces it
+👉 **意味を失ったモデルは使わない**
 
 ---
 
-## 🔁 AITL: Closed-Loop Intelligent Control Architecture (Concept)
+## 🎛 制御層（PID & FSM）
 
-- 🧱 **Physics / Models**  
-  Define system states and models
-- 🎛 **Control (PID / FSM)**  
-  Drive physics via control inputs  
-  Send states and logs upward
-- 🧠 **LLM (Supervisor)**  
-  Diagnosis, redesign, and adjustment commands  
-  (*Outside the control loop*)
+- PID による実時間フィードバック制御  
+- FSM による状態・モード管理  
+- **決定論的・説明可能な振る舞い**
 
-👉 **Human insight × Machine reliability**
+❌ 実時間制御への確率的判断導入  
+
+👉 安定性は **数学と構造で保証**
 
 ---
 
-## 🧪 Implementation & Proof of Concept
+## 🧠 知能層（LLM）
 
-- 🧩 V–I controlled ASIC (SKY130)  
-- 🔢 Fixed-point PID / FSM implementation  
-- 🧮 Design verification using SystemDK × FEM  
+- 上位監督としての意思決定  
+- 故障解析・性能診断  
+- 制御器の再設計・パラメータ調整  
 
-👉 From physical models  
-👉 **All the way to silicon implementation**
+👉 **実時間制御ループの外側**で動作  
+👉 人間の思考を拡張する位置づけ
 
 ---
 
-## 🎓 Value Provided by Samizo-AITL
+## 🔁 AITL：閉ループ知能制御アーキテクチャ（概念）
 
-- 🧱 Physics-driven and explainable engineering design  
-- 🎛 Deterministic control with intelligent supervision  
-- 📘 Reproducible engineering education from models to implementation  
+- 🧱 **Physics / Model**  
+  状態・モデルを定義
+- 🎛 **Control（PID・FSM）**  
+  制御入力で物理を駆動  
+  状態・ログを上位へ送信
+- 🧠 **LLM（Supervisor）**  
+  診断・再設計・調整指示  
+  （※ 制御ループの外側）
+
+👉 **人の思考力 × 機械の信頼性**
+
+---
+
+## 🧪 実装・Proof of Concept
+
+- 🧩 V–I 制御 ASIC（SKY130）  
+- 🔢 固定小数点 PID／FSM 実装  
+- 🧮 SystemDK × FEM による設計検証  
+
+👉 物理モデルから  
+👉 **シリコン実装まで一貫**
+
+---
+
+## 🎓 Samizo-AITL が提供する価値
+
+- 🧱 物理起点で説明可能な工学設計  
+- 🎛 知能監督付きの決定論的制御  
+- 📘 モデルから実装まで再現可能な技術教育  
 
 🔗 https://samizo-aitl.github.io/
 
-<!-- force rebuild -->
+<!-- force rebuild -->　
