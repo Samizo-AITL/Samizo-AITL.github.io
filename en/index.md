@@ -19,6 +19,17 @@ description: A physical-first engineering archive integrating semiconductor devi
 
 ---
 
+## ▶ For First-Time Visitors (Overview)
+
+A short slide deck summarizing  
+the **design philosophy and overall concept of Samizo-AITL**.
+
+**We recommend starting here.**
+
+▶ [Start here (Overview slides)](https://samizo-aitl.github.io/about/marp/en/samizo-aitl-presentation.html)
+
+---
+
 ## 🚀 What This Portal Provides
 
 **Samizo-AITL** is not a collection of isolated tutorials.  
