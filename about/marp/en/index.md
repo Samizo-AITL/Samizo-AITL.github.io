@@ -17,7 +17,7 @@ By reading this page, you will understand at a glance:
 
 ## ▶ Published Presentation (for viewing)
 
-- ▶ https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html
+- ▶ https://samizo-aitl.github.io/about/marp/en/samizo-aitl-presentation.html
 
 ※ What is displayed in the browser is **always the HTML file (the published artifact)**.
 
