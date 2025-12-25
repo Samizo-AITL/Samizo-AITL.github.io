@@ -10,7 +10,7 @@ published: true
 
 本記事は、**Marpで作成したスライドを GitHub Pages で公開している人**向けの記事です。
 
-「md を編集したのに公開ページが変わらない」
+「md を編集したのに公開ページが変わらない」  
 「GitHub Pages が何を見ているのか分からない」
 
 ――こうした混乱を、**仕組みから一発で理解できる**ように整理します。
@@ -39,15 +39,15 @@ about/marp/
 ## 各ファイルの役割
 
 ### samizo-aitl-presentation.md
-- 人が編集する **Marpのソース**
-- これだけでは公開ページは変わらない
+- 人が編集する **Marp のソース**
+- これを編集しただけでは、公開ページは変わらない
 
 ### samizo-aitl-presentation.html
 - GitHub Pages が **実際に配信する公開物**
-- **これを更新したときだけ表示が変わる**
+- **この HTML を更新したときだけ表示が変わる**
 
-GitHub Pages は **Marpを実行しません**。  
-HTMLは自動生成されない、という点が最大の落とし穴です。
+GitHub Pages は **Marp を実行しません**。  
+HTML は自動生成されない、という点が最大の落とし穴です。
 
 ---
 
@@ -63,7 +63,7 @@ about/marp/samizo-aitl-presentation.md
 
 ## 公開反映の手順（理由付き）
 
-md を編集しただけでは公開ページは更新されません。  
+md を編集しただけでは、公開ページは更新されません。  
 理由は、**GitHub Pages は HTML をそのまま配信するだけ**だからです。
 
 ---
@@ -93,6 +93,94 @@ git push origin main
 
 ---
 
+## ▶ PowerPoint（.pptx）変換との関係（重要）
+
+Marp では、**PowerPoint（.pptx）も生成できます**。  
+ただしこれは **GitHub Pages の公開とは完全に別の用途**です。
+
+---
+
+## PowerPoint 変換の位置づけ
+
+| 種類 | 役割 | 公開される？ |
+|---|---|---|
+| `.md` | Marp のソース | ❌ |
+| `.html` | GitHub Pages の公開物 | ✅ |
+| `.pptx` | 発表・配布用スライド | ❌ |
+
+👉 **PowerPoint は「ローカル成果物」**  
+👉 GitHub Pages は **一切関与しません**
+
+---
+
+## PowerPoint を生成する手順
+
+### 方法1：Marp CLI（確実）
+
+```bash
+marp about/marp/samizo-aitl-presentation.md --pptx
+```
+
+同じディレクトリに：
+
+```text
+samizo-aitl-presentation.pptx
+```
+
+が生成されます。
+
+---
+
+### 方法2：VS Code（GUI）
+
+- Marp for VS Code 拡張を使用
+- Marp プレビュー表示
+- Export → PowerPoint (.pptx)
+
+※ 生成される `.pptx` は **Git 管理不要**です。
+
+---
+
+## よくある誤解（重要）
+
+❌ PowerPoint を作ったのに GitHub Pages が変わらない  
+⭕ **それは正常**
+
+理由：
+
+- GitHub Pages は **HTML しか配信しない**
+- `.pptx` は **ブラウザ表示されない**
+- 公開更新に必要なのは **HTML の commit & push だけ**
+
+---
+
+## 推奨運用フロー（最強）
+
+```text
+① md を編集（思想・構成）
+② marp --html で HTML 生成（公開用）
+③ marp --pptx で PPTX 生成（発表用）
+④ HTML だけ git commit & push
+```
+
+👉 **公開＝HTML**  
+👉 **発表＝PPTX**  
+👉 **思想＝Markdown**
+
+この分離が、Marp 運用の核心です。
+
+---
+
+## PowerPoint を Git 管理しない理由
+
+- バイナリで diff が効かない  
+- デザイン微調整は PowerPoint 側で完結する  
+- GitHub Pages と無関係  
+
+👉 **PPTX は生成物として割り切る**のが正解です。
+
+---
+
 ## 運用チェックリスト
 
 - [ ] samizo-aitl-presentation.md を編集した  
@@ -108,7 +196,8 @@ git push origin main
 
 - md は「素材」
 - HTML が「公開物」
+- PPTX は「発表用成果物」
 - GitHub Pages は Marp を実行しない
 
-この3点を押さえれば、  
-**「更新されない問題」で二度と詰まることはありません。**
+この構造を理解すれば、  
+**「更新されない」「反映されない」で二度と詰まりません。**
