@@ -309,5 +309,13 @@ Independent Semiconductor Researcher
 
 ---
 
-> **Samizo-AITL is not a tutorial site.  
-> It is a published structural archive for physical-first engineering design.**
+# 💬 Technical Discussion / Consultation
+
+[![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL/discussions)
+
+> This portal does not provide private contact channels  
+> (e-mail, social media, or direct messages).
+>
+> All technical questions, discussions, and consultation inquiries  
+> are handled **publicly via GitHub Discussions**,  
+> with an emphasis on reproducibility and design context.
