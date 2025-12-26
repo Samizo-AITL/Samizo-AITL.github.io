@@ -218,4 +218,15 @@ AITL 概念を可視化するための**試験的アニメーションデモ集*
 - Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)  
 - Career Summary: [https://samizo-aitl.github.io/about/career-summary/](https://samizo-aitl.github.io/about/career-summary/)
 
+---
 
+## 💬 技術ディスカッション / Technical Consultation
+
+[![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL/discussions)
+
+> 本ポータルでは、メールや SNS 等の私的な連絡手段は設けていません。  
+> 技術的な議論・相談・協業に関する問い合わせは、  
+> **GitHub Discussions 上での公開議論**として受け付けています。  
+>  
+> 設計思想の共有、因果構造の整理、PoC 検討など、  
+> **再現性と技術的文脈を重視した対話**を目的としています。
