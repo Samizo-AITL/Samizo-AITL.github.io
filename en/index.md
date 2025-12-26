@@ -311,7 +311,7 @@ Independent Semiconductor Researcher
 
 # 💬 Technical Discussion / Consultation
 
-[![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL/discussions)
+[![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
 
 > This portal does not provide private contact channels  
 > (e-mail, social media, or direct messages).
