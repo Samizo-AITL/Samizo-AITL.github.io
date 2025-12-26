@@ -210,6 +210,25 @@ while AI/LLMs are treated as **architectural support tools**, not replacements.
 
 ---
 
+## ▶ Control Playground (Time Response Demo)
+
+This demo visualizes the **time response of a fixed-gain PID controller**
+under **colored, adversarial disturbances**.
+
+- No sliders  
+- No tuning  
+- Only **y(t), setpoint(t), and disturbance(t)** are shown  
+
+<iframe
+  src="https://samizo-aitl.github.io/control-playground/"
+  style="width:100%; height:420px; border:none;">
+</iframe>
+
+> Control performance is not explained by words.  
+> **The waveform tells the whole story.**
+
+---
+
 ## 4️⃣ EduController
 An educational resource focused on **control fundamentals**:
 
