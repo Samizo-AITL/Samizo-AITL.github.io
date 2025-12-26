@@ -65,3 +65,12 @@ His work evolves along a clear trajectory:
 > ⚠️ **Note**  
 > All process descriptions are based on **conceptual and educational models**  
 > and do not reflect confidential manufacturing information.
+
+---
+
+**🔒 [mcont (Manufacturing Continuity Archive / Private)](https://github.com/Samizo-AITL/mcont)**  
+A private personal archive documenting engineering decisions and practical cases  
+focused on maintaining manufacturing continuity, including production ramp-up,  
+failure mitigation, BCP, and emergency change management.  
+*Currently private; may be reorganized into a public-facing summary in the future.*
+
