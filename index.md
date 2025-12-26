@@ -220,7 +220,7 @@ AITL 概念を可視化するための**試験的アニメーションデモ集*
 
 ---
 
-## 💬 技術ディスカッション / Technical Consultation
+# 💬 技術ディスカッション / Technical Consultation
 
 [![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL/discussions)
 
