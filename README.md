@@ -222,7 +222,7 @@ AITL 概念を可視化するための**試験的アニメーションデモ集*
 
 # 💬 技術ディスカッション / Technical Consultation
 
-[![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/discussions)
+[![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://samizo-aitl.github.io/discussions)
 
 > 本ポータルでは、メールや SNS 等の私的な連絡手段は設けていません。  
 > 技術的な議論・相談・協業に関する問い合わせは、  
