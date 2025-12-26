@@ -149,6 +149,24 @@ Samizo-AITL/
 
 ---
 
+## ▶ Control Playground（Time Response Demo）
+
+**固定 PID 制御器が、  
+色付きかつ状態依存の外乱にさらされたときの時間応答を可視化したデモ**です。
+
+- スライダーなし
+- チューニング不可
+- 見えるのは **y(t), setpoint(t), disturbance(t)** のみ
+
+<iframe
+  src="https://samizo-aitl.github.io/control-playground/"
+  style="width:100%; height:420px; border:none;">
+</iframe>
+
+> 制御の成否は、説明ではなく **波形そのもの**が語ります。
+
+---
+
 ## 4️⃣ EduController
 PID・FSM を中心に**制御構造を理解するための教材**。
 
