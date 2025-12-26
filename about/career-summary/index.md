@@ -67,3 +67,9 @@ description: "制御・半導体・インクジェット・教育を貫く技術
 ---
 
 **🔗 [English Version › Career Summary](./en/)**
+
+---
+
+**🔒 [mcont（製造継続性アーカイブ / Private）](https://github.com/Samizo-AITL/mcont)**  
+※ 現時点では非公開（自分用）です。将来的に公開版へ再編集する可能性があります。
+
