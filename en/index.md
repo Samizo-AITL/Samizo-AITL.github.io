@@ -77,6 +77,17 @@ not just *how* to implement them.
 
 ## 🧩 AITL Structure Map
 
+<img
+  src="/assets/img/samizo-aitl-structure.png"
+  alt="Samizo-AITL Technical Architecture"
+  style="width:100%; max-width:1200px; display:block; margin:auto;"
+/>
+
+> **Figure:**  
+> Samizo-AITL technical architecture integrating  
+> *physics → control → intelligence*  
+> across DevEnv, CodeGen, Docs, and Archives layers.
+
 ```mermaid
 flowchart TB
   P[Physical / Devices / MEMS] --> M[Models]
