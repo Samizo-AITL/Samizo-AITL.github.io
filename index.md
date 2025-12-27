@@ -61,6 +61,17 @@ Samizo-AITL は、以下の技術者・研究者を対象としています。
 
 ## 🧩 AITL Structure Map（全体構造）
 
+<img
+  src="/assets/img/samizo-aitl-structure.png"
+  alt="Samizo-AITL Technical Architecture"
+  style="width:100%; max-width:1200px; display:block; margin:auto;"
+/>
+
+> **Figure:**  
+> Samizo-AITL technical architecture integrating  
+> *physics → control → intelligence*  
+> across DevEnv, CodeGen, Docs, and Archives layers.
+
 ```mermaid
 flowchart TB
   P[Physical / Devices / MEMS] --> M[Models]
