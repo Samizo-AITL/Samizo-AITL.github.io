@@ -67,10 +67,10 @@ Samizo-AITL は、以下の技術者・研究者を対象としています。
   style="width:100%; max-width:1200px; display:block; margin:auto;"
 />
 
-> **Figure:**  
-> Samizo-AITL technical architecture integrating  
-> *physics → control → intelligence*  
-> across DevEnv, CodeGen, Docs, and Archives layers.
+> Samizo-AITL における技術アーキテクチャ全体図。  
+> 物理 → 制御 → 知能化を中核とし、  
+> DevEnv・CodeGen・Docs・Archives の各レイヤを横断して  
+> 因果構造として統合している。
 
 ```mermaid
 flowchart TB
