@@ -47,7 +47,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
   SKY130 × OpenLane による V–I 制御 ASIC 教育実装
 
 - **[control-playground](https://github.com/Samizo-AITL/control-playground)**
-- 固定 PID の挙動を外乱下で解析する制御専用 Playground
+  固定 PID の挙動を外乱下で解析する制御専用 Playground
 
 ---
 
