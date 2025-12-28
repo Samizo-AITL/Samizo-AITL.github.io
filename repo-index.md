@@ -9,14 +9,11 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
-## 🧠 Core / Portal
+## 🧠 Portal
 
 - **[Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io)**  
   GitHub Pages ポータル本体（Edusemi / AITL / ChatGPT 設計支援）
-
-- **[SamizoGPT](https://github.com/Samizo-AITL/SamizoGPT)**  
-  ChatGPT を用いたプロンプト体系・プロジェクト管理フレームワーク
-
+  
 ---
 
 ## 📘 Education / Frameworks
@@ -33,43 +30,37 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 - **[EduLms](https://github.com/Samizo-AITL/EduLms)**  
   教育訓練・力量管理・教材再利用のための軽量 LMS
 
-- **[udemy-physctrl](https://github.com/Samizo-AITL/udemy-physctrl)**  
-  V–I 特性から始める PID / FSM による物理モデル制御設計
-
-- **[SemiDevKit](https://github.com/Samizo-AITL/SemiDevKit)**  
-  デバイス物理・BSIM・SPICE・信頼性・VLSI を横断する教育キット
-
 ---
 
 ## 🧪 Control / Simulation / PoC
 
-- **[control-playground](https://github.com/Samizo-AITL/control-playground)**  
-  固定 PID の挙動を外乱下で解析する制御専用 Playground
+ **[SemiDevKit](https://github.com/Samizo-AITL/SemiDevKit)**  
+  デバイス物理・BSIM・SPICE・信頼性・VLSI を横断する教育キット
 
 - **[aitl-controller-a-type](https://github.com/Samizo-AITL/aitl-controller-a-type)**  
   PID × FSM × LLM の三層ハイブリッド制御アーキテクチャ実装
 
-- **[AITL-H](https://github.com/Samizo-AITL/AITL-H)**  
-  人支援ロボット向け Hybrid Intelligence Control Architecture
-
 - **[aitl-silicon-pathway](https://github.com/Samizo-AITL/aitl-silicon-pathway)**  
   Python モデリングから ASIC 実装までの AITL 制御教育プロジェクト
 
-- **[vi-control-asic-sky130](https://github.com/Samizo-AITL/vi-control-asic-sky130)**  
+- **[vi-control-asic-sky130](https://github.com/Samizo-AITL/vi-control-asic-sky130)**
   SKY130 × OpenLane による V–I 制御 ASIC 教育実装
+
+- **[control-playground](https://github.com/Samizo-AITL/control-playground)**
+  固定 PID の挙動を外乱下で解析する制御専用 Playground
+
+- **[AITL-H](https://github.com/Samizo-AITL/AITL-H)**  
+  人支援ロボット向け Hybrid Intelligence Control Architecture
 
 ---
 
-## 🧩 Semiconductor / Device / Inkjet
+## 🧩 Inkjet
 
 - **[Inkjet](https://github.com/Samizo-AITL/Inkjet)**  
   公開情報に基づくインクジェット技術比較・応用アーカイブ
 
 - **[inkjet-dts](https://github.com/Samizo-AITL/inkjet-dts)**  
   画質 vs 速度トレードオフを Python で可視化する教育モデル
-
-- **[SemiDevKit](https://github.com/Samizo-AITL/SemiDevKit)**  
-  （デバイス・プロセス系横断用途）
 
 ---
 
@@ -88,11 +79,14 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ## 📚 Writing / Publishing
 
+- **[latex-papers](https://github.com/Samizo-AITL/latex-papers)**
+  学術論文・教育用原稿の LaTeX 管理
+
 - **[zenn-books](https://github.com/Samizo-AITL/zenn-books)**  
   Zenn 公開用 学習書籍・教材管理
 
-- **[latex-papers](https://github.com/Samizo-AITL/latex-papers)**  
-  学術論文・教育用原稿の LaTeX 管理
+- **[udemy-physctrl](https://github.com/Samizo-AITL/udemy-physctrl)**  
+  V–I 特性から始める PID / FSM による物理モデル制御設計
 
 ---
 
@@ -107,6 +101,9 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 ---
 
 ## 🤖 AI Tools / Bots
+
+- **[SamizoGPT](https://github.com/Samizo-AITL/SamizoGPT)**  
+  ChatGPT を用いたプロンプト体系・プロジェクト管理フレームワーク
 
 - **[SamizoGPT_SemiTechBot](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)**  
   ChatGPT API による半導体技術ボット（Flask）
