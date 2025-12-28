@@ -124,13 +124,6 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
-## 🛠 Dev / Workflow
-
-- **[git_local_workflow](https://github.com/Samizo-AITL/git_local_workflow)**  
-  ローカル Git 運用・開発ワークフロー整理
-
----
-
 ## 🔒 Private / Archive（本人用）
 
 ※ ログイン状態でのみアクセス可能
