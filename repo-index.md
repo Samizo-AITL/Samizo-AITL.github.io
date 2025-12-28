@@ -32,9 +32,9 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
-## 🧪 Control / Simulation / PoC
+## 🧪 Control / Simulation 
 
- **[SemiDevKit](https://github.com/Samizo-AITL/SemiDevKit)**  
+- **[SemiDevKit](https://github.com/Samizo-AITL/SemiDevKit)**  
   デバイス物理・BSIM・SPICE・信頼性・VLSI を横断する教育キット
 
 - **[aitl-controller-a-type](https://github.com/Samizo-AITL/aitl-controller-a-type)**  
@@ -48,9 +48,6 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 - **[control-playground](https://github.com/Samizo-AITL/control-playground)**
   固定 PID の挙動を外乱下で解析する制御専用 Playground
-
-- **[AITL-H](https://github.com/Samizo-AITL/AITL-H)**  
-  人支援ロボット向け Hybrid Intelligence Control Architecture
 
 ---
 
@@ -90,13 +87,16 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
-## 🧠 Theory / Strategy
+## 🧠 PoC / Strategy / Theory 
+
+- **[AITL-H](https://github.com/Samizo-AITL/AITL-H)**  
+  人支援ロボット向け Hybrid Intelligence Control Architecture
+
+- **[AITL-Strategy-Proposal](https://github.com/Samizo-AITL/AITL-Strategy-Proposal)**
+  国家レベル AI × 制御 × 物理統合設計の戦略提案
 
 - **[AITL-Theory](https://github.com/Samizo-AITL/AITL-Theory)**  
   AITL 中核理論（推論・制御・物理制約付き AI）
-
-- **[AITL-Strategy-Proposal](https://github.com/Samizo-AITL/AITL-Strategy-Proposal)**  
-  国家レベル AI × 制御 × 物理統合設計の戦略提案
 
 ---
 
