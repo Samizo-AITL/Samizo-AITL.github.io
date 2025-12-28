@@ -103,4 +103,15 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 - 公開可否と無関係に最短導線を維持
 
 ---
+
+# 👤 Author
+
+**三溝 真一（Shinichi Samizo）**  
+独立系半導体研究者  
+
+- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
+- Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)  
+- Career Summary: [https://samizo-aitl.github.io/about/career-summary/](https://samizo-aitl.github.io/about/career-summary/)
+
+---
 Last updated: 2025
