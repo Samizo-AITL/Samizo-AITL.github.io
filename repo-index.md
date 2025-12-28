@@ -11,116 +11,76 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ## 🧠 Portal
 
-- **[Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io)**  
-  GitHub Pages ポータル本体（Edusemi / AITL / ChatGPT 設計支援）
-  
+- **[Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io)** — GitHub Pages ポータル本体（Edusemi / AITL / ChatGPT 設計支援）
+
 ---
 
 ## 📘 Education / Frameworks
 
-- **[Edusemi-v4x](https://github.com/Samizo-AITL/Edusemi-v4x)**  
-  半導体物性・回路・プロセス・設計・テストを貫く統合教育体系
-
-- **[Edusemi-Plus](https://github.com/Samizo-AITL/Edusemi-Plus)**  
-  地政学・企業戦略・製品進化から半導体を読む応用編
-
-- **[EduController](https://github.com/Samizo-AITL/EduController)**  
-  古典〜現代制御理論を体系化した教育フレームワーク
-
-- **[EduLms](https://github.com/Samizo-AITL/EduLms)**  
-  教育訓練・力量管理・教材再利用のための軽量 LMS
+- **[Edusemi-v4x](https://github.com/Samizo-AITL/Edusemi-v4x)** — 半導体物性・回路・プロセス・設計・テストを貫く統合教育体系  
+- **[Edusemi-Plus](https://github.com/Samizo-AITL/Edusemi-Plus)** — 地政学・企業戦略・製品進化から半導体を読む応用編  
+- **[EduController](https://github.com/Samizo-AITL/EduController)** — 古典〜現代制御理論を体系化した教育フレームワーク  
+- **[EduLms](https://github.com/Samizo-AITL/EduLms)** — 教育訓練・力量管理・教材再利用のための軽量 LMS  
 
 ---
 
-## 🧪 Control / Simulation 
+## 🧪 Control / Simulation
 
-- **[SemiDevKit](https://github.com/Samizo-AITL/SemiDevKit)**  
-  デバイス物理・BSIM・SPICE・信頼性・VLSI を横断する教育キット
-
-- **[aitl-controller-a-type](https://github.com/Samizo-AITL/aitl-controller-a-type)**  
-  PID × FSM × LLM の三層ハイブリッド制御アーキテクチャ実装
-
-- **[aitl-silicon-pathway](https://github.com/Samizo-AITL/aitl-silicon-pathway)**  
-  Python モデリングから ASIC 実装までの AITL 制御教育プロジェクト
-
-- **[vi-control-asic-sky130](https://github.com/Samizo-AITL/vi-control-asic-sky130)**
-  SKY130 × OpenLane による V–I 制御 ASIC 教育実装
-
-- **[control-playground](https://github.com/Samizo-AITL/control-playground)**
-  固定 PID の挙動を外乱下で解析する制御専用 Playground
+- **[SemiDevKit](https://github.com/Samizo-AITL/SemiDevKit)** — デバイス物理・BSIM・SPICE・信頼性・VLSI を横断する教育キット  
+- **[aitl-controller-a-type](https://github.com/Samizo-AITL/aitl-controller-a-type)** — PID × FSM × LLM の三層ハイブリッド制御アーキテクチャ実装  
+- **[aitl-silicon-pathway](https://github.com/Samizo-AITL/aitl-silicon-pathway)** — Python モデリングから ASIC 実装までの AITL 制御教育プロジェクト  
+- **[vi-control-asic-sky130](https://github.com/Samizo-AITL/vi-control-asic-sky130)** — SKY130 × OpenLane による V–I 制御 ASIC 教育実装  
+- **[control-playground](https://github.com/Samizo-AITL/control-playground)** — 固定 PID の挙動を外乱下で解析する制御専用 Playground  
 
 ---
 
 ## 🧩 Inkjet
 
-- **[Inkjet](https://github.com/Samizo-AITL/Inkjet)**  
-  公開情報に基づくインクジェット技術比較・応用アーカイブ
-
-- **[inkjet-dts](https://github.com/Samizo-AITL/inkjet-dts)**  
-  画質 vs 速度トレードオフを Python で可視化する教育モデル
+- **[Inkjet](https://github.com/Samizo-AITL/Inkjet)** — 公開情報に基づくインクジェット技術比較・応用アーカイブ  
+- **[inkjet-dts](https://github.com/Samizo-AITL/inkjet-dts)** — 画質 vs 速度トレードオフを Python で可視化する教育モデル  
 
 ---
 
 ## 🎞 Visualization / Media / Presentation
 
-- **[aitl-animation-demos](https://github.com/Samizo-AITL/aitl-animation-demos)**  
-  AITL 概念を可視化するアニメーション実験
-
-- **[ai-video-lab](https://github.com/Samizo-AITL/ai-video-lab)**  
-  教育・技術発表向け AI 動画生成ワークフロー
-
-- **[marp-slides](https://github.com/Samizo-AITL/marp-slides)**  
-  Markdown-first な Marp スライド管理リポジトリ
+- **[aitl-animation-demos](https://github.com/Samizo-AITL/aitl-animation-demos)** — AITL 概念を可視化するアニメーション実験  
+- **[ai-video-lab](https://github.com/Samizo-AITL/ai-video-lab)** — 教育・技術発表向け AI 動画生成ワークフロー  
+- **[marp-slides](https://github.com/Samizo-AITL/marp-slides)** — Markdown-first な Marp スライド管理  
 
 ---
 
 ## 📚 Writing / Publishing
 
-- **[latex-papers](https://github.com/Samizo-AITL/latex-papers)**
-  学術論文・教育用原稿の LaTeX 管理
-
-- **[zenn-books](https://github.com/Samizo-AITL/zenn-books)**  
-  Zenn 公開用 学習書籍・教材管理
-
-- **[udemy-physctrl](https://github.com/Samizo-AITL/udemy-physctrl)**  
-  V–I 特性から始める PID / FSM による物理モデル制御設計
+- **[latex-papers](https://github.com/Samizo-AITL/latex-papers)** — 学術論文・教育用原稿の LaTeX 管理  
+- **[zenn-books](https://github.com/Samizo-AITL/zenn-books)** — Zenn 公開用 学習書籍・教材管理  
+- **[udemy-physctrl](https://github.com/Samizo-AITL/udemy-physctrl)** — V–I 特性から始める PID / FSM による物理モデル制御設計  
 
 ---
 
-## 🧠 PoC / Strategy / Theory 
+## 🧠 PoC / Strategy / Theory
 
-- **[AITL-H](https://github.com/Samizo-AITL/AITL-H)**  
-  人支援ロボット向け Hybrid Intelligence Control Architecture
-
-- **[AITL-Strategy-Proposal](https://github.com/Samizo-AITL/AITL-Strategy-Proposal)**
-  国家レベル AI × 制御 × 物理統合設計の戦略提案
-
-- **[AITL-Theory](https://github.com/Samizo-AITL/AITL-Theory)**  
-  AITL 中核理論（推論・制御・物理制約付き AI）
+- **[AITL-H](https://github.com/Samizo-AITL/AITL-H)** — 人支援ロボット向け Hybrid Intelligence Control Architecture  
+- **[AITL-Strategy-Proposal](https://github.com/Samizo-AITL/AITL-Strategy-Proposal)** — 国家レベル AI × 制御 × 物理統合設計の戦略提案  
+- **[AITL-Theory](https://github.com/Samizo-AITL/AITL-Theory)** — AITL 中核理論（推論・制御・物理制約付き AI）  
 
 ---
 
 ## 🤖 AI Tools / Bots
 
-- **[SamizoGPT](https://github.com/Samizo-AITL/SamizoGPT)**  
-  ChatGPT を用いたプロンプト体系・プロジェクト管理フレームワーク
-
-- **[SamizoGPT_SemiTechBot](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)**  
-  ChatGPT API による半導体技術ボット（Flask）
+- **[SamizoGPT](https://github.com/Samizo-AITL/SamizoGPT)** — ChatGPT を用いたプロンプト体系・プロジェクト管理フレームワーク  
+- **[SamizoGPT_SemiTechBot](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)** — ChatGPT API による半導体技術ボット（Flask）  
 
 ---
 
 ## 🎮 Simulation / Game / History
 
-- **[Rekiden](https://github.com/Samizo-AITL/Rekiden)**  
-  歴史戦略シミュレーションゲームフレームワーク
+- **[Rekiden](https://github.com/Samizo-AITL/Rekiden)** — 歴史戦略シミュレーションゲームフレームワーク  
 
 ---
 
 ## 💰 Asset / Finance
 
-- **[AssetPortfolio-StartGuide](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)**  
-  資産運用・テクノロジー投資の実践教材
+- **[AssetPortfolio-StartGuide](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)** — 資産運用・テクノロジー投資の実践教材  
 
 ---
 
@@ -128,14 +88,9 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ※ ログイン状態でのみアクセス可能
 
-- **[mcont](https://github.com/Samizo-AITL/mcont)**  
-  Manufacturing Continuity 技術アーカイブ
-
-- **[AITL](https://github.com/Samizo-AITL/AITL)**  
-  AITL 理論ベース AI 設計・提言書（非公開）
-
-- **[Private](https://github.com/Samizo-AITL/Private)**  
-  技術キャリア・非公開技術資産アーカイブ
+- **[mcont](https://github.com/Samizo-AITL/mcont)** — Manufacturing Continuity 技術アーカイブ  
+- **[AITL](https://github.com/Samizo-AITL/AITL)** — AITL 理論ベース AI 設計・提言書（非公開）  
+- **[Private](https://github.com/Samizo-AITL/Private)** — 技術キャリア・非公開技術資産アーカイブ  
 
 ---
 
