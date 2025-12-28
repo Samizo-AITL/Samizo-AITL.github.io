@@ -7,8 +7,6 @@ layout: default
 Samizo-AITL における **全リポジトリ横断リンク集**  
 （公開 / 非公開を問わず、作業効率優先）
 
----
-
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
 
