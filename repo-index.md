@@ -44,14 +44,14 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 ## 🎞 Visualization / Media / Presentation
 
 - **[aitl-animation-demos](https://github.com/Samizo-AITL/aitl-animation-demos)** — AITL 概念を可視化するアニメーション実験  
-- **[ai-video-lab](https://github.com/Samizo-AITL/ai-video-lab)** — 教育・技術発表向け AI 動画生成ワークフロー  
-- **[marp-slides](https://github.com/Samizo-AITL/marp-slides)** — Markdown-first な Marp スライド管理  
+- **[ai-video-lab](https://github.com/Samizo-AITL/ai-video-lab)** — 教育・技術発表向け AI 動画生成ワークフロー
 
 ---
 
-## 📚 Writing / Publishing
+## 📚 Writing / Presentation / Publishing / Education
 
-- **[latex-papers](https://github.com/Samizo-AITL/latex-papers)** — 学術論文・教育用原稿の LaTeX 管理  
+- **[latex-papers](https://github.com/Samizo-AITL/latex-papers)** — 学術論文・教育用原稿の LaTeX 管理
+- **[marp-slides](https://github.com/Samizo-AITL/marp-slides)** — Markdown-first な Marp スライド管理  
 - **[zenn-books](https://github.com/Samizo-AITL/zenn-books)** — Zenn 公開用 学習書籍・教材管理  
 - **[udemy-physctrl](https://github.com/Samizo-AITL/udemy-physctrl)** — V–I 特性から始める PID / FSM による物理モデル制御設計  
 
