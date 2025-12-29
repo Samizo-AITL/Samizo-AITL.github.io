@@ -23,6 +23,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2025-12-29 | **Inkjet Timing（インクジェット吐出タイミング）教材／PoC を追加。**<br>・圧電アクチュエータ駆動における V–I–時間波形と液滴形成の関係を整理<br>・FSM 視点での吐出シーケンス（Charge / Hold / Release）を明確化<br>・制御・物理・実装を結ぶ Inkjet 系アーカイブの基点教材として位置付け |
 | 2025-12-28 | **AITL Structure Map（全体構造）の統合PNG図をポータルに正式掲載。**<br>・Samizo-AITL 全体構造（DevEnv / CodeGen / Docs / Archives）を単一視覚図として明示<br>・分散していた構造説明を「参照可能な確定図」として固定化<br>・以降、構造説明は本図を正とし、文章側は補足に限定 |
 | 2025-12-24 | **ポータル（JP/EN）導線の欠落を修正し、トップページと更新履歴の整合を回復。**<br>・Top（JP/EN）に **AITL Animation Demos** への導線を正式追加<br>・Top（JP/EN）に **Update Log** への導線を復活<br>・Author セクションのリンク表記を Markdown リンクに統一（自動リンク依存を排除）<br>・Update Log（JP）に **英語版更新履歴へのクロスリンク**を明示 |
 | 2025-12-20 | **MEMS（抽象を物理に引き戻す）レイヤを Supplementary Layer に新設。**<br>・半導体／制御で扱った抽象モデルを物理構造で検証する位置づけを明確化<br>・MEMS pre-FEM 設計探索ツール **mems-ana** を正式統合（Site / Repo リンク追加）<br>・日本語／英語ポータル双方に MEMS セクションを追加し、全体構造を「半導体 → 制御 → MEMS」の流れで整理 |
