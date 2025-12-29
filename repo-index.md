@@ -33,7 +33,8 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 - **[aitl-controller-a-type](https://github.com/Samizo-AITL/aitl-controller-a-type)** — PID × FSM × LLM の三層ハイブリッド制御アーキテクチャ実装  
 - **[aitl-silicon-pathway](https://github.com/Samizo-AITL/aitl-silicon-pathway)** — Python モデリングから ASIC 実装までの AITL 制御教育プロジェクト  
 - **[vi-control-asic-sky130](https://github.com/Samizo-AITL/vi-control-asic-sky130)** — SKY130 × OpenLane による V–I 制御 ASIC 教育実装  
-- **[control-playground](https://github.com/Samizo-AITL/control-playground)** — 固定 PID の挙動を外乱下で解析する制御専用 Playground  
+- **[control-playground](https://github.com/Samizo-AITL/control-playground)** — 固定 PID の挙動を外乱下で解析する制御専用 Playground
+- **[envelope-control](https://github.com/Samizo-AITL/envelope-control)** — 制御対象の使用範囲（センサ・アクチュエータ・V–I）を状態として扱う Envelope-Aware 制御アーキテクチャ   
 
 ---
 
