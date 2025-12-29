@@ -313,6 +313,15 @@ serving as a domain-specific example of physical trade-offs.
 
 ---
 
+## 9️⃣ inkjet-timing  
+A design and educational demo that visualizes the **time-domain causality**
+between electrical, mechanical, and fluid domains in a piezoelectric inkjet system.
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-timing/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-timing)
+
+---
+
 # 🎞 AITL Animation Demos
 Experimental animation demos visualizing  
 **AITL concepts and layered control structures**.
