@@ -42,6 +42,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 - **[Inkjet](https://github.com/Samizo-AITL/Inkjet)** — 公開情報に基づくインクジェット技術比較・応用アーカイブ  
 - **[inkjet-dts](https://github.com/Samizo-AITL/inkjet-dts)** — 画質 vs 速度トレードオフを Python で可視化する教育モデル  
+- **[inkjet-timing](https://github.com/Samizo-AITL/inkjet-timing)** — 電圧 → 電流 → 機械変位 → 圧力 → 流量の因果連鎖を、時間軸上で可視化するブラウザ実行型デモ
 
 ---
 
