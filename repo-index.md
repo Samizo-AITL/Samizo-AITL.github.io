@@ -12,98 +12,171 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
-## 🧠 Portal
+## 🧠 Portal（Page → Repo）
 
-- **[Samizo-AITL.github.io](https://github.com/Samizo-AITL/Samizo-AITL.github.io)** — GitHub Pages ポータル本体（Edusemi / AITL / ChatGPT 設計支援）
-
----
-
-## 📘 Education / Frameworks
-
-- **[Edusemi-v4x](https://github.com/Samizo-AITL/Edusemi-v4x)** — 半導体物性・回路・プロセス・設計・テストを貫く統合教育体系  
-- **[Edusemi-Plus](https://github.com/Samizo-AITL/Edusemi-Plus)** — 地政学・企業戦略・製品進化から半導体を読む応用編  
-- **[EduController](https://github.com/Samizo-AITL/EduController)** — 古典〜現代制御理論を体系化した教育フレームワーク  
-- **[EduLms](https://github.com/Samizo-AITL/EduLms)** — 教育訓練・力量管理・教材再利用のための軽量 LMS  
+- **Page:** https://samizo-aitl.github.io/  
+- **Repo:** https://github.com/Samizo-AITL/Samizo-AITL.github.io  
 
 ---
 
-## 🧪 Control / Simulation
+## 📘 Education / Frameworks（Page → Repo）
 
-- **[SemiDevKit](https://github.com/Samizo-AITL/SemiDevKit)** — デバイス物理・BSIM・SPICE・信頼性・VLSI を横断する教育キット  
-- **[aitl-controller-a-type](https://github.com/Samizo-AITL/aitl-controller-a-type)** — PID × FSM × LLM の三層ハイブリッド制御アーキテクチャ実装  
-- **[aitl-silicon-pathway](https://github.com/Samizo-AITL/aitl-silicon-pathway)** — Python モデリングから ASIC 実装までの AITL 制御教育プロジェクト  
-- **[vi-control-asic-sky130](https://github.com/Samizo-AITL/vi-control-asic-sky130)** — SKY130 × OpenLane による V–I 制御 ASIC 教育実装  
-- **[control-playground](https://github.com/Samizo-AITL/control-playground)** — 固定 PID の挙動を外乱下で解析する制御専用 Playground
-- **[envelope-control](https://github.com/Samizo-AITL/envelope-control)** — 制御対象の使用範囲（センサ・アクチュエータ・V–I）を状態として扱う Envelope-Aware 制御アーキテクチャ   
+### Edusemi-v4x
+- Page: https://samizo-aitl.github.io/Edusemi-v4x/
+- Repo: https://github.com/Samizo-AITL/Edusemi-v4x
 
----
+### Edusemi-Plus
+- Page: https://samizo-aitl.github.io/Edusemi-Plus/
+- Repo: https://github.com/Samizo-AITL/Edusemi-Plus
 
-## 🧩 Inkjet
+### EduController
+- Page: https://samizo-aitl.github.io/EduController/
+- Repo: https://github.com/Samizo-AITL/EduController
 
-- **[Inkjet](https://github.com/Samizo-AITL/Inkjet)** — 公開情報に基づくインクジェット技術比較・応用アーカイブ
-- **[mems-ana](https://github.com/Samizo-AITL/mems-ana)** — 抽象モデルの限界を確認する pre-FEM MEMS 解析ツール
-- **[inkjet-dts](https://github.com/Samizo-AITL/inkjet-dts)** — 画質 vs 速度トレードオフを Python で可視化する教育モデル  
-- **[inkjet-timing](https://github.com/Samizo-AITL/inkjet-timing)** — 電圧 → 電流 → 機械変位 → 圧力 → 流量の因果連鎖を、時間軸上で可視化するブラウザ実行型デモ
-
----
-
-## 🎞 Visualization / Media / Presentation
-
-- **[aitl-animation-demos](https://github.com/Samizo-AITL/aitl-animation-demos)** — AITL 概念を可視化するアニメーション実験  
-- **[ai-video-lab](https://github.com/Samizo-AITL/ai-video-lab)** — 教育・技術発表向け AI 動画生成ワークフロー
+### EduLms
+- Page: https://samizo-aitl.github.io/EduLms/
+- Repo: https://github.com/Samizo-AITL/EduLms
 
 ---
 
-## 📚 Writing / Presentation / Publishing / Education
+## 🧪 Control / Simulation（Page → Repo）
 
-- **[latex-papers](https://github.com/Samizo-AITL/latex-papers)** — 学術論文・教育用原稿の LaTeX 管理
-- **[marp-slides](https://github.com/Samizo-AITL/marp-slides)** — Markdown-first な Marp スライド管理  
-- **[zenn-books](https://github.com/Samizo-AITL/zenn-books)** — Zenn 公開用 学習書籍・教材管理  
-- **[udemy-physctrl](https://github.com/Samizo-AITL/udemy-physctrl)** — V–I 特性から始める PID / FSM による物理モデル制御設計  
+### SemiDevKit
+- Page: https://samizo-aitl.github.io/SemiDevKit/
+- Repo: https://github.com/Samizo-AITL/SemiDevKit
 
----
+### AITL Controller A-Type
+- Page: https://samizo-aitl.github.io/aitl-controller-a-type/
+- Repo: https://github.com/Samizo-AITL/aitl-controller-a-type
 
-## 🧠 PoC / Strategy / Theory
+### AITL Silicon Pathway
+- Page: https://samizo-aitl.github.io/aitl-silicon-pathway/
+- Repo: https://github.com/Samizo-AITL/aitl-silicon-pathway
 
-- **[AITL-H](https://github.com/Samizo-AITL/AITL-H)** — 人支援ロボット向け Hybrid Intelligence Control Architecture  
-- **[AITL-Strategy-Proposal](https://github.com/Samizo-AITL/AITL-Strategy-Proposal)** — 国家レベル AI × 制御 × 物理統合設計の戦略提案  
-- **[AITL-Theory](https://github.com/Samizo-AITL/AITL-Theory)** — AITL 中核理論（推論・制御・物理制約付き AI）  
+### V–I Control ASIC (SKY130)
+- Page: https://samizo-aitl.github.io/vi-control-asic-sky130/
+- Repo: https://github.com/Samizo-AITL/vi-control-asic-sky130
 
----
+### Control Playground
+- Page: https://samizo-aitl.github.io/control-playground/
+- Repo: https://github.com/Samizo-AITL/control-playground
 
-## 🤖 AI Tools / Bots
-
-- **[SamizoGPT](https://github.com/Samizo-AITL/SamizoGPT)** — ChatGPT を用いたプロンプト体系・プロジェクト管理フレームワーク  
-- **[SamizoGPT_SemiTechBot](https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot)** — ChatGPT API による半導体技術ボット（Flask）  
-
----
-
-## 🎮 Simulation / Game / History
-
-- **[Rekiden](https://github.com/Samizo-AITL/Rekiden)** — 歴史戦略シミュレーションゲームフレームワーク  
+### Envelope Control
+- Page: https://samizo-aitl.github.io/envelope-control/
+- Repo: https://github.com/Samizo-AITL/envelope-control
 
 ---
 
-## 💰 Asset / Finance
+## 🧩 Inkjet（Page → Repo）
 
-- **[AssetPortfolio-StartGuide](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide)** — 資産運用・テクノロジー投資の実践教材  
+### Inkjet
+- Page: https://samizo-aitl.github.io/Inkjet/
+- Repo: https://github.com/Samizo-AITL/Inkjet
+
+### MEMS pre-FEM Analysis
+- Page: https://samizo-aitl.github.io/mems-ana/
+- Repo: https://github.com/Samizo-AITL/mems-ana
+
+### Inkjet DTS
+- Page: https://samizo-aitl.github.io/inkjet-dts/
+- Repo: https://github.com/Samizo-AITL/inkjet-dts
+
+### Inkjet Timing
+- Page: https://samizo-aitl.github.io/inkjet-timing/
+- Repo: https://github.com/Samizo-AITL/inkjet-timing
 
 ---
 
-## 🔒 Private / Archive（本人用）
+## 🎞 Visualization / Media（Page → Repo）
 
-※ ログイン状態でのみアクセス可能
+### AITL Animation Demos
+- Page: https://samizo-aitl.github.io/aitl-animation-demos/
+- Repo: https://github.com/Samizo-AITL/aitl-animation-demos
 
-- **[mcont](https://github.com/Samizo-AITL/mcont)** — Manufacturing Continuity 技術アーカイブ  
-- **[AITL](https://github.com/Samizo-AITL/AITL)** — AITL 理論ベース AI 設計・提言書（非公開）  
-- **[Private](https://github.com/Samizo-AITL/Private)** — 技術キャリア・非公開技術資産アーカイブ  
+### AI Video Lab
+- Page: https://samizo-aitl.github.io/ai-video-lab/
+- Repo: https://github.com/Samizo-AITL/ai-video-lab
+
+---
+
+## 📚 Writing / Publishing / Education（Page → Repo）
+
+### LaTeX Papers
+- Page: https://samizo-aitl.github.io/latex-papers/
+- Repo: https://github.com/Samizo-AITL/latex-papers
+
+### Marp Slides
+- Page: https://samizo-aitl.github.io/marp-slides/
+- Repo: https://github.com/Samizo-AITL/marp-slides
+
+### Zenn Books
+- Page: https://samizo-aitl.github.io/zenn-books/
+- Repo: https://github.com/Samizo-AITL/zenn-books
+
+### Udemy PhysCtrl
+- Page: https://samizo-aitl.github.io/udemy-physctrl/
+- Repo: https://github.com/Samizo-AITL/udemy-physctrl
+
+---
+
+## 🧠 PoC / Strategy / Theory（Page → Repo）
+
+### AITL-H
+- Page: https://samizo-aitl.github.io/AITL-H/
+- Repo: https://github.com/Samizo-AITL/AITL-H
+
+### AITL Strategy Proposal
+- Page: https://samizo-aitl.github.io/AITL-Strategy-Proposal/
+- Repo: https://github.com/Samizo-AITL/AITL-Strategy-Proposal
+
+### AITL Theory
+- Page: https://samizo-aitl.github.io/AITL-Theory/
+- Repo: https://github.com/Samizo-AITL/AITL-Theory
+
+---
+
+## 🤖 AI Tools / Bots（Page → Repo）
+
+### SamizoGPT
+- Page: https://samizo-aitl.github.io/SamizoGPT/
+- Repo: https://github.com/Samizo-AITL/SamizoGPT
+
+### SamizoGPT SemiTechBot
+- Page: https://samizo-aitl.github.io/SamizoGPT_SemiTechBot/
+- Repo: https://github.com/Samizo-AITL/SamizoGPT_SemiTechBot
+
+---
+
+## 🎮 Simulation / Game / History（Page → Repo）
+
+### Rekiden
+- Page: https://samizo-aitl.github.io/Rekiden/
+- Repo: https://github.com/Samizo-AITL/Rekiden
+
+---
+
+## 💰 Asset / Finance（Page → Repo）
+
+### AssetPortfolio StartGuide
+- Page: https://samizo-aitl.github.io/AssetPortfolio-StartGuide/
+- Repo: https://github.com/Samizo-AITL/AssetPortfolio-StartGuide
+
+---
+
+## 🔒 Private / Archive（Repo Only）
+
+※ GitHub ログイン必須
+
+- https://github.com/Samizo-AITL/mcont  
+- https://github.com/Samizo-AITL/AITL  
+- https://github.com/Samizo-AITL/Private  
 
 ---
 
 ## ℹ️ Notes
-- 本ページは **作業者向けダッシュボード**
-- GitHub Pages / Jekyll で **確実にリンク可能な記法のみ使用**
-- 公開可否と無関係に最短導線を維持
+- Page = **読む・俯瞰・共有**
+- Repo = **作る・検証・履歴**
+- 本 Index は **Page → Repo を強制する設計**
 
 ---
 
@@ -112,9 +185,9 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 **三溝 真一（Shinichi Samizo）**  
 独立系半導体研究者  
 
-- GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
-- Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)  
-- Career Summary: [https://samizo-aitl.github.io/about/career-summary/](https://samizo-aitl.github.io/about/career-summary/)
+- GitHub: https://github.com/Samizo-AITL  
+- Zenn: https://zenn.dev/samizo_aitl  
+- Career Summary: https://samizo-aitl.github.io/about/career-summary/
 
 ---
 Last updated: 2025
