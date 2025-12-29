@@ -223,8 +223,7 @@ V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
 ---
 
 ### 9️⃣ inkjet-timing  
-ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、  
-単一時間軸上で可視化する設計・教育用デモ。
+ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、単一時間軸上で可視化する設計・教育用デモ。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-timing/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-timing)
