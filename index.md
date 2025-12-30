@@ -156,6 +156,41 @@ Samizo-AITL/
 
 ---
 
+## 4️⃣ openlane2-sram｜SRAMマクロ統合・物理設計実証
+OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS まで完走する**  
+**マクロ対応・物理設計の実践教材**。
+
+- SRAM を **external hard macro（blackbox / LEF / GDS）** として扱う
+- FIXED 配置・halo / keepout を含む **macro-aware floorplanning**
+- OpenLane2 Classic flow による **最終 GDS 生成**
+- SoC 物理設計で一般的な **「SRAM 中身は見ない」設計作法**を明示
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane2-sram/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane2-sram)
+
+### 🔎 Layout Evidence（GDS）
+
+**Figure 1: SRAM Macro Block-Level View**
+
+<img
+  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig01_openlane2_spm_macro_block_level.png"
+  width="80%"
+  alt="SRAM hard macro block-level layout integrated using OpenLane2"
+/>
+
+**Figure 2: Standard-Cell-Level View Around SRAM Macro**
+
+<img
+  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig02_openlane2_spm_standard_cell_level_view.png"
+  width="80%"
+  alt="Standard-cell placement and routing around SRAM hard macro"
+/>
+
+> Note: The SRAM is integrated as a fixed hard macro using abstract views (LEF/GDS).  
+> Its internal transistor-level layout is intentionally not visible, which is consistent with standard SoC physical design practice.
+
+---
+
 # 🎛 Applied Layer（制御・知能化）
 
 ---
