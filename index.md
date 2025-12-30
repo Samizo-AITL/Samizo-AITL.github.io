@@ -270,24 +270,37 @@ AITL 概念を可視化するための**試験的アニメーションデモ集*
 
 [![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
 
-<section style="margin:2.5rem 0;">
-  <h2>AITL Control Flow Demo</h2>
+
+<section
+  class="aitl-demo"
+  style="
+    margin:0;
+    padding:0;
+  "
+>
+  <h2 style="margin:0 0 0.75rem 0;">
+    AITL Control Flow Demo
+  </h2>
 
   <iframe
     src="https://samizo-aitl.github.io/aitl-animation-demos/demo/js-svg/aitl-control-flow.html"
     style="
+      display:block;
       width:100%;
-      height:720px;
+      height:520px;
       border:none;
       border-radius:12px;
       background:#000;
     "
     loading="lazy"
     referrerpolicy="no-referrer"
-    allowfullscreen
   ></iframe>
 
-  <p style="font-size:0.9em; color:#666; margin-top:0.5rem;">
+  <p style="
+    font-size:0.9em;
+    color:#666;
+    margin:0.4rem 0 0 0;
+  ">
     Interactive demo: PID × FSM × LLM (SVG/JS, real-time visualization)
   </p>
 </section>
