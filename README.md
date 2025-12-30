@@ -266,6 +266,59 @@ AITL 概念を可視化するための**試験的アニメーションデモ集*
 
 ---
 
+## 🎞 AITL Control Flow Demo
+
+AITL（Adaptive Intelligence–in–the–Loop）制御の**中核**である  
+**PID × FSM × LLM の三層構造**が、時間軸上でどのように連携するかを示すデモです。
+
+---
+
+### 🔁 三層の役割（要点）
+
+- **PID（最内層）**  
+  実時間制御を担当。通常はPIDのみで安定追従する。
+
+- **FSM（中間層）**  
+  状態監督を担当。誤差や劣化を検出し、  
+  *monitoring → disturbance → recovery → stable* を切り替える。
+
+- **LLM（最外層）**  
+  再設計を担当。  
+  FSMに呼ばれた場合のみ介入し、PIDゲイン（例：Kp）を再同定する。
+
+---
+
+### 📉 デモの流れ
+
+1. **通常**：PID追従／FSM監視／LLM待機  
+2. **外乱**：誤差増大 → FSMが劣化検出  
+3. **介入**：LLMがゲイン再調整  
+4. **回復**：PID再追従 → FSM stable → LLM idle
+
+---
+
+### 🎯 AITL制御の本質
+
+- LLMは**常時制御しない**
+- PIDを**置き換えない**
+- FSMが**判断の主導権**を持つ
+- LLMは**設計を更新する存在**
+
+👉 **これが AITL 制御の根幹思想**
+
+---
+
+<section class="aitl-demo" style="margin:0;padding:0;">
+  <iframe
+    src="https://samizo-aitl.github.io/aitl-animation-demos/demo/js-svg/aitl-control-flow.html"
+    style="display:block;width:100%;height:520px;border:none;border-radius:12px;background:#000;margin:0;"
+    loading="lazy"
+    referrerpolicy="no-referrer">
+  </iframe>
+</section>
+
+---
+
 # 🕘 Update Log
 
 **サイトおよび教材の更新履歴はこちらに集約しています。**  
