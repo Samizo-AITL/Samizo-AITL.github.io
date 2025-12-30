@@ -23,6 +23,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2025-12-31 | **AITL Control Flow Demo（PID × FSM × LLM 三層制御デモ）をポータルに追加。**<br>・AITL制御の中核である PID × FSM × LLM の役割分担を、時間応答アニメーションとして可視化<br>・FSMによる劣化検出と、LLMによるPIDゲイン再同定（Kp retune）の介入タイミングを明示<br>・LLMは常時制御せず「設計再構成」にのみ関与するという AITL 制御思想をデモとして固定化 |
 | 2025-12-30 | **openlane2-sram（OpenLane2 + SRAM Hard Macro 統合）教材を追加。**<br>・OpenLane2（v2）を用いた RTL → GDS 完走フローを実証<br>・SRAM を external hard macro（blackbox / LEF / GDS）として統合<br>・FIXED 配置・halo / keepout を含む macro-aware floorplanning を明示<br>・GDS 図（ブロックレベル／標準セルレベル）を証拠として掲載し、SoC 物理設計における「SRAM 中身は見ない」設計作法を明文化 |
 | 2025-12-29 | **Inkjet Timing（インクジェット吐出タイミング）教材／PoC を追加。**<br>・圧電アクチュエータ駆動における V–I–時間波形と液滴形成の関係を整理<br>・FSM 視点での吐出シーケンス（Charge / Hold / Release）を明確化<br>・制御・物理・実装を結ぶ Inkjet 系アーカイブの基点教材として位置付け |
 | 2025-12-28 | **AITL Structure Map（全体構造）の統合PNG図をポータルに正式掲載。**<br>・Samizo-AITL 全体構造（DevEnv / CodeGen / Docs / Archives）を単一視覚図として明示<br>・分散していた構造説明を「参照可能な確定図」として固定化<br>・以降、構造説明は本図を正とし、文章側は補足に限定 |
