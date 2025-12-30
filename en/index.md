@@ -211,6 +211,46 @@ Extended materials connecting semiconductor fundamentals with surrounding domain
 
 ---
 
+## 4️⃣ openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
+This project demonstrates a **complete RTL → GDS flow** using **OpenLane2 (v2)**  
+by integrating an **SRAM hard macro** into a macro-aware physical design.
+
+The focus is not SRAM design itself, but **realistic hard-macro integration**  
+within an OpenLane2-based physical implementation flow.
+
+- SRAM is treated as an **external hard macro** (blackbox / LEF / GDS)
+- **Macro-aware floorplanning** with FIXED placement and halo / keepout
+- **Final GDS generation** using the OpenLane2 Classic flow
+- Explicitly follows standard SoC practice:  
+  **SRAM internals are not exposed or inspected**
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane2-sram/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane2-sram)
+
+### 🔎 Layout Evidence (GDS)
+
+**Figure 1: SRAM Macro Block-Level View**
+
+<img
+  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig01_openlane2_spm_macro_block_level.png"
+  width="80%"
+  alt="SRAM hard macro block-level layout integrated using OpenLane2"
+/>
+
+**Figure 2: Standard-Cell-Level View Around the SRAM Macro**
+
+<img
+  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig02_openlane2_spm_standard_cell_level_view.png"
+  width="80%"
+  alt="Standard-cell placement and routing around the SRAM hard macro"
+/>
+
+> **Note:**  
+> The SRAM is integrated as a fixed hard macro using abstract views (LEF/GDS).  
+> Its internal transistor-level layout is intentionally not visible, which is consistent with standard SoC physical design practice.
+
+---
+
 # 🎛 Applied Layer — Control & Intelligence
 
 This layer explores how physical foundations are applied to  
