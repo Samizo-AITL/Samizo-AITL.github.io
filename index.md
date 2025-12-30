@@ -213,7 +213,7 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
-## 4️⃣ EduController
+## 5️⃣ EduController
 PID・FSM を中心に**制御構造を理解するための教材**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)
@@ -221,7 +221,7 @@ PID・FSM を中心に**制御構造を理解するための教材**。
 
 ---
 
-## 5️⃣ AITL-Controller-A-Type
+## 6️⃣ AITL-Controller-A-Type
 PID × FSM × LLM **三層構造の最小 PoC**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
@@ -229,7 +229,7 @@ PID × FSM × LLM **三層構造の最小 PoC**。
 
 ---
 
-## 6️⃣ V–I Control ASIC on SKY130
+## 7️⃣ V–I Control ASIC on SKY130
 V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/vi-control-asic-sky130/)
@@ -241,7 +241,7 @@ V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
 
 ---
 
-## 7️⃣ mems-ana
+## 8️⃣ mems-ana
 抽象モデルの限界を確認する **pre-FEM MEMS 解析ツール**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
@@ -249,7 +249,7 @@ V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
 
 ---
 
-## 8️⃣ Inkjet Printing — Design Trade-off Models
+## 9️⃣ Inkjet Printing — Design Trade-off Models
 画質・速度・ドット挙動の因果関係を**最小モデルで可視化する教材**。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
@@ -257,7 +257,7 @@ V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
 
 ---
 
-## 9️⃣ inkjet-timing  
+## 🔟 inkjet-timing  
 ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、単一時間軸上で可視化する設計・教育用デモ。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-timing/)
