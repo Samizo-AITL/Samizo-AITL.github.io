@@ -270,39 +270,72 @@ AITL 概念を可視化するための**試験的アニメーションデモ集*
 
 [![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
 
+---
 
-<section
-  class="aitl-demo"
-  style="
-    margin:0;
-    padding:0;
-  "
->
-  <h2 style="margin:0 0 0.75rem 0;">
-    AITL Control Flow Demo
-  </h2>
+## 🎞 AITL Control Flow Demo
 
+AITL（Adaptive Intelligence–in–the–Loop）制御の**中核構造**  
+**PID × FSM × LLM の三層役割分担**を、時間応答として可視化したデモです。
+
+---
+
+### 🔁 三層の役割（これが全て）
+
+- **PID（最内層）**  
+  実時間制御担当。通常はPIDだけで追従・安定化する。
+
+- **FSM（中間層）**  
+  状態監督担当。誤差や劣化を検出し、  
+  *monitoring → disturbance → recovery → stable* を切り替える。
+
+- **LLM（最外層）**  
+  再設計担当。  
+  FSMに呼ばれた時だけ介入し、PIDゲイン（例：Kp）を再同定する。
+
+---
+
+### 📉 デモで起きていること
+
+1. **通常状態**  
+   PIDが追従、FSM監視、LLMは待機。
+
+2. **外乱発生**  
+   誤差増大 → FSMが劣化検出 → PIDは degraded。
+
+3. **LLM介入**  
+   ゲイン再調整（Kp retune）→ 回復モードへ。
+
+4. **回復完了**  
+   PID再追従、FSM stable、LLMは再び idle。
+
+---
+
+### 🎯 このデモが示すAITLの本質
+
+- LLMは**制御器ではない**
+- PIDを**置き換えない**
+- FSMが**判断の主導権**を持つ
+- LLMは**設計をやり直す存在**
+
+👉 **これがAITL制御の根幹思想**
+
+---
+
+### 🧩 想定用途
+
+- 劣化・外乱を伴う産業制御
+- 半導体装置・精密位置決め
+- AIを安全に組み込む制御アーキテクチャ
+
+---
+
+<section class="aitl-demo" style="margin:0;padding:0;">
   <iframe
     src="https://samizo-aitl.github.io/aitl-animation-demos/demo/js-svg/aitl-control-flow.html"
-    style="
-      display:block;
-      width:100%;
-      height:520px;
-      border:none;
-      border-radius:12px;
-      background:#000;
-    "
+    style="display:block;width:100%;height:520px;border:none;border-radius:12px;background:#000;margin:0;"
     loading="lazy"
-    referrerpolicy="no-referrer"
-  ></iframe>
-
-  <p style="
-    font-size:0.9em;
-    color:#666;
-    margin:0.4rem 0 0 0;
-  ">
-    Interactive demo: PID × FSM × LLM (SVG/JS, real-time visualization)
-  </p>
+    referrerpolicy="no-referrer">
+  </iframe>
 </section>
 
 ---
