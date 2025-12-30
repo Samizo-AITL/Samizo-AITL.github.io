@@ -280,7 +280,7 @@ under **colored, adversarial disturbances**.
 
 ---
 
-## 4️⃣ EduController
+## 5️⃣ EduController
 An educational resource focused on **control fundamentals**:
 
 - PID control principles  
@@ -293,7 +293,7 @@ An educational resource focused on **control fundamentals**:
 
 ---
 
-## 5️⃣ AITL-Controller-A-Type
+## 6️⃣ AITL-Controller-A-Type
 A **minimal experimental controller** implemented in Python to explore:
 
 - Separation of control (PID)  
@@ -308,7 +308,7 @@ not a proposal for a new control algorithm.
 
 ---
 
-## 6️⃣ V–I Control ASIC on SKY130
+## 7️⃣ V–I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from  
 **control theory to silicon** using **PID + FSM**.
 
@@ -330,7 +330,7 @@ revealing the limits of simplification.
 
 ---
 
-## 7️⃣ mems-ana
+## 8️⃣ mems-ana
 **Pre-FEM MEMS structural exploration tool**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
@@ -338,7 +338,7 @@ revealing the limits of simplification.
 
 ---
 
-## 8️⃣ Inkjet Printing — Design Trade-off Models
+## 9️⃣ Inkjet Printing — Design Trade-off Models
 Minimal models visualizing trade-offs between:
 
 - Print quality  
@@ -353,7 +353,7 @@ serving as a domain-specific example of physical trade-offs.
 
 ---
 
-## 9️⃣ inkjet-timing  
+## 🔟 inkjet-timing  
 A design and educational demo that visualizes the **time-domain causality**
 between electrical, mechanical, and fluid domains in a piezoelectric inkjet system.
 
