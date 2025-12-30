@@ -36,6 +36,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | Project | Page | Repo |
 |---|---|---|
 | SemiDevKit | 🔗 [Open](https://samizo-aitl.github.io/SemiDevKit/) | 🔧 [Repo](https://github.com/Samizo-AITL/SemiDevKit) |
+| openlane2-sram | 🔗 [Open](https://samizo-aitl.github.io/openlane2-sram/) | 🔧 [Repo](https://github.com/Samizo-AITL/openlane2-sram) |
 | AITL Controller A-Type | 🔗 [Open](https://samizo-aitl.github.io/aitl-controller-a-type/) | 🔧 [Repo](https://github.com/Samizo-AITL/aitl-controller-a-type) |
 | AITL Silicon Pathway | 🔗 [Open](https://samizo-aitl.github.io/aitl-silicon-pathway/) | 🔧 [Repo](https://github.com/Samizo-AITL/aitl-silicon-pathway) |
 | V–I Control ASIC | 🔗 [Open](https://samizo-aitl.github.io/vi-control-asic-sky130/) | 🔧 [Repo](https://github.com/Samizo-AITL/vi-control-asic-sky130) |
