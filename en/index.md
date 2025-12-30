@@ -370,6 +370,68 @@ Experimental animation demos visualizing
 
 ---
 
+## 🎞 AITL Control Flow Demo
+
+This demo visualizes how the **core AITL (Adaptive Intelligence–in–the–Loop) control architecture**  
+— **PID × FSM × LLM** — cooperates along the time axis.
+
+---
+
+### 🔁 Three-layer roles (key points)
+
+- **PID (inner loop)**  
+  Handles real-time control.  
+  Under normal conditions, stable tracking is achieved by PID alone.
+
+- **FSM (middle layer)**  
+  Supervises system states.  
+  Detects error growth or degradation and switches modes:  
+  *monitoring → disturbance → recovery → stable*.
+
+- **LLM (outer layer)**  
+  Responsible for redesign.  
+  Intervenes **only when invoked by FSM**, retuning PID gains (e.g., Kp).
+
+---
+
+### 📉 What happens in the demo
+
+1. **Normal operation**  
+   PID tracks the reference, FSM monitors, LLM stays idle.
+
+2. **Disturbance occurs**  
+   Error increases → FSM detects degradation.
+
+3. **LLM intervention**  
+   Control gains are retuned.
+
+4. **Recovery completed**  
+   PID re-tracks the reference → FSM becomes stable → LLM returns to idle.
+
+---
+
+### 🎯 Essence of AITL control
+
+- LLM is **not** a real-time controller  
+- PID is **not replaced**  
+- FSM holds **decision authority**  
+- LLM updates the **control design**, not the control signal
+
+👉 **This is the core philosophy of AITL control**
+
+---
+
+<section class="aitl-demo" style="margin:0;padding:0;">
+  <iframe
+    src="https://samizo-aitl.github.io/aitl-animation-demos/demo/js-svg/aitl-control-flow.html"
+    style="display:block;width:100%;height:520px;border:none;border-radius:12px;background:#000;margin:0;"
+    loading="lazy"
+    referrerpolicy="no-referrer">
+  </iframe>
+</section>
+
+---
+
 # 🕘 Update Log
 Chronological record of site and repository updates.
 
