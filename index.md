@@ -133,7 +133,13 @@ Samizo-AITL/
 ---
 
 ## 1️⃣ Edusemi-v4x
-半導体プロセス・デバイス・回路設計を**物理起点で体系化する基幹教材**。
+半導体プロセス・デバイス・回路設計を、**物理起点で体系化する基幹教材**。
+
+- 電子物性・プロセス条件・デバイス構造の因果関係を整理
+- 回路特性を「結果」ではなく「物理の帰結」として理解
+- 教科書断片ではなく、**設計につながる物理体系**を構築
+
+👉 **Samizo-AITL 全体の物理基盤となる中核教材。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x)
@@ -143,6 +149,12 @@ Samizo-AITL/
 ## 2️⃣ SemiDevKit
 物理モデルから **SPICE・信頼性・レイアウト**までを接続する実装キット。
 
+- 物理モデルを SPICE モデルへ落とし込む
+- 信頼性・ばらつき・設計マージンを考慮
+- デバイス理解を **設計フローとして実装**する
+
+👉 **物理理解を「設計作業」に変換するための橋渡し。**
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
 
@@ -150,6 +162,12 @@ Samizo-AITL/
 
 ## 3️⃣ Edusemi-Plus
 材料・装置・産業構造を、**物理視点で拡張する補助教材**。
+
+- 製造装置・材料技術と物理原理の関係整理
+- 半導体産業構造・技術選択の背景を理解
+- Edusemi-v4x の物理体系を **現実世界へ拡張**
+
+👉 **「なぜこの技術が選ばれているか」を理解するための補助教材。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus)
@@ -233,7 +251,13 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 ---
 
 ## 5️⃣ EduController
-PID・FSM を中心に**制御構造を理解するための教材**。
+PID・FSM を中心に、**制御系の構造そのものを理解するための教材**。
+
+- PID による実時間制御と安定化の役割
+- FSM による状態監督・モード遷移の意味
+- 「制御ロジック」と「制御構造」の違いを明確化
+
+👉 **制御を“組む前に考える”ための基礎教材。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController)
@@ -241,7 +265,13 @@ PID・FSM を中心に**制御構造を理解するための教材**。
 ---
 
 ## 6️⃣ AITL-Controller-A-Type
-PID × FSM × LLM **三層構造の最小 PoC**。
+PID × FSM × LLM **三層構造（AITL）の最小構成 PoC**。
+
+- PID：実時間制御のみを担当
+- FSM：劣化検出・状態遷移を担当
+- LLM：FSMに呼ばれた場合のみ介入し、設計（ゲイン）を更新
+
+👉 **LLMが制御を置き換えないことを示す最小実証。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
@@ -249,7 +279,13 @@ PID × FSM × LLM **三層構造の最小 PoC**。
 ---
 
 ## 7️⃣ V–I Control ASIC on SKY130
-V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
+V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教材**。
+
+- 電圧–電流（V–I）制御を物理量起点で設計
+- PID + FSM をハードウェアとして実装
+- 制御理論と半導体物理の接続を実証
+
+👉 **制御が「物理デバイスにどう実装されるか」を示す教材。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/vi-control-asic-sky130/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/vi-control-asic-sky130)
@@ -263,6 +299,12 @@ V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
 ## 8️⃣ mems-ana
 抽象モデルの限界を確認する **pre-FEM MEMS 解析ツール**。
 
+- lumped / 簡易モデルが成立する範囲を可視化
+- FEM に進む前段階での仮定・近似の妥当性確認
+- モデル化誤差が設計判断に与える影響を整理
+
+👉 **「どこまで抽象化してよいか」を判断するための前処理ツール。**
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
 
@@ -271,13 +313,26 @@ V–I 制御（PID + FSM）を **RTL → GDS まで実装する ASIC 教材**。
 ## 9️⃣ Inkjet Printing — Design Trade-off Models
 画質・速度・ドット挙動の因果関係を**最小モデルで可視化する教材**。
 
+- ドット形成・吐出条件・駆動条件の因果関係整理
+- 画質 ↔ 速度 ↔ 安定性のトレードオフを明示
+- 高忠実度シミュレーションに頼らない設計思考
+
+👉 **インクジェット設計の意思決定構造を理解するための教材。**
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-dts)
 
 ---
 
 ## 🔟 inkjet-timing  
-ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、単一時間軸上で可視化する設計・教育用デモ。
+ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、  
+単一時間軸上で可視化する設計・教育用デモ。
+
+- 電圧駆動 → 機械変形 → 流体応答の時間順序を可視化
+- 遅延・重なり・非同期要素の影響を理解
+- 波形設計と吐出挙動の関係を直感的に把握
+
+👉 **マルチフィジクスを「時間因果」として捉えるためのデモ。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-timing/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-timing)
