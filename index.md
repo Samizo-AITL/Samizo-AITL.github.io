@@ -155,6 +155,14 @@ Samizo-AITL/
 
 👉 **物理理解を「設計作業」に変換するための橋渡し。**
 
+### ■ Device Modeling Example（SCE対応）
+
+<img src="https://samizo-aitl.github.io/SemiDevKit/assets/bsim4_analyzer_dim/nmos_vgid.png" width="80%">
+
+**BSIM4モデルによるNMOS Vg–Id特性（Linear領域）**。  
+チャネル長Lの短縮に伴うId増大と勾配変化を通じて、  
+**Short Channel Effect（Vth roll-off / mobility degradation）を反映したデバイス挙動**を可視化。
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
 
