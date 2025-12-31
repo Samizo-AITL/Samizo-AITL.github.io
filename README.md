@@ -189,6 +189,25 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
+## 🧭 Control Architecture Concepts（制御アーキテクチャ概念）
+
+> Runtime（運用）と Design-time（設計）を分離して扱うための  
+> **中核となる制御アーキテクチャ概念**です。  
+> いずれも「AIが制御を置き換えない」ことを前提にしています。
+
+| Concept | Role | Links |
+|---|---|---|
+| **Envelope Control** | Runtime enforcement of safe operating envelopes under uncertainty | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
+| **Design Recovery Control** | Offline recovery of violated control design assumptions | 🔗 [Open](https://samizo-aitl.github.io/design-recovery-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/design-recovery-control) |
+
+**Relationship (non-overlapping):**
+- **Envelope Control** constrains *how the system operates now*.
+- **Design Recovery Control** repairs *why the original design no longer works*.
+
+These concepts are **complementary**, not alternative.
+
+---
+
 ## ▶ Control Playground（Time Response Demo）
 
 **固定 PID 制御器が、  
