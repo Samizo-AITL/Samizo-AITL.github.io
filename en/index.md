@@ -185,13 +185,25 @@ A **systematic curriculum** covering semiconductor devices and processes:
 ---
 
 ## 2️⃣ SemiDevKit
-An **implementation-oriented development kit** bridging theory and practice:
+An **implementation-oriented development kit** bridging semiconductor device theory and practical design workflows:
 
 - Poisson / Drift–Diffusion solvers  
-- BSIM4 compact modeling  
+- BSIM4 compact device modeling  
 - SPICE simulation  
 - NBTI / HCI reliability analysis  
 - Physical layout using OpenLane-Lite  
+
+👉 **Transforming physical device understanding into executable design flows.**
+
+### ■ Device Modeling Example (Short Channel Effect)
+
+<img src="https://samizo-aitl.github.io/SemiDevKit/assets/bsim4_analyzer_dim/nmos_vgid.png" width="80%">
+
+**NMOS Vg–Id characteristics (Linear region) modeled with BSIM4**,  
+showing **channel-length (L) dependent behavior**.  
+The increase in drain current and slope variation with reduced L  
+clearly reflects **Short Channel Effects**, including  
+*threshold voltage roll-off* and *mobility degradation*.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
