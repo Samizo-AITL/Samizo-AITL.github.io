@@ -46,6 +46,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | V–I Control ASIC | 🔗 [Open](https://samizo-aitl.github.io/vi-control-asic-sky130/) | 🔧 [Repo](https://github.com/Samizo-AITL/vi-control-asic-sky130) |
 | Control Playground | 🔗 [Open](https://samizo-aitl.github.io/control-playground/) | 🔧 [Repo](https://github.com/Samizo-AITL/control-playground) |
 | Envelope Control | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) | 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
+| Design Recovery Control | 🔗 [Open](https://samizo-aitl.github.io/design-recovery-control/) | 🔧 [Repo](https://github.com/Samizo-AITL/design-recovery-control) |
 
 ---
 
