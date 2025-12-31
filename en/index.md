@@ -197,7 +197,7 @@ An **implementation-oriented development kit** bridging semiconductor device the
 
 ### ■ Device Modeling Example (Short Channel Effect)
 
-<img src="https://samizo-aitl.github.io/SemiDevKit/assets/bsim4_analyzer_dim/nmos_vgid.png" width="80%">
+<img src="https://samizo-aitl.github.io/SemiDevKit/assets/bsim4_analyzer_dim/nmos_vgid.png" width="60%">
 
 **NMOS Vg–Id characteristics (Linear region) modeled with BSIM4**,  
 showing **channel-length (L) dependent behavior**.  
