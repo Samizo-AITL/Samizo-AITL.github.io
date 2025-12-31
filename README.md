@@ -193,18 +193,18 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 > Runtime（運用）と Design-time（設計）を分離して扱うための  
 > **中核となる制御アーキテクチャ概念**です。  
-> いずれも「AIが制御を置き換えない」ことを前提にしています。
+> いずれも **「AIが制御を置き換えない」** ことを前提にしています。
 
-| Concept | Role | Links |
+| 概念 | 役割 | リンク |
 |---|---|---|
-| **Envelope Control** | Runtime enforcement of safe operating envelopes under uncertainty | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
-| **Design Recovery Control** | Offline recovery of violated control design assumptions | 🔗 [Open](https://samizo-aitl.github.io/design-recovery-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/design-recovery-control) |
+| **Envelope Control** | 不確実性下において、安全な運転範囲（Envelope）を**実行時に拘束**する制御概念 | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
+| **Design Recovery Control** | 破綻・逸脱した**制御設計前提を非実時間で回復**する設計監督概念 | 🔗 [Open](https://samizo-aitl.github.io/design-recovery-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/design-recovery-control) |
 
-**Relationship (non-overlapping):**
-- **Envelope Control** constrains *how the system operates now*.
-- **Design Recovery Control** repairs *why the original design no longer works*.
+**関係性（非代替・補完関係）：**
+- **Envelope Control**：*「いま、どう抑えて運転するか」* を規定する  
+- **Design Recovery Control**：*「なぜ設計が通らなくなったか」* を修復する  
 
-These concepts are **complementary**, not alternative.
+これらは **競合でも代替でもなく、補完関係にある概念**です。
 
 ---
 
