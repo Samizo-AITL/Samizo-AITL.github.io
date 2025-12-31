@@ -261,6 +261,25 @@ while AI/LLMs are treated as **architectural support tools**, not replacements.
 
 ---
 
+## 🧭 Control Architecture Concepts
+
+> Core control-architecture concepts that **separate runtime operation**
+> from **design-time recovery**.  
+> Both concepts explicitly assume that **AI does not replace controllers**.
+
+| Concept | Role | Links |
+|---|---|---|
+| **Envelope Control** | Runtime enforcement of safe operating envelopes under uncertainty | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
+| **Design Recovery Control** | Offline recovery of violated control design assumptions | 🔗 [Open](https://samizo-aitl.github.io/design-recovery-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/design-recovery-control) |
+
+**Relationship (non-overlapping):**
+- **Envelope Control** constrains *how the system operates now*.
+- **Design Recovery Control** repairs *why the original design no longer works*.
+
+These concepts are **complementary, not alternatives**.
+
+---
+
 ## ▶ Control Playground (Time Response Demo)
 
 This demo visualizes the **time response of a fixed-gain PID controller**
