@@ -151,7 +151,7 @@ Samizo-AITL/
 
 ### ■ Device Modeling Example（SCE対応）
 
-<img src="https://samizo-aitl.github.io/SemiDevKit/assets/bsim4_analyzer_dim/nmos_vgid.png" width="80%">
+<img src="https://samizo-aitl.github.io/SemiDevKit/assets/bsim4_analyzer_dim/nmos_vgid.png" width="60%">
 
 **BSIM4モデルによるNMOS Vg–Id特性（Linear領域）**。  
 チャネル長Lの短縮に伴うId増大と勾配変化を通じて、  
