@@ -18,6 +18,10 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 |---|---|---|
 | Samizo-AITL.github.io | 🔗 [Open](https://samizo-aitl.github.io/) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
 
+### 📊 Analytics / Monitoring（Owner Only）
+
+- 📈 [Google Analytics (GA4) – Samizo-AITL Portal](https://analytics.google.com/analytics/web/)
+
 ---
 
 ## 📘 Education / Frameworks
