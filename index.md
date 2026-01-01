@@ -334,12 +334,6 @@ V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教�
 👉 **「どこまで抽象化してよいか」を判断するための前処理ツール。**
 
 ### Demo animation (recommended)
-**d33-dominant uz(x, y), 10 voltage cycles**
-
-- positive-only `uz`
-- color / z-range fixed: **0–500 nm**
-- geometric aspect ratio preserved
-- rising / falling branches included
 
 ![](https://samizo-aitl.github.io/mems-ana/mems-ana_demo/outputs/anims/uz_midplane_typical_d33_10cycles.gif)
 
