@@ -343,12 +343,6 @@ V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教�
 
 ![](https://samizo-aitl.github.io/mems-ana/mems-ana_demo/outputs/anims/uz_midplane_typical_d33_10cycles.gif)
 
-> d33-dominated uz(x,y) (positive-only)  
-> ABSOLUTE uz(V) consistent with butterfly  
-> S = d33·(P/Pm)·E + Q·P²  
-> Color: 0–500 nm | z(true): 0–500 nm | Z_EXAG = 60  
-> V–I: current not modeled
-
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
 
