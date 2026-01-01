@@ -367,6 +367,10 @@ revealing the limits of simplification.
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
 
+### Demo animation (recommended)
+
+![](https://samizo-aitl.github.io/mems-ana/mems-ana_demo/outputs/anims/uz_midplane_typical_d33_10cycles.gif)
+
 ---
 
 ## 9️⃣ Inkjet Printing — Design Trade-off Models
