@@ -412,8 +412,15 @@ A design approach that **separates mechanical design from GUI-based CAD** and tr
 ---
 
 # 🎞 AITL Animation Demos
-Experimental animation demos visualizing  
-**AITL concepts and layered control structures**.
+A collection of animation demos visualizing **PID control, FSM, LLM, and AITL architectures**,  
+as well as physical, device-level, and multiphysics behaviors.
+
+- Visualization of **PID control time responses and control flow**
+- Role separation and interaction within **AITL structures (PID × FSM × LLM)**
+- Intuitive animations of **inkjet, MEMS, and device-physics dynamics** in time and space
+
+These demos are intended to help readers **grasp system behavior and structure visually**  
+before diving into equations or code.
 
 [![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
 
