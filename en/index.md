@@ -404,7 +404,7 @@ A design approach that **separates mechanical design from GUI-based CAD** and tr
 - CAD is used only for visualization (design intent lives in code)
 - Explicitly fixes **structural and boundary conditions** required for multiphysics design
 
-👉 **A layer that freezes time-causal understanding (inkjet-timing) into structural design.**
+👉 **A design approach that defines mechanical structures, dimensions, and constraints as reproducible code.**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
