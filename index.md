@@ -386,7 +386,15 @@ V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教�
 ---
 
 # 🎞 AITL Animation Demos
-AITL 概念を可視化するための**試験的アニメーションデモ集**。
+PID 制御・FSM・LLM を含む AITL 構造や、  
+物理・デバイス・マルチフィジクス挙動を **アニメーションで可視化したデモ集**。
+
+- **PID 制御の時間応答・制御フロー**の可視化
+- FSM・LLM を含む **AITL 制御構造の役割分担**の表示
+- インクジェット、MEMS、デバイス物理などの **時間・空間挙動の直感的理解**
+
+数式やコードの前に、  
+**振る舞いと構造を目で把握すること**を目的としています。
 
 [![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
 
