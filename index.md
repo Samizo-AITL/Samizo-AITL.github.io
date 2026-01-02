@@ -378,7 +378,7 @@ V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教�
 - CADは結果の可視化のみ（設計の本体はコード）
 - マルチフィジクス設計に必要な **構造・境界条件を明示的に固定**
 
-👉 **時間因果（inkjet-timing）を、構造設計として凍結するための層。**
+👉 **機械構造・寸法・拘束条件を、コードとして定義・再現するための設計層。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
