@@ -365,20 +365,6 @@ V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教�
 
 ---
 
-## 1️⃣1️⃣ Full Code Mechanical Design  
-機械設計を **GUI操作から切り離し、コードとして記述・再現する** 設計アプローチ。
-
-- 寸法・形状・拘束条件を **変数・関数として定義**
-- CADは結果の可視化のみ（設計の本体はコード）
-- マルチフィジクス設計に必要な **構造・境界条件を明示的に固定**
-
-👉 **機械構造・寸法・拘束条件を、コードとして定義・再現するための設計層。**
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
-
----
-
 # 🎞 AITL Animation Demos
 PID 制御・FSM・LLM を含む AITL 構造や、  
 物理・デバイス・マルチフィジクス挙動を **アニメーションで可視化したデモ集**。
