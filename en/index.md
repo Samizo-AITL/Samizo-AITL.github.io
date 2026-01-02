@@ -397,20 +397,6 @@ between electrical, mechanical, and fluid domains in a piezoelectric inkjet syst
 
 ---
 
-## 1️⃣1️⃣ Full Code Mechanical Design  
-A design approach that **separates mechanical design from GUI-based CAD** and treats it as reproducible code.
-
-- Dimensions, geometry, and constraints are defined as **variables and functions**
-- CAD is used only for visualization (design intent lives in code)
-- Explicitly fixes **structural and boundary conditions** required for multiphysics design
-
-👉 **A design approach that defines mechanical structures, dimensions, and constraints as reproducible code.**
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
-
----
-
 # 🎞 AITL Animation Demos
 A collection of animation demos visualizing **PID control, FSM, LLM, and AITL architectures**,  
 as well as physical, device-level, and multiphysics behaviors.
