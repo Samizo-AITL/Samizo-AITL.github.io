@@ -23,7 +23,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
-| 2026-01-03 | **SystemDK に Control Architecture Concepts（Envelope Control / Design Recovery Control）を追加。**<br>・Runtime（運用）と Design-time（設計）を分離する制御アーキテクチャ概念として両者を定義<br>・Envelope Control：不確実性下での安全運転範囲（Envelope）を実行時に拘束<br>・Design Recovery Control：破綻した制御設計前提を非実時間で回復<br>・実装・統合設計における安全性と設計再構成を担う補完的概念として整理 |
+| 2026-01-03 | **SystemDK に熱・応力・ノイズ（SI/PI, 熱, 応力, EMI/EMC）の物理制約設計対応を追加。** |
 | 2026-01-01 | **Control Architecture Concepts（Envelope Control / Design Recovery Control）をポータルに追加。**<br>・Runtime（運用）と Design-time（設計）を分離する制御アーキテクチャ概念として両者を明示<br>・Envelope Control：不確実性下での安全運転範囲（Envelope）を実行時に拘束<br>・Design Recovery Control：破綻した制御設計前提を非実時間で回復<br>・両概念を補完関係（非代替）として定義し、AITL（PID × FSM × LLM）構造との関係を固定化 |
 | 2025-12-31 | **AITL Control Flow Demo（PID × FSM × LLM 三層制御デモ）をポータルに追加。**<br>・AITL制御の中核である PID × FSM × LLM の役割分担を、時間応答アニメーションとして可視化<br>・FSMによる劣化検出と、LLMによるPIDゲイン再同定（Kp retune）の介入タイミングを明示<br>・LLMは常時制御せず「設計再構成」にのみ関与するという AITL 制御思想をデモとして固定化 |
 | 2025-12-30 | **openlane2-sram（OpenLane2 + SRAM Hard Macro 統合）教材を追加。**<br>・OpenLane2（v2）を用いた RTL → GDS 完走フローを実証<br>・SRAM を external hard macro（blackbox / LEF / GDS）として統合<br>・FIXED 配置・halo / keepout を含む macro-aware floorplanning を明示<br>・GDS 図（ブロックレベル／標準セルレベル）を証拠として掲載し、SoC 物理設計における「SRAM 中身は見ない」設計作法を明文化 |
