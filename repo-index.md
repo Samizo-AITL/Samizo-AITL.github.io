@@ -16,7 +16,8 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 | Project | Page | Repo |
 |---|---|---|
-| Samizo-AITL.github.io | 🔗 [Open](https://samizo-aitl.github.io/) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
+| Samizo-AITL.github.io | 🔗 [Open](https://samizo-aitl.github.io/) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) 
+| Samizo-AITL.github.io/potal | 🔗 [Open](https://samizo-aitl.github.io/portal) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
 
 ### 📊 Analytics / Monitoring（Owner Only）
 
