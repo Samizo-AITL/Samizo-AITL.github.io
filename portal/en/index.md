@@ -95,18 +95,14 @@ flowchart TB
   C --> R[Real-time PID Loop]
   R --> S[FSM Supervisor]
   S --> I[LLM Intelligence]
-  I -.-> R
-  I -.-> S
 ```
+※ LLM operates only at design-time for analysis and redesign, and does not intervene in real-time control.
 
 ### Architectural Positioning
 
 - **Inner layers**: Physics, devices, MEMS (constraint-defining layers)  
 - **Middle layers**: Modeling and classical control theory  
 - **Outer layers**: Intelligence, supervision, and redesign  
-
-This layered concept is referred to as  
-**AITL — Adaptive Intelligent Technology Loop**.
 
 LLMs are explicitly placed **outside the real-time control loop**,  
 supporting diagnosis, analysis, and redesign.
@@ -429,7 +425,7 @@ before diving into equations or code.
 
 ## 🎞 AITL Control Flow Demo
 
-This demo visualizes how the **core AITL (Adaptive Intelligence–in–the–Loop) control architecture**  
+This demo visualizes how the **core AITL control architecture**  
 — **PID × FSM × LLM** — cooperates along the time axis.
 
 ---
