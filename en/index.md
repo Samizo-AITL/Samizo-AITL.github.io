@@ -184,6 +184,21 @@ A **systematic curriculum** covering semiconductor devices and processes:
 
 ---
 
+### 🔹 Special Chapter: SystemDK (System Design Kit)
+
+A special chapter that builds upon physics-based device and circuit knowledge and extends it into  
+**implementation and system-level integration design**, including SI / PI / thermal / mechanical stress / EMI considerations.
+
+- Organizes **system-level constraints** that cannot be resolved at the device level alone, starting from physical principles  
+- Provides a unified design perspective spanning **SoC, chiplet, package, and board**  
+- Usable not only as educational material, but also as a **practical design thinking framework** for real implementations  
+
+👉 **Positioned as a bridge from “physics” to “system integration” within Edusemi-v4x.**
+
+[![SystemDK](https://img.shields.io/badge/View-SystemDK-orange)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
+
+---
+
 ## 2️⃣ SemiDevKit
 An **implementation-oriented development kit** bridging semiconductor device theory and practical design workflows:
 
