@@ -6,6 +6,10 @@ description: A physical-first engineering archive integrating devices, control, 
 
 # Samizo-AITL Portal
 
+## 🌐 Language
+[![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
+[![English Version](https://img.shields.io/badge/English-Version-blue?logo=github)](https://samizo-aitl.github.io/en/)
+
 ## What this is
 A **physical-first engineering archive** that connects  
 devices, control, and intelligent systems  
