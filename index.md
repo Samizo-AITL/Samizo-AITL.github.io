@@ -6,6 +6,10 @@ description: 物理・デバイス・制御・AIを因果構造で統合する�
 
 # Samizo-AITL Portal
 
+## 🌐 Language / 言語
+[![English Version](https://img.shields.io/badge/English-Version-blue?logo=github)](https://samizo-aitl.github.io/en/)
+[![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
+
 ## これは何か
 物理 → デバイス → 制御 → 知能化を  
 **一つの因果構造で統合する技術アーカイブ**です。
