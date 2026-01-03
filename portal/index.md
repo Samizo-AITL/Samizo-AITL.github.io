@@ -7,7 +7,7 @@ description: 物理からデバイス、制御、知能化までを因果構造�
 # 🎓 Samizo-AITL Portal  
 > **物理 → デバイス → 制御 → 知能化を  
 > 一つの因果構造で統合する技術アーカイブ**  
-> *A unified framework connecting physics, devices, systems, and intelligent control.*
+> *A unified framework connecting physics, devices, systems, and intelligence.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
@@ -91,11 +91,10 @@ flowchart TB
   C --> R[Real-time PID Loop]
   R --> S[FSM Supervisor]
   S --> I[LLM Intelligence]
-  I -.-> R
-  I -.-> S
 ```
+※ LLM is used only at design-time for explanation and redesign, and does not intervene in real-time control.
 
-AITL（Adaptive Intelligent Technology Loop）は、  
+AITL（Architecture for Integrated Technology Logic）は、  
 次の **三層構造**で設計されています。
 
 - **内側**：物理・デバイス・MEMS  
@@ -403,8 +402,7 @@ PID 制御・FSM・LLM を含む AITL 構造や、
 
 ## 🎞 AITL Control Flow Demo
 
-AITL（Adaptive Intelligence–in–the–Loop）制御の**中核**である  
-**PID × FSM × LLM の三層構造**が、時間軸上でどのように連携するかを示すデモです。
+AITL制御の**中核**である**PID × FSM × LLM の三層構造**が、時間軸上でどのように連携するかを示すデモです。
 
 ---
 
