@@ -181,21 +181,6 @@ Samizo-AITL/
 
 ---
 
-### 🔹 特別章：SystemDK（System Design Kit）
-
-物理・デバイス・回路を前提として、  
-**SI / PI / 熱 / 応力 / EMI を含む「実装・統合設計」へ展開する特別章**。
-
-- デバイス単体では終わらない「システム制約」を物理から整理
-- SoC / Chiplet / Package / Board を貫く設計視点
-- 教材でありつつ、実設計の思考フレームとしても利用可能
-
-👉 **Edusemi-v4x における「物理 → システム統合」への橋渡し位置づけ。**
-
-[![SystemDK](https://img.shields.io/badge/View-SystemDK-orange)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
-
----
-
 ## 2️⃣ SemiDevKit
 物理モデルから **SPICE・信頼性・レイアウト**までを接続する実装キット。
 
