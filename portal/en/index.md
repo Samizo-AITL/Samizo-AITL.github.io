@@ -345,6 +345,18 @@ A **minimal experimental controller** implemented in Python to explore:
 This project is a **thinking framework**,  
 not a proposal for a new control algorithm.
 
+<figure style="text-align:center; margin:2rem auto;">
+  <img
+    src="https://samizo-aitl.github.io/aitl-controller-a-type/data/aitl_full_demo_ideal.png"
+    alt="AITL system response under disturbance (PID-controlled, FSM-supervised, LLM-triggered)"
+    style="width:60%; max-width:100%;"
+  />
+  <figcaption style="font-size:0.9rem; color:#555; margin-top:0.5rem;">
+    System response under disturbance: control by PID, supervision by FSM,
+    and redesign triggered by LLM only when required.
+  </figcaption>
+</figure>
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
 
