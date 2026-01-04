@@ -371,7 +371,7 @@ For hands-on exploration of **why this three-layer separation is necessary**,
 use the interactive playground below.
 
 👉 **AITL Control Playground（Interactive）**  
-🔗 [/en/playground/](/en/playground/)
+🔗 [/playground/](/playground/)
 
 - Tune PID gains and observe instability
 - Switch FSM modes (TRACK / HOLD / MANUAL)
