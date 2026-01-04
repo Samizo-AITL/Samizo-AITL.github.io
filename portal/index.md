@@ -343,7 +343,7 @@ PID × FSM × LLM **三層構造（AITL）の最小構成 PoC**。
 以下のインタラクティブ Playground を参照してください。
 
 👉 **AITL Control Playground（操作デモ）**  
-🔗 https://samizo-aitl.github.io/en/playground/
+🔗 [/playground/](/playground/)
 
 - PID ゲインを変更し、安定性・発振・収束を観察
 - FSM のモード切替（TRACK / HOLD / MANUAL）を体験
