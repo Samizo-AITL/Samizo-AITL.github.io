@@ -6,7 +6,7 @@ description: "Cross-disciplinary career summary in semiconductors, control, inkj
 
 # 🛠️ Career Summary
 
-[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to-Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/)
+[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to-Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/en/)
 
 Shinichi Samizo is an engineer whose career spans  
 **control theory, semiconductor devices, thin-film piezoelectric actuators, and industrial inkjet systems**,  
