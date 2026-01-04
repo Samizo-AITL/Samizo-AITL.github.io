@@ -315,6 +315,17 @@ PID × FSM × LLM **三層構造（AITL）の最小構成 PoC**。
 
 👉 **LLMが制御を置き換えないことを示す最小実証。**
 
+<figure style="text-align:center; margin:2rem auto;">
+  <img
+    src="https://samizo-aitl.github.io/aitl-controller-a-type/data/aitl_full_demo_ideal.png"
+    alt="AITL System Response (PID controlled, FSM supervised, LLM triggered)"
+    style="width:60%; max-width:100%;"
+  />
+  <figcaption style="font-size:0.9rem; color:#555; margin-top:0.5rem;">
+    外乱下における AITL 応答（制御：PID／監督：FSM／再設計：LLM）
+  </figcaption>
+</figure>
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
 
