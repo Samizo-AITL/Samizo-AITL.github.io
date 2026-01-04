@@ -345,6 +345,9 @@ A **minimal experimental controller** implemented in Python to explore:
 This project is a **thinking framework**,  
 not a proposal for a new control algorithm.
 
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
+
 <figure style="text-align:center; margin:2rem auto;">
   <img
     src="https://samizo-aitl.github.io/aitl-controller-a-type/data/aitl_full_demo_ideal.png"
@@ -356,9 +359,6 @@ not a proposal for a new control algorithm.
     and redesign triggered by LLM only when required.
   </figcaption>
 </figure>
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
 
 ---
 
