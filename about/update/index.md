@@ -23,6 +23,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2026-01-05 | **▶ インタラクティブ検証（設計者向け Playground）を追加。**<br>・設計者がモデル・制御構造・設計パラメータを対話的に検証するための検証エリアを新設<br>・教材閲覧に留まらず、「試す・比較する・考察する」ための設計者向け思考実験環境を提供<br>・AITL（PID × FSM × LLM）構造における Design-time 検証・理解深化を目的とした Playground として位置づけ |
 | 2026-01-03 | **SystemDK に熱・応力・ノイズ（SI/PI, 熱, 応力, EMI/EMC）の物理制約設計対応を追加。** |
 | 2026-01-01 | **Control Architecture Concepts（Envelope Control / Design Recovery Control）をポータルに追加。**<br>・Runtime（運用）と Design-time（設計）を分離する制御アーキテクチャ概念として両者を明示<br>・Envelope Control：不確実性下での安全運転範囲（Envelope）を実行時に拘束<br>・Design Recovery Control：破綻した制御設計前提を非実時間で回復<br>・両概念を補完関係（非代替）として定義し、AITL（PID × FSM × LLM）構造との関係を固定化 |
 | 2025-12-31 | **AITL Control Flow Demo（PID × FSM × LLM 三層制御デモ）をポータルに追加。**<br>・AITL制御の中核である PID × FSM × LLM の役割分担を、時間応答アニメーションとして可視化<br>・FSMによる劣化検出と、LLMによるPIDゲイン再同定（Kp retune）の介入タイミングを明示<br>・LLMは常時制御せず「設計再構成」にのみ関与するという AITL 制御思想をデモとして固定化 |
