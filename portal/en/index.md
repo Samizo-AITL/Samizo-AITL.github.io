@@ -362,6 +362,26 @@ not a proposal for a new control algorithm.
 
 ---
 
+### ▶ Interactive Verification (Design-Side Playground)
+
+The figure above shows an **idealized AITL response**  
+based on logged simulation results.
+
+For hands-on exploration of **why this three-layer separation is necessary**,  
+use the interactive playground below.
+
+👉 **AITL Control Playground（Interactive）**  
+🔗 [/en/playground/](/en/playground/)
+
+- Tune PID gains and observe instability
+- Switch FSM modes (TRACK / HOLD / MANUAL)
+- See when and why design-time intelligence would be invoked
+
+> This playground is intentionally separated from this PoC page  
+> to preserve the clarity of the minimal AITL structure.
+
+---
+
 ## 7️⃣ V–I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from  
 **control theory to silicon** using **PID + FSM**.
