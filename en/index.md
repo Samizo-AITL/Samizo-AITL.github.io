@@ -37,11 +37,11 @@ Choose an entry point based on your interest.
   *AITL concept and causal design structure*
 
 - ▶ ⚙️ **Semiconductor-first path**  
-  → [/Edusemi-v4x/](/Edusemi-v4x/en/)  
+  → [/Edusemi-v4x/en/](/Edusemi-v4x/en/)  
   *Physics-, process-, and device-oriented design*
 
 - ▶ 🤖 **Control & AI path**  
-  → [/EduController/](/EduController/en/)  
+  → [/EduController/en/](/EduController/en/)  
   *Roles of PID, FSM, and LLM in system architectures  
   (AI does **not** operate in real-time control loops)*
 
