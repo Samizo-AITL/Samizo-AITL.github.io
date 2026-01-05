@@ -6,7 +6,7 @@ permalink: /playground/
 
 # 🎮 AITL Control Playground (PID × FSM)
 
-[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/aitl-contller-a-type//#-license)
+[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/aitl-controller-a-type//#-license)
 
 - **Plant**: 1st-order lag system  
 - **Controller**: Discrete-time PID  
