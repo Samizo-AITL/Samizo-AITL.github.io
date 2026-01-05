@@ -4,9 +4,7 @@ title: "経験要約 / Career Summary"
 description: "制御・半導体・インクジェット・教育を貫く技術キャリア要約"
 ---
 
-# 🛠️ 経験要約 / Career Summary
-
-[![Samizo-AITL ポータルサイトに戻る](https://img.shields.io/badge/Samizo--AITL%20ポータルサイトに戻る-brightgreen)](https://samizo-aitl.github.io/)
+# 🛠️ Career Summary
 
 三溝真一は、  
 **制御理論・電磁界解析**を出発点に、  
