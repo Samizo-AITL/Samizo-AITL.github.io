@@ -139,6 +139,32 @@ Samizo-AITL/
 
 ---
 
+## 🧠 Design Methodology / Architecture
+
+### 🔧 Full Code Mechanical Design（コード駆動型機械設計）
+
+**機械設計を、GUI操作ではなく「実行可能なコード」として定義する設計方法論**。
+
+このプロジェクトでは、CAD を作図ツールではなく  
+**設計ロジックを実行するエンジン**として扱います。
+
+- 幾何形状は Python コードによって生成される  
+- 寸法・配置は「設計意図」として明示的に記述される  
+- アセンブリは制約解決ではなく、**配置（placement）で定義**される  
+- CAD ファイル（FCStd / STEP 等）は成果物ではなく **副生成物**とみなす  
+
+この方法論により、機械設計は  
+**再現可能・レビュー可能・自動化可能**となり、  
+FSM や AITL などの **上位設計ロジックと直接接続**できます。
+
+👉 **Full Code Mechanical Design は、  
+Samizo-AITL における「機械設計側の基盤方法論」です。**
+
+[![Project Page](https://img.shields.io/badge/View-Full%20Code%20Mechanical%20Design-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
+
+----
+
 ## 📝 Essays / Design Philosophy (Zenn)
 
 **設計思想・物理起点工学・AITL構造に関する考察記事は Zenn に集約しています。**
