@@ -535,6 +535,32 @@ Independent Semiconductor Researcher
 
 ---
 
+## 🔐 License & Terms of Use (Hybrid Model)
+
+This portal adopts a **hybrid licensing model**.
+
+| 📌 Item | License | Description |
+|--------|---------|-------------|
+| **💻 Source Code** | **MIT License** | Free to use, modify, and redistribute |
+| **📄 Text Materials** | **CC BY 4.0** or **CC BY-SA 4.0** | Attribution required; share-alike applies for BY-SA |
+| **📊 Figures & Diagrams** | **CC BY-NC 4.0** | Non-commercial use only |
+| **🔗 External References** | Follow the original license | Cite the original source properly |
+
+### ⚠️ Important Note on AITL Architecture and Methodology
+
+The licenses above apply to **individual materials**  
+(source code, text materials, figures, and diagrams) respectively.
+
+The **AITL architecture and methodology as an integrated system**  
+(FSM × PID × LLM layered control design and its associated educational framework)  
+are **not granted** by the above licenses.
+
+🚫 **Systematic reuse, redistribution, or commercial application**  
+of the AITL methodology or its complete educational structure  
+requires **explicit permission from the project authors**.
+
+---
+
 # 💬 Technical Discussion / Consultation
 
 [![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
