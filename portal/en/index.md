@@ -535,7 +535,7 @@ Independent Semiconductor Researcher
 
 ---
 
-## 🔐 License & Terms of Use (Hybrid Model)
+# 🔐 License & Terms of Use (Hybrid Model)
 
 This portal adopts a **hybrid licensing model**.
 
@@ -546,7 +546,7 @@ This portal adopts a **hybrid licensing model**.
 | **📊 Figures & Diagrams** | **CC BY-NC 4.0** | Non-commercial use only |
 | **🔗 External References** | Follow the original license | Cite the original source properly |
 
-### ⚠️ Important Note on AITL Architecture and Methodology
+## ⚠️ Important Note on AITL Architecture and Methodology
 
 The licenses above apply to **individual materials**  
 (source code, text materials, figures, and diagrams) respectively.
