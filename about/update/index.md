@@ -23,6 +23,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2026-01-06 | **ライセンス体系の明確化および Full Code Mechanical Design をポータルに追加。**<br>・ポータル全体の利用条件をハイブリッドライセンス方式として整理（コード／教材テキスト／図表の区分を明示）<br>・設計方法論プロジェクト **Full Code Mechanical Design** を「Design Methodology / Architecture」レイヤとしてポータルに統合<br>・教材ではなく、AITL を下支えする機械設計側の基盤方法論として位置づけを固定 |
 | 2026-01-05 | **▶ インタラクティブ検証（設計者向け Playground）を追加。**<br>・設計者がモデル・制御構造・設計パラメータを対話的に検証するための検証エリアを新設<br>・教材閲覧に留まらず、「試す・比較する・考察する」ための設計者向け思考実験環境を提供<br>・AITL（PID × FSM × LLM）構造における Design-time 検証・理解深化を目的とした Playground として位置づけ |
 | 2026-01-03 | **SystemDK に熱・応力・ノイズ（SI/PI, 熱, 応力, EMI/EMC）の物理制約設計対応を追加。** |
 | 2026-01-01 | **Control Architecture Concepts（Envelope Control / Design Recovery Control）をポータルに追加。**<br>・Runtime（運用）と Design-time（設計）を分離する制御アーキテクチャ概念として両者を明示<br>・Envelope Control：不確実性下での安全運転範囲（Envelope）を実行時に拘束<br>・Design Recovery Control：破綻した制御設計前提を非実時間で回復<br>・両概念を補完関係（非代替）として定義し、AITL（PID × FSM × LLM）構造との関係を固定化 |
