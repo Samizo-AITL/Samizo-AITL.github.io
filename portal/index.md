@@ -508,6 +508,8 @@ AITL制御の**中核**である**PID × FSM × LLM の三層構造**が、時�
 
 # 🔐 利用条件とライセンスについて（ハイブリッド方式）
 
+[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/portal/#-利用条件とライセンスについて（ハイブリッド方式）)
+
 本ポータルは **ハイブリッドライセンス方式**を採用しています。
 
 | 📌 項目 | ライセンス | 説明 |
