@@ -107,6 +107,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | Project | Page | Repo |
 |---|---|---|
 | Rekiden | 🔗 [Open](https://samizo-aitl.github.io/Rekiden/) | 🔧 [Repo](https://github.com/Samizo-AITL/Rekiden) |
+| RekidenII | 🔗 [Open](https://samizo-aitl.github.io/rekiden-ii/) | 🔧 [Repo](https://github.com/Samizo-AITL/rekiden-ii) |
 
 ---
 
