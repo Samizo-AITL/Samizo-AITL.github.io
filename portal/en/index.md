@@ -581,6 +581,25 @@ This demo visualizes how the **core AITL control architecture**
 
 ---
 
+## 📄 Related Manuscript (Preprint)
+
+The design philosophy and structural architecture of **Samizo-AITL**  
+are systematically described in the following **manuscript (preprint)**.
+
+**A Web-Based Design Knowledge Hub for Reusable Engineering Education**  
+Shinichi Samizo
+
+👉 **[Read the manuscript (PDF)](/assets/paper/2026_fie_pdh_portal.pdf)**
+
+> This manuscript presents a physical-first design knowledge architecture  
+> that integrates devices, control theory, and intelligent systems  
+> through a unified causal structure.
+>
+> *This document is a preprint and has not yet been formally published  
+> or presented at any academic conference.*
+
+---
+
 # 🕘 Update Log
 Chronological record of site and repository updates.
 
