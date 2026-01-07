@@ -581,7 +581,7 @@ This demo visualizes how the **core AITL control architecture**
 
 ---
 
-## 📄 Related Manuscript (Preprint)
+# 📄 Related Manuscript (Preprint)
 
 The design philosophy and structural architecture of **Samizo-AITL**  
 are systematically described in the following **manuscript (preprint)**.
