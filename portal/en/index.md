@@ -30,23 +30,6 @@ the **design philosophy and overall concept of Samizo-AITL**.
 
 ---
 
-## 📄 Related Publication
-
-The architectural philosophy and structural concepts behind  
-**Samizo-AITL** are formally presented in the following peer-reviewed paper.
-
-**A Web-Based Design Knowledge Hub for Reusable Engineering Education**  
-Shinichi Samizo  
-*IEEE Frontiers in Education Conference (FIE), 2026*
-
-👉 **[Read the paper (PDF)](/assets/paper/2026_fie_pdh_portal.pdf)**
-
-> This paper introduces a physical-first, reusable design knowledge architecture  
-> that connects devices, control theory, and intelligent systems  
-> through a unified causal structure.
-
----
-
 ## 🚀 What This Portal Provides
 
 **Samizo-AITL** is not a collection of isolated tutorials.  
