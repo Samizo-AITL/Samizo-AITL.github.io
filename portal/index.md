@@ -30,6 +30,23 @@ Samizo-AITL の **設計思想と全体構造** を、
 
 ---
 
+## 📄 Related Publication（設計思想の背景）
+
+本ポータルの設計思想・アーキテクチャは、  
+以下の国際会議論文で体系的に整理されています。
+
+**A Web-Based Design Knowledge Hub for Reusable Engineering Education**  
+Shinichi Samizo  
+IEEE Frontiers in Education Conference (FIE), 2026  
+
+👉 [PDFを読む](/assets/paper/2026_fie_pdh_portal.pdf)
+
+> 本論文では、Samizo-AITL における  
+> *物理 → デバイス → 制御 → 知能化* を貫く  
+> 再利用可能な設計知識アーキテクチャを提案しています。
+
+----
+
 ## 🚀 What You Can Gain from This Portal
 
 **Samizo-AITL** は、  
