@@ -394,6 +394,41 @@ V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教�
 
 ---
 
+### 論理検証と物理実装の対応（OpenLane v1）
+
+本教材では、**V–I 制御ロジック（PID + FSM）**について、  
+RTL レベルでの機能検証から **OpenLane v1 による物理実装**までを  
+一貫したフローとして示しています。
+
+まず論理動作を確認し、その後に物理実装へ進むことで、  
+**制御理論が ASIC 上でどのように具現化されるか**を明確にします。
+
+---
+
+#### 論理検証（GTKWave）
+
+<img src="https://samizo-aitl.github.io/vi-control-asic-sky130/docs/assets/images/openlane/tb_vi_control_fsm_01.png" width="80%">
+
+*GTKWave による RTL レベルの機能検証。  
+PID + FSM による制御動作が仕様通りであることを確認。  
+マクロ内部はブラックボックスとして扱い、制御インタフェースの妥当性に注目しています。*
+
+---
+
+#### 物理実装（OpenLane v1）
+
+<img src="https://samizo-aitl.github.io/vi-control-asic-sky130/docs/assets/images/openlane/spm_layout_overview.png" width="80%">
+
+*OpenLane v1 による標準セル配置・配線のスナップショット。  
+最終成果物ではなく、設計フロー確認を目的とした途中状態の図です。*
+
+---
+
+※ 本教材では **OpenLane v1 を用いて RTL→GDS の一貫フロー成立を実証**しています。  
+マクロ対応を含む発展的な物理設計例は、**OpenLane v2 を用いた別教材**で扱います。
+
+---
+
 # ⚙️ MEMS / Physical Boundary
 
 ---
