@@ -65,9 +65,7 @@ description: "制御・半導体・インクジェット・教育を貫く技術
 
 ---
 
-**🔒 Career Technical Archive（Private / Non-Public）**  
-量産立上げ・不良対応・BCP・緊急変更など、  
-製造を成立させ続けるために行ってきた  
+## 🔒 Career Technical Archive（Private / Non-Public)  
 技術判断・設計資料・実務記録の個人用アーカイブ。
 
 - 本人管理の **非公開リポジトリ**
