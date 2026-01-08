@@ -63,7 +63,14 @@
   let ePrev = 0.0;  // previous error
   let uOut = 0.0;   // control output (0..1)
 
-  // Rule-based "design-time intelligence"
+  // =========================================================
+  // Offline design-time diagnostics state
+  // NOTE:
+  // This is NOT an LLM and NOT real-time intelligence.
+  // It represents a rule-based, offline interpretation of
+  // logged behavior, equivalent to what a design-time LLM
+  // *could* comment on after observing the data.
+  // =========================================================
   let lastCommentAt = -1e9;
 
   // =========================================================
@@ -108,7 +115,7 @@
   }
 
   // =========================================================
-  // Plant + Controller
+  // Plant + Controller (runtime)
   // =========================================================
   function step() {
     const mode = ui.mode.value;
@@ -171,13 +178,14 @@
     ui.uRead.textContent  = uOut.toFixed(3);
     ui.eRead.textContent  = e.toFixed(3);
 
-    // Design-time diagnostics
+    // Offline design-time diagnostics (rule-based example)
     maybeComment(mode, kp, ki, kd);
     t += dt;
   }
 
   // =========================================================
-  // Rule-based diagnostics ("LLM-like")
+  // Rule-based diagnostics (offline, design-time example)
+  // This function does NOT influence control.
   // =========================================================
   function maybeComment(mode, kp, ki, kd) {
     const windowSec = 1.2;
@@ -208,10 +216,10 @@
     if (mode !== "TRACK") {
       lastCommentAt = t;
       if (mode === "HOLD") {
-        pushLog("🤖 HOLD mode active. If a bump appears when returning, increasing Kd may improve damping.");
+        pushLog("HOLD mode active. If a bump appears when returning, increasing Kd may improve damping.");
       }
       if (mode === "MANUAL") {
-        pushLog("🤖 MANUAL mode active. Reduce Ki before returning to TRACK to avoid integrator windup.");
+        pushLog("MANUAL mode active. Reduce Ki before returning to TRACK to avoid integrator windup.");
       }
       return;
     }
@@ -219,29 +227,29 @@
     if (flips >= 6) {
       lastCommentAt = t;
       if (kd < 0.05) {
-        pushLog("🤖 Oscillatory behavior detected. Derivative gain (Kd) may be too small.");
+        pushLog("Oscillatory behavior detected. Derivative gain (Kd) may be too small.");
       } else {
-        pushLog("🤖 Oscillation detected. Integral gain may be excessive, or Kp may be too large.");
+        pushLog("Oscillation detected. Integral gain may be excessive, or Kp may be too large.");
       }
       return;
     }
 
     if (Math.abs(meanE) > 0.08 && ki < 0.1) {
       lastCommentAt = t;
-      pushLog("🤖 Steady-state error remains. Integral action (Ki) is insufficient.");
+      pushLog("Steady-state error remains. Integral action (Ki) is insufficient.");
       return;
     }
 
     if (Math.abs(meanE) > 0.05 && flips <= 2 && kp < 1.0) {
       lastCommentAt = t;
-      pushLog("🤖 Response is sluggish. Increasing proportional gain (Kp) may improve tracking.");
+      pushLog("Response is sluggish. Increasing proportional gain (Kp) may improve tracking.");
       return;
     }
 
     const spNow = Number(ui.sp.value);
     if (meanPV > spNow + 0.05 && ki > 0.4) {
       lastCommentAt = t;
-      pushLog("🤖 Overshoot observed. Consider reducing Ki or increasing Kd.");
+      pushLog("Overshoot observed. Consider reducing Ki or increasing Kd.");
       return;
     }
   }
