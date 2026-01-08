@@ -98,12 +98,17 @@ flowchart TB
 AITL（Architecture for Integrated Technology Logic）は、  
 次の **三層構造**で設計されています。
 
-- **内側**：物理・デバイス・MEMS  
-  → 制約・限界を決める層  
-- **中間**：モデル・制御理論（PID）  
+- **内側（Physical Layer）**：物理・デバイス・MEMS  
+  → 制約・限界・不確実性を決める層  
+
+- **中間（Control Layer）**：モデル・制御理論（PID）  
   → 振る舞いと安定性を決める層  
-- **外側**：FSM / LLM  
-  → 判断・再設計・適応を行う層  
+
+- **外側（Supervisory & Design Layer）**：FSM / NN・RL / LLM  
+  →  
+  - FSM：判断・状態遷移・介入許可を行う  
+  - NN / RL：FSM によって許可された範囲での **実時間適応補助（bounded）**  
+  - LLM：非実時間での **意味解釈・再設計支援**
 
 **物理モデルを正しく使い切るための知能化**  
 ――それが AITL の目的です。
