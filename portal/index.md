@@ -337,9 +337,11 @@ PID × FSM × LLM **三層構造（AITL）の最小構成 PoC**。
 
 - PID：実時間制御のみを担当
 - FSM：劣化検出・状態遷移を担当
-- LLM：FSMに呼ばれた場合のみ介入し、設計（ゲイン）を更新
+- LLM：FSMに呼ばれた場合のみ介入し、設計（ゲイン）を更新  
 
 👉 **LLMが制御を置き換えないことを示す最小実証。**
+
+- **AITL Controller (A-Type) ― 公式アーキテクチャ定義および信頼性境界仕様**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
