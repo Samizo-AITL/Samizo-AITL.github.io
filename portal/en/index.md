@@ -122,20 +122,21 @@ is designed as the following **three-layer architecture**.
 
 ```text
 Samizo-AITL/
-├─ 01_DevEnv/        Environment & reproducibility
-│   └─ VSCode / Python / Toolchain
+├─ 01_DevEnv/        Environment & Reproducibility
+│                   (VSCode / Python / Toolchain)
 │
-├─ 02_CodeGen/       Implementation, control, and generation
+├─ 02_CodeGen/       Implementation & Control
 │   ├─ PID           Real-time control (stability, V–I control)
-│   ├─ FSM           State transitions and supervisory logic
-│   └─ LLM           Supervision and redesign (non–real-time)
+│   ├─ FSM           Supervision, state transitions, mode management
+│   ├─ NN_RL         Bounded real-time adaptive assistance
+│   └─ LLM           Design supervision & redesign (non-real-time)
 │
-├─ 03_Docs/          Documentation, education, design philosophy
+├─ 03_Docs/          Understanding, Education, Design Philosophy
 │   ├─ Edusemi-v4x
 │   ├─ EduController
 │   └─ Edusemi-Plus
 │
-└─ 04_Archives/      PoCs, history, and technical assets
+└─ 04_Archives/      PoC, history, design assets
 ```
 
 **Recommended entry order**:  
