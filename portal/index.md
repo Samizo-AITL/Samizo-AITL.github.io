@@ -333,13 +333,37 @@ PID・FSM を中心に、**制御系の構造そのものを理解するため�
 ---
 
 ## 6️⃣ AITL-Controller-A-Type
-PID × FSM × LLM **三層構造（AITL）の最小構成 PoC**。
 
-- PID：実時間制御のみを担当
-- FSM：劣化検出・状態遷移を担当
-- LLM：FSMに呼ばれた場合のみ介入し、設計（ゲイン）を更新  
+PID × FSM を **実時間制御の中核**とし、  
+NN / RL を **制限付きの実時間適応補助層**、  
+LLM を **非実時間の設計支援層**として分離した  
+**AITL アーキテクチャ（A-Type）の最小構成 PoC**です。
 
-👉 **LLMが制御を置き換えないことを示す最小実証。**
+本 PoC の目的は、  
+**適応・知能を導入しても制御責任を壊さない構造**を  
+最小構成で実証することにあります。
+
+- **PID**：  
+  実時間制御のみを担当し、  
+  安定性と基本性能を保証する
+
+- **FSM**：  
+  劣化検出・状態遷移・モード管理を担当し、  
+  **適応を許可するかどうかの最終判断権**を持つ
+
+- **NN / RL**：  
+  FSM によって許可された場合のみ、  
+  実時間で **限定的（bounded）な補助項**として介入  
+  （PID 制御を置き換えない）
+
+- **LLM**：  
+  実時間制御には **一切関与せず**、  
+  ログ解析・信頼性評価を通じて  
+  **設計レベル（ゲイン・制御方針）の再検討を支援**する  
+  非実時間の設計支援層
+
+👉 **LLM が制御を置き換えないこと、  
+👉 NN / RL も PID を置き換えないことを示す最小実証。**
 
 - **AITL Controller (A-Type) ― 公式アーキテクチャ定義および信頼性境界仕様**
 
@@ -349,11 +373,12 @@ PID × FSM × LLM **三層構造（AITL）の最小構成 PoC**。
 <figure style="text-align:center; margin:2rem auto;">
   <img
     src="https://samizo-aitl.github.io/aitl-controller-a-type/data/aitl_full_demo_ideal.png"
-    alt="AITL System Response (PID controlled, FSM supervised, LLM triggered)"
+    alt="AITL System Response (PID controlled, FSM supervised, adaptive assist bounded, design updated offline)"
     style="width:60%; max-width:100%;"
   />
   <figcaption style="font-size:0.9rem; color:#555; margin-top:0.5rem;">
-    外乱下における AITL 応答（制御：PID／監督：FSM／再設計：LLM）
+    外乱下における AITL 応答  
+    （制御：PID／監督：FSM／適応補助：NN・RL（制限付き）／再設計：非実時間 LLM）
   </figcaption>
 </figure>
 
@@ -362,11 +387,11 @@ PID × FSM × LLM **三層構造（AITL）の最小構成 PoC**。
 ### ▶ インタラクティブ検証（設計者向け Playground）
 
 上図は、  
-**AITL（三層構造：PID × FSM × LLM）** に基づく  
+**AITL（実時間制御：PID × FSM × NN/RL／設計支援：LLM）** に基づく  
 **理想化された応答結果（ログ・解析ベース）**を示しています。
 
-この三層分離が **なぜ必要か**、  
-また **どこで破綻し、どこで回復するのか**を  
+この責務分離が **なぜ必要か**、  
+また **どこで適応を止め、設計判断に戻るべきか**を  
 実際に操作しながら確認したい場合は、  
 以下のインタラクティブ Playground を参照してください。
 
@@ -375,10 +400,12 @@ PID × FSM × LLM **三層構造（AITL）の最小構成 PoC**。
 
 - PID ゲインを変更し、安定性・発振・収束を観察
 - FSM のモード切替（TRACK / HOLD / MANUAL）を体験
-- どの条件で **設計レベルの再検討（LLM相当）が必要になるか**を可視化
+- **どの条件で実時間適応（NN / RL）を止め、  
+  設計レベルの再検討（LLM 相当）に戻るべきか**を可視化
 
-> 本ページでは、AITL の**最小構成と因果構造の明確化**を優先するため、  
-> 操作可能なデモはあえて別ページとして分離しています。
+> 本ページでは、AITL の  
+> **最小構成・責務分離・因果関係の明確化**を優先するため、  
+> 操作可能なデモは別ページとして分離しています。
 
 ---
 
