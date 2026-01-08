@@ -6,6 +6,9 @@ description: Architecture for Integrated Technology Logic — a physical-first e
 
 # 🎓 Samizo-AITL Portal
 
+**A physical-first engineering archive  
+that explains *why* systems can be designed the way they are.**
+
 [![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
 
 ---
@@ -13,19 +16,20 @@ description: Architecture for Integrated Technology Logic — a physical-first e
 ## 🧭 What this is
 **AITL (Architecture for Integrated Technology Logic)** is a  
 **physical-first engineering archive** that integrates  
-devices, control, and intelligence  
+physics, devices, control, and intelligence  
 through a **single causal structure**.
 
 Rather than collecting isolated techniques,  
-this portal focuses on **why systems can be designed the way they are**  
-by organizing engineering knowledge as causal relationships.
+this portal focuses on **why systems behave and are designed as they are**,  
+by organizing engineering knowledge as explicit causal relationships  
+between physical quantities, control logic, and design decisions.
 
 ---
 
 ## 👤 Who this is for
 - **Engineers in semiconductors, MEMS, control, and AI**
-- Those who care about **why systems behave as they do**, not just implementation
-- People interested in **design-oriented, cross-domain thinking**
+- Those who care about **design rationale**, not just implementation details
+- People interested in **cross-domain, design-oriented thinking**
 
 ---
 
@@ -38,10 +42,20 @@ Choose an entry point based on your interest.
 
 - ▶ ⚙️ **Semiconductor-first path**  
   → [/Edusemi-v4x/en/](/Edusemi-v4x/en/)  
-  *Physics-, process-, and device-oriented design*
+  *Physics-, process-, and device-oriented design logic*
 
 - ▶ 🤖 **Control & AI path**  
   → [/EduController/en/](/EduController/en/)  
-  *Roles of PID, FSM, and LLM in system architectures  
-  (AI does **not** operate in real-time control loops)*
+  *Control architectures with clear role separation  
+  between PID, FSM, and AI-based reasoning*
 
+---
+
+## 📌 Notes
+This portal is intended as:
+- a technical knowledge archive,
+- a design explanation resource,
+- and a cross-domain reference for engineers.
+
+All materials are written with **practical engineering explanation, design review,  
+and technical education** in mind.
