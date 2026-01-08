@@ -124,9 +124,10 @@ Samizo-AITL/
 ├─ 01_DevEnv/        環境・再現性（VSCode / Python / Toolchain）
 │
 ├─ 02_CodeGen/       実装・制御・生成
-│   ├─ PID           実時間制御（安定化・V–I 制御）
-│   ├─ FSM           状態遷移・モード管理
-│   └─ LLM           監督・再設計（非実時間）
+│   ├─ PID           実時間制御（安定性・V–I 制御）
+│   ├─ FSM           監督・状態遷移・モード管理
+│   ├─ NN_RL         制限付き実時間適応補助（FSM許可下）
+│   └─ LLM           設計監督・再設計支援（非実時間）
 │
 ├─ 03_Docs/          理解・教育・設計思想
 │   ├─ Edusemi-v4x
