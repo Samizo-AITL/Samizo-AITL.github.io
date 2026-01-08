@@ -4,19 +4,53 @@ title: AITL Control Playground
 permalink: /playground/
 ---
 
-# 🎮 AITL Control Playground (PID × FSM)
+# 🎮 AITL Control Playground (PID × FSM Runtime)
 
 [![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/aitl-controller-a-type//#-license)
 
-- **Plant**: 1st-order lag system  
-- **Controller**: Discrete-time PID  
-- **FSM**: TRACK / HOLD / MANUAL  
+This playground provides an **interactive exploration of runtime control behavior**
+based on the **PID × FSM core of the AITL architecture**.
 
-> **How to start:**  
-> Begin with **Kp = 2.0, Ki = 0.6, Kd = 0.1**.  
-> Increasing **Ki** introduces excessive integral action,  
-> often leading to oscillation or instability.  
-> This behavior intentionally illustrates a common control failure mode.
+This page is intentionally limited to **runtime execution and supervision**.
+It does **not** implement adaptive learning or design intelligence in real time.
+
+---
+
+## Scope and Assumptions
+
+- **Plant**: 1st-order lag system  
+- **Controller (runtime)**: Discrete-time PID  
+- **Supervisor (runtime)**: FSM with explicit modes  
+  - TRACK  
+  - HOLD  
+  - MANUAL  
+
+> **Architectural Scope Note**  
+> This playground demonstrates **only the runtime layer** of AITL  
+> (PID × FSM).
+>
+> Any references below to “diagnostics”, “analysis”, or “design comments”
+> represent **offline, design-time interpretation of logged behavior**.
+>  
+> No LLM, NN, or RL component participates in real-time control on this page.
+
+---
+
+## How to Start (Recommended Baseline)
+
+Begin with the following initial gains:
+
+- **Kp = 2.0**
+- **Ki = 0.6**
+- **Kd = 0.1**
+
+Increasing **Ki** introduces excessive integral action,
+often leading to oscillation or instability.
+
+This behavior is **intentional** and illustrates a common
+real-world control failure mode.
+
+---
 
 <div id="aitl-ui" style="max-width: 980px; margin: 16px 0; padding: 16px; border: 1px solid #ddd; border-radius: 12px;">
   <div style="display:flex; flex-wrap:wrap; gap:16px; align-items:flex-start;">
@@ -94,7 +128,7 @@ permalink: /playground/
       </div>
 
       <details style="margin-top: 10px;">
-        <summary>Design-time diagnostic comments (rule-based)</summary>
+        <summary>Design-time diagnostic comments (offline, rule-based example)</summary>
         <ul id="llm-log" style="margin-top:8px;"></ul>
       </details>
     </div>
