@@ -75,7 +75,7 @@ and organizing it into reusable and structured forms.”**
 
 ---
 
-**🔒 Career Technical Archive (Private / Non-Public)**  
+## 🔒 Career Technical Archive (Private / Non-Public) 
 A personal archive containing technical judgments, design documents,  
 and practical records related to mass production ramp-up,  
 failure response, BCP, and emergency change management.
