@@ -90,7 +90,8 @@ flowchart TB
   M --> C[Control Theory]
   C --> R[Real-time PID Loop]
   R --> S[FSM Supervisor]
-  S --> I[LLM Intelligence]
+  S --> A[Adaptive Assist<br/>(NN / RL, bounded)]
+  S --> I[LLM Intelligence<br/>(Design-time)]
 ```
 ※ LLM is used only at design-time for explanation and redesign, and does not intervene in real-time control.
 
