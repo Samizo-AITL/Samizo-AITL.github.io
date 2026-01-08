@@ -1,74 +1,88 @@
 ---
 layout: default
 title: "Career Summary"
-description: "Cross-disciplinary career summary in semiconductors, control, inkjet, and education"
+description: "Technical career summary spanning control, semiconductors, inkjet, and education"
 ---
 
 # 🛠️ Career Summary
 
-Shinichi Samizo is an engineer whose career spans  
-**control theory, semiconductor devices, thin-film piezoelectric actuators, and industrial inkjet systems**,  
-with a consistent focus on **translating physical principles into practical systems and educational frameworks**.
+This page provides a concise summary of a technical career  
+that started with **control theory and electromagnetic field analysis**,  
+and expanded through **semiconductor devices, MEMS, and industrial inkjet product development**.
 
-His work evolves along a clear trajectory:  
-**physics → devices → systems → education**.
+Although the fields involved are diverse, the consistent underlying principle is:
+
+**“Understanding physics, translating it into mechanisms,  
+and organizing it into reusable and structured forms.”**
 
 ---
 
-## 📘 Career Overview
+## 📘 Career Overview (Summary)
 
 ### ⚡ Control & Electromagnetic Analysis (–1997)
-- Control system design using **MATLAB / Simulink**
-- Graduate research in **electromagnetic field analysis**
-- Early experience with thin-film magnetic and on-chip passive structures
+- Control system design using MATLAB / Simulink
+- Graduate-level research in electromagnetic field analysis
+- Analysis of thin-film magnetic materials and on-chip passive components
 
 ---
 
 ### 💾 Semiconductor Device Development (1997–2006)
-- Joined **Seiko Epson Corporation** in 1997
-- Worked on **logic, memory, and high-voltage CMOS process integration**  
-  (0.35–0.18 µm technology nodes)
-- Participated in **DRAM and VSRAM production ramp-up**, including
-  process setup, defect analysis, and yield improvement
-- Developed **embedded high-voltage CMOS technology**, later applied to
-  a-TFT driver IC products
+- Process integration for logic, memory, and high-voltage CMOS  
+  in the 0.35–0.18 µm technology generations
+- DRAM and VSRAM mass production ramp-up, yield improvement, and failure analysis
+- Development and practical deployment of high-voltage mixed CMOS  
+  for a-TFT driver IC applications
 
 ---
 
-### 🎛️ Piezoelectric Materials & Actuators (2007–2012)
-- Transitioned from **PZT process evaluation for FeRAM** to
-  thin-film piezoelectric actuator development
-- Contributed to **structural analysis, reliability evaluation, and defect mitigation**
-- Helped establish the technological foundation of **PrecisionCore** printhead actuators
+### 🎛️ Thin-Film Piezoelectric Actuators (2007–2012)
+- Expansion from FeRAM PZT process evaluation  
+  to thin-film piezoelectric actuator development
+- Structural analysis, reliability evaluation, and defect countermeasures  
+  for mass-production readiness
+- Contribution to the foundation of PrecisionCore technology
 
 ---
 
-### 🖨️ PrecisionCore Commercialization & Technical Education (2012–)
-- Led **driver IC integration and COF implementation** for PrecisionCore printheads
-- Responsible for execution from **development to mass production**
-- Promoted **BOM management, ISO-based training, and knowledge transfer**
-  as structured educational content
+### 🖨️ PrecisionCore Productization & Technical Education (2012– )
+- Mass production deployment of PrecisionCore printheads,  
+  focusing on COF driver IC implementation and electrical design
+- Responsibility for quality, parts management, and scheduling  
+  from development through mass production
+- Development and organization-wide deployment of educational materials  
+  covering BOM operation, ISO concepts, and technical knowledge transfer
 
 ---
 
 ## 🎯 Current Activities
-- Developing and maintaining **open educational resources** covering
-  semiconductors, control, and inkjet systems
-- Operating the **Samizo-AITL portal** as an integrated technical learning platform
-- Using AI and LLMs **as design-support and knowledge-structuring tools**,  
-  not as replacements for established engineering methods
+- Development of structured educational content  
+  spanning semiconductors, control systems, and inkjet technologies
+- Operation and maintenance of open educational resources such as  
+  Edusemi, SemiDevKit, and EduController
+- Use of AI and LLMs **not as replacements for design or control**,  
+  but as tools to support thinking, structuring, and design assistance
 
 ---
 
 > ⚠️ **Note**  
-> All process descriptions are based on **conceptual and educational models**  
-> and do not reflect confidential manufacturing information.
+> The technical content on this page is abstracted for educational  
+> and organizational purposes and does not represent actual manufacturing  
+> flows, numerical conditions, or confidential information.
 
 ---
 
-**🔒 [mcont (Manufacturing Continuity Archive / Private)](https://github.com/Samizo-AITL/mcont)**  
-A private personal archive documenting engineering decisions and practical cases  
-focused on maintaining manufacturing continuity, including production ramp-up,  
-failure mitigation, BCP, and emergency change management.  
-*Currently private; may be reorganized into a public-facing summary in the future.*
+**🔗 [Japanese Version › 経験要約 / Career Summary](../)**
 
+---
+
+**🔒 Career Technical Archive (Private / Non-Public)**  
+A personal archive containing technical judgments, design documents,  
+and practical records related to mass production ramp-up,  
+failure response, BCP, and emergency change management.
+
+- Privately managed repository
+- Not intended for public access or sharing
+- Used solely for education, organization, and personal reference
+
+▶︎ **Private Repository (Access Restricted)**  
+https://github.com/Samizo-AITL/career-technical-archive
