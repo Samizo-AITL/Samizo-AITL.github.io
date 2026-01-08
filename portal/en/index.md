@@ -99,14 +99,20 @@ flowchart TB
 ```
 ※ LLM operates only at design-time for analysis and redesign, and does not intervene in real-time control.
 
-### Architectural Positioning
+AITL (Architecture for Integrated Technology Logic)  
+is designed as the following **three-layer architecture**.
 
-- **Inner layers**: Physics, devices, MEMS (constraint-defining layers)  
-- **Middle layers**: Modeling and classical control theory  
-- **Outer layers**: Intelligence, supervision, and redesign  
+- **Inner Layer (Physical Layer)**: Physics, Devices, MEMS  
+  → Defines physical constraints, limits, and inherent uncertainties  
 
-LLMs are explicitly placed **outside the real-time control loop**,  
-supporting diagnosis, analysis, and redesign.
+- **Middle Layer (Control Layer)**: Models and Control Theory (PID)  
+  → Determines system behavior and real-time stability  
+
+- **Outer Layer (Supervisory & Design Layer)**: FSM / NN-RL / LLM  
+  →  
+  - **FSM**: Performs supervision, state transitions, and authorization of intervention  
+  - **NN / RL**: Provides **bounded real-time adaptive assistance**, only when permitted by the FSM  
+  - **LLM**: Supports **non-real-time interpretation, analysis, and design-level redesign**
 
 ---
 
