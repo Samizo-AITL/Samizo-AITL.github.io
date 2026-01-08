@@ -121,7 +121,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ## 🔒 Private / Archive（Repo Only）
 
-- 🔧 [mcont](https://github.com/Samizo-AITL/mcont)
+- 🔧 [career-technical-archive](https://github.com/Samizo-AITL/career-technical-archive)
 - 🔧 [AITL](https://github.com/Samizo-AITL/AITL)
 - 🔧 [Private](https://github.com/Samizo-AITL/Private)
 
