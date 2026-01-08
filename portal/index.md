@@ -86,12 +86,12 @@ Samizo-AITL は、次のような方を想定しています。
 
 ```mermaid
 flowchart TB
-  P[Physical / Devices / MEMS] --> M[Models]
-  M --> C[Control Theory]
-  C --> R[Real-time PID Loop]
-  R --> S[FSM Supervisor]
-  S --> A[Adaptive Assist (NN-RL, bounded)]
-  S --> I[LLM Intelligence (Design-time)]
+  P["Physical / Devices / MEMS"] --> M["Models"]
+  M --> C["Control Theory"]
+  C --> R["Real-time PID Loop"]
+  R --> S["FSM Supervisor"]
+  S --> A["Adaptive Assist (NN-RL, bounded)"]
+  S --> I["LLM Intelligence (Design-time)"]
 ```
 ※ LLM is used only at design-time for explanation and redesign, and does not intervene in real-time control.
 
