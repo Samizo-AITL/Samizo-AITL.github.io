@@ -363,16 +363,20 @@ An educational resource focused on **control fundamentals**:
 ---
 
 ## 6️⃣ AITL-Controller-A-Type
-A **minimal experimental controller** implemented in Python to explore:
 
-- Separation of control (PID)  
-- Supervision and decision logic (FSM)  
-- Redesign and analysis support (LLM)
+A **minimal experimental controller** implemented in Python to explore
+a strict **separation of responsibilities** in control system design:
 
-This project is a **thinking framework**,  
-not a proposal for a new control algorithm.
+- **Control execution** (PID)  
+- **Supervision and decision logic** (FSM)  
+- **Limited real-time adaptive assistance** (NN / RL, bounded and optional)  
+- **Redesign and analysis support** (LLM, design-time only)
 
-- **AITL Controller (A-Type) — Official Architecture & Reliability Specification**  
+This project is a **thinking framework** for control architecture design,  
+**not** a proposal for a new control algorithm  
+and **not** an autonomous control system.
+
+- **AITL Controller (A-Type) — Official Architecture & Reliability Specification**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-controller-a-type/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-controller-a-type)
@@ -380,12 +384,14 @@ not a proposal for a new control algorithm.
 <figure style="text-align:center; margin:2rem auto;">
   <img
     src="https://samizo-aitl.github.io/aitl-controller-a-type/data/aitl_full_demo_ideal.png"
-    alt="AITL system response under disturbance (PID-controlled, FSM-supervised, LLM-triggered)"
+    alt="AITL system response under disturbance (PID-controlled, FSM-supervised, bounded adaptive assist, design updated offline)"
     style="width:60%; max-width:100%;"
   />
   <figcaption style="font-size:0.9rem; color:#555; margin-top:0.5rem;">
-    System response under disturbance: control by PID, supervision by FSM,
-    and redesign triggered by LLM only when required.
+    System response under disturbance:  
+    control by PID, supervision by FSM,  
+    bounded adaptive assistance when permitted,  
+    and design-time redesign triggered by LLM only when required.
   </figcaption>
 </figure>
 
@@ -393,21 +399,23 @@ not a proposal for a new control algorithm.
 
 ### ▶ Interactive Verification (Design-Side Playground)
 
-The figure above shows an **idealized AITL response**  
-based on logged simulation results.
+The figure above shows an **idealized AITL response**,  
+derived from logged simulation and analysis results.
 
-For hands-on exploration of **why this three-layer separation is necessary**,  
-use the interactive playground below.
+For hands-on exploration of **why this layered separation is necessary**,  
+and **where adaptation must stop and design reconsideration begins**,  
+please refer to the interactive playground below.
 
-👉 **AITL Control Playground（Interactive）**  
+👉 **AITL Control Playground (Interactive)**  
 🔗 [/playground/](/playground/)
 
-- Tune PID gains and observe instability
+- Tune PID gains and observe stability, oscillation, and recovery
 - Switch FSM modes (TRACK / HOLD / MANUAL)
-- See when and why design-time intelligence would be invoked
+- Observe **when bounded real-time adaptation is insufficient**
+- See **when and why design-time intelligence (LLM-equivalent) would be invoked**
 
 > This playground is intentionally separated from this PoC page  
-> to preserve the clarity of the minimal AITL structure.
+> to preserve the clarity of the **minimal AITL structure and responsibility separation**.
 
 ---
 
