@@ -516,16 +516,22 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 11. Inkjet Driver IC — Physical Interface Abstraction
-インクジェット駆動ICが **MEMS / 流体世界と接続する境界条件**を、
-回路・レイアウト視点で整理するための設計抽象モデル。
+## Inkjet Driver IC — Physical Interface Abstraction
 
-- MEMS・流体モデルから **ICが受け取るべき等価負荷の定義**
-- 電圧・電流・時間条件の **IC側制約への翻訳**
-- 抽象モデルと実レイアウト（HV MOS, 配線, パッド）の対応関係整理
-- 「どこから先は IC では制御できないか」の明確化
+インクジェット駆動ICが **MEMS／流体世界と接続する物理的境界**を、  
+**PDK・プロセス前提込みで定義する設計ノード**。
 
-👉 **物理モデルとIC設計の“責任分界点”を定義するための設計ノード。**
+本プロジェクトは **GF180 PDK** を前提とし、  
+インクジェット駆動に必須となる **高耐圧（HV）MOS を手動レイアウトで設計**する。  
+（※ sky130 のような標準セル＋自動合成前提とは異なる）
+
+### 本ノードで定義すること
+- MEMS／流体モデルから **ICが受け取る等価負荷（V–I–t 条件）**
+- それを **IC側の電圧・電流・信頼性制約**へ翻訳
+- 抽象モデル ⇄ 実レイアウト（HVMOS／DNWELL／配線／パッド）の対応
+- **「どこから先は IC では制御できないか」**の明確化
+
+👉 物理モデルと IC 設計の **責任分界点**を定義するための設計インタフェース。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/gf180-inkjet-driver/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/gf180-inkjet-driver)
