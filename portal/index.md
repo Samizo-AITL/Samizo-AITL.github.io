@@ -546,7 +546,7 @@ MEMS／流体世界と接続する **物理的インタフェースの実体**�
 <img
   src="https://samizo-aitl.github.io/gf180-inkjet-driver/docs/images/02_hv_sw_unit_gds.png"
   alt="HV_SW_UNIT GDS as Physical Interface of Inkjet Driver IC"
-  width="85%"
+  width="70%"
 />
 
 ---
