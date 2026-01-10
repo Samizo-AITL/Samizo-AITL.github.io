@@ -522,6 +522,33 @@ between electrical, mechanical, and fluid domains in a piezoelectric inkjet syst
 
 ---
 
+## 1️⃣1️⃣ Inkjet Driver IC — Physical Interface Abstraction
+
+A design abstraction node that defines **how an inkjet driver IC interfaces
+with the MEMS / fluidic domain**, from a **circuit and layout-centric perspective**.
+
+This section focuses on translating physical behavior into
+**IC-level constraints** that can be realistically implemented
+using high-voltage devices and manual GDS layout.
+
+Key aspects include:
+
+- Definition of **equivalent electrical loads** (C / R / timing)
+  derived from MEMS and fluid models
+- Translation of voltage, current, and timing requirements
+  into **IC-side design constraints**
+- Mapping between abstract models and **actual layout structures**
+  (HV MOS devices, routing, pads, isolation)
+- Explicit identification of **what the IC can and cannot control**
+
+👉 **A boundary-definition node that clarifies responsibility
+between physical systems and IC implementation.**
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/gf180-inkjet-driver/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/gf180-inkjet-driver)
+
+---
+
 # 🎞 AITL Animation Demos
 A collection of animation demos visualizing **PID control, FSM, LLM, and AITL architectures**,  
 as well as physical, device-level, and multiphysics behaviors.
