@@ -22,6 +22,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2026-01-10 | **Inkjet Driver IC における Physical Interface Abstraction の設計境界を整理・公開。**<br>・電気（HVドライバ）／機械（MEMS・ピエゾ）／流体（吐出）の物理境界を明確化<br>・IC設計側で抽象化可能な範囲と、FEM・物理モデルに委ねるべき領域を切り分け<br>・gf180-inkjet-driver / mems-ana / inkjet-timing を貫く共通設計思想として位置づけ |
 | 2026-01-09 | **AITL Controller (A-Type) の公式アーキテクチャ定義および信頼性境界仕様を公開。**<br>・公式仕様ページを確定：https://samizo-aitl.github.io/aitl-controller-a-type/<br>・実時間制御（PID × FSM）と、限定的適応補助（NN / RL）、および非実時間設計支援（LLM）の責務分離を明文化<br>・AITL の設計原典（Architecture Canon）として位置づけ |
 | 2026-01-07 | **関連論文（原稿／プレプリント）リンクをポータルに追加。**<br>・日本語版／英語版トップページに「関連論文（プレプリント）」セクションを追加（発表済みと誤解されない表現に修正）<br>・論文PDFへの導線を追加：`/assets/paper/2026_fie_pdh_portal.pdf`<br>・Update Log の直前に配置し、「実体（教材・PoC）→ 一次資料（論文）→ 運用ログ」の読み順を確定 |
 | 2026-01-06 | **ライセンス体系の明確化および Full Code Mechanical Design をポータルに追加。**<br>・ポータル全体の利用条件をハイブリッドライセンス方式として整理（コード／教材テキスト／図表の区分を明示）<br>・設計方法論プロジェクト **Full Code Mechanical Design** を「Design Methodology / Architecture」レイヤとしてポータルに統合<br>・教材ではなく、AITL を下支えする機械設計側の基盤方法論として位置づけを固定 |
