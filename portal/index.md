@@ -516,6 +516,22 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
+## 1️⃣1️⃣ Inkjet Driver IC — Physical Interface Abstraction
+インクジェット駆動ICが **MEMS / 流体世界と接続する境界条件**を、
+回路・レイアウト視点で整理するための設計抽象モデル。
+
+- MEMS・流体モデルから **ICが受け取るべき等価負荷の定義**
+- 電圧・電流・時間条件の **IC側制約への翻訳**
+- 抽象モデルと実レイアウト（HV MOS, 配線, パッド）の対応関係整理
+- 「どこから先は IC では制御できないか」の明確化
+
+👉 **物理モデルとIC設計の“責任分界点”を定義するための設計ノード。**
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/gf180-inkjet-driver/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/gf180-inkjet-driver)
+
+---
+
 # 🎞 AITL Animation Demos
 PID 制御・FSM・LLM を含む AITL 構造や、  
 物理・デバイス・マルチフィジクス挙動を **アニメーションで可視化したデモ集**。
