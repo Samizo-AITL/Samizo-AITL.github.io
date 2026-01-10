@@ -200,7 +200,7 @@ covering semiconductor technology from physics to system-level constraints.
 
 ---
 
-## 1️⃣ Edusemi-v4x
+## 1. Edusemi-v4x
 A **systematic curriculum** covering semiconductor devices and processes:
 
 - Device structures and operating physics  
@@ -230,7 +230,7 @@ A special chapter that builds upon physics-based device and circuit knowledge an
 
 ---
 
-## 2️⃣ SemiDevKit
+## 2. SemiDevKit
 An **implementation-oriented development kit** bridging semiconductor device theory and practical design workflows:
 
 - Poisson / Drift–Diffusion solvers  
@@ -256,7 +256,7 @@ clearly reflects **Short Channel Effects**, including
 
 ---
 
-## 3️⃣ Edusemi-Plus
+## 3. Edusemi-Plus
 Extended materials connecting semiconductor fundamentals with surrounding domains:
 
 - Advanced materials (SiC, GaN)  
@@ -269,7 +269,7 @@ Extended materials connecting semiconductor fundamentals with surrounding domain
 
 ---
 
-## 4️⃣ openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
+## 4. openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
 This project demonstrates a **complete RTL → GDS flow** using **OpenLane2 (v2)**  
 by integrating an **SRAM hard macro** into a macro-aware physical design.
 
@@ -357,7 +357,7 @@ under **colored, adversarial disturbances**.
 
 ---
 
-## 5️⃣ EduController
+## 5. EduController
 An educational resource focused on **control fundamentals**:
 
 - PID control principles  
@@ -370,7 +370,7 @@ An educational resource focused on **control fundamentals**:
 
 ---
 
-## 6️⃣ AITL-Controller-A-Type
+## 6. AITL-Controller-A-Type
 
 A **minimal experimental controller** implemented in Python to explore
 a strict **separation of responsibilities** in control system design:
@@ -427,7 +427,7 @@ please refer to the interactive playground below.
 
 ---
 
-## 7️⃣ V–I Control ASIC on SKY130
+## 7. V–I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from  
 **control theory to silicon** using **PID + FSM**.
 
@@ -486,7 +486,7 @@ revealing the limits of simplification.
 
 ---
 
-## 8️⃣ mems-ana
+## 8. mems-ana
 **Pre-FEM MEMS structural exploration tool**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
@@ -498,7 +498,7 @@ revealing the limits of simplification.
 
 ---
 
-## 9️⃣ Inkjet Printing — Design Trade-off Models
+## 9. Inkjet Printing — Design Trade-off Models
 Minimal models visualizing trade-offs between:
 
 - Print quality  
@@ -513,7 +513,7 @@ serving as a domain-specific example of physical trade-offs.
 
 ---
 
-## 🔟 inkjet-timing  
+## 10. inkjet-timing  
 A design and educational demo that visualizes the **time-domain causality**
 between electrical, mechanical, and fluid domains in a piezoelectric inkjet system.
 
@@ -522,7 +522,7 @@ between electrical, mechanical, and fluid domains in a piezoelectric inkjet syst
 
 ---
 
-## 1️⃣1️⃣ Inkjet Driver IC — Physical Interface Abstraction
+## 11. Inkjet Driver IC — Physical Interface Abstraction
 
 A design abstraction node that defines **how an inkjet driver IC interfaces
 with the MEMS / fluidic domain**, from a **circuit and layout-centric perspective**.
