@@ -549,6 +549,31 @@ between physical systems and IC implementation.**
 
 ---
 
+### HVMOS Layout as a Physical Interface
+
+The following figure shows a representative **high-voltage MOS (HVMOS) layout**
+that serves as the **physical interface** between the inkjet driver IC
+and the MEMS / fluid domain.
+
+Rather than a single device in isolation, this example represents the
+minimum structure actually exposed by the IC:
+the **HV_SW_UNIT**, consisting of the HVMOS device,
+DNWELL isolation, and a continuous guard ring.
+
+This layout visually defines:
+- The physical structures for which the IC is responsible
+- The starting point of voltage, current, and timing constraints
+  presented to the MEMS / fluid system
+- The boundary beyond which behavior is no longer controllable by the IC
+
+<img
+  src="https://samizo-aitl.github.io/gf180-inkjet-driver/docs/images/02_hv_sw_unit_gds.png"
+  alt="HV_SW_UNIT GDS as the Physical Interface of an Inkjet Driver IC"
+  width="85%"
+/>
+
+---
+
 # 🎞 AITL Animation Demos
 A collection of animation demos visualizing **PID control, FSM, LLM, and AITL architectures**,  
 as well as physical, device-level, and multiphysics behaviors.
