@@ -516,7 +516,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## Inkjet Driver IC — Physical Interface Abstraction
+## 11. Inkjet Driver IC — Physical Interface Abstraction
 
 インクジェット駆動ICが **MEMS／流体世界と接続する物理的境界**を、  
 **PDK・プロセス前提込みで定義する設計ノード**。
