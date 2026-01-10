@@ -524,25 +524,21 @@ between electrical, mechanical, and fluid domains in a piezoelectric inkjet syst
 
 ## 11. Inkjet Driver IC — Physical Interface Abstraction
 
-A design abstraction node that defines **how an inkjet driver IC interfaces
-with the MEMS / fluidic domain**, from a **circuit and layout-centric perspective**.
+A design node that defines the **physical boundary where an inkjet driver IC interfaces with the MEMS / fluid domain**,  
+explicitly including **PDK and process-level constraints**.
 
-This section focuses on translating physical behavior into
-**IC-level constraints** that can be realistically implemented
-using high-voltage devices and manual GDS layout.
+This project is based on the **GF180 PDK**, where  
+**high-voltage (HV) MOS devices required for inkjet driving are manually designed at the layout level**.  
+(This is fundamentally different from **sky130-style designs based on standard cells and automatic synthesis**.)
 
-Key aspects include:
+### What this node defines
+- **Equivalent loads (V–I–t conditions)** passed from MEMS / fluid models to the IC
+- Translation of those conditions into **IC-side voltage, current, and reliability constraints**
+- One-to-one mapping between **abstract models and physical layouts**  
+  (HVMOS / DNWELL / routing / pads)
+- A clear definition of **what is beyond the control of the IC**
 
-- Definition of **equivalent electrical loads** (C / R / timing)
-  derived from MEMS and fluid models
-- Translation of voltage, current, and timing requirements
-  into **IC-side design constraints**
-- Mapping between abstract models and **actual layout structures**
-  (HV MOS devices, routing, pads, isolation)
-- Explicit identification of **what the IC can and cannot control**
-
-👉 **A boundary-definition node that clarifies responsibility
-between physical systems and IC implementation.**
+👉 A design interface that defines the **responsibility boundary** between physical models and IC design.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/gf180-inkjet-driver/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/gf180-inkjet-driver)
