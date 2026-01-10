@@ -184,7 +184,7 @@ Samizo-AITL における「機械設計側の基盤方法論」です。**
 
 ---
 
-## 1️⃣ Edusemi-v4x
+## 1. Edusemi-v4x
 半導体プロセス・デバイス・回路設計を、**物理起点で体系化する基幹教材**。
 
 - 電子物性・プロセス条件・デバイス構造の因果関係を整理
@@ -213,7 +213,7 @@ Samizo-AITL における「機械設計側の基盤方法論」です。**
 
 ---
 
-## 2️⃣ SemiDevKit
+## 2. SemiDevKit
 物理モデルから **SPICE・信頼性・レイアウト**までを接続する実装キット。
 
 - 物理モデルを SPICE モデルへ落とし込む
@@ -235,7 +235,7 @@ Samizo-AITL における「機械設計側の基盤方法論」です。**
 
 ---
 
-## 3️⃣ Edusemi-Plus
+## 3. Edusemi-Plus
 材料・装置・産業構造を、**物理視点で拡張する補助教材**。
 
 - 製造装置・材料技術と物理原理の関係整理
@@ -249,7 +249,7 @@ Samizo-AITL における「機械設計側の基盤方法論」です。**
 
 ---
 
-## 4️⃣ openlane2-sram｜SRAMマクロ統合・物理設計実証
+## 4. openlane2-sram｜SRAMマクロ統合・物理設計実証
 OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS まで完走する**  
 **マクロ対応・物理設計の実践教材**。
 
@@ -325,7 +325,7 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
-## 5️⃣ EduController
+## 5. EduController
 PID・FSM を中心に、**制御系の構造そのものを理解するための教材**。
 
 - PID による実時間制御と安定化の役割
@@ -339,7 +339,7 @@ PID・FSM を中心に、**制御系の構造そのものを理解するため�
 
 ---
 
-## 6️⃣ AITL-Controller-A-Type
+## 6. AITL-Controller-A-Type
 
 PID × FSM を **実時間制御の中核**とし、  
 NN / RL を **制限付きの実時間適応補助層**、  
@@ -416,7 +416,7 @@ LLM を **非実時間の設計支援層**として分離した
 
 ---
 
-## 7️⃣ V–I Control ASIC on SKY130
+## 7. V–I Control ASIC on SKY130
 V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教材**。
 
 - 電圧–電流（V–I）制御を物理量起点で設計
@@ -469,7 +469,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8️⃣ mems-ana
+## 8. mems-ana
 抽象モデルの限界を確認する **pre-FEM MEMS 解析ツール**。
 
 - lumped / 簡易モデルが成立する範囲を可視化
@@ -487,7 +487,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 9️⃣ Inkjet Printing — Design Trade-off Models
+## 9. Inkjet Printing — Design Trade-off Models
 画質・速度・ドット挙動の因果関係を**最小モデルで可視化する教材**。
 
 - ドット形成・吐出条件・駆動条件の因果関係整理
@@ -501,7 +501,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 🔟 inkjet-timing  
+## 10. inkjet-timing  
 ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、  
 単一時間軸上で可視化する設計・教育用デモ。
 
@@ -516,7 +516,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 1️⃣1️⃣ Inkjet Driver IC — Physical Interface Abstraction
+## 11. Inkjet Driver IC — Physical Interface Abstraction
 インクジェット駆動ICが **MEMS / 流体世界と接続する境界条件**を、
 回路・レイアウト視点で整理するための設計抽象モデル。
 
