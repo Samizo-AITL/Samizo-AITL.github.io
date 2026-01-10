@@ -545,7 +545,7 @@ MEMS／流体世界と接続する **物理的インタフェースの実体**�
 を視覚的に対応付ける。
 
 <img
-  src="images/hvmos_interface_layout.png"
+  src="images/02_hv_sw_unit_gds.png"
   alt="HVMOS Layout as Physical Interface to Inkjet MEMS"
   width="85%"
 />
