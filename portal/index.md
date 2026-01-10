@@ -530,6 +530,26 @@ PID + FSM による制御動作が仕様通りであることを確認。
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/gf180-inkjet-driver/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/gf180-inkjet-driver)
 
+### HVMOSレイアウトによる物理インタフェース実体
+
+以下に示す図は、インクジェット駆動ICが
+MEMS／流体世界と接続する **物理的インタフェースの実体**としての
+**高耐圧MOS（HVMOS）レイアウト例**である。
+
+このレイアウトにより、
+
+- ICが責任を持つ最終的な物理構造（HVMOS・DNWELL・ガードリング）
+- MEMS／流体側に対して提示される電圧・電流条件の「出発点」
+- これ以上先が **ICでは制御できない領域** であること
+
+を視覚的に対応付ける。
+
+<img
+  src="images/hvmos_interface_layout.png"
+  alt="HVMOS Layout as Physical Interface to Inkjet MEMS"
+  width="85%"
+/>
+
 ---
 
 # 🎞 AITL Animation Demos
