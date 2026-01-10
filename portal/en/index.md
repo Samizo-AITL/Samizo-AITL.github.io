@@ -486,8 +486,16 @@ revealing the limits of simplification.
 
 ---
 
-## 8. mems-ana
-**Pre-FEM MEMS structural exploration tool**
+## 8. mems-ana  
+**Pre-FEM MEMS Structural Exploration Tool**
+
+A lightweight analysis tool for **early-stage MEMS structural exploration before full FEM simulation**.
+
+This tool focuses on capturing **dominant deformation modes, scaling trends, and dynamic behavior** using simplified analytical and numerical models, enabling rapid design-space exploration without the overhead of full multiphysics solvers.
+
+- Quick evaluation of structural response trends
+- Identification of sensitive geometric and material parameters
+- Early filtering of infeasible designs before FEM
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/mems-ana/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/mems-ana)
@@ -499,14 +507,16 @@ revealing the limits of simplification.
 ---
 
 ## 9. Inkjet Printing — Design Trade-off Models
-Minimal models visualizing trade-offs between:
 
-- Print quality  
-- Throughput  
-- Dot behavior  
+Minimal physical models that visualize **fundamental trade-offs in inkjet printing systems**, such as:
 
-through **simple Python simulations**,  
-serving as a domain-specific example of physical trade-offs.
+- Print quality
+- Throughput
+- Droplet behavior
+
+These models are implemented as **simple Python simulations**, intentionally avoiding excessive detail in order to make **causal relationships and trade-off structures explicit**.
+
+This project serves as a domain-specific example of how **physical constraints shape system-level design choices**.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-dts/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-dts)
@@ -514,8 +524,14 @@ serving as a domain-specific example of physical trade-offs.
 ---
 
 ## 10. inkjet-timing  
-A design and educational demo that visualizes the **time-domain causality**
-between electrical, mechanical, and fluid domains in a piezoelectric inkjet system.
+
+A design and educational demo that visualizes **time-domain causality across electrical, mechanical, and fluid domains** in a piezoelectric inkjet system.
+
+By explicitly aligning drive waveforms, structural response, and droplet dynamics along a common time axis, this tool highlights **what happens when — and why** in coupled multiphysics systems.
+
+- Time-resolved causal relationships
+- Clear separation of controllable vs. uncontrollable dynamics
+- Educational insight into waveform-driven inkjet behavior
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/inkjet-timing/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/inkjet-timing)
