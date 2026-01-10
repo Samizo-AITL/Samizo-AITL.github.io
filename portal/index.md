@@ -530,6 +530,8 @@ PID + FSM による制御動作が仕様通りであることを確認。
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/gf180-inkjet-driver/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/gf180-inkjet-driver)
 
+---
+
 ### HVMOSレイアウトによる物理インタフェース実体
 
 以下に示す図は、インクジェット駆動ICが
