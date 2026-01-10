@@ -536,17 +536,14 @@ PID + FSM による制御動作が仕様通りであることを確認。
 MEMS／流体世界と接続する **物理的インタフェースの実体**としての
 **高耐圧MOS（HVMOS）レイアウト例**である。
 
-このレイアウトにより、
-
-- ICが責任を持つ最終的な物理構造（HVMOS・DNWELL・ガードリング）
-- MEMS／流体側に対して提示される電圧・電流条件の「出発点」
-- これ以上先が **ICでは制御できない領域** であること
-
-を視覚的に対応付ける。
+ここでは、単体デバイスではなく、
+実際にICとして外界に提示される最小構造である
+**HV_SW_UNIT（HVMOS＋DNWELL＋ガードリング）**
+を代表例として示す。
 
 <img
-  src="images/02_hv_sw_unit_gds.png"
-  alt="HVMOS Layout as Physical Interface to Inkjet MEMS"
+  src="https://samizo-aitl.github.io/gf180-inkjet-driver/docs/images/02_hv_sw_unit_gds.png"
+  alt="HV_SW_UNIT GDS as Physical Interface of Inkjet Driver IC"
   width="85%"
 />
 
