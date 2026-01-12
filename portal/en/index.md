@@ -478,6 +478,23 @@ using **OpenLane v2**.
 
 ---
 
+## 🔔 Ongoing Work: AI Control Safety Package
+
+We are preparing **AI Control Safety Package**,  
+a practical design and review package for introducing  
+AI / LLM-based control systems **safely and responsibly**.
+
+This is a **practice-oriented project** derived from  
+the control architecture concepts presented in this portal.
+
+🔗 **Project Page (GitHub Pages)**  
+[AI Control Safety Package](https://samizo-aitl.github.io/ai-control-safety-package/)
+
+🔧 Repository:  
+[Samizo-AITL/ai-control-safety-package](https://github.com/Samizo-AITL/ai-control-safety-package)
+
+---
+
 # ⚙️ MEMS — Where Abstraction Meets Reality
 
 A boundary domain where  
