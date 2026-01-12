@@ -465,6 +465,26 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
+## 🔔 進行中プロジェクト：AI Control Safety Package
+
+**AI Control Safety Package** は、  
+AI / LLM を用いた制御システムを  
+**安全かつ責任ある形で導入するための  
+設計・レビュー向け実務パッケージ**です。
+
+本パッケージは、本ポータルで整理している  
+制御アーキテクチャ概念  
+（Envelope Control / Recovery Control / AITL）を  
+**実務で使える形に統合すること**を目的としています。
+
+🔗 **プロジェクトページ（GitHub Pages）**  
+[AI Control Safety Package](https://samizo-aitl.github.io/ai-control-safety-package/)
+
+🔧 リポジトリ：  
+[Samizo-AITL/ai-control-safety-package](https://github.com/Samizo-AITL/ai-control-safety-package)
+
+---
+
 # ⚙️ MEMS / Physical Boundary
 
 ---
