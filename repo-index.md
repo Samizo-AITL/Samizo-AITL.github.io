@@ -23,6 +23,26 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 - 📈 [Google Analytics (GA4) – Samizo-AITL Portal](https://analytics.google.com/analytics/web/)
 
+<h3>🌐 World Clock</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>City</th>
+      <th>Local Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🇯🇵 Japan</td><td>Tokyo</td><td id="time-tokyo"></td></tr>
+    <tr><td>🇺🇸 USA (East)</td><td>New York</td><td id="time-ny"></td></tr>
+    <tr><td>🇺🇸 USA (West)</td><td>Los Angeles</td><td id="time-la"></td></tr>
+    <tr><td>🇬🇧 UK</td><td>London</td><td id="time-london"></td></tr>
+    <tr><td>🇫🇷 France</td><td>Paris</td><td id="time-paris"></td></tr>
+    <tr><td>🇨🇳 China</td><td>Beijing</td><td id="time-beijing"></td></tr>
+  </tbody>
+</table>
+
 ---
 
 ## 📘 Education / Frameworks
