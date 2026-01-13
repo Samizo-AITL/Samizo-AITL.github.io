@@ -262,21 +262,20 @@ Samizo-AITL における「機械設計側の基盤方法論」です。**
 
 ### ▶ 主なケース
 
-- **0.25µm DRAM（1998）**  
+- **0.25µm DRAM (1998)**  
   プロセス統合・リーク支配・Pause / Disturb 不良・Bin戦略  
   → 歩留まり回復と限界の顕在化  
-  🔗 https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/dram_025um
+  🔗 [Open DRAM 0.25µm Case](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/dram_025um)
 
-- **VSRAM（Pseudo-SRAM, 2001）**  
+- **VSRAM (Pseudo-SRAM, 2001)**  
   DRAM派生アーキテクチャをモバイル条件（90 °C）で運用した境界事例  
   → 技術的成功と戦略的撤退  
-  🔗 https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/vsram_2001
+  🔗 [Open VSRAM Case](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/vsram_2001)
 
-👉 **「なぜ AI や制御は“現実を無視できない”のか」**を、  
-実在した製造・テスト・市場判断の連鎖から理解するための資料群です。
+👉 「なぜ AI や制御は**現実を無視できない**のか」を、  
+実在した **製造・テスト・市場判断の連鎖**から理解するための資料群です。
 
-[![Open Legacy Archive](https://img.shields.io/badge/Open-Legacy%20Technology-blueviolet?logo=github)]
-(https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy)
+[Open Legacy Technology](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy)
 
 ---
 
