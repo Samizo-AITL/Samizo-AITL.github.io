@@ -73,4 +73,5 @@ description: "制御・半導体・インクジェット・教育を貫く技術
 - 教育・整理・自己参照用途のみ
 
 ▶︎ **Private Repository (Access Restricted)**  
-https://github.com/Samizo-AITL/career-technical-archive
+[https://github.com/Samizo-AITL/career-technical-archive](https://github.com/Samizo-AITL/career-technical-archive)
+
