@@ -85,4 +85,4 @@ failure response, BCP, and emergency change management.
 - Used solely for education, organization, and personal reference
 
 ▶︎ **Private Repository (Access Restricted)**  
-https://github.com/Samizo-AITL/career-technical-archive
+[https://github.com/Samizo-AITL/career-technical-archive](https://github.com/Samizo-AITL/career-technical-archive)
