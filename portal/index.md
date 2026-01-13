@@ -249,6 +249,37 @@ Samizo-AITL における「機械設計側の基盤方法論」です。**
 
 ---
 
+## 🕰 Legacy Technology（Failure & Recovery Archive）
+
+**Legacy Technology** は、過去技術の回顧ではありません。  
+物理・プロセス・使用条件が **どのように失敗を生み、  
+それが歩留まり・製品戦略・撤退判断にどう接続されたか**を記録した  
+**因果構造ベースのケーススタディ集**です。
+
+- 失敗は「結果」ではなく **設計制約の可視化**
+- 成功は「最適解」ではなく **制約下での回復**
+- 多くの構造は、**現代の SoC / AI / 先端デバイスでも再出現**します
+
+### ▶ 主なケース
+
+- **0.25µm DRAM（1998）**  
+  プロセス統合・リーク支配・Pause / Disturb 不良・Bin戦略  
+  → 歩留まり回復と限界の顕在化  
+  🔗 https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/dram_025um
+
+- **VSRAM（Pseudo-SRAM, 2001）**  
+  DRAM派生アーキテクチャをモバイル条件（90 °C）で運用した境界事例  
+  → 技術的成功と戦略的撤退  
+  🔗 https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/vsram_2001
+
+👉 **「なぜ AI や制御は“現実を無視できない”のか」**を、  
+実在した製造・テスト・市場判断の連鎖から理解するための資料群です。
+
+[![Open Legacy Archive](https://img.shields.io/badge/Open-Legacy%20Technology-blueviolet?logo=github)]
+(https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy)
+
+---
+
 ## 4. openlane2-sram｜SRAMマクロ統合・物理設計実証
 OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS まで完走する**  
 **マクロ対応・物理設計の実践教材**。
