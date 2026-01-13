@@ -269,6 +269,39 @@ Extended materials connecting semiconductor fundamentals with surrounding domain
 
 ---
 
+## 🕰 Legacy Technology (Failure & Recovery Archive)
+
+**Legacy Technology** is **not a retrospective of obsolete processes**.  
+It is a collection of **causal case studies** documenting how physical mechanisms,
+process integration, and usage conditions **directly shaped failures,
+yield recovery, and business decisions**.
+
+- Failures are treated as **exposed design constraints**, not accidents  
+- Recoveries are **bounded optimizations under real limitations**, not ideal solutions  
+- Many of these structures **reappear in modern SoC, AI accelerators, and advanced nodes**
+
+### ▶ Representative Cases
+
+- **0.25µm DRAM (1998)**  
+  Process integration, leakage-dominated retention,  
+  Pause / Disturb failures, fail-stop binning strategy  
+  → Yield recovery and structural limits revealed  
+  🔗 https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/dram_025um
+
+- **VSRAM (Pseudo-SRAM, 2001)**  
+  DRAM-derived memory pushed into mobile usage (90 °C operation)  
+  → Technical recovery followed by strategic termination  
+  🔗 https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/vsram_2001
+
+These cases explain **why intelligence and control architectures
+cannot ignore physical reality**, and why design-time reasoning
+must be clearly separated from real-time control.
+
+[![Open Legacy Archive](https://img.shields.io/badge/Open-Legacy%20Technology-blueviolet?logo=github)]
+(https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy)
+
+---
+
 ## 4. openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
 This project demonstrates a **complete RTL → GDS flow** using **OpenLane2 (v2)**  
 by integrating an **SRAM hard macro** into a macro-aware physical design.
