@@ -286,18 +286,19 @@ yield recovery, and business decisions**.
   Process integration, leakage-dominated retention,  
   Pause / Disturb failures, fail-stop binning strategy  
   → Yield recovery and structural limits revealed  
-  🔗 [Open DRAM 0.25µm Case](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/dram_025um)
+  🔗 [Open DRAM 0.25µm Case](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/dram_025um/)
 
 - **VSRAM (Pseudo-SRAM, 2001)**  
   DRAM-derived architecture operated under mobile conditions (90 °C)  
   → Technical recovery followed by strategic termination  
-  🔗 [Open VSRAM Case](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy/vsram_2001)
+  🔗 [Open VSRAM Case](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/vsram_2001/)
 
-These cases explain **why AI and control architectures
-cannot ignore physical reality**, based on actual manufacturing,
-test, and market decision chains.
+These materials explain **why AI and control architectures
+cannot ignore physical reality**,  
+based on real-world chains of **manufacturing, testing,
+and market decision-making**.
 
-[Open Legacy Technology](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy)
+[Open Legacy Technology](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
 
 ---
 
