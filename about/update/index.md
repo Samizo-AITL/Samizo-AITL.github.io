@@ -22,6 +22,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2026-01-14 | **Legacy Technology（Failure & Recovery Archive）を正式追加。**<br>・0.25µm DRAM（1998）、VSRAM（2001）を中心とした失敗・回復事例を体系化<br>・物理・プロセス・使用条件が不良／歩留まり／撤退判断へ接続される因果構造を明示<br>・AITL／AI Control Safety Package における「なぜ実時間AIを制御に入れないか」の現実的根拠として位置づけ |
 | 2026-01-13 | **AI Control Safety Package（実務向け設計・レビュー・パッケージ）の準備を開始。**<br>・Envelope Control／Recovery Control／AITL で整理した制御アーキテクチャ概念を、実務で使える形に統合<br>・AI / LLM 制御導入に対する Go / No-Go 判断、Safety Envelope 定義、Recovery Control 設計を対象<br>・教材・PoC ではなく、設計判断と責任分界を明確化する実務向けパッケージとして位置づけ |
 | 2026-01-10 | **Inkjet Driver IC における Physical Interface Abstraction の設計境界を整理・公開。**<br>・電気（HVドライバ）／機械（MEMS・ピエゾ）／流体（吐出）の物理境界を明確化<br>・IC設計側で抽象化可能な範囲と、FEM・物理モデルに委ねるべき領域を切り分け<br>・gf180-inkjet-driver / mems-ana / inkjet-timing を貫く共通設計思想として位置づけ |
 | 2026-01-09 | **AITL Controller (A-Type) の公式アーキテクチャ定義および信頼性境界仕様を公開。**<br>・公式仕様ページを確定：https://samizo-aitl.github.io/aitl-controller-a-type/<br>・実時間制御（PID × FSM）と、限定的適応補助（NN / RL）、および非実時間設計支援（LLM）の責務分離を明文化<br>・AITL の設計原典（Architecture Canon）として位置づけ |
