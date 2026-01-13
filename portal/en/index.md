@@ -300,6 +300,14 @@ and market decision-making**.
 
 [Open Legacy Technology](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
 
+> 🔐 **Note on Confidentiality**  
+> This archive is based exclusively on semiconductor technologies  
+> developed more than **20 years ago**.  
+>  
+> It contains **no proprietary process recipes, design rules, or
+> operational know-how** applicable to current manufacturing.  
+> The focus is on **structural failure-and-decision patterns**, not secrets.
+
 ---
 
 ## 4. openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
