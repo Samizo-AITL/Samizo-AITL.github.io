@@ -577,6 +577,25 @@ AI / LLM を用いた制御システムを
 
 ---
 
+### HVMOSレイアウトによる物理インタフェース実体
+
+以下に示す図は、インクジェット駆動ICが
+MEMS／流体世界と接続する **物理的インタフェースの実体**としての
+**高耐圧MOS（HVMOS）レイアウト例**である。
+
+ここでは、単体デバイスではなく、
+実際にICとして外界に提示される最小構造である
+**HV_SW_UNIT（HVMOS＋DNWELL＋ガードリング）**
+を代表例として示す。
+
+<img
+  src="https://samizo-aitl.github.io/gf180-inkjet-driver/docs/images/02_hv_sw_unit_gds.png"
+  alt="HV_SW_UNIT GDS as Physical Interface of Inkjet Driver IC"
+  width="70%"
+/>
+
+---
+
 ## 12. Full Code Mechanical Design（コード駆動型機械設計）
 
 **機械・MEMS 構造を、GUI 操作ではなく  
@@ -600,25 +619,6 @@ Samizo-AITL における
 
 [![Project Page](https://img.shields.io/badge/View-Full%20Code%20Mechanical%20Design-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
 [![Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
-
----
-
-### HVMOSレイアウトによる物理インタフェース実体
-
-以下に示す図は、インクジェット駆動ICが
-MEMS／流体世界と接続する **物理的インタフェースの実体**としての
-**高耐圧MOS（HVMOS）レイアウト例**である。
-
-ここでは、単体デバイスではなく、
-実際にICとして外界に提示される最小構造である
-**HV_SW_UNIT（HVMOS＋DNWELL＋ガードリング）**
-を代表例として示す。
-
-<img
-  src="https://samizo-aitl.github.io/gf180-inkjet-driver/docs/images/02_hv_sw_unit_gds.png"
-  alt="HV_SW_UNIT GDS as Physical Interface of Inkjet Driver IC"
-  width="70%"
-/>
 
 ---
 
