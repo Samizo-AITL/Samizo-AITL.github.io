@@ -151,32 +151,6 @@ Samizo-AITL/
 → ③ 制御  
 → ④ 知能化（AITL）**
 
----
-
-## 🧠 Design Methodology / Architecture
-
-### 🔧 Full Code Mechanical Design（コード駆動型機械設計）
-
-**機械設計を、GUI操作ではなく「実行可能なコード」として定義する設計方法論**。
-
-このプロジェクトでは、CAD を作図ツールではなく  
-**設計ロジックを実行するエンジン**として扱います。
-
-- 幾何形状は Python コードによって生成される  
-- 寸法・配置は「設計意図」として明示的に記述される  
-- アセンブリは制約解決ではなく、**配置（placement）で定義**される  
-- CAD ファイル（FCStd / STEP 等）は成果物ではなく **副生成物**とみなす  
-
-この方法論により、機械設計は  
-**再現可能・レビュー可能・自動化可能**となり、  
-FSM や AITL などの **上位設計ロジックと直接接続**できます。
-
-👉 **Full Code Mechanical Design は、  
-Samizo-AITL における「機械設計側の基盤方法論」です。**
-
-[![Project Page](https://img.shields.io/badge/View-Full%20Code%20Mechanical%20Design-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
-
 ----
 
 ## 📝 Essays / Design Philosophy (Zenn)
@@ -600,6 +574,32 @@ AI / LLM を用いた制御システムを
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/gf180-inkjet-driver/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/gf180-inkjet-driver)
+
+---
+
+## 12. Full Code Mechanical Design（コード駆動型機械設計）
+
+**機械・MEMS 構造を、GUI 操作ではなく  
+「実行可能なコード」として定義する設計方法論**。
+
+本プロジェクトでは、CAD を単なる作図ツールではなく、  
+**物理構造および設計意図を実行・検証するエンジン**として扱う。
+
+- 幾何形状は Python コードにより生成される  
+- 寸法・配置は設計意図として明示的に記述される  
+- アセンブリは拘束解決ではなく、**配置（placement）として定義**される  
+- CAD ファイル（FCStd / STEP 等）は最終成果物ではなく **副生成物**とみなす  
+
+この方法論により、  
+機械・MEMS 構造は **再現可能・レビュー可能・自動化可能**となり、  
+物理境界条件として **制御・AITL 上位層と明示的に接続**できる。
+
+👉 **Full Code Mechanical Design は、  
+Samizo-AITL における  
+「物理構造を設計資産として固定化するための基盤方法論」である。**
+
+[![Project Page](https://img.shields.io/badge/View-Full%20Code%20Mechanical%20Design-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
 
 ---
 
