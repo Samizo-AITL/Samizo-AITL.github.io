@@ -178,33 +178,6 @@ This order avoids tool-driven or fragmented understanding.
 
 ---
 
-## 🧠 Design Methodology / Architecture
-
-### 🔧 Full Code Mechanical Design
-
-**A methodology that defines mechanical design as executable code,
-not as GUI-based CAD operations.**
-
-In this approach, CAD is treated not as an authoring tool,
-but as an **execution engine for design logic**.
-
-- Geometry is generated entirely by Python code  
-- Dimensions and placements explicitly represent design intent  
-- Assemblies are defined by **placement**, not constraint solvers  
-- CAD files (FCStd / STEP) are treated as byproducts, not primary assets  
-
-This methodology makes mechanical design
-**reproducible, reviewable, and automatable**, and allows it to connect
-directly with higher-level system logic such as FSMs and AITL.
-
-👉 **Full Code Mechanical Design forms the mechanical-side
-methodological foundation of the Samizo-AITL architecture.**
-
-[![Project Page](https://img.shields.io/badge/View-Full%20Code%20Mechanical%20Design-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
-
----
-
 ## 📝 Essays / Design Philosophy (Zenn)
 
 **Essays on design philosophy, physical-first engineering, and the AITL architecture are published on Zenn.**
@@ -660,6 +633,33 @@ This layout visually defines:
   alt="HV_SW_UNIT GDS as the Physical Interface of an Inkjet Driver IC"
   width="85%"
 />
+
+---
+
+## 12. Full Code Mechanical Design
+
+**A methodology for defining mechanical and MEMS structures
+as executable code rather than GUI-based CAD operations.**
+
+In this approach, CAD is treated not as an authoring tool,
+but as an **execution engine for physical structure and design intent**.
+
+- Geometry is generated entirely by Python code  
+- Dimensions and placements explicitly encode design intent  
+- Assemblies are defined by **placement**, not constraint solvers  
+- CAD files (FCStd / STEP) are treated as byproducts, not primary assets  
+
+This methodology enables mechanical and MEMS structures to be
+**reproducible, reviewable, and automatable**, and allows them to serve as
+explicit **physical boundary definitions** for higher-level control
+and AITL architectures.
+
+👉 **Full Code Mechanical Design provides the physical-structure
+definition layer upon which Samizo-AITL builds its control
+and intelligence architectures.**
+
+[![Project Page](https://img.shields.io/badge/View-Full%20Code%20Mechanical%20Design-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
 
 ---
 
