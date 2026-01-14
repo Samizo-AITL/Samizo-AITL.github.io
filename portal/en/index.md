@@ -661,15 +661,15 @@ This layout visually defines:
 ---
 
 # 🎞 AITL Animation Demos
-A collection of animation demos visualizing **PID control, FSM, LLM, and AITL architectures**,  
-as well as physical, device-level, and multiphysics behaviors.
+A collection of animation demos that visualize **AITL control architectures** and  
+physical, device-level, and multiphysics behaviors over time.
 
-- Visualization of **PID control time responses and control flow**
-- Role separation and interaction within **AITL structures (PID × FSM × LLM)**
-- Intuitive animations of **inkjet, MEMS, and device-physics dynamics** in time and space
+- PID control time responses and control flow  
+- Role separation across AITL layers (PID / FSM / NN·RL / LLM)  
+- Time- and space-domain dynamics in inkjet, MEMS, and device physics  
 
-These demos are intended to help readers **grasp system behavior and structure visually**  
-before diving into equations or code.
+These demos are intended to provide a **visual understanding of system structure and behavior**  
+prior to engaging with equations or code.
 
 [![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
 
@@ -677,65 +677,56 @@ before diving into equations or code.
 
 ## 🎞 AITL Control Flow Demo
 
-This demo visualizes how the **core AITL control architecture** operates along the time axis,  
-with **PID × FSM as the real-time control core**,  
-**NN / RL as a bounded real-time adaptive assist**,  
-and **LLM as a non-real-time design support layer**.
+This demo illustrates how the AITL control architecture operates along the time axis,  
+where **PID × FSM form the real-time control core**,  
+**NN / RL provide bounded real-time assistance**,  
+and **LLM is isolated as a non-real-time design-support layer**.
 
 ---
 
-### 🔁 Layer roles (key points)
+### 🔁 Layer roles (summary)
 
-- **PID (real-time control core)**  
-  Handles real-time control.  
-  Under normal conditions, **stable tracking is achieved by PID alone**.
+- **PID (real-time control)**  
+  Responsible for real-time control execution.  
+  Under nominal conditions, reference tracking is achieved by PID alone.
 
-- **FSM (supervisory decision layer)**  
-  Supervises system states.  
-  Detects error growth or degradation and manages mode transitions:  
-  *monitoring → disturbance → recovery → stable*.  
-  FSM holds the **final authority to permit adaptive assistance or redesign**.
+- **FSM (supervisory control)**  
+  Monitors system state and detects degradation.  
+  Manages mode transitions  
+  (*monitoring / disturbance / recovery / stable*)  
+  and determines whether adaptive assistance or redesign is permitted.
 
-- **NN / RL (bounded real-time adaptive assist)**  
-  Activated **only when permitted by FSM**.  
-  Provides **limited, bounded assistance** to improve performance.  
-  **Does not replace PID control**.
+- **NN / RL (bounded adaptive assist)**  
+  Activated only when explicitly permitted by FSM.  
+  Operates as a limited, bounded assist and does not replace PID control.
 
-- **LLM (design-time support layer)**  
-  Responsible for redesign and interpretation.  
-  Invoked **only by FSM**, it analyzes logs and reliability indicators to  
-  support **design-level updates** (e.g., PID gain sets or control policies).  
-  **Never participates in real-time control loops**.
+- **LLM (design-time support)**  
+  Invoked by FSM only in non-real-time contexts.  
+  Analyzes logs and reliability indicators to support  
+  design-level updates (e.g., PID gains or control policies).
 
 ---
 
-### 📉 What happens in the demo
+### 📉 Demo sequence
 
-1. **Normal operation**  
-   PID tracks the reference, FSM monitors, NN/RL and LLM remain idle.
-
-2. **Disturbance occurs**  
-   Error increases → FSM detects degradation.
-
-3. **Adaptive assistance (conditional)**  
-   FSM may permit bounded NN / RL assistance.
-
-4. **Redesign (if necessary)**  
-   FSM invokes LLM for design-level reconsideration.
-
-5. **Recovery completed**  
-   PID re-tracks the reference → FSM returns to stable → NN/RL and LLM go idle.
+1. Normal operation: PID tracking, FSM monitoring  
+2. Disturbance: error growth detected by FSM  
+3. Conditional adaptation: FSM permits bounded NN / RL assistance  
+4. Design review (if required): FSM invokes LLM  
+5. Recovery: PID re-establishes tracking, FSM returns to stable
 
 ---
 
-### 🎯 Essence of AITL control
+### 🎯 What this demo demonstrates
 
-- LLM **does not perform real-time control**
-- NN / RL **does not replace PID**
-- FSM holds **decision and permission authority**
-- Intelligence is **architecturally isolated from stability-critical loops**
+This demo confirms that, in AITL:
 
-👉 **This is the core philosophy of AITL control**
+- Real-time control responsibility remains with PID  
+- Adaptive intelligence is strictly bounded and conditional  
+- Design-level reasoning is separated from real-time loops  
+
+The architecture preserves **control stability and accountability**  
+through explicit responsibility separation.
 
 ---
 
