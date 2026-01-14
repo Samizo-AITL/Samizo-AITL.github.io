@@ -20,22 +20,6 @@ description: A physical-first engineering archive that integrates devices, contr
 
 ---
 
-## 🔍 For Reviewers, Evaluators, and Potential Collaborators
-
-This portal organizes a **design-oriented engineering architecture**  
-that integrates **physics-based models, control theory, and AI**,  
-with explicit separation of responsibilities.
-
-- Real-time control is handled exclusively by **PID**
-- State supervision and decision boundaries are managed by **FSM**
-- **AI (LLMs)** are restricted to **design-time analysis and redesign support**
-
-AI is explicitly excluded from real-time control loops.  
-The architecture therefore targets engineering systems that emphasize  
-**safety, reproducibility, and objective evaluability**.
-
----
-
 ## ▶ Overview
 
 A short slide deck summarizes  
@@ -132,6 +116,22 @@ is designed as the following **three-layer architecture**.
   - **FSM**: Performs supervision, state transitions, and authorization of intervention  
   - **NN / RL**: Provides **bounded real-time adaptive assistance**, only when permitted by the FSM  
   - **LLM**: Supports **non-real-time interpretation, analysis, and design-level redesign**
+
+---
+
+## 🔍 For Reviewers, Evaluators, and Potential Collaborators
+
+This portal organizes a **design-oriented engineering architecture**  
+that integrates **physics-based models, control theory, and AI**,  
+with explicit separation of responsibilities.
+
+- Real-time control is handled exclusively by **PID**
+- State supervision and decision boundaries are managed by **FSM**
+- **AI (LLMs)** are restricted to **design-time analysis and redesign support**
+
+AI is explicitly excluded from real-time control loops.  
+The architecture therefore targets engineering systems that emphasize  
+**safety, reproducibility, and objective evaluability**.
 
 ---
 
