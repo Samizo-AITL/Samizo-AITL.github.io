@@ -1,17 +1,18 @@
 ---
 layout: default
 title: Samizo-AITL Portal
-description: A physical-first engineering archive integrating semiconductor devices, MEMS, control, and intelligent systems through a unified causal architecture
+description: A physical-first engineering archive that integrates devices, control, and intelligence through a unified causal architecture
 ---
 
 # 🎓 Samizo-AITL Portal  
-> **A physical-first framework that connects devices, control, and intelligence  
-> through a single coherent causal structure**  
-> *A design-oriented technical archive for engineers and researchers.*
+> **A physical-first engineering framework  
+> that integrates devices, control, and intelligence  
+> through a unified causal structure**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
 
+---
 
 ## 🌐 Language
 [![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/)
@@ -19,75 +20,77 @@ description: A physical-first engineering archive integrating semiconductor devi
 
 ---
 
-## 🔍 For Reviewers, Evaluators, and Potential Collaborators (Key Points)
+## 🔍 For Reviewers, Evaluators, and Potential Collaborators
 
-> This portal presents  
-> **an engineering architecture that integrates physics-based models, control theory, and AI  
-> while preserving implementation responsibility and explainability**.  
->  
-> **PID** is used exclusively for real-time control,  
-> **FSM** clarifies system states and decision boundaries, and  
-> **AI (LLMs)** are strictly limited to **design-time analysis and redesign support**.  
->  
-> By explicitly preventing AI from intervening in real-time control,  
-> this portal focuses on **engineering systems that prioritize safety, reproducibility,  
-> and objective evaluability**.
+This portal organizes a **design-oriented engineering architecture**  
+that integrates **physics-based models, control theory, and AI**,  
+with explicit separation of responsibilities.
+
+- Real-time control is handled exclusively by **PID**
+- State supervision and decision boundaries are managed by **FSM**
+- **AI (LLMs)** are restricted to **design-time analysis and redesign support**
+
+AI is explicitly excluded from real-time control loops.  
+The architecture therefore targets engineering systems that emphasize  
+**safety, reproducibility, and objective evaluability**.
 
 ---
 
-## ▶ For First-Time Visitors (Overview)
+## ▶ Overview
 
-A short slide deck summarizing  
-the **design philosophy and overall concept of Samizo-AITL**.
+A short slide deck summarizes  
+the **design philosophy and overall structure of Samizo-AITL**.
 
-**We recommend starting here.**
+Readers new to the portal are encouraged to start here.
 
-▶ [Start here (Overview slides)](https://samizo-aitl.github.io/about/marp/en/samizo-aitl-presentation.html)
+▶ [Overview slides](https://samizo-aitl.github.io/about/marp/en/samizo-aitl-presentation.html)
 
 ---
 
 ## 🚀 What This Portal Provides
 
-**Samizo-AITL** is not a collection of isolated tutorials.  
-It is a **structural archive** that enables you to:
+**Samizo-AITL** is a technical archive structured around  
+a **physical-first design methodology**.
 
-- Understand engineering systems **from physical constraints upward**
-- Connect **devices → models → control → intelligence** without breaking causality
-- Reconstruct **design decisions**, not just implementations
-- Reuse architectural thinking across **education, PoC, and real design work**
+The portal provides:
 
-This portal is built for engineers who need  
-**structure, not abstraction shortcuts**.
+- A framework for understanding systems **from physical constraints upward**
+- A causal connection from **devices → models → control → intelligence**
+- Design knowledge that preserves **why decisions exist**, not only how to implement them
+- Reusable architectural concepts across **education, PoC, and practical design**
+
+This is not a tutorial collection.  
+It is an archive intended to support **design-level reasoning**.
 
 ---
 
 ## 🎯 Intended Audience
 
-This portal is designed for engineers and researchers who:
+This portal is intended for engineers and researchers who:
 
-- Start system design **from physical models and constraints**
-- Treat control theory as a **first-class design element**
-- Use AI / LLMs as **supervisory and analytical layers**, not black-box controllers
-- Need **cross-domain understanding without collapsing physical meaning**
+- Begin system design from **physical models and constraints**
+- Treat control theory as a **core structural element**
+- Use AI / LLMs as **supervisory and analytical layers**, not controllers
+- Require **cross-domain understanding without collapsing physical meaning**
 
-⚠️ This is **not an introductory tutorial site**.  
+⚠️ This is **not an introductory site**.  
 It is a **reference archive for design-oriented engineering work**.
 
 ---
 
 ## 🧭 What Is Samizo-AITL?
 
-The **Samizo-AITL Portal**, created by **Shinichi Samizo**, reorganizes  
-semiconductor devices, MEMS, and control engineering around a  
-**shared physical-first design philosophy**.
+The **Samizo-AITL Portal**, created by **Shinichi Samizo**,  
+reorganizes semiconductor devices, MEMS, and control engineering  
+around a **shared physical-first design framework**.
 
-Instead of explaining technologies in isolation,  
-systems are presented through a **single causal chain**:
+Rather than treating technologies in isolation,  
+systems are presented along a single causal chain:
 
 **Physics → Structure → Devices → Process → Models → Systems → Control → Intelligence**
 
-This approach allows readers to follow *why* design decisions exist,  
-not just *how* to implement them.
+This structure enables readers to trace  
+**design rationale and constraints**, not only implementation details.
 
 ---
 
