@@ -19,6 +19,22 @@ description: A physical-first engineering archive integrating semiconductor devi
 
 ---
 
+## 🔍 For Reviewers, Evaluators, and Potential Collaborators (Key Points)
+
+> This portal presents  
+> **an engineering architecture that integrates physics-based models, control theory, and AI  
+> while preserving implementation responsibility and explainability**.  
+>  
+> **PID** is used exclusively for real-time control,  
+> **FSM** clarifies system states and decision boundaries, and  
+> **AI (LLMs)** are strictly limited to **design-time analysis and redesign support**.  
+>  
+> By explicitly preventing AI from intervening in real-time control,  
+> this portal focuses on **engineering systems that prioritize safety, reproducibility,  
+> and objective evaluability**.
+
+---
+
 ## ▶ For First-Time Visitors (Overview)
 
 A short slide deck summarizing  
