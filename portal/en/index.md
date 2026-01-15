@@ -7,7 +7,7 @@ description: A physical-first engineering archive that integrates devices, contr
 # 🎓 Samizo-AITL Portal  
 > **A physical-first engineering framework  
 > that integrates devices, control, and intelligence  
-> through a unified causal structure**
+> through a unified causal loop back to the physical world**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
