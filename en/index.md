@@ -6,7 +6,8 @@ description: Architecture for Integrated Technology Logic — a physical-first e
 
 # 🎓 Samizo-AITL Portal
 **A physical-first engineering archive  
-that explains *why* systems can be designed the way they are.**
+that explains *why* systems can be designed the way they are —  
+and how they ultimately return to the physical world.**
 
 > ✅ **AI is not a replacement for control — it is a design supervisor**  
 > ✅ **Engineering starts from physical quantities, not abstractions**  
