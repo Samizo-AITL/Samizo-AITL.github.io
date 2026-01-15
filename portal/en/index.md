@@ -532,7 +532,7 @@ the control architecture concepts presented in this portal.
 
 A boundary domain where  
 **abstract models are tested against real physical structures**,  
-revealing the limits of simplification.
+revealing the limits of simplification and guiding design decisions toward MEMS.
 
 ---
 
