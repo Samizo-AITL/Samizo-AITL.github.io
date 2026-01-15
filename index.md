@@ -5,7 +5,7 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 ---
 
 # 🎓 Samizo-AITL Portal
-**物理 → デバイス → 制御 → AI** を、  
+**物理 → デバイス → 制御 → AI → 物理** を、  
 **「なぜその設計で性能が出るのか」を説明できる因果構造**として統合する  
 **中級〜上級設計者向け 技術アーカイブ**です。
 
