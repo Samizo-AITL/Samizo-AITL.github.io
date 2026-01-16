@@ -658,8 +658,8 @@ and AITL architectures.
 definition layer upon which Samizo-AITL builds its control
 and intelligence architectures.**
 
-[![Project Page](https://img.shields.io/badge/View-Full%20Code%20Mechanical%20Design-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
 
 ---
 
@@ -674,7 +674,8 @@ physical, device-level, and multiphysics behaviors over time.
 These demos are intended to provide a **visual understanding of system structure and behavior**  
 prior to engaging with equations or code.
 
-[![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-animation-demos)
 
 ---
 
