@@ -492,10 +492,10 @@ AI / LLM を用いた制御システムを
 **実務で使える形に統合すること**を目的としています。
 
 🔗 **プロジェクトページ（GitHub Pages）**  
-[AI Control Safety Package](https://samizo-aitl.github.io/ai-control-safety-package/)
+[**AI Control Safety Package**](https://samizo-aitl.github.io/ai-control-safety-package/)
 
-🔧 リポジトリ：  
-[Samizo-AITL/ai-control-safety-package](https://github.com/Samizo-AITL/ai-control-safety-package)
+🔧 **リポジトリ**：  
+[**Samizo-AITL/ai-control-safety-package**](https://github.com/Samizo-AITL/ai-control-safety-package)
 
 ---
 
