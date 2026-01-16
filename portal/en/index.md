@@ -290,7 +290,7 @@ cannot ignore physical reality**,
 based on real-world chains of **manufacturing, testing,
 and market decision-making**.
 
-[Open Legacy Technology](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/legacy/)
 
 > 🔐 **Note on Confidentiality**  
 > This archive is based exclusively on semiconductor technologies  
