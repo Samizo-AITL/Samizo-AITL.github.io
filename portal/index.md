@@ -256,7 +256,7 @@ Samizo-AITL/
 👉 「なぜ AI や制御は**現実を無視できない**のか」を、  
 実在した **製造・テスト・市場判断の連鎖**から理解するための資料群です。
 
-[Open Legacy Technology](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/legacy/)
 
 > 🔐 **機密性に関する明示**  
 > 本アーカイブは、**20年以上前（1990年代後半〜2000年代初頭）**の  
