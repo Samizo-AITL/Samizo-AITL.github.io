@@ -9,14 +9,9 @@ description: A physical-first engineering archive that integrates devices, contr
 > that integrates devices, control, and intelligence  
 > through a unified causal loop back to the physical world**
 
+[![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
-
----
-
-## 🌐 Language
-[![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/)
-[![English Version](https://img.shields.io/badge/English-Version-blue?logo=github)](https://samizo-aitl.github.io/portal/en/)
 
 ---
 
