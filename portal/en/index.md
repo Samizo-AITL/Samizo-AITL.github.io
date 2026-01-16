@@ -517,11 +517,8 @@ AI / LLM-based control systems **safely and responsibly**.
 This is a **practice-oriented project** derived from  
 the control architecture concepts presented in this portal.
 
-🔗 **Project Page (GitHub Pages)**  
-[**AI Control Safety Package**](https://samizo-aitl.github.io/ai-control-safety-package/)
-
-🔧 **Repository**:  
-[**Samizo-AITL/ai-control-safety-package**](https://github.com/Samizo-AITL/ai-control-safety-package)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/ai-control-safety-package/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/ai-control-safety-package)
 
 ---
 
