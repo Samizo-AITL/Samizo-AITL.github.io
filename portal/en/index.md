@@ -274,6 +274,7 @@ based on real-world chains of **manufacturing, testing,
 and market decision-making**.
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy)
 
 ### ▶ Representative Cases
 
