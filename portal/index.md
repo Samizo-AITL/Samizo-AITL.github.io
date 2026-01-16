@@ -186,6 +186,7 @@ Samizo-AITL/
 👉 **Edusemi-v4x における「物理 → システム統合」への橋渡し位置づけ。**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/f_chapter2a_systemdk) 
 
 ---
 
