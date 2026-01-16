@@ -214,6 +214,7 @@ A special chapter that builds upon physics-based device and circuit knowledge an
 👉 **Positioned as a bridge from “physics” to “system integration” within Edusemi-v4x.**
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-v4x/f_chapter2a_systemdk/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/f_chapter2a_systemdk) 
 
 ---
 
