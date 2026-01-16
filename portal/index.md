@@ -637,7 +637,8 @@ PID 制御・FSM・LLM を含む AITL 構造や、
 数式やコードに入る前段として、  
 **振る舞いと構造を時間軸上で把握すること**を目的とする。
 
-[![View Demos](https://img.shields.io/badge/View-Demos-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-animation-demos/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-animation-demos)
 
 ---
 
