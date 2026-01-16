@@ -422,7 +422,7 @@ LLM を **非実時間の設計支援層**として分離した
 以下のインタラクティブ Playground を参照してください。
 
 👉 **AITL Control Playground（操作デモ）** 
-🔗 [![playground](https://img.shields.io/badge/Demo-playground-brightgreen?logo=github)](/playground/)
+🔗 [/playground/](/playground/)
 
 - PID ゲインを変更し、安定性・発振・収束を観察
 - FSM のモード切替（TRACK / HOLD / MANUAL）を体験
