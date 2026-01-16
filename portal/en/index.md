@@ -448,7 +448,7 @@ and **where adaptation must stop and design reconsideration begins**,
 please refer to the interactive playground below.
 
 👉 **AITL Control Playground (Interactive)**  
-🔗 [/playground/](/playground/)
+[![Playground](https://img.shields.io/badge/Demo-AITL%20Control%20Playground-blue?logo=github)](/playground/)
 
 - Tune PID gains and observe stability, oscillation, and recovery
 - Switch FSM modes (TRACK / HOLD / MANUAL)
