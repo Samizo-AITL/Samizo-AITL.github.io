@@ -746,7 +746,7 @@ Webベース設計知識ハブ』**
 
 # 🔐 利用条件とライセンスについて（ハイブリッド方式）
 
-[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/portal/#--license)
+[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/portal/#-🔐 利用条件とライセンスについて（ハイブリッド方式）--license)
 
 本ポータルは **ハイブリッドライセンス方式**を採用しています。
 
