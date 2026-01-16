@@ -620,8 +620,8 @@ MEMS／流体世界と接続する **物理的インタフェースの実体**�
 Samizo-AITL における  
 「物理構造を設計資産として固定化するための基盤方法論」である。**
 
-[![Project Page](https://img.shields.io/badge/View-Full%20Code%20Mechanical%20Design-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
 
 ---
 
