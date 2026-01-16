@@ -241,6 +241,7 @@ Samizo-AITL/
 実在した **製造・テスト・市場判断の連鎖**から理解するための資料群です。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/Edusemi-Plus/tree/main/archive/legacy)
 
 ### ▶ 主なケース
 
