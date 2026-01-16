@@ -267,6 +267,13 @@ yield recovery, and business decisions**.
 - Recoveries are **bounded optimizations under real limitations**, not ideal solutions  
 - Many of these structures **reappear in modern SoC, AI accelerators, and advanced nodes**
 
+These materials explain **why AI and control architectures
+cannot ignore physical reality**,  
+based on real-world chains of **manufacturing, testing,
+and market decision-making**.
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
+
 ### ▶ Representative Cases
 
 - **0.25µm DRAM (1998)**  
@@ -279,13 +286,6 @@ yield recovery, and business decisions**.
   DRAM-derived architecture operated under mobile conditions (90 °C)  
   → Technical recovery followed by strategic termination  
   🔗 [**Open VSRAM Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/vsram_2001/)
-
-These materials explain **why AI and control architectures
-cannot ignore physical reality**,  
-based on real-world chains of **manufacturing, testing,
-and market decision-making**.
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
 
 > 🔐 **Note on Confidentiality**  
 > This archive is based exclusively on semiconductor technologies  
