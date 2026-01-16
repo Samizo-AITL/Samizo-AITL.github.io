@@ -13,9 +13,9 @@
 Samizo-AITL の設計思想および全体構造を、  
 短いスライド形式で整理しています。
 
-📌 **初めて閲覧される場合は、本文に入る前に参照することを推奨します。**
+📌 **初めて閲覧される場合は、本文に入る前に必ずご確認ください。**
 
-▶ **[Overview スライドを見る](https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html)**
+[![Overview Slides](https://img.shields.io/badge/Overview-Slides-blue?style=for-the-badge&logo=github)](https://samizo-aitl.github.io/about/marp/samizo-aitl-presentation.html)
 
 ----
 
@@ -241,12 +241,12 @@ Samizo-AITL/
 - **0.25µm DRAM (1998)**  
   プロセス統合・リーク支配・Pause / Disturb 不良・Bin戦略  
   → 歩留まり回復と限界の顕在化  
-  🔗 [Open DRAM 0.25µm Case](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/dram_025um/)
+  🔗 [**Open DRAM 0.25µm Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/dram_025um/)
 
 - **VSRAM (Pseudo-SRAM, 2001)**  
   DRAM派生アーキテクチャをモバイル条件（90 °C）で運用した境界事例  
   → 技術的成功と戦略的撤退  
-  🔗 [Open VSRAM Case](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/vsram_2001/)
+  🔗 [**Open VSRAM Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/vsram_2001/)
 
 👉 「なぜ AI や制御は**現実を無視できない**のか」を、  
 実在した **製造・テスト・市場判断の連鎖**から理解するための資料群です。
