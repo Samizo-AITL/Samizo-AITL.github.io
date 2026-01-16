@@ -22,7 +22,7 @@ the **design philosophy and overall structure of Samizo-AITL**.
 
 Readers new to the portal are encouraged to start here.
 
-▶ [Overview slides](https://samizo-aitl.github.io/about/marp/en/samizo-aitl-presentation.html)
+▶ [**Overview slides**](https://samizo-aitl.github.io/about/marp/en/samizo-aitl-presentation.html)
 
 ---
 
