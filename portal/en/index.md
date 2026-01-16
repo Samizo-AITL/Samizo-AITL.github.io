@@ -779,7 +779,7 @@ Independent Semiconductor Researcher
 
 # 🔐 License & Terms of Use (Hybrid Model)
 
-[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/portal/en//#-license)
+[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/portal/en//#---license)
 
 This portal adopts a **hybrid licensing model**.
 
