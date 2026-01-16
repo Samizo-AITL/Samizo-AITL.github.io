@@ -493,11 +493,8 @@ AI / LLM を用いた制御システムを
 （Envelope Control / Recovery Control / AITL）を  
 **実務で使える形に統合すること**を目的としています。
 
-🔗 **プロジェクトページ（GitHub Pages）**  
-[**AI Control Safety Package**](https://samizo-aitl.github.io/ai-control-safety-package/)
-
-🔧 **リポジトリ**：  
-[**Samizo-AITL/ai-control-safety-package**](https://github.com/Samizo-AITL/ai-control-safety-package)
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/ai-control-safety-package/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/ai-control-safety-package)
 
 ---
 
