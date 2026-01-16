@@ -236,6 +236,11 @@ Samizo-AITL/
 - 成功は「最適解」ではなく **制約下での回復**
 - 多くの構造は、**現代の SoC / AI / 先端デバイスでも再出現**します
 
+👉 「なぜ AI や制御は**現実を無視できない**のか」を、  
+実在した **製造・テスト・市場判断の連鎖**から理解するための資料群です。
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
+
 ### ▶ 主なケース
 
 - **0.25µm DRAM (1998)**  
@@ -248,11 +253,6 @@ Samizo-AITL/
   → 技術的成功と戦略的撤退  
   🔗 [**Open VSRAM Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/vsram_2001/)
 
-👉 「なぜ AI や制御は**現実を無視できない**のか」を、  
-実在した **製造・テスト・市場判断の連鎖**から理解するための資料群です。
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/)
-
 > 🔐 **機密性に関する明示**  
 > 本アーカイブは、**20年以上前（1990年代後半〜2000年代初頭）**の  
 > 半導体技術を対象としています。  
@@ -261,7 +261,7 @@ Samizo-AITL/
 > 企業機密は一切含まれていません。**  
 > 本資料は **失敗・回復・意思決定の因果構造**を保存することを目的としています。
 
----
+--
 
 ## 4. openlane2-sram｜SRAMマクロ統合・物理設計実証
 OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS まで完走する**  
