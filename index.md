@@ -13,7 +13,7 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 > ✅ **制御設計は V–I（電圧–電流）や物理量から始める**  
 > ✅ **手法ではなく、再利用できる「設計ロジック」として残す**
 
-[![English Version](https://img.shields.io/badge/English-Version-blue?logo=github)](/en/)
+[![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](/en/)
 
 ---
 
