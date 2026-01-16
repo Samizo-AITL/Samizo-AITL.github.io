@@ -422,6 +422,7 @@ LLM を **非実時間の設計支援層**として分離した
 以下のインタラクティブ Playground を参照してください。
 
 👉 **AITL Control Playground（操作デモ）** 
+🔗 [![playground](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](/playground/)
 🔗 [Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](/playground/)
 🔗 [/playground/](/playground/)
 
