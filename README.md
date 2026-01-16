@@ -14,9 +14,9 @@
 初見の方は **/portal/** を先に見るのがおすすめです。  
 「全体の地図（AITL）」を掴むと、以降の資料が速く読めます。
 
-- **推奨：まず全体像** → [/portal/](/portal/)  
-- **半導体（物理・プロセス・デバイス）から** → [/Edusemi-v4x/](/Edusemi-v4x/)  
-- **制御（PID・FSM・AI）から** → [/EduController/](/EduController/)
+- **推奨：まず全体像** → [**portal**](/portal/)  
+- **半導体（物理・プロセス・デバイス）から** → [**Edusemi-v4x**](/Edusemi-v4x/)  
+- **制御（PID・FSM・AI）から** → [**EduController**](/EduController/)
 
 ---
 
@@ -51,15 +51,15 @@
 
 ## 🚪 入口（目的別ナビ）
 ### ▶ 🧠 全体思想・構造を見る（最初に推奨）
-→ [/portal/](/portal/)  
+→ [**portal**](/portal/)  
 *AITL（Architecture for Integrated Technology Logic）の全体像と因果構造*
 
 ### ▶ ⚙️ 半導体から入る（物理・プロセス・デバイス）
-→ [/Edusemi-v4x/](/Edusemi-v4x/)  
+→ [**Edusemi-v4x**](/Edusemi-v4x/)  
 *物理量から設計判断へつなぐロジック（V–I を含む）*
 
 ### ▶ 🤖 制御とAIを見る（PID / FSM / AI）
-→ [/EduController/](/EduController/)  
+→ [**EduController**](/EduController/)  
 *役割分担で成立させる制御アーキテクチャと設計思想*
 
 ---
