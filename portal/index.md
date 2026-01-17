@@ -751,9 +751,9 @@ Webベース設計知識ハブ』**
 
 | 📌 項目 | ライセンス | 説明 |
 |--------|------------|------|
-| **💻 ソースコード** | **MIT License** | 自由に使用・改変・再配布可能 |
-| **📄 テキスト教材** | **CC BY 4.0** または **CC BY-SA 4.0** | 出典明記必須（BY-SA は継承条件あり） |
-| **📊 図・ダイアグラム** | **CC BY-NC 4.0** | 非商用利用に限定 |
+| **💻 ソースコード** | [**MIT License**](https://opensource.org/licenses/MIT) | 自由に使用・改変・再配布可能 |
+| **📄 テキスト教材** | [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/) または [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) | 出典明記必須（BY-SA は継承条件あり） |
+| **📊 図・ダイアグラム** | [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) | 非商用利用に限定 |
 | **🔗 外部参照資料** | 元ライセンスに従う | 出典を適切に明記すること |
 
 ## ⚠️ AITL アーキテクチャおよび方法論に関する重要な注意
