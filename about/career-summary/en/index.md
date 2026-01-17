@@ -29,7 +29,7 @@ and organizing it into reusable and structured forms.”**
 ### 💾 Semiconductor Device Development (1997–2006)
 - Process integration for logic, memory, and high-voltage CMOS  
   in the 0.35–0.18 µm technology generations
-- DRAM and VSRAM mass production ramp-up, yield improvement, and failure analysis
+- DRAM and PSRAM mass production ramp-up, yield improvement, and failure analysis
 - Development and practical deployment of high-voltage mixed CMOS  
   for a-TFT driver IC applications
 
