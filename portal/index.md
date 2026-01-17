@@ -1,6 +1,6 @@
 # 🎓 Samizo-AITL Portal  
 > **物理 → デバイス → 制御 → 知能化 → 物理  
-> ―― 実世界に戻る因果構造として統合した技術アーカイブ**
+> ―― 実世界に戻る因果構造として統合した設計知識アーカイブ**
 
 [![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/en/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
