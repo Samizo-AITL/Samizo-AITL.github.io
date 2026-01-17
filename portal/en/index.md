@@ -784,9 +784,9 @@ This portal adopts a **hybrid licensing model**.
 
 | 📌 Item | License | Description |
 |--------|---------|-------------|
-| **💻 Source Code** | **MIT License** | Free to use, modify, and redistribute |
-| **📄 Text Materials** | **CC BY 4.0** or **CC BY-SA 4.0** | Attribution required; share-alike applies for BY-SA |
-| **📊 Figures & Diagrams** | **CC BY-NC 4.0** | Non-commercial use only |
+| **💻 Source Code** | [**MIT License**](https://opensource.org/licenses/MIT) | Free to use, modify, and redistribute |
+| **📄 Text Materials** | [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/) or [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) | Attribution required; share-alike applies for BY-SA |
+| **📊 Figures & Diagrams** | [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) | Non-commercial use only |
 | **🔗 External References** | Follow the original license | Cite the original source properly |
 
 ## ⚠️ Important Note on AITL Architecture and Methodology
