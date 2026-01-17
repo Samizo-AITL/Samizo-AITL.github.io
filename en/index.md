@@ -9,9 +9,9 @@ description: Architecture for Integrated Technology Logic — a physical-first e
 that explains *why* systems can be designed the way they are —  
 and how they ultimately return to the physical world.**
 
-> ✅ **AI is not a replacement for control — it is a design supervisor**  
-> ✅ **Engineering starts from physical quantities, not abstractions**  
-> ✅ **Design logic should be reusable, explainable, and reviewable**
+> ✅ **AI never replaces real-time control — it is restricted to design-time supervision**  
+> ✅ **Engineering begins with physical quantities, not abstract optimization**  
+> ✅ **Design logic must be reusable, explainable, and reviewable**
 
 [![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](/)
 
