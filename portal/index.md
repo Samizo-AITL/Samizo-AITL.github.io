@@ -250,10 +250,10 @@ Samizo-AITL/
   → 歩留まり回復と限界の顕在化  
   🔗 [**Open DRAM 0.25µm Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/dram_025um/)
 
-- **VSRAM (Pseudo-SRAM, 2001)**  
+- **PSRAM (Pseudo-SRAM, 2001)**  
   DRAM派生アーキテクチャをモバイル条件（90 °C）で運用した境界事例  
   → 技術的成功と戦略的撤退  
-  🔗 [**Open VSRAM Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/vsram_2001/)
+  🔗 [**Open PSRAM Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/psram_2001/)
 
 > 🔐 **機密性に関する明示**  
 > 本アーカイブは、**20年以上前（1990年代後半〜2000年代初頭）**の  
