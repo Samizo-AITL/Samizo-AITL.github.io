@@ -284,10 +284,10 @@ and market decision-making**.
   → Yield recovery and structural limits revealed  
   🔗 [**Open DRAM 0.25µm Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/dram_025um/)
 
-- **VSRAM (Pseudo-SRAM, 2001)**  
+- **PSRAM (Pseudo-SRAM, 2001)**  
   DRAM-derived architecture operated under mobile conditions (90 °C)  
   → Technical recovery followed by strategic termination  
-  🔗 [**Open VSRAM Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/vsram_2001/)
+  🔗 [**Open PSRAM Case**](https://samizo-aitl.github.io/Edusemi-Plus/archive/legacy/psram_2001/)
 
 > 🔐 **Note on Confidentiality**  
 > This archive is based exclusively on semiconductor technologies  
