@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 🎮 AITL Control Playground (PID × FSM Runtime)
 
 🚀 This playground provides an **interactive exploration of runtime control behavior**  
