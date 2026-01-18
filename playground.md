@@ -135,4 +135,4 @@ real-world control failure mode:
   </div>
 </div>
 
-<script src="{{ '/assets/js/aitl_playground.js' | relative_url }}"></script>
+<script src="/assets/js/aitl_playground.js"></script>
