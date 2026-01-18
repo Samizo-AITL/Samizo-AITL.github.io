@@ -1,17 +1,20 @@
 (() => {
   "use strict";
 
-  // =========================================================
-  // Helpers
-  // =========================================================
-  const clamp01 = (v) => Math.max(0, Math.min(1, v));
-  const lerp = (a, b, t) => a + (b - a) * t;
+// =========================================================
+// Helpers
+// =========================================================
+const clamp01 = (v) => Math.max(0, Math.min(1, v));
+const lerp = (a, b, t) => a + (b - a) * t;
 
-  function $(id) {
-    const el = document.getElementById(id);
-    if (!el) throw new Error(`Missing element: ${id}`);
-    return el;
+function $(id) {
+  const el = document.getElementById(id);
+  if (!el) {
+    console.warn(`[AITL Playground] Missing element: ${id}`);
+    return null;   // ← ★ throw をやめる
   }
+  return el;
+}
 
   // =========================================================
   // UI elements
