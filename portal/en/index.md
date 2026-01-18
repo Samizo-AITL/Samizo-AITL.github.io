@@ -229,6 +229,9 @@ An **implementation-oriented development kit** bridging semiconductor device the
 
 👉 **Transforming physical device understanding into executable design flows.**
 
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
+
 ### ■ Device Modeling Example (Short Channel Effect)
 
 <img src="https://samizo-aitl.github.io/SemiDevKit/assets/bsim4_analyzer_dim/nmos_vgid.png" width="60%">
@@ -238,9 +241,6 @@ showing **channel-length (L) dependent behavior**.
 The increase in drain current and slope variation with reduced L  
 clearly reflects **Short Channel Effects**, including  
 *threshold voltage roll-off* and *mobility degradation*.
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/SemiDevKit/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/SemiDevKit)
 
 ---
 
