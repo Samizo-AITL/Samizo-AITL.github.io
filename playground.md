@@ -1,54 +1,56 @@
----
-layout: default
-title: AITL Control Playground
-permalink: /playground/
----
-
 # 🎮 AITL Control Playground (PID × FSM Runtime)
 
 [![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/aitl-controller-a-type//#-license)
 
-This playground provides an **interactive exploration of runtime control behavior**
+🚀 This playground provides an **interactive exploration of runtime control behavior**  
 based on the **PID × FSM core of the AITL architecture**.
 
-This page is intentionally limited to **runtime execution and supervision**.
-It does **not** implement adaptive learning or design intelligence in real time.
+🧪 This page is intentionally focused on **runtime execution and supervision only**.  
+🧠 **Adaptive learning, design intelligence, or online optimization** are **not** implemented here.
 
 ---
 
-## Scope and Assumptions
+## 🔍 Scope and Assumptions
 
-- **Plant**: 1st-order lag system  
-- **Controller (runtime)**: Discrete-time PID  
-- **Supervisor (runtime)**: FSM with explicit modes  
-  - TRACK  
-  - HOLD  
-  - MANUAL  
+### ⚙️ System Model
+- 🏭 **Plant**: 1st-order lag system  
+- 🎛 **Controller (runtime)**: Discrete-time PID controller  
+- 🧭 **Supervisor (runtime)**: FSM with explicit operating modes  
 
-> **Architectural Scope Note**  
-> This playground demonstrates **only the runtime layer** of AITL  
-> (PID × FSM).
+### 🔄 FSM Modes
+- 🎯 **TRACK** — Reference tracking mode  
+- ✋ **HOLD** — State holding mode  
+- 🕹 **MANUAL** — Manual intervention mode  
+
+---
+
+> 🏗 **Architectural Scope Note**
 >
-> Any references below to “diagnostics”, “analysis”, or “design comments”
+> This playground demonstrates **only the runtime layer of AITL**  
+> (**PID × FSM**).
+>
+> 📝 Any references below to *“diagnostics”*, *“analysis”*, or *“design comments”*  
 > represent **offline, design-time interpretation of logged behavior**.
->  
-> No LLM, NN, or RL component participates in real-time control on this page.
+>
+> 🚫 No **LLM**, **NN**, or **RL** component participates in  
+> **real-time control** on this page.
 
 ---
 
-## How to Start (Recommended Baseline)
+## ▶️ How to Start (Recommended Baseline)
 
-Begin with the following initial gains:
+Begin with the following initial gains 👇
 
-- **Kp = 2.0**
-- **Ki = 0.6**
-- **Kd = 0.1**
+- 🎚 **Kp = 2.0**
+- ♾ **Ki = 0.6**
+- ⚡ **Kd = 0.1**
 
-Increasing **Ki** introduces excessive integral action,
-often leading to oscillation or instability.
+⚠️ Increasing **Ki** introduces excessive integral action,  
+which often leads to 📈 **oscillation** or 💥 **instability**.
 
-This behavior is **intentional** and illustrates a common
-real-world control failure mode.
+🎓 This behavior is **intentional** and illustrates a common  
+real-world control failure mode:  
+❌ *integral windup and over-integration*.
 
 ---
 
