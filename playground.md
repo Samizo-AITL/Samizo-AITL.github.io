@@ -1,7 +1,5 @@
 # 🎮 AITL Control Playground (PID × FSM Runtime)
 
-[![Hybrid License](https://img.shields.io/badge/license-Hybrid-blueviolet)](https://samizo-aitl.github.io/aitl-controller-a-type/#---license)
-
 🚀 This playground provides an **interactive exploration of runtime control behavior**  
 based on the **PID × FSM core of the AITL architecture**.
 
