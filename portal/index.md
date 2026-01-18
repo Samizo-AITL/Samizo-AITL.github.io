@@ -72,38 +72,45 @@ Samizo-AITL は、以下のような利用者を想定しています。
 ### ▶ 論理構造（AITL）
 
 ```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 60, "rankSpacing": 80}}}%%
 flowchart TB
+
   %% ===== Physical Layer =====
   subgraph PL["Physical Layer（内側）"]
-    direction TB
     P["Physical / Devices / MEMS"]
   end
 
+  %% spacer
+  SP1[" "]:::spacer
+
   %% ===== Control Layer =====
   subgraph CL["Control Layer（中間）"]
-    direction TB
     M["Models"]
+    SP2[" "]:::spacer
     C["Control Theory"]
+    SP3[" "]:::spacer
     R["Real-time PID Loop"]
   end
 
-  %% ===== Supervisory & Design Layer =====
+  %% ===== Supervisory Layer =====
+  SP4[" "]:::spacer
   subgraph SL["Supervisory & Design Layer（外側）"]
-    direction TB
     S["FSM Supervisor"]
     A["Adaptive Assist\n(NN / RL, bounded)"]
     I["LLM Intelligence\n(Design-time only)"]
   end
 
-  %% ===== Flow（明示的に分離）=====
-  P --> M
-  M --> C
-  C --> R
-  R --> S
+  %% ===== Flow =====
+  P --> SP1 --> M
+  M --> SP2 --> C
+  C --> SP3 --> R
+  R --> SP4 --> S
   S --> A
   S --> I
 
-  %% ===== Style =====
+  %% ===== Styles =====
+  classDef spacer fill:transparent,stroke:transparent
+
   style PL fill:#e6f2ff,stroke:#1f4ed8,stroke-width:2px
   style CL fill:#e9ffe6,stroke:#1f8b24,stroke-width:2px
   style SL fill:#fff3e6,stroke:#d86b1f,stroke-width:2px
