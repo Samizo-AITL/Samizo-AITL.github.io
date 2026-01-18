@@ -1,5 +1,7 @@
 ---
 layout: default
+title: AITL Control Playground
+permalink: /playground/
 ---
 
 # 🎮 AITL Control Playground (PID × FSM Runtime)
