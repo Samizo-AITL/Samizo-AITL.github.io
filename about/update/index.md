@@ -4,8 +4,6 @@ title: 更新履歴（Update Log)
 description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポートフォリオ更新履歴）
 ---
 
----
-
 # 🕘 更新履歴（Update Log)
 
 このページでは、「Technical Portfolio by Shinichi Samizo」および  
