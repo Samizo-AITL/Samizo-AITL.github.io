@@ -3,8 +3,6 @@ layout: default
 title: Update Log
 ---
 
----
-
 # 🕘 Update Log
 
 This page documents the update history of the "Technical Portfolio by Shinichi Samizo,"  
