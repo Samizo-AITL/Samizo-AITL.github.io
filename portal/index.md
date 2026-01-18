@@ -75,11 +75,13 @@ Samizo-AITL は、以下のような利用者を想定しています。
 flowchart TB
   %% ===== Physical Layer =====
   subgraph PL["Physical Layer（内側）"]
+    direction TB
     P["Physical / Devices / MEMS"]
   end
 
   %% ===== Control Layer =====
   subgraph CL["Control Layer（中間）"]
+    direction TB
     M["Models"]
     C["Control Theory"]
     R["Real-time PID Loop"]
@@ -87,12 +89,13 @@ flowchart TB
 
   %% ===== Supervisory & Design Layer =====
   subgraph SL["Supervisory & Design Layer（外側）"]
+    direction TB
     S["FSM Supervisor"]
     A["Adaptive Assist\n(NN / RL, bounded)"]
     I["LLM Intelligence\n(Design-time only)"]
   end
 
-  %% ===== Flow =====
+  %% ===== Flow（明示的に分離）=====
   P --> M
   M --> C
   C --> R
