@@ -88,12 +88,46 @@ This structure enables readers to trace
 
 ```mermaid
 flowchart TB
-  P["Physical / Devices / MEMS"] --> M["Models"]
-  M --> C["Control Theory"]
-  C --> R["Real-time PID Loop"]
-  R --> S["FSM Supervisor"]
-  S --> A["Adaptive Assist (NN-RL, bounded)"]
-  S --> I["LLM Intelligence (Design-time)"]
+  %% ===== Physical Layer =====
+  subgraph PL["Physical Layer（Inner Layer）"]
+    P["Physical / Devices / MEMS"]
+  end
+
+  %% ===== Control Layer =====
+  subgraph CL["Control Layer（Middle Layer）"]
+    M["Models"]
+    C["Control Theory"]
+    R["Real-time PID Loop"]
+  end
+
+  %% ===== Supervisory & Design Layer =====
+  subgraph SL["Supervisory & Design Layer（Outer Layer）"]
+    S["FSM Supervisor"]
+    A["Adaptive Assist\n(NN / RL, bounded)"]
+    I["LLM Intelligence\n(Design-time only)"]
+  end
+
+  %% ===== Flow =====
+  P --> M
+  M --> C
+  C --> R
+  R --> S
+  S --> A
+  S --> I
+
+  %% ===== Style =====
+  style PL fill:#e6f2ff,stroke:#1f4ed8,stroke-width:2px
+  style CL fill:#e9ffe6,stroke:#1f8b24,stroke-width:2px
+  style SL fill:#fff3e6,stroke:#d86b1f,stroke-width:2px
+
+  style P fill:#cce0ff
+  style M fill:#ccffcc
+  style C fill:#ccffcc
+  style R fill:#b3ffb3
+
+  style S fill:#ffe0b3
+  style A fill:#ffd699
+  style I fill:#ffcc99,stroke-dasharray:5 5
 ```
 ※ LLM operates only at design-time for analysis and redesign, and does not intervene in real-time control.
 
