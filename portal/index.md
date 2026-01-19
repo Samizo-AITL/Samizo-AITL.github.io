@@ -225,6 +225,41 @@ Samizo-AITL/
 
 ---
 
+## openlane2-sram｜SRAMマクロ統合・物理設計実証
+OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS まで完走する**  
+**マクロ対応・物理設計の実践教材**。
+
+- SRAM を **external hard macro（blackbox / LEF / GDS）** として扱う
+- FIXED 配置・halo / keepout を含む **macro-aware floorplanning**
+- OpenLane2 Classic flow による **最終 GDS 生成**
+- SoC 物理設計で一般的な **「SRAM 中身は見ない」設計作法**を明示
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane2-sram/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane2-sram)
+
+### 🔎 Layout Evidence（GDS）
+
+**Figure 1: SRAM Macro Block-Level View**
+
+<img
+  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig01_openlane2_spm_macro_block_level.png"
+  width="80%"
+  alt="SRAM hard macro block-level layout integrated using OpenLane2"
+/>
+
+**Figure 2: Standard-Cell-Level View Around SRAM Macro**
+
+<img
+  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig02_openlane2_spm_standard_cell_level_view.png"
+  width="80%"
+  alt="Standard-cell placement and routing around SRAM hard macro"
+/>
+
+> Note: The SRAM is integrated as a fixed hard macro using abstract views (LEF/GDS).  
+> Its internal transistor-level layout is intentionally not visible, which is consistent with standard SoC physical design practice.
+
+---
+
 ## 3. Edusemi-Plus
 材料・装置・産業構造を、**物理視点で拡張する補助教材**。
 
@@ -278,47 +313,12 @@ Samizo-AITL/
 
 ---
 
-## 4. openlane2-sram｜SRAMマクロ統合・物理設計実証
-OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS まで完走する**  
-**マクロ対応・物理設計の実践教材**。
-
-- SRAM を **external hard macro（blackbox / LEF / GDS）** として扱う
-- FIXED 配置・halo / keepout を含む **macro-aware floorplanning**
-- OpenLane2 Classic flow による **最終 GDS 生成**
-- SoC 物理設計で一般的な **「SRAM 中身は見ない」設計作法**を明示
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane2-sram/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane2-sram)
-
-### 🔎 Layout Evidence（GDS）
-
-**Figure 1: SRAM Macro Block-Level View**
-
-<img
-  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig01_openlane2_spm_macro_block_level.png"
-  width="80%"
-  alt="SRAM hard macro block-level layout integrated using OpenLane2"
-/>
-
-**Figure 2: Standard-Cell-Level View Around SRAM Macro**
-
-<img
-  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig02_openlane2_spm_standard_cell_level_view.png"
-  width="80%"
-  alt="Standard-cell placement and routing around SRAM hard macro"
-/>
-
-> Note: The SRAM is integrated as a fixed hard macro using abstract views (LEF/GDS).  
-> Its internal transistor-level layout is intentionally not visible, which is consistent with standard SoC physical design practice.
-
----
-
 # 🎛 Control & Supervisory Architecture
 実時間制御（PID）を中核とし、FSM による状態監督と非実時間知能によって設計責務を分離する制御アーキテクチャ
 
 ---
 
-## 5. EduController
+## 4. EduController
 PID・FSM を中心に、**制御系の構造そのものを理解するための教材**。
 
 - PID による実時間制御と安定化の役割
@@ -350,7 +350,7 @@ PID・FSM を中心に、**制御系の構造そのものを理解するため�
 
 ---
 
-## 6. AITL-Controller-A-Type
+## 5. AITL-Controller-A-Type
 
 PID × FSM を **実時間制御の中核**とし、  
 NN / RL を **制限付きの実時間適応補助層**、  
@@ -463,7 +463,7 @@ AI / LLM を用いた制御システムを
 
 ---
 
-## 7. V–I Control ASIC on SKY130
+## 6. V–I Control ASIC on SKY130
 V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教材**。
 
 - 電圧–電流（V–I）制御を物理量起点で設計
@@ -516,7 +516,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8. mems-ana
+## 7. mems-ana
 抽象モデルの限界を確認する **pre-FEM MEMS 解析ツール**。
 
 - lumped / 簡易モデルが成立する範囲を可視化
@@ -534,14 +534,14 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 9. 🖨 Inkjet Technology
+## 8. 🖨 Inkjet Technology
 
 インクジェットにおける **物理・駆動・吐出挙動**を、  
 **設計判断に必要な因果構造として整理する技術群**。
 
 ---
 
-## 9-1. Inkjet Printing — Design Trade-off Models
+## 8-1. Inkjet Printing — Design Trade-off Models
 画質・速度・ドット挙動の因果関係を**最小モデルで可視化する教材**。
 
 - ドット形成・吐出条件・駆動条件の因果関係整理
@@ -555,7 +555,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 9-2. inkjet-timing  
+## 8-2. inkjet-timing  
 ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、  
 単一時間軸上で可視化する設計・教育用デモ。
 
@@ -570,7 +570,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 9-3. Inkjet Driver IC — Physical Interface Abstraction
+## 8-3. Inkjet Driver IC — Physical Interface Abstraction
 
 インクジェット駆動ICが **MEMS／流体世界と接続する物理的境界**を、  
 **PDK・プロセス前提込みで定義する設計ノード**。
@@ -611,7 +611,7 @@ MEMS／流体世界と接続する **物理的インタフェースの実体**�
 
 ---
 
-## 10. Full Code Mechanical Design（コード駆動型機械設計）
+## 9. Full Code Mechanical Design（コード駆動型機械設計）
 
 **機械・MEMS 構造を、GUI 操作ではなく  
 「実行可能なコード」として定義する設計方法論**。
