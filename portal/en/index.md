@@ -561,7 +561,19 @@ This tool focuses on capturing **dominant deformation modes, scaling trends, and
 
 ---
 
-## 9. Inkjet Printing — Design Trade-off Models
+## 9. 🖨 Inkjet Technology
+
+A collection of technologies that organize  
+**physical behavior, actuation, and droplet ejection** in inkjet systems  
+as **causal structures required for design decision-making**.
+
+Rather than relying on high-fidelity simulations or empirical heuristics,  
+this framework aims to enable designers to **explicitly explain  
+what is being sacrificed and what is being gained** in each design choice.
+
+---
+
+## 9-1. Inkjet Printing — Design Trade-off Models
 
 Minimal physical models that visualize **fundamental trade-offs in inkjet printing systems**, such as:
 
@@ -578,7 +590,7 @@ This project serves as a domain-specific example of how **physical constraints s
 
 ---
 
-## 10. inkjet-timing  
+## 9-2. inkjet-timing  
 
 A design and educational demo that visualizes **time-domain causality across electrical, mechanical, and fluid domains** in a piezoelectric inkjet system.
 
@@ -593,7 +605,7 @@ By explicitly aligning drive waveforms, structural response, and droplet dynamic
 
 ---
 
-## 11. Inkjet Driver IC — Physical Interface Abstraction
+## 9-3. Inkjet Driver IC — Physical Interface Abstraction
 
 A design node that defines the **physical boundary where an inkjet driver IC interfaces with the MEMS / fluid domain**,  
 explicitly including **PDK and process-level constraints**.
@@ -641,7 +653,7 @@ This layout visually defines:
 
 ---
 
-## 12. Full Code Mechanical Design
+## 10. Full Code Mechanical Design
 
 **A methodology for defining mechanical and MEMS structures
 as executable code rather than GUI-based CAD operations.**
