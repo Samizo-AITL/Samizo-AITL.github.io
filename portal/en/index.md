@@ -569,7 +569,7 @@ as **causal structures required for design decision-making**.
 
 ---
 
-## 8-1. Inkjet Printing — Design Trade-off Models
+## 8-1. 💧 Inkjet Printing — Design Trade-off Models
 
 Minimal physical models that visualize **fundamental trade-offs in inkjet printing systems**, such as:
 
@@ -586,7 +586,7 @@ This project serves as a domain-specific example of how **physical constraints s
 
 ---
 
-## 8-2. inkjet-timing  
+## 8-2. ⚡ inkjet-timing  
 
 A design and educational demo that visualizes **time-domain causality across electrical, mechanical, and fluid domains** in a piezoelectric inkjet system.
 
@@ -601,7 +601,7 @@ By explicitly aligning drive waveforms, structural response, and droplet dynamic
 
 ---
 
-## 8-3. Inkjet Driver IC — Physical Interface Abstraction
+## 8-3. 🧱 Inkjet Driver IC — Physical Interface Abstraction
 
 A design node that defines the **physical boundary where an inkjet driver IC interfaces with the MEMS / fluid domain**,  
 explicitly including **PDK and process-level constraints**.
