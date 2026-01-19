@@ -208,7 +208,7 @@ A foundational layer that systematizes semiconductor and device physics from fir
 
 ---
 
-## 1. Edusemi-v4x
+## 1️⃣ Edusemi-v4x
 A **systematic curriculum** covering semiconductor devices and processes:
 
 - Device structures and operating physics  
@@ -239,7 +239,7 @@ A special chapter that builds upon physics-based device and circuit knowledge an
 
 ---
 
-## 2. SemiDevKit
+## 2️⃣ SemiDevKit
 An **implementation-oriented development kit** bridging semiconductor device theory and practical design workflows:
 
 - Poisson / Drift–Diffusion solvers  
@@ -305,7 +305,7 @@ within an OpenLane2-based physical implementation flow.
 
 ---
 
-## 3. Edusemi-Plus
+## 3️⃣ Edusemi-Plus
 Extended materials connecting semiconductor fundamentals with surrounding domains:
 
 - Advanced materials (SiC, GaN)  
@@ -365,7 +365,7 @@ A control architecture that fixes real-time control to PID as the core, while se
 
 ---
 
-## 4. EduController
+## 4️⃣ EduController
 An educational resource focused on **control fundamentals**:
 
 - PID control principles  
@@ -397,7 +397,7 @@ under **colored, adversarial disturbances**.
 
 ---
 
-## 5. AITL-Controller-A-Type
+## 5️⃣ AITL-Controller-A-Type
 
 A **minimal experimental controller** implemented in Python to explore
 a strict **separation of responsibilities** in control system design:
@@ -487,7 +487,7 @@ the control architecture concepts presented in this portal.
 
 ---
 
-## 6. V–I Control ASIC on SKY130
+## 6️⃣ V–I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from  
 **control theory to silicon** using **PID + FSM**.
 
@@ -541,7 +541,7 @@ A layer that starts from physical models and, through abstraction, control, and 
 
 ---
 
-## 7. mems-ana  
+## 7️⃣ mems-ana  
 **Pre-FEM MEMS Structural Exploration Tool**
 
 A lightweight analysis tool for **early-stage MEMS structural exploration before full FEM simulation**.
@@ -561,7 +561,7 @@ This tool focuses on capturing **dominant deformation modes, scaling trends, and
 
 ---
 
-## 8. 🖨 Inkjet Technology
+## 8️⃣ 🖨 Inkjet Technology
 
 A collection of technologies that organize  
 **physical behavior, actuation, and droplet ejection** in inkjet systems  
@@ -649,7 +649,7 @@ This layout visually defines:
 
 ---
 
-## 9. Full Code Mechanical Design
+## 9️⃣ Full Code Mechanical Design
 
 **A methodology for defining mechanical and MEMS structures
 as executable code rather than GUI-based CAD operations.**
