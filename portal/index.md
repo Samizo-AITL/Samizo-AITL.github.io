@@ -541,7 +541,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8-1. Inkjet Printing — Design Trade-off Models
+## 8-1. 💧 Inkjet Printing — Design Trade-off Models
 画質・速度・ドット挙動の因果関係を**最小モデルで可視化する教材**。
 
 - ドット形成・吐出条件・駆動条件の因果関係整理
@@ -555,7 +555,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8-2. inkjet-timing  
+## 8-2. ⚡ inkjet-timing  
 ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、  
 単一時間軸上で可視化する設計・教育用デモ。
 
@@ -570,7 +570,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8-3. Inkjet Driver IC — Physical Interface Abstraction
+## 8-3. 🧱 Inkjet Driver IC — Physical Interface Abstraction
 
 インクジェット駆動ICが **MEMS／流体世界と接続する物理的境界**を、  
 **PDK・プロセス前提込みで定義する設計ノード**。
