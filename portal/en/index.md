@@ -265,6 +265,46 @@ clearly reflects **Short Channel Effects**, including
 
 ---
 
+##  openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
+This project demonstrates a **complete RTL → GDS flow** using **OpenLane2 (v2)**  
+by integrating an **SRAM hard macro** into a macro-aware physical design.
+
+The focus is not SRAM design itself, but **realistic hard-macro integration**  
+within an OpenLane2-based physical implementation flow.
+
+- SRAM is treated as an **external hard macro** (blackbox / LEF / GDS)
+- **Macro-aware floorplanning** with FIXED placement and halo / keepout
+- **Final GDS generation** using the OpenLane2 Classic flow
+- Explicitly follows standard SoC practice:  
+  **SRAM internals are not exposed or inspected**
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane2-sram/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane2-sram)
+
+### 🔎 Layout Evidence (GDS)
+
+**Figure 1: SRAM Macro Block-Level View**
+
+<img
+  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig01_openlane2_spm_macro_block_level.png"
+  width="80%"
+  alt="SRAM hard macro block-level layout integrated using OpenLane2"
+/>
+
+**Figure 2: Standard-Cell-Level View Around the SRAM Macro**
+
+<img
+  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig02_openlane2_spm_standard_cell_level_view.png"
+  width="80%"
+  alt="Standard-cell placement and routing around the SRAM hard macro"
+/>
+
+> **Note:**  
+> The SRAM is integrated as a fixed hard macro using abstract views (LEF/GDS).  
+> Its internal transistor-level layout is intentionally not visible, which is consistent with standard SoC physical design practice.
+
+---
+
 ## 3. Edusemi-Plus
 Extended materials connecting semiconductor fundamentals with surrounding domains:
 
@@ -320,52 +360,12 @@ and market decision-making**.
 
 ---
 
-## 4. openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
-This project demonstrates a **complete RTL → GDS flow** using **OpenLane2 (v2)**  
-by integrating an **SRAM hard macro** into a macro-aware physical design.
-
-The focus is not SRAM design itself, but **realistic hard-macro integration**  
-within an OpenLane2-based physical implementation flow.
-
-- SRAM is treated as an **external hard macro** (blackbox / LEF / GDS)
-- **Macro-aware floorplanning** with FIXED placement and halo / keepout
-- **Final GDS generation** using the OpenLane2 Classic flow
-- Explicitly follows standard SoC practice:  
-  **SRAM internals are not exposed or inspected**
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane2-sram/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane2-sram)
-
-### 🔎 Layout Evidence (GDS)
-
-**Figure 1: SRAM Macro Block-Level View**
-
-<img
-  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig01_openlane2_spm_macro_block_level.png"
-  width="80%"
-  alt="SRAM hard macro block-level layout integrated using OpenLane2"
-/>
-
-**Figure 2: Standard-Cell-Level View Around the SRAM Macro**
-
-<img
-  src="https://raw.githubusercontent.com/Samizo-AITL/openlane2-sram/main/docs/fig/fig02_openlane2_spm_standard_cell_level_view.png"
-  width="80%"
-  alt="Standard-cell placement and routing around the SRAM hard macro"
-/>
-
-> **Note:**  
-> The SRAM is integrated as a fixed hard macro using abstract views (LEF/GDS).  
-> Its internal transistor-level layout is intentionally not visible, which is consistent with standard SoC physical design practice.
-
----
-
 # 🎛 Control & Supervisory Architecture
 A control architecture that fixes real-time control to PID as the core, while separating design responsibilities through FSM-based supervision and non-real-time intelligence.
 
 ---
 
-## 5. EduController
+## 4. EduController
 An educational resource focused on **control fundamentals**:
 
 - PID control principles  
@@ -397,7 +397,7 @@ under **colored, adversarial disturbances**.
 
 ---
 
-## 6. AITL-Controller-A-Type
+## 5. AITL-Controller-A-Type
 
 A **minimal experimental controller** implemented in Python to explore
 a strict **separation of responsibilities** in control system design:
@@ -487,7 +487,7 @@ the control architecture concepts presented in this portal.
 
 ---
 
-## 7. V–I Control ASIC on SKY130
+## 6. V–I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from  
 **control theory to silicon** using **PID + FSM**.
 
@@ -541,7 +541,7 @@ A layer that starts from physical models and, through abstraction, control, and 
 
 ---
 
-## 8. mems-ana  
+## 7. mems-ana  
 **Pre-FEM MEMS Structural Exploration Tool**
 
 A lightweight analysis tool for **early-stage MEMS structural exploration before full FEM simulation**.
@@ -561,7 +561,7 @@ This tool focuses on capturing **dominant deformation modes, scaling trends, and
 
 ---
 
-## 9. 🖨 Inkjet Technology
+## 8. 🖨 Inkjet Technology
 
 A collection of technologies that organize  
 **physical behavior, actuation, and droplet ejection** in inkjet systems  
@@ -569,7 +569,7 @@ as **causal structures required for design decision-making**.
 
 ---
 
-## 9-1. Inkjet Printing — Design Trade-off Models
+## 8-1. Inkjet Printing — Design Trade-off Models
 
 Minimal physical models that visualize **fundamental trade-offs in inkjet printing systems**, such as:
 
@@ -586,7 +586,7 @@ This project serves as a domain-specific example of how **physical constraints s
 
 ---
 
-## 9-2. inkjet-timing  
+## 8-2. inkjet-timing  
 
 A design and educational demo that visualizes **time-domain causality across electrical, mechanical, and fluid domains** in a piezoelectric inkjet system.
 
@@ -601,7 +601,7 @@ By explicitly aligning drive waveforms, structural response, and droplet dynamic
 
 ---
 
-## 9-3. Inkjet Driver IC — Physical Interface Abstraction
+## 8-3. Inkjet Driver IC — Physical Interface Abstraction
 
 A design node that defines the **physical boundary where an inkjet driver IC interfaces with the MEMS / fluid domain**,  
 explicitly including **PDK and process-level constraints**.
@@ -649,7 +649,7 @@ This layout visually defines:
 
 ---
 
-## 10. Full Code Mechanical Design
+## 9. Full Code Mechanical Design
 
 **A methodology for defining mechanical and MEMS structures
 as executable code rather than GUI-based CAD operations.**
