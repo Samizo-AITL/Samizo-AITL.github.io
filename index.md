@@ -22,9 +22,9 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 **AITL全体構造（物理→制御→AIの役割分担と因果関係）**を掴むことで、  
 以降の教材・資料を **設計視点で高速に読める**ようになります。
 
-- **推奨：全体思想と構造** → [**portal**](/portal/)  
-- **半導体（物理・プロセス・デバイス）から入る** → [**Edusemi-v4x**](/Edusemi-v4x/)  
-- **制御・AI（PID / FSM / AIの役割分担）から入る** → [**EduController**](/EduController/)
+- **推奨：全体思想と構造** → [**/portal/**](/portal/)  
+- **半導体（物理・プロセス・デバイス）から入る** → [**/Edusemi-v4x/**](/Edusemi-v4x/)  
+- **制御・AI（PID / FSM / AIの役割分担）から入る** → [**/EduController/**](/EduController/)
 
 ---
 
@@ -74,15 +74,15 @@ AITL の中核は、**制御とAIの明確な役割分離**です。
 
 ## 🚪 入口（目的別ナビ）
 ### ▶ 🧠 全体思想・構造を把握する
-→ [**portal**](/portal/)  
+→ [**/portal/**](/portal/)  
 *AITL全体構造・因果関係・役割分担の整理*
 
 ### ▶ ⚙️ 半導体・物理から設計を理解する
-→ [**Edusemi-v4x**](/Edusemi-v4x/)  
+→ [**/Edusemi-v4x/**](/Edusemi-v4x/)  
 *物理量（V–I）→ デバイス → 設計判断への接続*
 
 ### ▶ 🤖 制御・AIアーキテクチャを見る
-→ [**EduController**](/EduController/)  
+→ [**/EduController/**](/EduController/)  
 *PID・FSM・AIを分離して成立させる制御設計*
 
 ---
