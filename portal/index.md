@@ -82,12 +82,6 @@ flowchart TB
     I --- D4
 ```
 
-<img
-  src="/assets/img/samizo-aitl-structure.png"
-  alt="Samizo-AITL Technical Architecture"
-  style="width:100%; max-width:1200px; display:block; margin:auto;"
-/>
-
 > 物理 → モデル → 制御 → 知能化 を中核とし、  
 > DevEnv・CodeGen・Docs・Archives を  
 > **因果構造として横断的に統合**しています。
