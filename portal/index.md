@@ -168,7 +168,8 @@ Samizo-AITL/
 
 ---
 
-# 💠 Main Core（中核教材）
+# 💠 Semiconductor Physics & Devices
+物理起点で半導体・デバイスを体系化し、制御設計の前提条件を定義する基盤層
 
 ---
 
@@ -312,7 +313,8 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
-# 🎛 Applied Layer（制御・知能化）
+# 🎛 Control & Supervisory Architecture
+実時間制御（PID）を中核とし、FSM による状態監督と非実時間知能によって設計責務を分離する制御アーキテクチャ
 
 ---
 
@@ -509,9 +511,8 @@ PID + FSM による制御動作が仕様通りであることを確認。
 ---
 
 # ⚙️ MEMS / Physical Boundary
-
 物理モデルを起点に、抽象化・制御・設計判断を経て、  
-最終的に **実体としてのMEMS** に到達する層。
+**抽象モデルが通用しなくなる境界としての MEMS 実体**に到達する層。
 
 ---
 
