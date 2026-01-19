@@ -8,6 +8,9 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 **物理 × デバイス × 制御 × AI を  
 設計判断と結びつく因果構造として整理する技術アーカイブ**
 
+[![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/en/)
+[![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
+
 ---
 
 ## 🧭 これは何か
