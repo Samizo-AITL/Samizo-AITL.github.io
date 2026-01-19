@@ -55,63 +55,25 @@ Samizo-AITL は、以下のような利用者を想定しています。
 
 ## 🧩 AITL Structure Map（全体構造）
 
-### ▶ 全体像（まず図で把握）
-
 ```mermaid
 flowchart TB
   %% ===== Physical Layer =====
-  subgraph Physical["Physical Layer"]
-    P1["Physics"]
-    P2["Devices / MEMS"]
-  end
-
-  %% ===== Control Layer =====
-  subgraph Control["Control Layer"]
-    M["Models"]
-    C["Control Theory"]
-    R["Real-time PID Loop"]
-  end
-
-  %% ===== Supervisory & Design Layer =====
-  subgraph Supervisory["Supervisory & Design Layer"]
-    S["FSM Supervisor"]
-    A["Adaptive Assist<br/>(NN / RL, bounded)"]
-    I["LLM Intelligence<br/>(Design-time only)"]
-  end
-
-  %% ===== Flow =====
-  P1 & P2 --> M --> C --> R --> S --> A
-  S --> I
-```
-
-> AITL は **物理 → モデル → 制御 → 知能化** という  
-> 一方向の因果構造を中核に据え、  
-> DevEnv・CodeGen・Docs・Archives を  
-> **この因果軸に沿って横断的に統合**する設計思想です。
-
----
-
-### ▶ 論理構造（AITL）
-
-```mermaid
-flowchart TB
-  %% ===== Physical Layer =====
-  subgraph PL["Physical Layer（内側）"]
+  subgraph PL["Physical Layer"]
     P["Physical / Devices / MEMS"]
   end
 
   %% ===== Control Layer =====
-  subgraph CL["Control Layer（中間）"]
+  subgraph CL["Control Layer"]
     M["Models"]
     C["Control Theory"]
-    R["Real-time PID Loop"]
+    R["Real-time PID"]
   end
 
   %% ===== Supervisory & Design Layer =====
-  subgraph SL["Supervisory & Design Layer（外側）"]
+  subgraph SL["Supervisory & Design Layer"]
     S["FSM Supervisor"]
-    A["Adaptive Assist<br/>(NN / RL, bounded)"]
-    I["LLM Intelligence<br/>(Design-time only)"]
+    A["Adaptive Assist (NN / RL, bounded)"]
+    I["LLM (Design-time only)"]
   end
 
   %% ===== Flow =====
@@ -124,41 +86,31 @@ flowchart TB
   style CL fill:#e9ffe6,stroke:#1f8b24,stroke-width:2px
   style SL fill:#fff3e6,stroke:#d86b1f,stroke-width:2px
 
-  style P fill:#cce0ff
-  style M fill:#ccffcc
-  style C fill:#ccffcc
-  style R fill:#b3ffb3
-
-  style S fill:#ffe0b3
-  style A fill:#ffd699
-  style I fill:#ffcc99,stroke-dasharray:5 5
+  style I stroke-dasharray:5 5
 ```
 
-※ **LLM は設計時（非実時間）にのみ使用**され、  
-　実時間制御ループ（PID / FSM）には **直接介入しません**。
-
----
-
-### ▶ AITL の三層設計思想
-
 AITL（Architecture for Integrated Technology Logic）は、  
-次の **三層構造**を明確に分離して設計されます。
+**Physical → Control → Intelligence** という一方向の因果構造を中核とした  
+技術設計アーキテクチャです。
 
-- **Physical Layer（内側）**  
-  物理・デバイス・MEMS  
-  → 制約・限界・不確実性を規定する層  
+- **Physical Layer**  
+  物理・デバイス・MEMS によって  
+  システムの制約・限界・不確実性が決定されます。
 
-- **Control Layer（中間）**  
-  モデル・制御理論・PID  
-  → 振る舞い・安定性・応答性能を決定する層  
+- **Control Layer**  
+  物理モデルに基づく制御理論（PID）によって  
+  安定性・応答・性能が保証されます。
 
-- **Supervisory & Design Layer（外側）**  
+- **Supervisory & Design Layer**  
   - **FSM**：状態判断・遷移・介入可否の管理  
-  - **NN / RL**：FSM により許可された範囲での **実時間適応補助（bounded）**  
-  - **LLM**：非実時間での **意味解釈・再設計・設計支援**
+  - **NN / RL**：FSM により許可された範囲での実時間適応補助（bounded）  
+  - **LLM**：非実時間での意味解釈・再設計・設計支援  
 
-> **物理モデルを正しく、最後まで使い切るための知能化**  
-> ――それが AITL の目的です。
+※ **LLM は設計時（非実時間）でのみ使用され、  
+　実時間制御ループには直接介入しません。**
+
+**物理モデルを正しく、最後まで使い切るための知能化**  
+――それが AITL の基本思想です。
 
 ---
 
