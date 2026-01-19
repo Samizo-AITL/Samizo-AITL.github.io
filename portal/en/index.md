@@ -567,10 +567,6 @@ A collection of technologies that organize
 **physical behavior, actuation, and droplet ejection** in inkjet systems  
 as **causal structures required for design decision-making**.
 
-Rather than relying on high-fidelity simulations or empirical heuristics,  
-this framework aims to enable designers to **explicitly explain  
-what is being sacrificed and what is being gained** in each design choice.
-
 ---
 
 ## 9-1. Inkjet Printing — Design Trade-off Models
