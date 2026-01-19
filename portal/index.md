@@ -173,7 +173,7 @@ Samizo-AITL/
 
 ---
 
-## 1️⃣ Edusemi-v4x
+## 1️⃣ 📘 Edusemi-v4x
 半導体プロセス・デバイス・回路設計を、**物理起点で体系化する基幹教材**。
 
 - 電子物性・プロセス条件・デバイス構造の因果関係を整理
@@ -260,7 +260,7 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
-## 3️⃣ Edusemi-Plus
+## 3️⃣ 📘 Edusemi-Plus
 材料・装置・産業構造を、**物理視点で拡張する補助教材**。
 
 - 製造装置・材料技術と物理原理の関係整理
@@ -318,7 +318,7 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
-## 4️⃣ EduController
+## 4️⃣ 📘 EduController
 PID・FSM を中心に、**制御系の構造そのものを理解するための教材**。
 
 - PID による実時間制御と安定化の役割
