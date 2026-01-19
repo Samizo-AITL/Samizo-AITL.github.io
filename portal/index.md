@@ -173,7 +173,7 @@ Samizo-AITL/
 
 ---
 
-## 1. Edusemi-v4x
+## 1️⃣ Edusemi-v4x
 半導体プロセス・デバイス・回路設計を、**物理起点で体系化する基幹教材**。
 
 - 電子物性・プロセス条件・デバイス構造の因果関係を整理
@@ -203,7 +203,7 @@ Samizo-AITL/
 
 ---
 
-## 2. SemiDevKit
+## 2️⃣ SemiDevKit
 物理モデルから **SPICE・信頼性・レイアウト**までを接続する実装キット。
 
 - 物理モデルを SPICE モデルへ落とし込む
@@ -260,7 +260,7 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
-## 3. Edusemi-Plus
+## 3️⃣ Edusemi-Plus
 材料・装置・産業構造を、**物理視点で拡張する補助教材**。
 
 - 製造装置・材料技術と物理原理の関係整理
@@ -318,7 +318,7 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
-## 4. EduController
+## 4️⃣ EduController
 PID・FSM を中心に、**制御系の構造そのものを理解するための教材**。
 
 - PID による実時間制御と安定化の役割
@@ -350,7 +350,7 @@ PID・FSM を中心に、**制御系の構造そのものを理解するため�
 
 ---
 
-## 5. AITL-Controller-A-Type
+## 5️⃣ AITL-Controller-A-Type
 
 PID × FSM を **実時間制御の中核**とし、  
 NN / RL を **制限付きの実時間適応補助層**、  
@@ -463,7 +463,7 @@ AI / LLM を用いた制御システムを
 
 ---
 
-## 6. V–I Control ASIC on SKY130
+## 6️⃣ V–I Control ASIC on SKY130
 V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教材**。
 
 - 電圧–電流（V–I）制御を物理量起点で設計
@@ -516,7 +516,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 7. mems-ana
+## 7️⃣ mems-ana
 抽象モデルの限界を確認する **pre-FEM MEMS 解析ツール**。
 
 - lumped / 簡易モデルが成立する範囲を可視化
@@ -534,7 +534,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8. 🖨 Inkjet Technology
+## 8️⃣ 🖨 Inkjet Technology
 
 インクジェットにおける **物理・駆動・吐出挙動**を、  
 **設計判断に必要な因果構造として整理する技術群**。
@@ -611,7 +611,7 @@ MEMS／流体世界と接続する **物理的インタフェースの実体**�
 
 ---
 
-## 9. Full Code Mechanical Design（コード駆動型機械設計）
+## 9️⃣ Full Code Mechanical Design（コード駆動型機械設計）
 
 **機械・MEMS 構造を、GUI 操作ではなく  
 「実行可能なコード」として定義する設計方法論**。
