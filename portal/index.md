@@ -59,27 +59,29 @@ Samizo-AITL は、以下のような利用者を想定しています。
 
 ```mermaid
 flowchart TB
-    %% ===== Title =====
-    T["AITL<br/>Architecture for Integrated Technology Logic<br/><br/>Physical → Control → Intelligence"]
+  %% ===== Physical Layer =====
+  subgraph Physical["Physical Layer"]
+    P1["Physics"]
+    P2["Devices / MEMS"]
+  end
 
-    %% ===== Layers =====
-    P["Physical Layer<br/>Physics / Devices / Processes"]
-    C["Control Layer<br/>Modeling / PID / FSM"]
-    I["Intelligence Layer<br/>AITL Architecture<br/>(Design-time LLM only)"]
+  %% ===== Control Layer =====
+  subgraph Control["Control Layer"]
+    M["Models"]
+    C["Control Theory"]
+    R["Real-time PID Loop"]
+  end
 
-    %% ===== Flow =====
-    T --> P --> C --> I
+  %% ===== Supervisory & Design Layer =====
+  subgraph Supervisory["Supervisory & Design Layer"]
+    S["FSM Supervisor"]
+    A["Adaptive Assist (NN / RL, bounded)"]
+    I["LLM Intelligence (Design-time only)"]
+  end
 
-    %% ===== Portal Entries =====
-    D1["01_DevEnv"]
-    D2["02_CodeGen"]
-    D3["03_Docs"]
-    D4["04_Archives"]
-
-    P --- D1
-    C --- D2
-    C --- D3
-    I --- D4
+  %% ===== Flow =====
+  P1 & P2 --> M --> C --> R --> S --> A
+  S --> I
 ```
 
 > 物理 → モデル → 制御 → 知能化 を中核とし、  
