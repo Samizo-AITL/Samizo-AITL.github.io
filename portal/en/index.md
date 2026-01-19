@@ -203,9 +203,8 @@ This order avoids tool-driven or fragmented understanding.
 
 ---
 
-# 💠 Main Core — Foundational Repositories
-The Main Core forms a **coherent technical backbone**  
-covering semiconductor technology from physics to system-level constraints.
+# 💠 Semiconductor Physics & Devices
+A foundational layer that systematizes semiconductor and device physics from first principles, defining the preconditions for control design.
 
 ---
 
@@ -361,13 +360,8 @@ within an OpenLane2-based physical implementation flow.
 
 ---
 
-# 🎛 Applied Layer — Control & Intelligence
-
-This layer explores how physical foundations are applied to  
-**dynamic systems and control problems**.
-
-Classical control (PID, FSM) remains the **primary control mechanism**,  
-while AI/LLMs are treated as **architectural support tools**, not replacements.
+# 🎛 Control & Supervisory Architecture
+A control architecture that fixes real-time control to PID as the core, while separating design responsibilities through FSM-based supervision and non-real-time intelligence.
 
 ---
 
@@ -542,11 +536,8 @@ using **OpenLane v2**.
 
 ---
 
-# ⚙️ MEMS — Where Abstraction Meets Reality
-
-A boundary domain where  
-**abstract models are tested against real physical structures**,  
-revealing the limits of simplification and guiding design decisions toward MEMS.
+# ⚙️ MEMS / Physical Boundary
+A layer that starts from physical models and, through abstraction, control, and design decisions, reaches the MEMS embodiment as the boundary where abstract models cease to be valid.
 
 ---
 
