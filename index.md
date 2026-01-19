@@ -5,8 +5,8 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 ---
 
 # 🎓 Samizo-AITL Portal
-物理を起点とした設計から出発し、  
-デバイス・制御・AI を因果構造として整理する技術アーカイブ
+**物理を起点とした設計から出発し、  
+デバイス・制御・AI を因果構造として整理する技術アーカイブ**
 
 [![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/en/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
