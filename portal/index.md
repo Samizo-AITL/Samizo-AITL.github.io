@@ -203,7 +203,7 @@ Samizo-AITL/
 
 ---
 
-## 2️⃣ SemiDevKit
+## 2️⃣ 📐 SemiDevKit
 物理モデルから **SPICE・信頼性・レイアウト**までを接続する実装キット。
 
 - 物理モデルを SPICE モデルへ落とし込む
@@ -350,7 +350,7 @@ PID・FSM を中心に、**制御系の構造そのものを理解するため�
 
 ---
 
-## 5️⃣ AITL-Controller-A-Type
+## 5️⃣ 🎛 AITL-Controller-A-Type
 
 PID × FSM を **実時間制御の中核**とし、  
 NN / RL を **制限付きの実時間適応補助層**、  
@@ -463,7 +463,7 @@ AI / LLM を用いた制御システムを
 
 ---
 
-## 6️⃣ V–I Control ASIC on SKY130
+## 6️⃣ 🧩 V–I Control ASIC on SKY130
 V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教材**。
 
 - 電圧–電流（V–I）制御を物理量起点で設計
@@ -516,7 +516,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 7️⃣ mems-ana
+## 7️⃣ 📐 mems-ana
 抽象モデルの限界を確認する **pre-FEM MEMS 解析ツール**。
 
 - lumped / 簡易モデルが成立する範囲を可視化
