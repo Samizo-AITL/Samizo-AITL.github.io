@@ -9,6 +9,9 @@ description: Architecture for Integrated Technology Logic — a physical-first e
 that connects physics, devices, control, and intelligence  
 through explicit causal structure.**
 
+[![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
+
 ---
 
 ## 🧭 What this is
