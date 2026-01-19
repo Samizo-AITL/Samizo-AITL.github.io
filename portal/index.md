@@ -316,22 +316,17 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 
 ---
 
-## 🧭 Control Architecture Concepts（制御アーキテクチャ概念）
+## 5. EduController
+PID・FSM を中心に、**制御系の構造そのものを理解するための教材**。
 
-> Runtime（運用）と Design-time（設計）を分離して扱うための  
-> **中核となる制御アーキテクチャ概念**です。  
-> いずれも **「AIが制御を置き換えない」** ことを前提にしています。
+- PID による実時間制御と安定化の役割
+- FSM による状態監督・モード遷移の意味
+- 「制御ロジック」と「制御構造」の違いを明確化
 
-| 概念 | 役割 | リンク |
-|---|---|---|
-| **Envelope Control** | 不確実性下において、安全な運転範囲（Envelope）を**実行時に拘束**する制御概念 | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
-| **Design Recovery Control** | 破綻・逸脱した**制御設計前提を非実時間で回復**する設計監督概念 | 🔗 [Open](https://samizo-aitl.github.io/design-recovery-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/design-recovery-control) |
+👉 **制御を“組む前に考える”ための基礎教材。**
 
-**関係性（非代替・補完関係）：**
-- **Envelope Control**：*「いま、どう抑えて運転するか」* を規定する  
-- **Design Recovery Control**：*「なぜ設計が通らなくなったか」* を修復する  
-
-これらは **競合でも代替でもなく、補完関係にある概念**です。
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController)
 
 ---
 
@@ -350,20 +345,6 @@ OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS ま�
 </iframe>
 
 > 制御の成否は、説明ではなく **波形そのもの**が語ります。
-
----
-
-## 5. EduController
-PID・FSM を中心に、**制御系の構造そのものを理解するための教材**。
-
-- PID による実時間制御と安定化の役割
-- FSM による状態監督・モード遷移の意味
-- 「制御ロジック」と「制御構造」の違いを明確化
-
-👉 **制御を“組む前に考える”ための基礎教材。**
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/EduController/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/EduController)
 
 ---
 
@@ -444,6 +425,42 @@ LLM を **非実時間の設計支援層**として分離した
 
 ---
 
+## 🧭 Control Architecture Concepts（制御アーキテクチャ概念）
+
+> Runtime（運用）と Design-time（設計）を分離して扱うための  
+> **中核となる制御アーキテクチャ概念**です。  
+> いずれも **「AIが制御を置き換えない」** ことを前提にしています。
+
+| 概念 | 役割 | リンク |
+|---|---|---|
+| **Envelope Control** | 不確実性下において、安全な運転範囲（Envelope）を**実行時に拘束**する制御概念 | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
+| **Design Recovery Control** | 破綻・逸脱した**制御設計前提を非実時間で回復**する設計監督概念 | 🔗 [Open](https://samizo-aitl.github.io/design-recovery-control/) ｜ 🔧 [Repo](https://github.com/Samizo-AITL/design-recovery-control) |
+
+**関係性（非代替・補完関係）：**
+- **Envelope Control**：*「いま、どう抑えて運転するか」* を規定する  
+- **Design Recovery Control**：*「なぜ設計が通らなくなったか」* を修復する  
+
+これらは **競合でも代替でもなく、補完関係にある概念**です。
+
+---
+
+## 🔔 進行中プロジェクト：AI Control Safety Package
+
+**AI Control Safety Package** は、  
+AI / LLM を用いた制御システムを  
+**安全かつ責任ある形で導入するための  
+設計・レビュー向け実務パッケージ**です。
+
+本パッケージは、本ポータルで整理している  
+制御アーキテクチャ概念  
+（Envelope Control / Recovery Control / AITL）を  
+**実務で使える形に統合すること**を目的としています。
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/ai-control-safety-package/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/ai-control-safety-package)
+
+---
+
 ## 7. V–I Control ASIC on SKY130
 V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教材**。
 
@@ -486,27 +503,8 @@ PID + FSM による制御動作が仕様通りであることを確認。
 *OpenLane v1 による標準セル配置・配線のスナップショット。  
 最終成果物ではなく、設計フロー確認を目的とした途中状態の図です。*
 
----
-
 ※ 本教材では **OpenLane v1 を用いて RTL→GDS の一貫フロー成立を実証**しています。  
 マクロ対応を含む発展的な物理設計例は、**OpenLane v2 を用いた別教材**で扱います。
-
----
-
-## 🔔 進行中プロジェクト：AI Control Safety Package
-
-**AI Control Safety Package** は、  
-AI / LLM を用いた制御システムを  
-**安全かつ責任ある形で導入するための  
-設計・レビュー向け実務パッケージ**です。
-
-本パッケージは、本ポータルで整理している  
-制御アーキテクチャ概念  
-（Envelope Control / Recovery Control / AITL）を  
-**実務で使える形に統合すること**を目的としています。
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/ai-control-safety-package/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/ai-control-safety-package)
 
 ---
 
