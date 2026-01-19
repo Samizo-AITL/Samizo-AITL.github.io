@@ -57,6 +57,31 @@ Samizo-AITL は、以下のような利用者を想定しています。
 
 ### ▶ 全体像（まず図で把握）
 
+```mermaid
+flowchart TB
+    %% ===== Title =====
+    T["AITL<br/>Architecture for Integrated Technology Logic<br/><br/>Physical → Control → Intelligence"]
+
+    %% ===== Layers =====
+    P["Physical Layer<br/>Physics / Devices / Processes"]
+    C["Control Layer<br/>Modeling / PID / FSM"]
+    I["Intelligence Layer<br/>AITL Architecture<br/>(Design-time LLM only)"]
+
+    %% ===== Flow =====
+    T --> P --> C --> I
+
+    %% ===== Portal Entries =====
+    D1["01_DevEnv"]
+    D2["02_CodeGen"]
+    D3["03_Docs"]
+    D4["04_Archives"]
+
+    P --- D1
+    C --- D2
+    C --- D3
+    I --- D4
+```
+
 <img
   src="/assets/img/samizo-aitl-structure.png"
   alt="Samizo-AITL Technical Architecture"
