@@ -75,8 +75,8 @@ flowchart TB
   %% ===== Supervisory & Design Layer =====
   subgraph Supervisory["Supervisory & Design Layer"]
     S["FSM Supervisor"]
-    A["Adaptive Assist (NN / RL, bounded)"]
-    I["LLM Intelligence (Design-time only)"]
+    A["Adaptive Assist<br/>(NN / RL, bounded)"]
+    I["LLM Intelligence<br/>(Design-time only)"]
   end
 
   %% ===== Flow =====
@@ -84,9 +84,10 @@ flowchart TB
   S --> I
 ```
 
-> 物理 → モデル → 制御 → 知能化 を中核とし、  
+> AITL は **物理 → モデル → 制御 → 知能化** という  
+> 一方向の因果構造を中核に据え、  
 > DevEnv・CodeGen・Docs・Archives を  
-> **因果構造として横断的に統合**しています。
+> **この因果軸に沿って横断的に統合**する設計思想です。
 
 ---
 
@@ -109,15 +110,12 @@ flowchart TB
   %% ===== Supervisory & Design Layer =====
   subgraph SL["Supervisory & Design Layer（外側）"]
     S["FSM Supervisor"]
-    A["Adaptive Assist\n(NN / RL, bounded)"]
-    I["LLM Intelligence\n(Design-time only)"]
+    A["Adaptive Assist<br/>(NN / RL, bounded)"]
+    I["LLM Intelligence<br/>(Design-time only)"]
   end
 
   %% ===== Flow =====
-  P --> M
-  M --> C
-  C --> R
-  R --> S
+  P --> M --> C --> R --> S
   S --> A
   S --> I
 
@@ -135,25 +133,32 @@ flowchart TB
   style A fill:#ffd699
   style I fill:#ffcc99,stroke-dasharray:5 5
 ```
-※ LLM は説明および再設計のために設計時（非実時間）でのみ使用され、実時間制御には介入しない。
+
+※ **LLM は設計時（非実時間）にのみ使用**され、  
+　実時間制御ループ（PID / FSM）には **直接介入しません**。
+
+---
+
+### ▶ AITL の三層設計思想
 
 AITL（Architecture for Integrated Technology Logic）は、  
-次の **三層構造**で設計されています。
+次の **三層構造**を明確に分離して設計されます。
 
-- **内側（Physical Layer）**：物理・デバイス・MEMS  
-  → 制約・限界・不確実性を決める層  
+- **Physical Layer（内側）**  
+  物理・デバイス・MEMS  
+  → 制約・限界・不確実性を規定する層  
 
-- **中間（Control Layer）**：モデル・制御理論（PID）  
-  → 振る舞いと安定性を決める層  
+- **Control Layer（中間）**  
+  モデル・制御理論・PID  
+  → 振る舞い・安定性・応答性能を決定する層  
 
-- **外側（Supervisory & Design Layer）**：FSM / NN・RL / LLM  
-  →  
-  - FSM：判断・状態遷移・介入許可を行う  
-  - NN / RL：FSM によって許可された範囲での **実時間適応補助（bounded）**  
-  - LLM：非実時間での **意味解釈・再設計支援**
+- **Supervisory & Design Layer（外側）**  
+  - **FSM**：状態判断・遷移・介入可否の管理  
+  - **NN / RL**：FSM により許可された範囲での **実時間適応補助（bounded）**  
+  - **LLM**：非実時間での **意味解釈・再設計・設計支援**
 
-**物理モデルを正しく使い切るための知能化**  
-――それが AITL の目的です。
+> **物理モデルを正しく、最後まで使い切るための知能化**  
+> ――それが AITL の目的です。
 
 ---
 
