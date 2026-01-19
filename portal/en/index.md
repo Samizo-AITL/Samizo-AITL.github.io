@@ -265,7 +265,7 @@ clearly reflects **Short Channel Effects**, including
 
 ---
 
-##  openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
+## 🧱 openlane2-sram｜SRAM Hard Macro Integration (Physical Design Proof)
 This project demonstrates a **complete RTL → GDS flow** using **OpenLane2 (v2)**  
 by integrating an **SRAM hard macro** into a macro-aware physical design.
 
