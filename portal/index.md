@@ -534,7 +534,18 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 9. Inkjet Printing — Design Trade-off Models
+## 9. 🖨 Inkjet Technology（インクジェット技術）
+
+インクジェットにおける **物理・駆動・吐出挙動**を、  
+**設計判断に必要な因果構造として整理する技術群**。
+
+高忠実度シミュレーションや経験則に依存せず、  
+**「何を犠牲にし、何を得ているのか」**を  
+**設計者自身が説明できる状態**を目指す。
+
+---
+
+## 9-1. Inkjet Printing — Design Trade-off Models
 画質・速度・ドット挙動の因果関係を**最小モデルで可視化する教材**。
 
 - ドット形成・吐出条件・駆動条件の因果関係整理
@@ -548,7 +559,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 10. inkjet-timing  
+## 9-2. inkjet-timing  
 ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、  
 単一時間軸上で可視化する設計・教育用デモ。
 
@@ -563,7 +574,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 11. Inkjet Driver IC — Physical Interface Abstraction
+## 9-3. Inkjet Driver IC — Physical Interface Abstraction
 
 インクジェット駆動ICが **MEMS／流体世界と接続する物理的境界**を、  
 **PDK・プロセス前提込みで定義する設計ノード**。
@@ -604,7 +615,7 @@ MEMS／流体世界と接続する **物理的インタフェースの実体**�
 
 ---
 
-## 12. Full Code Mechanical Design（コード駆動型機械設計）
+## 10. Full Code Mechanical Design（コード駆動型機械設計）
 
 **機械・MEMS 構造を、GUI 操作ではなく  
 「実行可能なコード」として定義する設計方法論**。
