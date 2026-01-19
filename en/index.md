@@ -20,9 +20,9 @@ and how they ultimately return to the physical world.**
 ## ⚡ 60-second orientation
 If this is your first visit, start with the architecture overview.
 
-- **Recommended first** → [**portal(en)**](/portal/en/)  
-- **Semiconductor / device engineers** → [**Edusemi-v4x(en)**](/Edusemi-v4x/en/)  
-- **Control / AI engineers** → [**EduController(en)**](/EduController/en/)
+- **Recommended first** → [**/portal/en/**](/portal/en/)  
+- **Semiconductor / device engineers** → [**/Edusemi-v4x/en/**](/Edusemi-v4x/en/)  
+- **Control / AI engineers** → [**/EduController/en/**](/EduController/en/)
 
 ---
 
@@ -71,15 +71,15 @@ AITL is built on **clear separation of responsibility**.
 Choose an entry point based on your focus.
 
 - ▶ 🧠 **Architecture & philosophy**  
-  → [**portal(en)**](/portal/en/)  
+  → [**/portal/en/**](/portal/en/)  
   *AITL concept and causal design structure*
 
 - ▶ ⚙️ **Semiconductor-first path**  
-  → [**Edusemi-v4x(en)**](/Edusemi-v4x/en/)  
+  → [**/Edusemi-v4x/en/**](/Edusemi-v4x/en/)  
   *Physics-, process-, and device-oriented design logic*
 
 - ▶ 🤖 **Control & AI path**  
-  → [**EduController(en)**](/EduController/en/)  
+  → [**/EduController/en/**](/EduController/en/)  
   *Control architectures with explicit role separation  
   between PID, FSM, and AI-based reasoning*
 
