@@ -397,7 +397,7 @@ under **colored, adversarial disturbances**.
 
 ---
 
-## 5️⃣ AITL-Controller-A-Type
+## 5️⃣ 🎛 AITL-Controller-A-Type
 
 A **minimal experimental controller** implemented in Python to explore
 a strict **separation of responsibilities** in control system design:
