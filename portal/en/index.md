@@ -208,7 +208,7 @@ A foundational layer that systematizes semiconductor and device physics from fir
 
 ---
 
-## 1️⃣ Edusemi-v4x
+## 1️⃣ 📘 Edusemi-v4x
 A **systematic curriculum** covering semiconductor devices and processes:
 
 - Device structures and operating physics  
@@ -305,7 +305,7 @@ within an OpenLane2-based physical implementation flow.
 
 ---
 
-## 3️⃣ Edusemi-Plus
+## 3️⃣ 📘 Edusemi-Plus
 Extended materials connecting semiconductor fundamentals with surrounding domains:
 
 - Advanced materials (SiC, GaN)  
@@ -365,7 +365,7 @@ A control architecture that fixes real-time control to PID as the core, while se
 
 ---
 
-## 4️⃣ EduController
+## 4️⃣ 📘 EduController
 An educational resource focused on **control fundamentals**:
 
 - PID control principles  
