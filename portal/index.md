@@ -611,7 +611,7 @@ MEMS／流体世界と接続する **物理的インタフェースの実体**�
 
 ---
 
-## 9️⃣ Full Code Mechanical Design（コード駆動型機械設計）
+## 9️⃣ 🛠️ Full Code Mechanical Design（コード駆動型機械設計）
 
 **機械・MEMS 構造を、GUI 操作ではなく  
 「実行可能なコード」として定義する設計方法論**。
