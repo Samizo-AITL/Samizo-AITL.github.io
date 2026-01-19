@@ -73,45 +73,31 @@ This structure enables readers to trace
 
 ---
 
-## 🧩 AITL Structure Map
-
-<img
-  src="/assets/img/samizo-aitl-structure.png"
-  alt="Samizo-AITL Technical Architecture"
-  style="width:100%; max-width:1200px; display:block; margin:auto;"
-/>
-
-> **Figure:**  
-> Samizo-AITL technical architecture integrating  
-> *physics → control → intelligence*  
-> across DevEnv, CodeGen, Docs, and Archives layers.
+## 🧩 AITL Structure Map (Overall Architecture)
 
 ```mermaid
 flowchart TB
   %% ===== Physical Layer =====
-  subgraph PL["Physical Layer（Inner Layer）"]
+  subgraph PL["Physical Layer"]
     P["Physical / Devices / MEMS"]
   end
 
   %% ===== Control Layer =====
-  subgraph CL["Control Layer（Middle Layer）"]
+  subgraph CL["Control Layer"]
     M["Models"]
     C["Control Theory"]
-    R["Real-time PID Loop"]
+    R["Real-time PID"]
   end
 
   %% ===== Supervisory & Design Layer =====
-  subgraph SL["Supervisory & Design Layer（Outer Layer）"]
+  subgraph SL["Supervisory & Design Layer"]
     S["FSM Supervisor"]
-    A["Adaptive Assist\n(NN / RL, bounded)"]
-    I["LLM Intelligence\n(Design-time only)"]
+    A["Adaptive Assist (NN / RL, bounded)"]
+    I["LLM (Design-time only)"]
   end
 
   %% ===== Flow =====
-  P --> M
-  M --> C
-  C --> R
-  R --> S
+  P --> M --> C --> R --> S
   S --> A
   S --> I
 
@@ -120,31 +106,33 @@ flowchart TB
   style CL fill:#e9ffe6,stroke:#1f8b24,stroke-width:2px
   style SL fill:#fff3e6,stroke:#d86b1f,stroke-width:2px
 
-  style P fill:#cce0ff
-  style M fill:#ccffcc
-  style C fill:#ccffcc
-  style R fill:#b3ffb3
-
-  style S fill:#ffe0b3
-  style A fill:#ffd699
-  style I fill:#ffcc99,stroke-dasharray:5 5
+  style I stroke-dasharray:5 5
 ```
-※ LLM operates only at design-time for analysis and redesign, and does not intervene in real-time control.
 
-AITL (Architecture for Integrated Technology Logic)  
-is designed as the following **three-layer architecture**.
+AITL (Architecture for Integrated Technology Logic) is a system design architecture  
+centered on a **one-directional causal structure**:
 
-- **Inner Layer (Physical Layer)**: Physics, Devices, MEMS  
-  → Defines physical constraints, limits, and inherent uncertainties  
+**Physical → Control → Intelligence**
 
-- **Middle Layer (Control Layer)**: Models and Control Theory (PID)  
-  → Determines system behavior and real-time stability  
+- **Physical Layer**  
+  Physics, devices, and MEMS define  
+  the fundamental constraints, limits, and uncertainties of the system.
 
-- **Outer Layer (Supervisory & Design Layer)**: FSM / NN-RL / LLM  
-  →  
-  - **FSM**: Performs supervision, state transitions, and authorization of intervention  
-  - **NN / RL**: Provides **bounded real-time adaptive assistance**, only when permitted by the FSM  
-  - **LLM**: Supports **non-real-time interpretation, analysis, and design-level redesign**
+- **Control Layer**  
+  Control theory based on physical models (e.g., PID)  
+  guarantees stability, response, and performance.
+
+- **Supervisory & Design Layer**  
+  - **FSM**: Manages state judgment, transitions, and intervention permissions  
+  - **NN / RL**: Real-time adaptive assistance within FSM-approved bounds  
+  - **LLM**: Semantic interpretation, redesign, and design support  
+    performed **offline (non-real-time)**
+
+※ **LLMs are used only at design time (non-real-time)**  
+and **do not directly intervene in real-time control loops**.
+
+**Intelligence is applied to fully and correctly exploit physical models**  
+— that is the core philosophy of AITL.
 
 ---
 
