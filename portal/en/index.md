@@ -239,7 +239,7 @@ A special chapter that builds upon physics-based device and circuit knowledge an
 
 ---
 
-## 2️⃣ SemiDevKit
+## 2️⃣ 📐 SemiDevKit
 An **implementation-oriented development kit** bridging semiconductor device theory and practical design workflows:
 
 - Poisson / Drift–Diffusion solvers  
@@ -487,7 +487,7 @@ the control architecture concepts presented in this portal.
 
 ---
 
-## 6️⃣ V–I Control ASIC on SKY130
+## 6️⃣ 🧩 V–I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from  
 **control theory to silicon** using **PID + FSM**.
 
@@ -541,7 +541,7 @@ A layer that starts from physical models and, through abstraction, control, and 
 
 ---
 
-## 7️⃣ mems-ana  
+## 7️⃣ 📐 mems-ana  
 **Pre-FEM MEMS Structural Exploration Tool**
 
 A lightweight analysis tool for **early-stage MEMS structural exploration before full FEM simulation**.
