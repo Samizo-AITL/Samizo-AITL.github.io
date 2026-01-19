@@ -25,7 +25,7 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 ---
 
 ## 🔥 まず何を見るか
-全体像を把握するには、まず、以下から読むようにして下さい。
+はじめての方は、まず、以下を読んで下さい。
 
 1. **全体構造と因果関係**  
    → [**/portal/**](/portal/)
