@@ -6,6 +6,8 @@ permalink: /playground/
 
 # 🎮 AITL Control Playground (PID × FSM Runtime)
 
+[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/en/)
+
 🚀 This playground provides an **interactive exploration of runtime control behavior**  
 based on the **PID × FSM core of the AITL architecture**.
 
