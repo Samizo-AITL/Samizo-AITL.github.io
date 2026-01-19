@@ -225,7 +225,7 @@ Samizo-AITL/
 
 ---
 
-## openlane2-sram｜SRAMマクロ統合・物理設計実証
+## 🧱 openlane2-sram｜SRAMマクロ統合・物理設計実証
 OpenLane2（v2）を用いて **SRAM hard macro を統合し、RTL → GDS まで完走する**  
 **マクロ対応・物理設計の実践教材**。
 
