@@ -649,7 +649,7 @@ This layout visually defines:
 
 ---
 
-## 9️⃣ Full Code Mechanical Design
+## 9️⃣ 🛠️ Full Code Mechanical Design
 
 **A methodology for defining mechanical and MEMS structures
 as executable code rather than GUI-based CAD operations.**
