@@ -52,6 +52,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | Edusemi-v4x | 🔗 [Open](https://samizo-aitl.github.io/Edusemi-v4x/) | 🔧 [Repo](https://github.com/Samizo-AITL/Edusemi-v4x) |
 | Edusemi-Plus | 🔗 [Open](https://samizo-aitl.github.io/Edusemi-Plus/) | 🔧 [Repo](https://github.com/Samizo-AITL/Edusemi-Plus) |
 | EduController | 🔗 [Open](https://samizo-aitl.github.io/EduController/) | 🔧 [Repo](https://github.com/Samizo-AITL/EduController) |
+| EduLMecha | 🔗 [Open](https://samizo-aitl.github.io/EduMecha/) | 🔧 [Repo](https://github.com/Samizo-AITL/EduMecha) |
 | EduLms | 🔗 [Open](https://samizo-aitl.github.io/EduLms/) | 🔧 [Repo](https://github.com/Samizo-AITL/EduLms) |
 
 ---
