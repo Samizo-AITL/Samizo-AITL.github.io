@@ -153,27 +153,6 @@ Samizo-AITL/
 
 ---
 
-## 🎓 AITL Training & Competence Framework（教育・訓練）
-
-Samizo-AITL の設計思想および技術体系を  
-**組織的に教育・訓練・検証するための独立したドキュメント群**です。
-
-本フレームワークは、  
-**ISO 9001 Clause 7.2（Competence）を想定**し、  
-AITL における責務分離（PID / FSM / NN・RL / LLM）を  
-**教育・力量管理の観点から明文化**しています。
-
-👉 **AITL Training GitHub Page and Repository**  
-
-[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-training/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-training)
-
-- 技術実装は含みません  
-- 教育方針・訓練計画・検証・記録を定義します  
-- Samizo-AITL 本体は **Single Source of Truth** のまま維持されます
-
----
-
 ## 🗺 このポータルの歩き方
 
 1. **設計思想・アーキテクチャ**  
@@ -756,7 +735,7 @@ NN / RL（実時間適応補助）および LLM（非実時間再設計）を分
 
 ---
 
-## 🎓 AITL Training & Competence Framework（教育・訓練）
+# 🎓 AITL Training & Competence Framework（教育・訓練）
 
 Samizo-AITL の設計思想および技術体系を  
 **組織的に教育・訓練・検証するための独立したドキュメント群**です。
