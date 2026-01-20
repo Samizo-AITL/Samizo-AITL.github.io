@@ -182,14 +182,20 @@ Samizo-AITL/
 
 ## 🗺 How to Navigate This Portal
 
-1. **Architecture & philosophy**  
-   → Physical-first engineering and AITL concepts  
-2. **Main Core (physical foundations)**  
-   → Semiconductor devices, MEMS, physical constraints  
-3. **Applied Layer (control & intelligence)**  
-   → PID, FSM, and LLM roles  
-4. **Proof-of-concept implementations**  
-   → Verification through working systems  
+1. **Architecture & Philosophy**  
+   Physical-first engineering and the AITL concept
+
+2. **Physics & Devices**  
+   Semiconductor physics, devices, MEMS, and physical constraints
+
+3. **Control Architecture**  
+   Models and real-time control (PID supervised by FSM)
+
+4. **Intelligence (Design-time)**  
+   Supervisory logic and LLM-assisted analysis (not real-time)
+
+5. **Proof-of-Concept Implementations**  
+   Verification through working systems
 
 This order avoids tool-driven or fragmented understanding.
 
