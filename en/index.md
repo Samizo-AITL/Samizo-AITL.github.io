@@ -29,15 +29,24 @@ and how those decisions propagate through control and system architecture.
 If this is your first visit, start here.
 
 - **Architecture overview**  
-  → [**/portal/en/**](/portal/en/)
+  → <a href="/portal/en/"
+       data-ga-label="portal-en-index">
+       <strong>/portal/en/</strong>
+     </a>
 
 - **Semiconductor / device-oriented path**  
-  → [**/Edusemi-v4x/en/**](/Edusemi-v4x/en/)  
-  *Physics, process, and device-level structure*
+  → <a href="/Edusemi-v4x/en/"
+       data-ga-label="edusemi-v4x-en">
+       <strong>/Edusemi-v4x/en/</strong>
+     </a>  
+  <em>Physics, process, and device-level structure</em>
 
 - **Control / AI-oriented path**  
-  → [**/EduController/en/**](/EduController/en/)  
-  *Control architectures and system-level organization*
+  → <a href="/EduController/en/"
+       data-ga-label="educontroller-en">
+       <strong>/EduController/en/</strong>
+     </a>  
+  <em>Control architectures and system-level organization</em>
 
 ---
 
