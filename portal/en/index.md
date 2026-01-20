@@ -783,6 +783,28 @@ through explicit responsibility separation.
 
 ---
 
+# 🎓 AITL Training & Competence Framework (Education & Training)
+
+This framework provides an **independent set of documentation** for  
+**systematic education, training, and competence verification**  
+based on the Samizo-AITL design philosophy and technical architecture.
+
+It is designed with **ISO 9001 Clause 7.2 (Competence)** in mind and  
+formalizes AITL’s responsibility separation  
+(PID / FSM / NN·RL / LLM) from the perspective of  
+**education, training, and competence management**.
+
+👉 **AITL Training GitHub Page and Repository**  
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-training/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-training)
+
+- This framework does **not** include technical implementations  
+- It defines **training policy, training plans, verification, and records**  
+- The main Samizo-AITL repositories remain the **Single Source of Truth**
+
+---
+
 # 📄 Related Manuscript (Preprint)
 
 The design philosophy and structural architecture of **Samizo-AITL**  
