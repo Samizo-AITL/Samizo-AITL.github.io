@@ -28,15 +28,24 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 はじめての方は、まず、以下を読んで下さい。
 
 1. **全体構造と因果関係**  
-   → [**/portal/**](/portal/)
+   → <a href="/portal/"
+        data-ga-label="portal-index">
+        <strong>/portal/</strong>
+     </a>
 
 2. **物理・半導体設計の整理**  
-   → [**/Edusemi-v4x/**](/Edusemi-v4x/)  
-   *V–I（電圧–電流）を起点にした設計の接続*
+   → <a href="/Edusemi-v4x/"
+        data-ga-label="edusemi-v4x">
+        <strong>/Edusemi-v4x/</strong>
+     </a>  
+   <em>V–I（電圧–電流）を起点にした設計の接続</em>
 
 3. **制御・AIアーキテクチャ**  
-   → [**/EduController/**](/EduController/)  
-   *PID / FSM / AI の役割分担*
+   → <a href="/EduController/"
+        data-ga-label="educontroller">
+        <strong>/EduController/</strong>
+     </a>  
+   <em>PID / FSM / AI の役割分担</em>
 
 ---
 
