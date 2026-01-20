@@ -164,6 +164,7 @@ AITL における責務分離（PID / FSM / NN・RL / LLM）を
 **教育・力量管理の観点から明文化**しています。
 
 👉 **AITL Training GitHub Page and Repository**  
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-training/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-training)
 
