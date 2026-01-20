@@ -54,6 +54,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | EduController | 🔗 [Open](https://samizo-aitl.github.io/EduController/) | 🔧 [Repo](https://github.com/Samizo-AITL/EduController) |
 | EduLMecha | 🔗 [Open](https://samizo-aitl.github.io/EduMecha/) | 🔧 [Repo](https://github.com/Samizo-AITL/EduMecha) |
 | EduLms | 🔗 [Open](https://samizo-aitl.github.io/EduLms/) | 🔧 [Repo](https://github.com/Samizo-AITL/EduLms) |
+| aitl-traininig | 🔗 [Open](https://samizo-aitl.github.io/aitl-training/) | 🔧 [Repo](https://github.com/Samizo-AITL/aitl-training) |
 
 ---
 
@@ -86,7 +87,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
-## 🎞 Visualization / Media
+## 🎞 Visualization / Media /
 
 | Project | Page | Repo |
 |---|---|---|
@@ -95,7 +96,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
-## 📚 Writing / Publishing
+## 📚 Writing / Publishing 
 
 | Project | Page | Repo |
 |---|---|---|
