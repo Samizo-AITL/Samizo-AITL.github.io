@@ -189,6 +189,7 @@ formalizes AITL’s responsibility separation
 **education, training, and competence management**.
 
 👉 **AITL Training GitHub Page and Repository**  
+
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-training/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-training)
 
