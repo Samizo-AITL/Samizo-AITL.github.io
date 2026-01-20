@@ -175,9 +175,6 @@ Samizo-AITL/
 └─ 04_Archives/      PoC, history, design assets
 ```
 
-**Recommended entry order**:  
-**Architecture → Physics → Control → Intelligence**
-
 ---
 
 ## 🗺 How to Navigate This Portal
