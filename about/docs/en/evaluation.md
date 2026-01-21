@@ -37,16 +37,16 @@ not on implementation details.
 
 | No. | Theme | Tech | Manu | Biz | Reprod | Value | Total |
 |---:|---|---:|---:|---:|---:|---:|---:|
-| 1 | DRAM / PSRAM | 19 | 18 | 16 | 18 | 19 | **90** |
+| 1 | DRAM / *SRAM | 19 | 18 | 16 | 18 | 19 | **90** |
 | 2 | HV CMOS Driver | 19 | 19 | 17 | 17 | 18 | **90** |
-| 3 | Implementation Technology (CD50 / BoA) | 17 | 18 | 15 | 16 | 18 | **84** |
+| 3 | Implementation Technology (**** / ***) | 17 | 18 | 15 | 16 | 18 | **84** |
 | 4 | Thin-Film Piezo Technology History | 18 | 17 | 19 | 17 | 19 | **90** |
 | 5 | Thin-Film Actuator Reliability | 19 | 20 | 19 | 18 | 19 | **95** |
 | 6 | BCP via Process Equivalence | 17 | 20 | 20 | 19 | 18 | **94** |
 | 7 | High-Voltage Screening Optimization | 18 | 20 | 18 | 19 | 18 | **93** |
 | 8 | Au Plating Cost Optimization | 16 | 19 | 20 | 18 | 17 | **90** |
 | 9 | Emergency Assembly Method Switching | 15 | 19 | 20 | 17 | 18 | **89** |
-|10 | HCS Emergency Switching & Multi-site 4M Control | 17 | 20 | 20 | 19 | 19 | **95** |
+|10 | *** Emergency Switching & Multi-site 4M Control | 17 | 20 | 20 | 19 | 19 | **95** |
 |11 | BOM-centered Operational Framework | 16 | 19 | 19 | 20 | 20 | **94** |
 
 ---
