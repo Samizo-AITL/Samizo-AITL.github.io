@@ -790,15 +790,6 @@ AITL における責務分離（PID / FSM / NN・RL / LLM）を
 
 ---
 
-# 🕘 Update Log
-
-**サイトおよび教材の更新履歴はこちらに集約しています。**  
-設計思想・教材構成・PoC の更新は、必ずログとして残します。
-
-- [📄 更新履歴を見る](https://samizo-aitl.github.io/about/update/)
-
----
-
 # 👤 Author
 
 **三溝 真一（Shinichi Samizo）**  
@@ -835,6 +826,15 @@ AITL における責務分離（PID / FSM / NN・RL / LLM）を
 🚫 AITL 方法論全体の体系的な再利用、再配布、  
 または **商用利用**を行う場合は、  
 **事前にプロジェクト作者の許可が必要です**。
+
+---
+
+# 🕘 Update Log
+
+**サイトおよび教材の更新履歴はこちらに集約しています。**  
+設計思想・教材構成・PoC の更新は、必ずログとして残します。
+
+- [📄 更新履歴を見る](https://samizo-aitl.github.io/about/update/)
 
 ---
 
