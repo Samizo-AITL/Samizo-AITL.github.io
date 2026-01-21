@@ -5,6 +5,8 @@ title: Update Log
 
 # 🕘 Update Log
 
+[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/)
+
 This page documents the update history of the "Technical Portfolio by Shinichi Samizo,"  
 including GitHub Pages site updates, new materials, architecture revisions,  
 and improvements to documentation across all repositories.
