@@ -735,6 +735,11 @@ and **LLM is isolated as a non-real-time design-support layer**.
 4. Design review (if required): FSM invokes LLM  
 5. Recovery: PID re-establishes tracking, FSM returns to stable
 
+> **Note:**  
+> In this demo, the disturbance is recoverable within the scope of **PID + FSM supervision**.  
+> Therefore, **NN / RL and LLM are not activated**.  
+> This intentional *non-activation* itself demonstrates the **clear separation of responsibilities** in the AITL architecture.
+
 ---
 
 ### 🎯 What this demo demonstrates
