@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Evaluation Matrix — Manufacturing Technology Archive"
 ---
 
