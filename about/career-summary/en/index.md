@@ -6,6 +6,8 @@ description: "Technical career summary spanning control, semiconductors, inkjet,
 
 # 🛠️ Career Summary
 
+[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/en/)
+
 This page provides a concise summary of a technical career  
 that started with **control theory and electromagnetic field analysis**,  
 and expanded through **semiconductor devices, MEMS, and industrial inkjet product development**.
