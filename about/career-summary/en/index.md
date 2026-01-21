@@ -40,12 +40,12 @@ and organizing it into reusable and structured forms.”**
   to thin-film piezoelectric actuator development
 - Structural analysis, reliability evaluation, and defect countermeasures  
   for mass-production readiness
-- Contribution to the foundation of PrecisionCore technology
+- Contribution to the foundation of Inkjet Print Head technology
 
 ---
 
-### 🖨️ PrecisionCore Productization & Technical Education (2012– )
-- Mass production deployment of PrecisionCore printheads,  
+### 🖨️ Inkjet Head Productization & Technical Education (2012– )
+- Mass production deployment of Inkjet printheads,  
   focusing on COF driver IC implementation and electrical design
 - Responsibility for quality, parts management, and scheduling  
   from development through mass production
