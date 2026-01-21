@@ -74,17 +74,3 @@ and organizing it into reusable and structured forms.”**
 ---
 
 **🔗 [Japanese Version › 経験要約 / Career Summary](../)**
-
----
-
-## 🔒 Career Technical Archive (Private / Non-Public) 
-A personal archive containing technical judgments, design documents,  
-and practical records related to mass production ramp-up,  
-failure response, BCP, and emergency change management.
-
-- Privately managed repository
-- Not intended for public access or sharing
-- Used solely for education, organization, and personal reference
-
-▶︎ **Private Repository (Access Restricted)**  
-[https://github.com/Samizo-AITL/career-technical-archive](https://github.com/Samizo-AITL/career-technical-archive)
