@@ -802,6 +802,31 @@ Shinichi Samizo
 
 ---
 
+## 🗂 Technical Archive — Abstracted Engineering Knowledge
+
+This section provides an **abstracted technical archive**  
+derived from non-public materials related to:
+
+- manufacturing technology  
+- reliability design  
+- business continuity engineering  
+
+The archive focuses on **engineering decision-making structures**,  
+not on implementation details.
+
+- No proprietary or confidential data  
+- No numerical process or design conditions  
+- No company, product, or project names  
+
+It serves as an **index of engineering judgment frameworks**  
+that underpin the educational materials and PoCs presented in this portal.
+
+👉 **Refer to this archive as a guide to engineering decision-making logic.**
+
+- 📗 [Technical Archive (English)](../../about/docs/en/)
+
+---
+
 # 🕘 Update Log
 Chronological record of site and repository updates.
 
