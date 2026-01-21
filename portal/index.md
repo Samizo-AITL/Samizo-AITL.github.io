@@ -174,7 +174,7 @@ Samizo-AITL/
 
 ----
 
-## 📝 Essays / Design Philosophy (Zenn)
+# 📝 Essays / Design Philosophy (Zenn)
 
 **設計思想・物理起点工学・AITL構造に関する考察記事は Zenn に集約しています。**
 
