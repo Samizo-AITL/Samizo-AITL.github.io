@@ -198,7 +198,7 @@ This order avoids tool-driven or fragmented understanding.
 
 ---
 
-## 📝 Essays / Design Philosophy (Zenn)
+# 📝 Essays / Design Philosophy (Zenn)
 
 **Essays on design philosophy, physical-first engineering, and the AITL architecture are published on Zenn.**
 
