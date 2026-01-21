@@ -6,6 +6,8 @@ description: "制御・半導体・インクジェット・教育を貫く技術
 
 # 🛠️ Career Summary
 
+[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/)
+
 本ページは、  
 **制御理論・電磁界解析を起点とし、半導体・MEMS・産業用インクジェット製品化へと展開してきた技術キャリア**  
 を要約したものである。
