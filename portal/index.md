@@ -775,7 +775,7 @@ AITL における責務分離（PID / FSM / NN・RL / LLM）を
 
 ---
 
-## 🗂 Technical Archive — Abstracted Engineering Knowledge
+# 🗂 Technical Archive — Abstracted Engineering Knowledge
 
 量産技術・信頼性設計・事業継続判断に関する  
 **非公開技術資料を、判断構造・評価軸として抽象化したアーカイブ**です。
@@ -786,7 +786,7 @@ AITL における責務分離（PID / FSM / NN・RL / LLM）を
 
 👉 **設計判断の「索引」として参照してください。**
 
-- 📘 [Technical Archive（日本語）](../about/docs/)
+📘 [Technical Archive（日本語）](../about/docs/)
 
 ---
 
