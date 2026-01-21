@@ -66,6 +66,19 @@ and organizing it into reusable and structured forms.”**
 
 ---
 
+## 🧠 Technical Archive
+
+This archive organizes the **decision-making frameworks** used throughout my career in  
+manufacturing technology, reliability design, and technical judgment,  
+based on **abstracted non-public materials**.
+
+- Focuses on *thinking structures*, not implementations  
+- Contains no proprietary data, values, or product-specific details
+
+🗂️ **[Technical Archive — Abstracted Manufacturing Knowledge](../)**
+
+---
+
 > ⚠️ **Note**  
 > The technical content on this page is abstracted for educational  
 > and organizational purposes and does not represent actual manufacturing  
