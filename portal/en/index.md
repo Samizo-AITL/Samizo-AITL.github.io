@@ -802,7 +802,7 @@ Shinichi Samizo
 
 ---
 
-## 🗂 Technical Archive — Abstracted Engineering Knowledge
+# 🗂 Technical Archive — Abstracted Engineering Knowledge
 
 This section provides an **abstracted technical archive**  
 derived from non-public materials related to:
@@ -823,7 +823,7 @@ that underpin the educational materials and PoCs presented in this portal.
 
 👉 **Refer to this archive as a guide to engineering decision-making logic.**
 
-- 📗 [Technical Archive (English)](../../about/docs/en/)
+📗 [Technical Archive (English)](../../about/docs/en/)
 
 ---
 
