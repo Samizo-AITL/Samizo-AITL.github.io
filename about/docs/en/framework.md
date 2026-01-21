@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Engineering Decision Frameworks"
+---
+
 # Engineering Decision Frameworks
 
 This archive is organized around recurring principles:
