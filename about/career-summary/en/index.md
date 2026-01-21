@@ -75,7 +75,7 @@ based on **abstracted non-public materials**.
 - Focuses on *thinking structures*, not implementations  
 - Contains no proprietary data, values, or product-specific details
 
-🗂️ **[Technical Archive — Abstracted Manufacturing Knowledge](../)**
+🗂️ **[Technical Archive — Abstracted Manufacturing Knowledge](../docs/)**
 
 ---
 
