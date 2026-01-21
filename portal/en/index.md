@@ -827,13 +827,6 @@ that underpin the educational materials and PoCs presented in this portal.
 
 ---
 
-# 🕘 Update Log
-Chronological record of site and repository updates.
-
-[📄 View update history](https://samizo-aitl.github.io/about/update/en/)
-
----
-
 # 👤 Author
 
 **Shinichi Samizo**  
@@ -870,6 +863,13 @@ are **not granted** by the above licenses.
 🚫 **Systematic reuse, redistribution, or commercial application**  
 of the AITL methodology or its complete educational structure  
 requires **explicit permission from the project authors**.
+
+---
+
+# 🕘 Update Log
+Chronological record of site and repository updates.
+
+[📄 View update history](https://samizo-aitl.github.io/about/update/en/)
 
 ---
 
