@@ -5,6 +5,8 @@ title: "Technical Archive (Abstracted)"
 
 # 🗂 Technical Archive — 抽象化技術アーカイブ
 
+[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/)
+
 このセクションは、  
 **量産技術・信頼性設計・事業継続判断**に関する  
 **非公開資料を抽象化して整理した技術思想アーカイブ**です。
