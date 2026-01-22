@@ -22,8 +22,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
-| 2026-01-22 | **設計前提・現状把握ドキュメントを追加。**<br>・Physical AI / AI制御研究の現状を、責務分離・時間スケール・安定性保証の観点から構造的に整理<br>・AITL および Samizo-AITL ポータル全体が依拠する「前提条件」を明示的に固定するスナップショット文書として位置づけ<br>・日本語版／英語版を about/current/ 以下に並列配置し、思想ではなく設計前提として参照可能な形で公開 |
-| 2026-01-21 | **Technical Archive（Abstracted Engineering Knowledge）を新設。**<br>・量産技術・信頼性設計・事業継続判断に関する非公開資料を、判断構造・評価軸として抽象化<br>・実データ／数値条件／企業名／製品名を含まない形で公開可能な技術思想アーカイブを構築<br>・評価表（Evaluation Matrix）および技術判断フレーム（Engineering Decision Frameworks）を整備<br>・Samizo-AITL ポータルにおける各教材・PoC の背後にある設計判断構造の索引として位置づけ |
+| 2026-01-22 | ポータル全体の構成・導線・記述密度を見直し、物理起点アーキテクチャが即座に把握できるよう全体調整 |
 | 2026-01-21 | **AITL Training & Competence Framework（教育・訓練）を正式追加。**<br>・ISO 9001 Clause 7.2（Competence）を想定した AITL 教育・力量管理ドキュメント群を整備<br>・教育方針／訓練アーキテクチャ／役割別訓練計画／検証／記録を体系化<br>・AITL の責務分離（PID / FSM / NN・RL / LLM）を教育・訓練の観点から明文化<br>・技術実装とは分離し、Samizo-AITL 本体を Single Source of Truth として維持 |
 | 2026-01-14 | **Legacy Technology（Failure & Recovery Archive）を正式追加。**<br>・0.25µm DRAM（1998）、VSRAM（2001）を中心とした失敗・回復事例を体系化<br>・物理・プロセス・使用条件が不良／歩留まり／撤退判断へ接続される因果構造を明示<br>・AITL／AI Control Safety Package における「なぜ実時間AIを制御に入れないか」の現実的根拠として位置づけ |
 | 2026-01-13 | **AI Control Safety Package（実務向け設計・レビュー・パッケージ）の準備を開始。**<br>・Envelope Control／Recovery Control／AITL で整理した制御アーキテクチャ概念を、実務で使える形に統合<br>・AI / LLM 制御導入に対する Go / No-Go 判断、Safety Envelope 定義、Recovery Control 設計を対象<br>・教材・PoC ではなく、設計判断と責任分界を明確化する実務向けパッケージとして位置づけ |
