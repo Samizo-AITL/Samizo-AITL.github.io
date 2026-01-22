@@ -8,8 +8,8 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 **物理を起点とした設計から出発し、  
 デバイス・制御・AI を因果構造として整理する設計アーカイブ**
 
-[English Version](https://samizo-aitl.github.io/en/) ｜  
-[GitHub : Samizo-AITL](https://github.com/Samizo-AITL)
+[![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/en/)
+[![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 
 ---
 
@@ -63,3 +63,8 @@ AITL では、**制御とAIを明確に分離**します。
 - 物理・デバイス・制御・AIを横断する設計者
 - 設計判断を説明可能な形で残したい人
 - 教材・設計思想を構造として整理したい人
+
+---
+
+> **AITL は制御手法ではない。  
+> 設計を説明し、更新するための構造である。**
