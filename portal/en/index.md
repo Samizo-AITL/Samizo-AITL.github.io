@@ -15,30 +15,6 @@ description: A physical-first engineering archive that integrates devices, contr
 
 ---
 
-## ▶ Overview
-
-A short slide deck summarizes  
-the **design philosophy and overall structure of Samizo-AITL**.
-
-Readers new to the portal are encouraged to start here.
-
-[![Overview Slides](https://img.shields.io/badge/Overview-Slides-blue?style=for-the-badge&logo=github)](https://samizo-aitl.github.io/about/marp/en/samizo-aitl-presentation.html)
-
----
-
-## 📌 Design Prerequisite (Current State)
-
-This portal is constructed based on a **structural understanding of the current limitations in  
-Physical AI and AI control research as of 2026**.
-
-- [Current State (English, 2026-01-22)](https://samizo-aitl.github.io/about/current/en/current_state_20260122.html)
-
-All AITL architectures, materials, and PoC implementations presented below  
-are **designed as consequences of this prerequisite understanding**,  
-not as independent or isolated proposals.
-
----
-
 ## 🚀 What This Portal Provides
 
 **Samizo-AITL** is a technical archive structured around  
@@ -51,9 +27,6 @@ The portal provides:
 - Design knowledge that preserves **why decisions exist**, not only how to implement them
 - Reusable architectural concepts across **education, PoC, and practical design**
 
-This is not a tutorial collection.  
-It is an archive intended to support **design-level reasoning**.
-
 ---
 
 ## 🎯 Intended Audience
@@ -64,9 +37,6 @@ This portal is intended for engineers and researchers who:
 - Treat control theory as a **core structural element**
 - Use AI / LLMs as **supervisory and analytical layers**, not controllers
 - Require **cross-domain understanding without collapsing physical meaning**
-
-⚠️ This is **not an introductory site**.  
-It is a **reference archive for design-oriented engineering work**.
 
 ---
 
@@ -146,22 +116,6 @@ and **do not directly intervene in real-time control loops**.
 
 **Intelligence is applied to fully and correctly exploit physical models**  
 — that is the core philosophy of AITL.
-
----
-
-## 🔍 For Reviewers, Evaluators, and Potential Collaborators
-
-This portal organizes a **design-oriented engineering architecture**  
-that integrates **physics-based models, control theory, and AI**,  
-with explicit separation of responsibilities.
-
-- Real-time control is handled exclusively by **PID**
-- State supervision and decision boundaries are managed by **FSM**
-- **AI (LLMs)** are restricted to **design-time analysis and redesign support**
-
-AI is explicitly excluded from real-time control loops.  
-The architecture therefore targets engineering systems that emphasize  
-**safety, reproducibility, and objective evaluability**.
 
 ---
 
