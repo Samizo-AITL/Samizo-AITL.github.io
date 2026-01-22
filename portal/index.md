@@ -83,10 +83,6 @@ flowchart TB
   style I stroke-dasharray:5 5
 ```
 
-AITL（Architecture for Integrated Technology Logic）は、  
-**Physical → Control → Intelligence** という一方向の因果構造を中核とした  
-技術設計アーキテクチャです。
-
 - **Physical Layer**  
   物理・デバイス・MEMS によって  
   システムの制約・限界・不確実性が決定されます。
