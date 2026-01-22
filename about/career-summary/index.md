@@ -66,7 +66,7 @@ description: "制御・半導体・インクジェット・教育を貫く技術
 - 実装や製品仕様ではなく **判断の枠組み** を対象
 - 実データ・数値・固有案件は含みません
 
-🗂️ **[Technical Archive — 抽象化技術アーカイブ](https://samizo-aitl.github.io/about/docs/)**
+🗂️ **[Technical Archive — 抽象化技術アーカイブ](https://samizo-aitl.github.io/about/archive/)**
 
 ---
 
