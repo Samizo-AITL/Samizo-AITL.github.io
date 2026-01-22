@@ -19,6 +19,21 @@ through explicit causal structure.**
 engineering knowledge as **causal relationships** linking  
 physical quantities, device behavior, control logic, and system performance.
 
+```mermaid
+flowchart TD
+    P["Physical quantities<br>(V–I, force, heat, etc.)"]
+    D["Devices<br>(semiconductors / MEMS / mechanisms)"]
+    C["Control<br>(PID / FSM)"]
+    A["Design intelligence<br>(AI / LLM)"]
+    S["Performance<br>(stability / reliability)"]
+
+    P --> D
+    D --> C
+    C --> S
+    C -. redesign support .-> A
+    A -. model update / re-identification .-> C
+```
+
 Rather than presenting isolated methods,  
 this portal focuses on **how design decisions arise from physical constraints**  
 and how those decisions propagate through control and system architecture.
