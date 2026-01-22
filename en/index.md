@@ -28,40 +28,22 @@ and how those decisions propagate through control and system architecture.
 ## ⚡ 60-second orientation
 If this is your first visit, start here.
 
-- **Architecture overview**  
-  → <a href="/portal/en/"
-       data-ga-label="portal-en-index">
-       <strong>/portal/en/</strong>
-     </a>
-
-- **Semiconductor / device-oriented path**  
-  → <a href="/Edusemi-v4x/en/"
-       data-ga-label="edusemi-v4x-en">
-       <strong>/Edusemi-v4x/en/</strong>
-     </a>  
-  <em>Physics, process, and device-level structure</em>
-
-- **Control / AI-oriented path**  
-  → <a href="/EduController/en/"
-       data-ga-label="educontroller-en">
-       <strong>/EduController/en/</strong>
-     </a>  
-  <em>Control architectures and system-level organization</em>
+| Topic | Link | Note |
+|---|---|---|
+| **Architecture overview (Portal)** | [/portal/en/](https://samizo-aitl.github.io/portal/en/) | AITL overview |
+| **Semiconductor / device-oriented path** | [/Edusemi-v4x/en/](https://samizo-aitl.github.io/Edusemi-v4x/en/) | Physics → process → device |
+| **Control / AI-oriented path** | [/EduController/en/](https://samizo-aitl.github.io/EduController/en/) | PID / FSM / AI roles |
 
 ---
 
 ## 🧠 Design structure
 AITL organizes control and intelligence by role.
 
-- **PID (real-time control layer)**  
-  Stability, response, and disturbance rejection based on physical models
-
-- **FSM (supervisory layer)**  
-  State transitions, mode selection, and safety-oriented logic
-
-- **AI / LLM (non-real-time layer)**  
-  Support for design-time tasks such as  
-  model updates, gain re-identification, and rule refinement
+| Layer | Role | Responsibility |
+|---|---|---|
+| **PID** | Real-time control | Stability, response, disturbance rejection |
+| **FSM** | Supervisory logic | Mode selection, state transitions, safety |
+| **AI / LLM** | Non-real-time support | Model updates, gain re-ID, rule refinement |
 
 AI is treated as a **design support layer**,  
 not as a replacement for deterministic control loops.
