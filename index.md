@@ -22,12 +22,12 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 **設計判断と説明に使える因果構造**として整理するための枠組みです。
 
 ```mermaid
-flowchart TD
-    P["物理量\n(V–I, 力, 熱 など)"]
-    D["デバイス\n(半導体 / MEMS / 機構)"]
-    C["制御\n(PID / FSM)"]
-    A["設計知能\n(AI / LLM)"]
-    S["性能\n(安定性・信頼性)"]
+flowchart LR
+    P["物理量<br>(V–I, 力, 熱 など)"]
+    D["デバイス<br>(半導体 / MEMS / 機構)"]
+    C["制御<br>(PID / FSM)"]
+    A["設計知能<br>(AI / LLM)"]
+    S["性能<br>(安定性・信頼性)"]
 
     P --> D
     D --> C
