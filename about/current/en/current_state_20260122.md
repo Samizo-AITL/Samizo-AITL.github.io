@@ -9,6 +9,8 @@ version: 1.0
 # 🧭 Current State  
 ## Structural Issues in Physical AI and AI Control Research (as of 2026)
 
+[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/en/)
+
 This document summarizes the state of **Physical AI / AI control / robotics** research as of 2026,  
 and clarifies the **structural and architectural issues** observed from a system design perspective.
 
