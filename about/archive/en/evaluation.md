@@ -45,8 +45,8 @@ not on implementation details.
 | 6 | Process-Porting-Type BCP Support for Driver ICs | 17 | 20 | 20 | 19 | 18 | **94** |
 | 7 | Optimization of Sequential Screening for High-Voltage Devices | 18 | 20 | 18 | 19 | 18 | **93** |
 | 8 | Cost Reduction via Thinning of COF Au Plating | 16 | 19 | 20 | 18 | 17 | **90** |
-| 9 | Mach Head PZT / COF Bonding – 4M Change Management | 15 | 19 | 20 | 17 | 18 | **89** |
-|10 | Countermeasures for Off-Label Use: Emergency Switching & Multi-Site Integrated 4M Control | 17 | 20 | 20 | 19 | 19 | **95** |
+| 9 | PZT / COF Bonding – 4M Change Management | 15 | 19 | 20 | 17 | 18 | **89** |
+|10 | Emergency Switching & Multi-Site Integrated 4M Control | 17 | 20 | 20 | 19 | 19 | **95** |
 |11 | Systematization of BOM Workflow | 16 | 19 | 19 | 20 | 20 | **94** |
 
 ---
