@@ -552,6 +552,39 @@ using **OpenLane v2**.
 
 ---
 
+## 📝 Topics Under Consideration (Future Work Notes)
+
+> *The following items are **preliminary study topics only**.*  
+> *Implementation details, design scope, and section structure are not fixed at this stage.*
+
+- 🧩 **AITL Controller A-Type**
+  - V–I based control ASIC on SKY130
+  - Minimal configuration focused on real-time PID control
+
+- 🤸 **Inverted Pendulum Implementation Analysis**
+  - Validation of the Physical ↔ Circuit ↔ Control connection
+  - Gap analysis between theoretical models and implementation non-idealities
+
+- ⏳ **Long-Term Degradation Analysis (up to ~1000 days)**
+  - Control performance changes under device aging assumptions
+  - Conditions requiring re-identification and re-design
+
+- 🧠 **AITL Controller B-Type**
+  - Control architecture considering degradation and state variation
+  - FSM-based supervisory control with re-design awareness
+
+- 🧬 **OpenLane + RISC-V Integrated Configuration**
+  - Control accelerator with non-real-time supervisory layer
+  - Study of design flow and interface architecture
+
+- 🧱 **GDS-Level Design Milestone**
+  - Definition of design completion on SKY130
+  - Boundary clarification between research, education, and implementation
+
+> 🔧 These topics are expected to significantly expand and be restructured once actual implementation begins.
+
+---
+
 # ⚙️ MEMS / Physical Boundary
 A layer that starts from physical models and, through abstraction, control, and design decisions, reaches the MEMS embodiment as the boundary where abstract models cease to be valid.
 
