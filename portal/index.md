@@ -8,18 +8,6 @@
 
 ---
 
-## 📌 設計前提（Current State）
-
-本ポータルは、**2026年時点における Physical AI / AI制御研究の構造的課題認識**を  
-設計前提として構築されています。
-
-- [現状把握（日本語, 2026-01-22）](https://samizo-aitl.github.io/about/current/current_state_20260122.html)
-
-本ページ以下の AITL 構造・教材・PoC は、  
-**上記の現状認識を前提条件として設計された結果**です。
-
----
-
 ## 🚀 このポータルで得られること
 
 **Samizo-AITL** は、  
