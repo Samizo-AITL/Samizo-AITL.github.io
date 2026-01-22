@@ -323,7 +323,8 @@ PID・FSM を中心に、**制御系の構造そのものを理解するため�
 
 <iframe
   src="https://samizo-aitl.github.io/control-playground/"
-  style="width:100%; height:420px; border:none;">
+  style="width:100%; height:420px; border:none;"
+  loading="lazy">
 </iframe>
 
 > 制御の成否は、説明ではなく **波形そのもの**が語ります。
