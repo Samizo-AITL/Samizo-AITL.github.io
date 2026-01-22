@@ -5,9 +5,8 @@ description: A physical-first engineering archive that integrates devices, contr
 ---
 
 # 🎓 Samizo-AITL Portal  
-> **A physical-first engineering framework  
-> that integrates devices, control, and intelligence  
-> through a unified causal loop back to the physical world**
+> **Physics → Devices → Control → Intelligence → Physics  
+> A causal engineering archive grounded in the physical world**
 
 [![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
@@ -29,7 +28,7 @@ The portal provides:
 
 ---
 
-## 🎯 Intended Audience
+## 🎯 Intended Audience (Who This Portal Is For)
 
 This portal is intended for engineers and researchers who:
 
@@ -46,13 +45,9 @@ The **Samizo-AITL Portal**, created by **Shinichi Samizo**,
 reorganizes semiconductor devices, MEMS, and control engineering  
 around a **shared physical-first design framework**.
 
-Rather than treating technologies in isolation,  
-systems are presented along a single causal chain:
+Systems are presented along a single causal chain:
 
 **Physics → Structure → Devices → Process → Models → Systems → Control → Intelligence**
-
-This structure enables readers to trace  
-**design rationale and constraints**, not only implementation details.
 
 ---
 
@@ -113,9 +108,6 @@ centered on a **one-directional causal structure**:
 
 ※ **LLMs are used only at design time (non-real-time)**  
 and **do not directly intervene in real-time control loops**.
-
-**Intelligence is applied to fully and correctly exploit physical models**  
-— that is the core philosophy of AITL.
 
 ---
 
@@ -359,7 +351,8 @@ under **colored, adversarial disturbances**.
 
 <iframe
   src="https://samizo-aitl.github.io/control-playground/"
-  style="width:100%; height:420px; border:none;">
+  style="width:100%; height:420px; border:none;"
+  loading="lazy">
 </iframe>
 
 > Control performance is not explained by words.  
@@ -503,39 +496,6 @@ This figure is used for **flow inspection**, not as a final GDS deliverable.*
 This project uses **OpenLane v1** as a baseline RTL-to-GDS implementation.  
 Macro-aware and more advanced physical design examples are provided separately  
 using **OpenLane v2**.
-
----
-
-## 📝 Topics Under Consideration (Future Work Notes)
-
-> *The following items are **preliminary study topics only**.*  
-> *Implementation details, design scope, and section structure are not fixed at this stage.*
-
-- 🧩 **AITL Controller A-Type**
-  - V–I based control ASIC on SKY130
-  - Minimal configuration focused on real-time PID control
-
-- 🤸 **Inverted Pendulum Implementation Analysis**
-  - Validation of the Physical ↔ Circuit ↔ Control connection
-  - Gap analysis between theoretical models and implementation non-idealities
-
-- ⏳ **Long-Term Degradation Analysis (up to ~1000 days)**
-  - Control performance changes under device aging assumptions
-  - Conditions requiring re-identification and re-design
-
-- 🧠 **AITL Controller B-Type**
-  - Control architecture considering degradation and state variation
-  - FSM-based supervisory control with re-design awareness
-
-- 🧬 **OpenLane + RISC-V Integrated Configuration**
-  - Control accelerator with non-real-time supervisory layer
-  - Study of design flow and interface architecture
-
-- 🧱 **GDS-Level Design Milestone**
-  - Definition of design completion on SKY130
-  - Boundary clarification between research, education, and implementation
-
-> 🔧 These topics are expected to significantly expand and be restructured once actual implementation begins.
 
 ---
 
@@ -828,7 +788,6 @@ requires **explicit permission from the project authors**.
 ---
 
 # 🕘 Update Log
-Chronological record of site and repository updates.
 
 [📄 View update history](https://samizo-aitl.github.io/about/update/en/)
 
