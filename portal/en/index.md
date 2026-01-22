@@ -26,6 +26,19 @@ Readers new to the portal are encouraged to start here.
 
 ---
 
+## 📌 Design Prerequisite (Current State)
+
+This portal is constructed based on a **structural understanding of the current limitations in  
+Physical AI and AI control research as of 2026**.
+
+- [Current State (English, 2026-01-22)](https://samizo-aitl.github.io/about/current/en/current_state_20260122.html)
+
+All AITL architectures, materials, and PoC implementations presented below  
+are **designed as consequences of this prerequisite understanding**,  
+not as independent or isolated proposals.
+
+---
+
 ## 🚀 What This Portal Provides
 
 **Samizo-AITL** is a technical archive structured around  
