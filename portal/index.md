@@ -71,6 +71,9 @@ flowchart TB
   style I stroke-dasharray:5 5
 ```
 
+
+以下に、各レイヤの役割を示します。
+
 - **Physical Layer**  
   物理・デバイス・MEMS によって  
   システムの制約・限界・不確実性が決定されます。
@@ -135,7 +138,7 @@ Samizo-AITL/
 
 この順序は、ツール起点や断片的理解を避けるためのものです。
 
-----
+---
 
 # 📝 Essays / Design Philosophy (Zenn)
 
