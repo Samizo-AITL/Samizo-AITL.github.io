@@ -9,6 +9,8 @@ version: 1.0
 # 🧭 現状把握  
 ## Physical AI / AI制御研究の構造的課題（2026年時点）
 
+[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/)
+
 本ドキュメントは、2026年時点における **Physical AI / AI制御 / ロボティクス** 分野の研究動向を整理し、  
 **技術的・設計的に何が課題として残っているのか**を明示することを目的とする。
 
