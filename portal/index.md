@@ -776,9 +776,6 @@ AITL における責務分離（PID / FSM / NN・RL / LLM）を
 
 # 🕘 Update Log
 
-**サイトおよび教材の更新履歴はこちらに集約しています。**  
-設計思想・教材構成・PoC の更新は、必ずログとして残します。
-
 - [📄 更新履歴を見る](https://samizo-aitl.github.io/about/update/)
 
 ---
