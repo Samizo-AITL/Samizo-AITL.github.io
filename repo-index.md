@@ -103,6 +103,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | LaTeX Papers (private) |  | 🔧 [Repo](https://github.com/Samizo-AITL/latex-papers) |
 | Marp Slides | 🔗 [Open](https://samizo-aitl.github.io/marp-slides/) | 🔧 [Repo](https://github.com/Samizo-AITL/marp-slides) |
 | Zenn Books | 🔗 [Open](https://samizo-aitl.github.io/zenn-books/) | 🔧 [Repo](https://github.com/Samizo-AITL/zenn-books) |
+| qiita-articles  | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles) |
 | Udemy PhysCtrl | 🔗 [Open](https://samizo-aitl.github.io/udemy-physctrl/) | 🔧 [Repo](https://github.com/Samizo-AITL/udemy-physctrl) |
 
 ---
