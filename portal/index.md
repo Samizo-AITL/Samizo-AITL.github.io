@@ -616,6 +616,12 @@ Samizo-AITL における
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
 
+<a href="http://samizo-aitl.github.io/full-code-mechanical-design/fig/03_loft_twist_solid.png" target="_blank">
+  <img src="http://samizo-aitl.github.io/full-code-mechanical-design/fig/03_loft_twist_solid.png"
+       alt="Twisted loft solid generated purely by Python code (FreeCAD)"
+       style="width:80%;">
+</a>
+
 ---
 
 # 🎞 AITL Animation Demos
