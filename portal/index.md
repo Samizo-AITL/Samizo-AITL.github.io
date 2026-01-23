@@ -616,11 +616,26 @@ Samizo-AITL における
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
 
+---
+
+### 📐 Advanced Geometry Examples（実行可能な設計意図）
+
 <a href="http://samizo-aitl.github.io/full-code-mechanical-design/fig/03_loft_twist_solid.png" target="_blank">
   <img src="http://samizo-aitl.github.io/full-code-mechanical-design/fig/03_loft_twist_solid.png"
-       alt="Twisted loft solid generated purely by Python code (FreeCAD)"
+       alt="Pythonコードのみで生成されたツイスト・ロフト立体（FreeCAD）"
        style="width:80%;">
 </a>
+
+この例は、**GUI 操作を用いず、Python コードのみ**で生成された  
+ツイスト付きロフト立体構造である。
+
+- 断面形状・配置・回転量は **すべてコード上で明示的に定義**
+- FreeCAD は作図ツールではなく **幾何生成エンジン**として使用
+- 形状は再実行・再生成可能で、設計意図がコードとして保存される
+
+これは、CAD ファイルを成果物とせず、  
+**設計コードそのものを一次設計資産とする  
+Full Code Mechanical Design の考え方**を示す代表例である。
 
 ---
 
