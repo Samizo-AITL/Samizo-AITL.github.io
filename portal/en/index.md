@@ -637,6 +637,8 @@ and intelligence architectures.**
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/full-code-mechanical-design/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/full-code-mechanical-design)
 
+---
+
 ### 📐 Advanced Geometry Examples (Executable Design Intent)
 
 <a href="http://samizo-aitl.github.io/full-code-mechanical-design/fig/03_loft_twist_solid.png" target="_blank">
@@ -644,6 +646,16 @@ and intelligence architectures.**
        alt="Twisted loft solid generated purely by Python code (FreeCAD)"
        style="width:80%;">
 </a>
+
+This example shows a twisted loft solid generated **purely by Python code**,  
+without any GUI-based CAD operations.
+
+- Cross-sections, placement, and twist angles are **explicitly defined in code**
+- FreeCAD is used not as a drawing tool, but as a **geometry generation engine**
+- The shape is fully reproducible by re-executing the code, preserving design intent
+
+This represents a core concept of **Full Code Mechanical Design**:  
+treating executable design code—not CAD files—as the **primary design asset**.
 
 ---
 
