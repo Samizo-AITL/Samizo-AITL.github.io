@@ -82,8 +82,8 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | MEMS pre-FEM Analysis | 🔗 [Open](https://samizo-aitl.github.io/mems-ana/) | 🔧 [Repo](https://github.com/Samizo-AITL/mems-ana) |
 | Inkjet DTS | 🔗 [Open](https://samizo-aitl.github.io/inkjet-dts/) | 🔧 [Repo](https://github.com/Samizo-AITL/inkjet-dts) |
 | Inkjet Timing | 🔗 [Open](https://samizo-aitl.github.io/inkjet-timing/) | 🔧 [Repo](https://github.com/Samizo-AITL/inkjet-timing) |
-| Full Code Mechanical Design | 🔗 [Open](https://samizo-aitl.github.io/full-code-mechanical-design/) | 🔧 [Repo](https://github.com/Samizo-AITL/full-code-mechanical-design) |
 | GF180 Inkjet Driver IC | 🔗 [Open](https://samizo-aitl.github.io/gf180-inkjet-driver/) | 🔧 [Repo](https://github.com/Samizo-AITL/gf180-inkjet-driver) |
+| Full Code Mechanical Design | 🔗 [Open](https://samizo-aitl.github.io/full-code-mechanical-design/) | 🔧 [Repo](https://github.com/Samizo-AITL/full-code-mechanical-design) |
 
 ---
 
