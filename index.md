@@ -46,7 +46,9 @@ flowchart TD
 
 ---
 
-## 🔥 まず何を見るか
+## 🔥 ▶ ここから見ることができます
+
+[![PORTAL](https://img.shields.io/badge/PORTAL-Click%20to%20Start-blue?style=for-the-badge)](https://samizo-aitl.github.io/portal/)
 
 | 内容 | リンク | 補足 |
 |---|---|---|
