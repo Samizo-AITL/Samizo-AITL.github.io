@@ -46,7 +46,7 @@ flowchart TD
 
 ---
 
-## 🔥 ▶ ここから見ることができます
+## ▶ ここから見ることができます
 
 <div style="margin: 1.5em 0;">
   <a href="/portal/"
