@@ -48,7 +48,27 @@ flowchart TD
 
 ## 🔥 ▶ ここから見ることができます
 
-[![PORTAL](https://img.shields.io/badge/PORTAL-Click%20to%20Start-blue?style=for-the-badge)](https://samizo-aitl.github.io/portal/)
+<div style="margin: 1.5em 0;">
+  <a href="/portal/"
+     style="
+       display: inline-block;
+       padding: 18px 36px;
+       font-size: 1.2em;
+       font-weight: 700;
+       letter-spacing: 0.05em;
+       color: #fff;
+       background: linear-gradient(135deg, #2563eb, #1e40af);
+       border-radius: 10px;
+       text-decoration: none;
+       box-shadow: 0 8px 20px rgba(30,64,175,0.35);
+       transition: transform 0.15s ease, box-shadow 0.15s ease;
+     "
+     onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 12px 28px rgba(30,64,175,0.45)';"
+     onmouseout="this.style.transform='none';this.style.boxShadow='0 8px 20px rgba(30,64,175,0.35)';"
+  >
+    ▶ PORTAL
+  </a>
+</div>
 
 | 内容 | リンク | 補足 |
 |---|---|---|
