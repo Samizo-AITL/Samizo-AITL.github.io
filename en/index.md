@@ -40,7 +40,7 @@ and how those decisions propagate through control and system architecture.
 
 ---
 
-## ⚡ 60-second orientation
+## 60-second orientation
 If this is your first visit, start here.
 
 <div style="margin: 1.5em 0;">
