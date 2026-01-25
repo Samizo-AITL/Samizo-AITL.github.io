@@ -67,7 +67,7 @@ If this is your first visit, start here.
 
 | Topic | Link | Note |
 |---|---|---|
-| **Architecture overview (Portal)** | [/portal/en/](https://samizo-aitl.github.io/portal/en/) | AITL overview |
+| **Portal** | [/portal/en/](https://samizo-aitl.github.io/portal/en/) | AITL overview |
 | **Semiconductor / device-oriented path** | [/Edusemi-v4x/en/](https://samizo-aitl.github.io/Edusemi-v4x/en/) | Physics → process → device |
 | **Control / AI-oriented path** | [/EduController/en/](https://samizo-aitl.github.io/EduController/en/) | PID / FSM / AI roles |
 
