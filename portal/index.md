@@ -719,7 +719,7 @@ NN / RL および LLM は起動せず、
 <section class="aitl-demo" style="margin:0;padding:0;">
   <iframe
     src="https://samizo-aitl.github.io/aitl-animation-demos/demo/js-svg/aitl-control-flow.html"
-    style="display:block;width:100%;height:600px;border:none;border-radius:12px;background:#000;margin:0;"
+    style="display:block;width:100%;height:700px;border:none;border-radius:12px;background:#000;margin:0;"
     loading="lazy"
     referrerpolicy="no-referrer">
   </iframe>
