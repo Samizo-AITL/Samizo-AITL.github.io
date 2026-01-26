@@ -754,7 +754,8 @@ AITL における責務分離（PID / FSM / NN・RL / LLM）を
 独立系半導体研究者  
 
 - GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
-- Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)  
+- Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)
+- Qiita: [https://qiita.com/ctr_bug](https://qiita.com/ctrl_bug)
 - Career Summary: [https://samizo-aitl.github.io/about/career-summary/](https://samizo-aitl.github.io/about/career-summary/)
 
 ---
