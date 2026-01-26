@@ -775,6 +775,7 @@ Independent Semiconductor Researcher
 
 - GitHub: [https://github.com/Samizo-AITL](https://github.com/Samizo-AITL)
 - Zenn: [https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)
+- Qiita: [https://qiita.com/ctr_bug](https://qiita.com/ctrl_bug)
 - Career Summary: [https://samizo-aitl.github.io/about/career-summary/en/](https://samizo-aitl.github.io/about/career-summary/en/)
 
 ---
