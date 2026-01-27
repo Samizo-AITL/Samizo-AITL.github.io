@@ -68,6 +68,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | AITL Controller A-Type | 🔗 [Open](https://samizo-aitl.github.io/aitl-controller-a-type/) | 🔧 [Repo](https://github.com/Samizo-AITL/aitl-controller-a-type) |
 | AI Control Safety Package | 🔗 [Open](https://samizo-aitl.github.io/ai-control-safety-package/) | 🔧 [Repo](https://github.com/Samizo-AITL/ai-control-safety-package) |
 | AITL Silicon Pathway | 🔗 [Open](https://samizo-aitl.github.io/aitl-silicon-pathway/) | 🔧 [Repo](https://github.com/Samizo-AITL/aitl-silicon-pathway) |
+| AITL Physical Reference | 🔗 [Open](https://samizo-aitl.github.io/aitl-physical-reference/) | 🔧 [Repo](https://github.com/Samizo-AITL/aitl-physical-reference) |
 | V–I Control ASIC | 🔗 [Open](https://samizo-aitl.github.io/vi-control-asic-sky130/) | 🔧 [Repo](https://github.com/Samizo-AITL/vi-control-asic-sky130) |
 | Control Playground | 🔗 [Open](https://samizo-aitl.github.io/control-playground/) | 🔧 [Repo](https://github.com/Samizo-AITL/control-playground) |
 | Envelope Control | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) | 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
