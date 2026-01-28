@@ -445,7 +445,28 @@ AI / LLM を用いた制御システムを
 
 ---
 
-## 6️⃣ 🧩 V–I Control ASIC on SKY130
+## 6️⃣ 🧱 Physical Reference PCB (aitl-physical-reference)
+抽象的な制御・論理を、**実電圧・実電流・実銅配線**に固定する  
+**最下層の物理リファレンス基板**。
+
+- 抽象ロジックを **測定可能な V–I 挙動**へ接地
+- LED / R / SW / TP のみで構成された最小物理系
+- 制御・AI・FSM・PID の **前提となる物理基盤**
+
+👉 **「制御以前に、物理がどう存在するか」を示す基準点。**
+
+### Schematic (Logic → Physics)
+![Schematic](https://samizo-aitl.github.io/aitl-physical-reference/docs/img/01_apr_sch_v0.png)
+
+### 3D View (Embodied Reality)
+![3D View](https://samizo-aitl.github.io/aitl-physical-reference/docs/img/03_apr_3d_v0.png)
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-physical-reference/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-physical-reference)
+
+---
+
+## 7️⃣ 🧩 V–I Control ASIC on SKY130
 V–I 制御（PID + FSM）を **RTL → GDS まで一貫実装する ASIC 教材**。
 
 - 電圧–電流（V–I）制御を物理量起点で設計
@@ -498,7 +519,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 7️⃣ 📐 mems-ana
+## 8️⃣ 📐 mems-ana
 抽象モデルの限界を確認する **pre-FEM MEMS 解析ツール**。
 
 - lumped / 簡易モデルが成立する範囲を可視化
@@ -516,14 +537,14 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8️⃣ 🖨 Inkjet Technology
+## 9️⃣ 🖨 Inkjet Technology
 
 インクジェットにおける **物理・駆動・吐出挙動**を、  
 **設計判断に必要な因果構造として整理する技術群**。
 
 ---
 
-## 8-1. 💧 Inkjet Printing — Design Trade-off Models
+## 9-1. 💧 Inkjet Printing — Design Trade-off Models
 画質・速度・ドット挙動の因果関係を**最小モデルで可視化する教材**。
 
 - ドット形成・吐出条件・駆動条件の因果関係整理
@@ -537,7 +558,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8-2. ⚡ inkjet-timing  
+## 9-2. ⚡ inkjet-timing  
 ピエゾインクジェットにおける **電気・機械・流体の時間因果関係**を、  
 単一時間軸上で可視化する設計・教育用デモ。
 
@@ -552,7 +573,7 @@ PID + FSM による制御動作が仕様通りであることを確認。
 
 ---
 
-## 8-3. 🧱 Inkjet Driver IC — Physical Interface Abstraction
+## 9-3. 🧱 Inkjet Driver IC — Physical Interface Abstraction
 
 インクジェット駆動ICが **MEMS／流体世界と接続する物理的境界**を、  
 **PDK・プロセス前提込みで定義する設計ノード**。
@@ -593,7 +614,7 @@ MEMS／流体世界と接続する **物理的インタフェースの実体**�
 
 ---
 
-## 9️⃣ 🛠️ Full Code Mechanical Design（コード駆動型機械設計）
+## 🔟 🛠️ Full Code Mechanical Design（コード駆動型機械設計）
 
 **機械・MEMS 構造を、GUI 操作ではなく  
 「実行可能なコード」として定義する設計方法論**。
