@@ -451,7 +451,32 @@ the control architecture concepts presented in this portal.
 
 ---
 
-## 6️⃣ 🧩 V–I Control ASIC on SKY130
+## 6️⃣ 🧱 Physical Reference PCB (aitl-physical-reference)
+A **lowest-level physical reference PCB** that anchors abstract control and logic  
+into **real voltage, real current, and real copper**.
+
+- Grounds abstract logic into **measurable V–I behavior**
+- Minimal physical system composed only of LED / R / SW / TP
+- Physical foundation underlying control, AI, FSM, and PID layers
+
+👉 **A reference point showing how physics exists *before* control.**
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-physical-reference/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-physical-reference)
+
+### Logic → Physics → Copper
+
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/01_apr_sch_v0.png" width="70%">
+
+*Minimal schematic that fixes abstract logic into measurable voltage and current.*
+
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/03_apr_3d_v0.png" width="70%">
+
+*Embodied physical reference board showing real components, copper, and boundaries.*
+
+---
+
+## 7️⃣ 🧩 V–I Control ASIC on SKY130
 A **hands-on educational control ASIC** demonstrating a complete flow from  
 **control theory to silicon** using **PID + FSM**.
 
@@ -525,7 +550,7 @@ This tool focuses on capturing **dominant deformation modes, scaling trends, and
 
 ---
 
-## 8️⃣ 🖨 Inkjet Technology
+## 7️⃣ 🖨 Inkjet Technology
 
 A collection of technologies that organize  
 **physical behavior, actuation, and droplet ejection** in inkjet systems  
