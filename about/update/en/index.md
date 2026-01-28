@@ -13,6 +13,7 @@ and improvements to documentation across all repositories.
 
 | Date       | Description |
 |------------|-------------|
+| **2026-01-28** | Added **aitl-physical-reference** to the portal and clearly positioned it as the baseline of the physics-first architecture. |
 | **2026-01-22** | Comprehensive revision of the portal structure, navigation, and content density to improve immediate readability of the physical-first architecture |
 | **2026-01-22** | Unified the structural layout and design intent of the Japanese and English top pages by removing explanatory redundancy and prioritizing architectural clarity |
 | **2026-01-21** | **AITL Training & Competence Framework officially added.**<br>• Established an AITL education and training documentation set aligned with ISO 9001 Clause 7.2 (Competence)<br>• Systematized training policy, training architecture, role-based training plans, verification, and training records<br>• Formalized AITL responsibility separation (PID / FSM / NN·RL / LLM) from an education and competence management perspective<br>• Clearly separated education and training from technical implementation, maintaining the main Samizo-AITL repositories as the Single Source of Truth |
