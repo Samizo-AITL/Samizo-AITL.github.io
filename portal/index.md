@@ -460,9 +460,9 @@ AI / LLM を用いた制御システムを
 
 ### Logic → Physics → Copper
 
-<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/01_apr_sch_v0.png" width="80%">
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/01_apr_sch_v0.png" width="70%">
 
-<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/03_apr_3d_v0.png" width="80%">
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/03_apr_3d_v0.png" width="70%">
 
 ---
 
