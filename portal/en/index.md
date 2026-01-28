@@ -530,7 +530,7 @@ A layer that starts from physical models and, through abstraction, control, and 
 
 ---
 
-## 7️⃣ 📐 mems-ana  
+## 8️⃣ 📐 mems-ana  
 **Pre-FEM MEMS Structural Exploration Tool**
 
 A lightweight analysis tool for **early-stage MEMS structural exploration before full FEM simulation**.
@@ -550,7 +550,7 @@ This tool focuses on capturing **dominant deformation modes, scaling trends, and
 
 ---
 
-## 7️⃣ 🖨 Inkjet Technology
+## 9️⃣ 🖨 Inkjet Technology
 
 A collection of technologies that organize  
 **physical behavior, actuation, and droplet ejection** in inkjet systems  
@@ -558,7 +558,7 @@ as **causal structures required for design decision-making**.
 
 ---
 
-## 8-1. 💧 Inkjet Printing — Design Trade-off Models
+## 9-1. 💧 Inkjet Printing — Design Trade-off Models
 
 Minimal physical models that visualize **fundamental trade-offs in inkjet printing systems**, such as:
 
@@ -575,7 +575,7 @@ This project serves as a domain-specific example of how **physical constraints s
 
 ---
 
-## 8-2. ⚡ inkjet-timing  
+## 9-2. ⚡ inkjet-timing  
 
 A design and educational demo that visualizes **time-domain causality across electrical, mechanical, and fluid domains** in a piezoelectric inkjet system.
 
@@ -590,7 +590,7 @@ By explicitly aligning drive waveforms, structural response, and droplet dynamic
 
 ---
 
-## 8-3. 🧱 Inkjet Driver IC — Physical Interface Abstraction
+## 9-3. 🧱 Inkjet Driver IC — Physical Interface Abstraction
 
 A design node that defines the **physical boundary where an inkjet driver IC interfaces with the MEMS / fluid domain**,  
 explicitly including **PDK and process-level constraints**.
@@ -638,7 +638,7 @@ This layout visually defines:
 
 ---
 
-## 9️⃣ 🛠️ Full Code Mechanical Design
+## 🔟 🛠️ Full Code Mechanical Design
 
 **A methodology for defining mechanical and MEMS structures
 as executable code rather than GUI-based CAD operations.**
