@@ -92,3 +92,28 @@ not as a replacement for deterministic control loops.
   (semiconductors, MEMS, control, AI)
 - Those interested in **design rationale and causal explanation**
 - Readers looking to organize engineering knowledge across domains
+
+---
+
+## 🌍 Usage (Reference)
+
+This portal is published as a **design archive**,  
+not as a commercial service or promotional website.
+
+As of January 2026 (past 28 days), it has been accessed from multiple regions:
+
+- 🇺🇸 United States: ~270 users  
+- 🇯🇵 Japan: ~20 users  
+- 🇬🇧 United Kingdom / 🇨🇦 Canada / 🇨🇳 China: several to a dozen users each  
+
+(Google Analytics snapshot)
+
+This distribution reflects a dual usage pattern:
+
+- **Structural reference by English-speaking engineers and researchers**
+- **Deep, iterative use for design and verification in Japan**
+
+AITL treats not only design concepts,  
+but also **how those structures are read and used**,  
+as part of the archive itself.
+
