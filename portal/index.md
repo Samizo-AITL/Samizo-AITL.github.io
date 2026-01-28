@@ -455,14 +455,14 @@ AI / LLM を用いた制御システムを
 
 👉 **「制御以前に、物理がどう存在するか」を示す基準点。**
 
-### Schematic (Logic → Physics)
-![Schematic](https://samizo-aitl.github.io/aitl-physical-reference/docs/img/01_apr_sch_v0.png)
-
-### 3D View (Embodied Reality)
-![3D View](https://samizo-aitl.github.io/aitl-physical-reference/docs/img/03_apr_3d_v0.png)
-
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/aitl-physical-reference/)
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/aitl-physical-reference)
+
+### Logic → Physics → Copper
+
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/01_apr_sch_v0.png" width="80%">
+
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/03_apr_3d_v0.png" width="80%">
 
 ---
 
