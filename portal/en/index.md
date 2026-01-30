@@ -466,13 +466,15 @@ into **real voltage, real current, and real copper**.
 
 ### Logic → Physics → Copper
 
-<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/01_apr_sch_v0.png" width="70%">
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/04_apn_sch_v1.png" width="70%">
 
-*Minimal schematic that fixes abstract logic into measurable voltage and current.*
+*Normative schematic that defines the logical–physical boundary,  
+fixing abstract logic into measurable voltage and current.*
 
-<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/03_apr_3d_v0.png" width="70%">
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/06_apn_3d_v1.png" width="70%">
 
-*Embodied physical reference board showing real components, copper, and boundaries.*
+*Embodied v1 physical reference board showing real components,  
+real copper, and explicit physical boundaries.*
 
 ---
 
