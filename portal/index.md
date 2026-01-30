@@ -460,13 +460,15 @@ AI / LLM を用いた制御システムを
 
 ### Logic → Physics → Copper
 
-<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/01_apr_sch_v0.png" width="70%">
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/04_apn_sch_v1.png" width="70%">
 
-*抽象ロジックを、測定可能な電圧・電流へ固定する最小回路図。*
+*論理状態を、電圧・電流として物理層に固定する  
+v1 規範回路（Logical–Physical Boundary）。*
 
-<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/03_apr_3d_v0.png" width="70%">
+<img src="https://samizo-aitl.github.io/aitl-physical-reference/docs/img/06_apn_3d_v1.png" width="70%">
 
-*実際の部品・銅配線・外形として具現化された物理リファレンス基板。*
+*実部品・銅配線・外形として具現化された  
+v1 物理リファレンス基板（Physical Truth）。*
 
 ---
 
