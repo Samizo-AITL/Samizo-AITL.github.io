@@ -40,6 +40,30 @@ and how those decisions propagate through control and system architecture.
 
 ---
 
+## 🔐 Positioning of This Portal (SSOT)
+
+The Samizo-AITL Portal is **not intended as a user-friendly explanatory site for a general audience**.
+
+It is positioned as my personal  
+**Single Source of Truth (SSOT)** —  
+a consolidated archive of design philosophy, decision criteria, and reasoning processes.
+
+Accordingly, this portal intentionally preserves:
+
+- Design assumptions and premises  
+- Causal structures and lines of reasoning  
+- Trial-and-error and intermediate considerations  
+
+without prioritizing readability or simplification.
+
+Some sections may require prior knowledge or contextual understanding.  
+However, the portal is publicly accessible **to ensure transparency of design decisions and architectural thinking**.
+
+Please be aware of this positioning when referring to the contents,  
+and use the material as a structural reference where appropriate.
+
+---
+
 ## ⚡ 60-second orientation
 If this is your first visit, start here.
 
