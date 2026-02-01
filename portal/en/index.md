@@ -160,9 +160,11 @@ This order avoids tool-driven or fragmented understanding.
 
 # 📝 Essays / Design Philosophy (Zenn)
 
-**Essays on design philosophy, physical-first engineering, and the AITL architecture are published on Zenn.**
+**Primary essays on design philosophy, physics-first engineering, and the AITL architecture are consolidated on Zenn.**  
+Supplementary and implementation-oriented articles are published on Qiita.
 
 [![Zenn Articles](https://img.shields.io/badge/Read-Zenn-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
+[![Qiita](https://img.shields.io/badge/Qiita-Selected%20Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 
 ---
 
