@@ -149,7 +149,7 @@ Samizo-AITL/
 [![Zenn Articles](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
 [![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 
-> Qiitaの投稿記事原本は、下記で管理してます。<br>
+> Qiitaの投稿記事原本は、こちらで、管理してます。<br>
 > [https://samizo-aitl.github.io/qiita-articles/](https://samizo-aitl.github.io/qiita-articles/)
 
 ---
