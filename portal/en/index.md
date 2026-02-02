@@ -167,7 +167,7 @@ Supplementary and implementation-oriented articles are published on Qiita.
 [![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 
 > **The original source manuscripts for my Qiita articles are managed at the following URL:**  
-> [https://samizo-aitl.github.io/qiita-articles/](https://samizo-aitl.github.io/qiita-articles/)
+> [https://samizo-aitl.github.io/qiita-articles/](https://samizo-aitl.github.io/qiita-articles/en/)
 
 ---
 
