@@ -9,7 +9,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
-[![Qiita](https://img.shields.io/badge/Qiita-ctrl__bug-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
+[![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 
 ---
 
