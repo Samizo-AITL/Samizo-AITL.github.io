@@ -5,7 +5,7 @@
 [![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/en/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
-[![Qiita](https://img.shields.io/badge/Qiita-ctrl__bug-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
+[![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 
 ---
 
@@ -146,8 +146,8 @@ Samizo-AITL/
 **設計思想・物理起点工学・AITL構造に関する考察記事は Zenn に集約しています。**  
 実装補足や入口向けの記事は Qiita に掲載しています。
 
-[![Zenn Articles](https://img.shields.io/badge/Read-Zenn-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
-[![Qiita](https://img.shields.io/badge/Qiita-Selected%20Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
+[![Zenn Articles](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
+[![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 
 ---
 
