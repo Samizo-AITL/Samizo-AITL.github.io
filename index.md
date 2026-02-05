@@ -5,6 +5,7 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 ---
 
 # 🎓 Samizo-AITL Portal
+
 **物理を起点とした設計から出発し、  
 デバイス・制御・AI を因果構造として整理する設計アーカイブ**
 
@@ -14,12 +15,13 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 ---
 
 ## 🧭 これは何か
+
 **AITL（Architecture for Integrated Technology Logic）** は、
 
 **物理量 → デバイス → 制御 → AI → 性能**
 
 という関係を、  
-**設計判断と説明に使える因果構造**として整理するための枠組みです。
+**設計判断と説明に使える「因果構造」**として整理するための枠組みです。
 
 ```mermaid
 flowchart TD
@@ -46,105 +48,55 @@ flowchart TD
 
 ---
 
-## 🔐 本ポータルの位置づけについて（SSOT）
+## ▶ まずはこちらから
 
-Samizo-AITL Portal は、  
-不特定多数に向けた分かりやすい解説サイトではなく、  
-**私自身の設計思想・判断基準・検討過程を集約した  
-Single Source of Truth（SSOT）**  
-として位置づけています。
-
-そのため本ポータルでは、
-
-- 設計の前提条件  
-- 思考の流れや因果関係  
-- 試行錯誤を含む構造的記述  
-
-を省略せずに記録しています。
-
-内容は必ずしも読みやすさを優先しておらず、  
-前提知識や文脈を要する箇所も含まれますが、  
-**設計判断の透明性を確保する目的で公開**しています。
-
-あらかじめご了承のうえ、  
-必要な部分を参照してください。
-
----
-
-## ▶ ここから見ることができます
-
-<div style="margin: 1.5em 0;">
-  <a href="/portal/"
+<div style="margin: 2em 0;">
+  <a href="/zenn-articles/"
      style="
        display: inline-block;
-       padding: 18px 36px;
-       font-size: 1.2em;
-       font-weight: 700;
+       padding: 20px 40px;
+       font-size: 1.3em;
+       font-weight: 800;
        letter-spacing: 0.05em;
        color: #fff;
        background: linear-gradient(135deg, #2563eb, #1e40af);
-       border-radius: 10px;
+       border-radius: 12px;
        text-decoration: none;
-       box-shadow: 0 8px 20px rgba(30,64,175,0.35);
+       box-shadow: 0 10px 24px rgba(30,64,175,0.35);
        transition: transform 0.15s ease, box-shadow 0.15s ease;
      "
-     onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 12px 28px rgba(30,64,175,0.45)';"
-     onmouseout="this.style.transform='none';this.style.boxShadow='0 8px 20px rgba(30,64,175,0.35)';"
+     onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 14px 32px rgba(30,64,175,0.45)';"
+     onmouseout="this.style.transform='none';this.style.boxShadow='0 10px 24px rgba(30,64,175,0.35)';"
   >
-    ▶ PORTAL
+    ▶ Zenn Articles
   </a>
 </div>
 
-| 内容 | リンク | 補足 |
-|---|---|---|
-| **全体構造（Portal）** | [/portal/](https://samizo-aitl.github.io/portal/) | AITL 全体像 |
-| **物理・半導体設計** | [/Edusemi-v4x/](https://samizo-aitl.github.io/Edusemi-v4x/) | V–I（電圧–電流）起点 |
-| **制御・AI構造** | [/EduController/](https://samizo-aitl.github.io/EduController/) | PID / FSM / AI |
-
-※ 上から順に読めば、因果関係が自然につながります。
+AITL の設計思想・因果構造・設計判断は  
+**Zenn 記事としてまとめています**。
 
 ---
 
-## 🧠 設計構造（AITLの核）
+## 🔐 本ポータルの位置づけ
 
-AITL では、**制御とAIを明確に分離**します。
+Samizo-AITL Portal は、  
+不特定多数に向けた入門サイトではなく、  
+**設計思想・判断基準・検討過程を記録するアーカイブ**です。
 
-| 層 | 役割 | 担当 |
-|---|---|---|
-| **PID** | 実時間制御 | 安定性・応答・外乱 |
-| **FSM** | 状態管理 | モード遷移・安全 |
-| **AI / LLM** | 非実時間 | 再設計・再同定支援 |
-
-- AIは **制御を置き換えない**
-- AIは **設計更新を支援する層**
-- 実時間制御は **PID / FSM が責任を持つ**
+読みやすさよりも、  
+**設計の前提条件と因果関係を省略せず残すこと**を優先しています。
 
 ---
 
-## 👤 想定読者
-- 物理・デバイス・制御・AIを横断する設計者
-- 設計判断を説明可能な形で残したい人
-- 教材・設計思想を構造として整理したい人
+## 📚 Reference / Archive
+
+以下は、設計資料・教材・アーカイブへの入口です。
+
+- [Portal](/portal/)
+- [Edusemi – Physical / Semiconductor Design](/Edusemi-v4x/)
+- [EduController – Control / AI Structure](/EduController/)
 
 ---
 
 > **AITL は制御手法ではない。  
 > 設計を説明し、更新するための構造である。**
-
----
-
-## 🌍 利用状況（参考）
-
-本ポータルは、設計アーカイブとして公開しており、  
-特定の宣伝や集客は行っていませんが、以下の地域から参照されています。
-
-- 🇺🇸 United States：約270ユーザー  
-- 🇯🇵 Japan：約20ユーザー  
-- 🇬🇧 United Kingdom / 🇨🇦 Canada / 🇨🇳 China：各数〜十数ユーザー  
-
-（Google Analytics / 過去28日・2026年1月時点）
-
-これは、  
-**英語圏の技術者・研究者による構造参照と、  
-日本での設計・検証用途の併存**を示しています。
-
