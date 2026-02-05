@@ -175,11 +175,8 @@ and AITL architecture are managed with
 🏛 Physics-driven engineering concepts  
 🏛 AITL structure (PID × FSM × LLM responsibility separation)
 
-🌐 Zenn public page (reading / distribution)  
-[https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)
-
-📄 Zenn articles — authoritative Markdown (EN)  
-[https://samizo-aitl.github.io/zenn-articles/en/](https://samizo-aitl.github.io/zenn-articles/en/)
+[![Zenn Public](https://img.shields.io/badge/Zenn-Public%20Articles-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/samizo_aitl)
+[![Zenn SSOT EN](https://img.shields.io/badge/Zenn-SSOT%20Markdown%20(EN)-0B5FFF?logo=github&logoColor=white)](https://samizo-aitl.github.io/zenn-articles/en/)
 
 ---
 
@@ -189,11 +186,8 @@ and AITL architecture are managed with
 🔧 Implementation notes and PoCs  
 🔧 Focused, single-topic articles
 
-🌐 Qiita public page (reading / distribution)  
-[https://qiita.com/ctrl_bug](https://qiita.com/ctrl_bug)
-
-📄 Qiita articles — authoritative Markdown (EN)  
-[https://samizo-aitl.github.io/qiita-articles/en/](https://samizo-aitl.github.io/qiita-articles/en/)
+[![Qiita Public](https://img.shields.io/badge/Qiita-Public%20Articles-55C500?logo=qiita&logoColor=white)](https://qiita.com/ctrl_bug)
+[![Qiita SSOT EN](https://img.shields.io/badge/Qiita-SSOT%20Markdown%20(EN)-0B5FFF?logo=github&logoColor=white)](https://samizo-aitl.github.io/qiita-articles/en/)
 
 ---
 
