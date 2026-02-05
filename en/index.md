@@ -5,23 +5,43 @@ description: Architecture for Integrated Technology Logic — a physical-first e
 ---
 
 # 🎓 Samizo-AITL Portal
-**A physical-first engineering archive  
-that connects physics, devices, control, and intelligence  
-through explicit causal structure.**
+<span style="font-size:1.05em; opacity:0.85;">
+Architecture for Integrated Technology Logic
+</span>
 
-[![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
+<div style="margin-top:0.6em; font-size:1.15em; line-height:1.7;">
+<strong>A physical-first engineering archive</strong><br>
+that integrates <strong>physics, devices, control, and intelligence</strong><br>
+as an explicit <strong>causal structure</strong>.
+</div>
+
+<div style="margin:1.2em 0 0.8em 0;">
+  <a href="https://samizo-aitl.github.io/" style="margin-right:12px;">
+    <img src="https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github" />
+  </a>
+  <a href="https://github.com/Samizo-AITL">
+    <img src="https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github" />
+  </a>
+</div>
 
 ---
 
-## 🧭 What this is
+## 🧭 What is AITL?
+
 **AITL (Architecture for Integrated Technology Logic)** is a framework for organizing  
-engineering knowledge as **causal relationships** linking  
-physical quantities, device behavior, control logic, and system performance.
+engineering knowledge as **causal relationships**:
+
+<div style="font-size:1.15em; font-weight:800; margin:1.2em 0;">
+Physical quantities → Devices → Control → Intelligence → Performance
+</div>
+
+Rather than presenting isolated methods or tools,  
+AITL focuses on **how design decisions emerge from physical constraints**  
+and how those decisions propagate through control and system architecture.
 
 ```mermaid
 flowchart TD
-    P["Physical quantities<br>(V–I, force, heat, etc.)"]
+    P["Physical quantities<br>(V–I / force / heat)"]
     D["Devices<br>(semiconductors / MEMS / mechanisms)"]
     C["Control<br>(PID / FSM)"]
     A["Design intelligence<br>(AI / LLM)"]
@@ -34,110 +54,121 @@ flowchart TD
     A -. model update / re-identification .-> C
 ```
 
-Rather than presenting isolated methods,  
-this portal focuses on **how design decisions arise from physical constraints**  
-and how those decisions propagate through control and system architecture.
+---
+
+## ▶ Step 1 — Read the design philosophy
+
+<div style="
+  margin: 2.8em 0 3.2em 0;
+  padding: 2.6em 1.8em;
+  text-align: center;
+  background: linear-gradient(180deg, rgba(37,99,235,0.10), rgba(30,64,175,0.05));
+  border-radius: 22px;
+">
+
+<div style="font-size:1.3em; font-weight:900; margin-bottom:1.2em;">
+Understand the design rationale and causal thinking
+</div>
+
+<a href="/zenn-articles/"
+   style="
+     display: inline-block;
+     padding: 22px 54px;
+     font-size: 1.45em;
+     font-weight: 900;
+     letter-spacing: 0.10em;
+     color: #ffffff;
+     background: linear-gradient(135deg, #2563eb, #1e40af);
+     border-radius: 16px;
+     text-decoration: none;
+     box-shadow: 0 18px 38px rgba(30,64,175,0.45);
+   ">
+  ▶ Zenn Articles
+</a>
+
+<div style="margin-top:1.4em; font-size:1.05em; line-height:1.7;">
+Design philosophy, causal structure, and decision criteria of AITL<br>
+are documented <strong>as long-form articles on Zenn</strong>.
+</div>
+
+</div>
 
 ---
 
-## 🔐 Positioning of This Portal (SSOT)
+## ▶ Step 2 — Experience the structure visually
 
-The Samizo-AITL Portal is **not intended as a user-friendly explanatory site for a general audience**.
+<div style="
+  margin: 3.2em 0;
+  padding: 2.8em 2.0em;
+  background: linear-gradient(180deg, rgba(0,0,0,0.02), rgba(0,0,0,0.00));
+  border: 2px solid #1e40af;
+  border-radius: 22px;
+">
 
-It is positioned as my personal  
-**Single Source of Truth (SSOT)** —  
-a consolidated archive of design philosophy, decision criteria, and reasoning processes.
+<div style="text-align:center; font-size:1.4em; font-weight:900; margin-bottom:0.6em;">
+Portal — Visual Architecture Archive
+</div>
 
-Accordingly, this portal intentionally preserves:
+<div style="text-align:center; font-size:1.05em; line-height:1.7; margin-bottom:1.8em;">
+Explore the overall structure, causal layers, and design boundaries of AITL<br>
+through <strong>diagrams, animations, and interactive demos</strong>.
+</div>
 
-- Design assumptions and premises  
-- Causal structures and lines of reasoning  
-- Trial-and-error and intermediate considerations  
-
-without prioritizing readability or simplification.
-
-Some sections may require prior knowledge or contextual understanding.  
-However, the portal is publicly accessible **to ensure transparency of design decisions and architectural thinking**.
-
-Please be aware of this positioning when referring to the contents,  
-and use the material as a structural reference where appropriate.
-
----
-
-## ⚡ 60-second orientation
-If this is your first visit, start here.
-
-<div style="margin: 1.5em 0;">
+<div style="text-align:center; margin-bottom:2.0em;">
   <a href="/portal/en/"
      style="
        display: inline-block;
-       padding: 18px 36px;
-       font-size: 1.2em;
-       font-weight: 700;
-       letter-spacing: 0.05em;
-       color: #fff;
-       background: linear-gradient(135deg, #2563eb, #1e40af);
-       border-radius: 10px;
+       padding: 18px 44px;
+       font-size: 1.25em;
+       font-weight: 800;
+       letter-spacing: 0.08em;
+       color: #1e40af;
+       background: #ffffff;
+       border: 3px solid #1e40af;
+       border-radius: 14px;
        text-decoration: none;
-       box-shadow: 0 8px 20px rgba(30,64,175,0.35);
-       transition: transform 0.15s ease, box-shadow 0.15s ease;
-     "
-     onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 12px 28px rgba(30,64,175,0.45)';"
-     onmouseout="this.style.transform='none';this.style.boxShadow='0 8px 20px rgba(30,64,175,0.35)';"
-  >
-    ▶ PORTAL
+     ">
+    ▶ Open the Portal
   </a>
 </div>
 
-| Topic | Link | Note |
-|---|---|---|
-| **Portal** | [/portal/en/](https://samizo-aitl.github.io/portal/en/) | AITL overview |
-| **Semiconductor / device-oriented path** | [/Edusemi-v4x/en/](https://samizo-aitl.github.io/Edusemi-v4x/en/) | Physics → process → device |
-| **Control / AI-oriented path** | [/EduController/en/](https://samizo-aitl.github.io/EduController/en/) | PID / FSM / AI roles |
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:16px;">
+  <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
+    System-level architecture diagrams
+  </div>
+  <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
+    Control hierarchy (PID × FSM × AI)
+  </div>
+  <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
+    Animations and demos
+  </div>
+</div>
+
+</div>
 
 ---
 
-## 🧠 Design structure
-AITL organizes control and intelligence by role.
+## 🔐 Positioning (SSOT)
 
-| Layer | Role | Responsibility |
-|---|---|---|
-| **PID** | Real-time control | Stability, response, disturbance rejection |
-| **FSM** | Supervisory logic | Mode selection, state transitions, safety |
-| **AI / LLM** | Non-real-time support | Model updates, gain re-ID, rule refinement |
+The Samizo-AITL Portal is **not intended as a simplified tutorial site**.
 
-AI is treated as a **design support layer**,  
-not as a replacement for deterministic control loops.
+It serves as my personal  
+<strong>Single Source of Truth (SSOT)</strong> —  
+an archive that preserves design assumptions, reasoning processes,  
+and causal structures without abstraction or simplification.
+
+Readability is secondary to **architectural transparency**.
 
 ---
 
 ## 👤 Intended audience
+
 - Engineers working with physics-based systems  
   (semiconductors, MEMS, control, AI)
-- Those interested in **design rationale and causal explanation**
-- Readers looking to organize engineering knowledge across domains
+- Readers interested in **design rationale and causal explanation**
+- Those organizing engineering knowledge across multiple domains
 
 ---
 
-## 🌍 Usage (Reference)
-
-This portal is published as a **design archive**,  
-not as a commercial service or promotional website.
-
-As of January 2026 (past 28 days), it has been accessed from multiple regions:
-
-- 🇺🇸 United States: ~270 users  
-- 🇯🇵 Japan: ~20 users  
-- 🇬🇧 United Kingdom / 🇨🇦 Canada / 🇨🇳 China: several to a dozen users each  
-
-(Google Analytics snapshot)
-
-This distribution reflects a dual usage pattern:
-
-- **Structural reference by English-speaking engineers and researchers**
-- **Deep, iterative use for design and verification in Japan**
-
-AITL treats not only design concepts,  
-but also **how those structures are read and used**,  
-as part of the archive itself.
-
+> **AITL is not a control method.**  
+> **It is a structure for explaining and evolving design.**
