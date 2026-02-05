@@ -70,7 +70,7 @@ flowchart TD
 Understand the design rationale and causal thinking
 </div>
 
-<a href="/zenn-articles/"
+<a href="/zenn-articles/en/"
    style="
      display: inline-block;
      padding: 22px 54px;
