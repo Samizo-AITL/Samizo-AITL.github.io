@@ -158,16 +158,58 @@ This order avoids tool-driven or fragmented understanding.
 
 ---
 
-# 📝 Essays / Design Philosophy (Zenn)
+# 📝 Essays / Design Philosophy (Zenn / Qiita — English)
 
-**Primary essays on design philosophy, physics-first engineering, and the AITL architecture are consolidated on Zenn.**  
-Supplementary and implementation-oriented articles are published on Qiita.
+🧠 Articles on design philosophy, physics-driven engineering,  
+and AITL architecture are managed with  
+**GitHub-hosted Markdown as the Single Source of Truth (SSOT)**.
 
-[![Zenn Articles](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
-[![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
+📚 Zenn / Qiita are publication channels.  
+🏛 **The authoritative originals live on GitHub Pages.**
 
-> **The original source manuscripts for my Qiita articles are managed at the following URL:**  
-> [https://samizo-aitl.github.io/qiita-articles/en/](https://samizo-aitl.github.io/qiita-articles/en/)
+---
+
+## 📘 Zenn (Design Philosophy / Architecture — EN)
+
+🏛 Design philosophy and architectural reasoning  
+🏛 Physics-driven engineering concepts  
+🏛 AITL structure (PID × FSM × LLM responsibility separation)
+
+🌐 Zenn public page (reading / distribution)  
+[https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)
+
+📄 Zenn articles — authoritative Markdown (EN)  
+[https://samizo-aitl.github.io/zenn-articles/en/](https://samizo-aitl.github.io/zenn-articles/en/)
+
+---
+
+## 🧩 Qiita (Introductory / Implementation-oriented — EN)
+
+🔧 Entry-level explanations  
+🔧 Implementation notes and PoCs  
+🔧 Focused, single-topic articles
+
+🌐 Qiita public page (reading / distribution)  
+[https://qiita.com/ctrl_bug](https://qiita.com/ctrl_bug)
+
+📄 Qiita articles — authoritative Markdown (EN)  
+[https://samizo-aitl.github.io/qiita-articles/en/](https://samizo-aitl.github.io/qiita-articles/en/)
+
+---
+
+## 🧭 Positioning (Important)
+
+🏛 **zenn-articles (EN)**  
+→ Canonical texts for design philosophy and structured engineering knowledge  
+
+🔧 **qiita-articles (EN)**  
+→ Canonical texts for introductions and implementation-oriented content  
+
+🌐 **Zenn / Qiita**  
+→ Publication and visibility layers  
+
+🔁 The Samizo-AITL policy prioritizes  
+**generation sources (Markdown)** over rendered artifacts.
 
 ---
 
