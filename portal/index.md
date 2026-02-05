@@ -141,16 +141,56 @@ Samizo-AITL/
 
 ---
 
-# 📝 Essays / Design Philosophy (Zenn)
+# 📝 Essays / Design Philosophy（Zenn / Qiita）
 
-**設計思想・物理起点工学・AITL構造に関する考察記事は Zenn に集約しています。**  
-実装補足や入口向けの記事は Qiita に掲載しています。
+設計思想・物理起点工学・AITL 構造に関する記事は、  
+**GitHub 上の Markdown 原稿（一次情報・正本）**を起点として管理しています。
 
-[![Zenn Articles](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
-[![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
+Zenn / Qiita は公開チャネルであり、  
+**正本（Single Source of Truth）は GitHub Pages** です。
 
-> Qiitaの投稿記事原本は、こちらで、管理してます。<br>
-> [https://samizo-aitl.github.io/qiita-articles/](https://samizo-aitl.github.io/qiita-articles/)
+---
+
+## Zenn（設計思想・体系・アーキテクチャ）
+
+- 設計思想・アーキテクチャの整理
+- 物理起点エンジニアリングの言語化
+- AITL（PID × FSM × LLM）の責務分離設計
+
+Zenn 公開ページ（閲覧用）  
+[https://zenn.dev/samizo_aitl](https://zenn.dev/samizo_aitl)
+
+Zenn 記事の正本（Markdown / SSOT）  
+[https://samizo-aitl.github.io/zenn-articles/](https://samizo-aitl.github.io/zenn-articles/)
+
+---
+
+## Qiita（入口・補助・実装寄り）
+
+- 導入向け解説
+- 実装補足・PoC 説明
+- 単体トピックの切り出し
+
+Qiita 公開ページ（閲覧用）  
+[https://qiita.com/ctrl_bug](https://qiita.com/ctrl_bug)
+
+Qiita 記事の正本（Markdown / SSOT）  
+[https://samizo-aitl.github.io/qiita-articles/](https://samizo-aitl.github.io/qiita-articles/)
+
+---
+
+## 位置づけ（重要）
+
+- zenn-articles  
+  → 設計思想・体系化された技術論の正本
+- qiita-articles  
+  → 導入・実装寄り記事の正本
+- Zenn / Qiita  
+  → 配布・可視化チャネル
+
+成果物ではなく、  
+**生成元（Markdown）を一次情報とする**  
+Samizo-AITL の設計方針に基づいています。
 
 ---
 
