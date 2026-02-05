@@ -5,31 +5,48 @@ description: Architecture for Integrated Technology Logic ― 物理・デバイ
 ---
 
 # 🎓 Samizo-AITL Portal
+<span style="font-size:1.05em; opacity:0.85;">
+Architecture for Integrated Technology Logic
+</span>
 
-**物理を起点とした設計から出発し、  
-デバイス・制御・AI を因果構造として整理する設計アーカイブ**
+<div style="margin-top:0.6em; font-size:1.15em; line-height:1.6;">
+<strong>物理を起点とした設計</strong>から出発し、<br>
+<strong>デバイス・制御・AI</strong> を<br>
+<strong>因果構造として整理する</strong> 設計アーカイブ
+</div>
 
-[![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/en/)
-[![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
+<div style="margin:1.2em 0 0.8em 0;">
+  <a href="https://samizo-aitl.github.io/en/"
+     style="margin-right:12px;">
+    <img src="https://img.shields.io/badge/English-Version-brightgreen?logo=github" />
+  </a>
+  <a href="https://github.com/Samizo-AITL">
+    <img src="https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github" />
+  </a>
+</div>
 
 ---
 
-## 🧭 これは何か
+## 🧭 What is AITL?
 
 **AITL（Architecture for Integrated Technology Logic）** は、
 
-**物理量 → デバイス → 制御 → AI → 性能**
+<div style="font-size:1.1em; font-weight:600; margin:1em 0;">
+物理量 → デバイス → 制御 → AI → 性能
+</div>
 
 という関係を、  
-**設計判断と説明に使える「因果構造」**として整理するための枠組みです。
+**設計判断と説明に使える「因果構造」**として扱うための枠組みです。
+
+---
 
 ```mermaid
 flowchart TD
-    P["物理量<br>(V–I, 力, 熱 など)"]
+    P["物理量<br>(V–I / 力 / 熱)"]
     D["デバイス<br>(半導体 / MEMS / 機構)"]
     C["制御<br>(PID / FSM)"]
     A["設計知能<br>(AI / LLM)"]
-    S["性能<br>(安定性・信頼性)"]
+    S["性能<br>(安定性 / 信頼性)"]
 
     P --> D
     D --> C
@@ -38,65 +55,75 @@ flowchart TD
     A -. モデル更新・再同定 .-> C
 ```
 
-個別技術の解説ではなく、
+---
 
-- どの要素が  
-- どこに効き  
-- なぜその設計が成立しているか  
+## 🎯 What this archive focuses on
 
-を **構造として扱う** ことを目的としています。
+- **どの物理要素が**
+- **どの設計層に効き**
+- **なぜその設計判断が成立しているのか**
+
+を、  
+**個別技術ではなく「構造」として残すこと**を目的としています。
 
 ---
 
-## ▶ まずはこちらから
+## ▶ Start Here
 
-<div style="margin: 2em 0;">
+<div style="
+  margin: 2.5em 0;
+  padding: 2.2em 0;
+  text-align: center;
+  background: linear-gradient(180deg, rgba(37,99,235,0.08), rgba(30,64,175,0.04));
+  border-radius: 18px;
+">
   <a href="/zenn-articles/"
      style="
        display: inline-block;
-       padding: 20px 40px;
-       font-size: 1.3em;
+       padding: 22px 48px;
+       font-size: 1.35em;
        font-weight: 800;
-       letter-spacing: 0.05em;
-       color: #fff;
+       letter-spacing: 0.08em;
+       color: #ffffff;
        background: linear-gradient(135deg, #2563eb, #1e40af);
-       border-radius: 12px;
+       border-radius: 14px;
        text-decoration: none;
-       box-shadow: 0 10px 24px rgba(30,64,175,0.35);
-       transition: transform 0.15s ease, box-shadow 0.15s ease;
-     "
-     onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 14px 32px rgba(30,64,175,0.45)';"
-     onmouseout="this.style.transform='none';this.style.boxShadow='0 10px 24px rgba(30,64,175,0.35)';"
-  >
+       box-shadow: 0 14px 32px rgba(30,64,175,0.4);
+     ">
     ▶ Zenn Articles
   </a>
-</div>
 
-AITL の設計思想・因果構造・設計判断は  
-**Zenn 記事としてまとめています**。
+  <div style="margin-top:1.2em; font-size:1.05em; opacity:0.9;">
+    AITL の設計思想・因果構造・判断基準は<br>
+    <strong>Zenn 記事として集約</strong>しています
+  </div>
+</div>
 
 ---
 
-## 🔐 本ポータルの位置づけ
+## 🔐 Positioning
 
 Samizo-AITL Portal は、  
-不特定多数に向けた入門サイトではなく、  
-**設計思想・判断基準・検討過程を記録するアーカイブ**です。
+チュートリアルや入門解説を目的としたサイトではありません。
 
-読みやすさよりも、  
-**設計の前提条件と因果関係を省略せず残すこと**を優先しています。
+**設計思想・判断基準・検討過程を省略せず残す  
+設計アーカイブ（SSOT）**として公開しています。
 
 ---
 
 ## 📚 Reference / Archive
 
-以下は、設計資料・教材・アーカイブへの入口です。
-
-- [Portal](/portal/)
-- [Edusemi – Physical / Semiconductor Design](/Edusemi-v4x/)
-- [EduController – Control / AI Structure](/EduController/)
+<div style="margin:1.5em 0;">
+  <ul style="line-height:1.8;">
+    <li><a href="/portal/">Portal – 全体構造・索引</a></li>
+    <li><a href="/Edusemi-v4x/">Edusemi – Physical / Semiconductor Design</a></li>
+    <li><a href="/EduController/">EduController – Control / AI Structure</a></li>
+  </ul>
+</div>
 
 ---
 
-> **AITL は制御手法ではない。  
-> 設計を説明し、更新するための構造である。**
+<blockquote style="font-size:1.05em;">
+<strong>AITL は制御手法ではない。</strong><br>
+<strong>設計を説明し、更新するための構造である。</strong>
+</blockquote>
