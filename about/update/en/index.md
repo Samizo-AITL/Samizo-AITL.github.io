@@ -13,6 +13,9 @@ and improvements to documentation across all repositories.
 
 | Date       | Description |
 |------------|-------------|
+| **2026-02-05** | Clarified Zenn articles as the primary publication channel for design philosophy and architecture essays, and refined portal navigation |
+| **2026-02-05** | Repositioned Qiita articles as an entry-level and implementation-oriented channel, updating links to the source-of-truth repository (qiita-articles) |
+| **2026-02-05** | Integrated zenn-articles and qiita-articles as GitHub Pages–based single sources of truth, and explicitly defined their roles relative to the Portal |
 | **2026-01-28** | Added **aitl-physical-reference** to the portal and clearly positioned it as the baseline of the physics-first architecture. |
 | **2026-01-22** | Comprehensive revision of the portal structure, navigation, and content density to improve immediate readability of the physical-first architecture |
 | **2026-01-22** | Unified the structural layout and design intent of the Japanese and English top pages by removing explanatory redundancy and prioritizing architectural clarity |
