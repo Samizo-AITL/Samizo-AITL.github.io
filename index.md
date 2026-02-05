@@ -16,8 +16,7 @@ Architecture for Integrated Technology Logic
 </div>
 
 <div style="margin:1.2em 0 0.8em 0;">
-  <a href="https://samizo-aitl.github.io/en/"
-     style="margin-right:12px;">
+  <a href="https://samizo-aitl.github.io/en/" style="margin-right:12px;">
     <img src="https://img.shields.io/badge/English-Version-brightgreen?logo=github" />
   </a>
   <a href="https://github.com/Samizo-AITL">
@@ -38,8 +37,6 @@ Architecture for Integrated Technology Logic
 という関係を、  
 **設計判断と説明に使える「因果構造」**として扱うための枠組みです。
 
----
-
 ```mermaid
 flowchart TD
     P["物理量<br>(V–I / 力 / 熱)"]
@@ -57,31 +54,22 @@ flowchart TD
 
 ---
 
-## 🎯 What this archive focuses on
-
-- **どの物理要素が**
-- **どの設計層に効き**
-- **なぜその設計判断が成立しているのか**
-
-を、  
-**個別技術ではなく「構造」として残すこと**を目的としています。
-
----
-
-## ▶ Start Here
+## 🎯 How to explore this archive
 
 <div style="
   margin: 2.5em 0;
-  padding: 2.2em 0;
-  text-align: center;
+  padding: 2.5em 1.5em;
   background: linear-gradient(180deg, rgba(37,99,235,0.08), rgba(30,64,175,0.04));
-  border-radius: 18px;
+  border-radius: 20px;
 ">
+
+### ▶ Read the design philosophy
+<div style="margin:1.2em 0; text-align:center;">
   <a href="/zenn-articles/"
      style="
        display: inline-block;
-       padding: 22px 48px;
-       font-size: 1.35em;
+       padding: 20px 44px;
+       font-size: 1.25em;
        font-weight: 800;
        letter-spacing: 0.08em;
        color: #ffffff;
@@ -92,11 +80,39 @@ flowchart TD
      ">
     ▶ Zenn Articles
   </a>
+</div>
 
-  <div style="margin-top:1.2em; font-size:1.05em; opacity:0.9;">
-    AITL の設計思想・因果構造・判断基準は<br>
-    <strong>Zenn 記事として集約</strong>しています
-  </div>
+<div style="text-align:center; font-size:1.05em; opacity:0.9;">
+AITL の設計思想・因果構造・判断基準を<br>
+<strong>文章として理解するための入口</strong>
+</div>
+
+<hr style="margin:2.2em 0; opacity:0.3;">
+
+### ▶ Browse the overall structure
+<div style="margin:1.2em 0; text-align:center;">
+  <a href="/portal/"
+     style="
+       display: inline-block;
+       padding: 16px 36px;
+       font-size: 1.1em;
+       font-weight: 700;
+       letter-spacing: 0.06em;
+       color: #1e40af;
+       background: #ffffff;
+       border: 2px solid #1e40af;
+       border-radius: 12px;
+       text-decoration: none;
+     ">
+    ▶ Portal – Structure & Index
+  </a>
+</div>
+
+<div style="text-align:center; font-size:1.0em; opacity:0.85;">
+全体構造・教材・設計資料を<br>
+<strong>俯瞰して把握するための索引</strong>
+</div>
+
 </div>
 
 ---
@@ -113,17 +129,10 @@ Samizo-AITL Portal は、
 
 ## 📚 Reference / Archive
 
-<div style="margin:1.5em 0;">
-  <ul style="line-height:1.8;">
-    <li><a href="/portal/">Portal – 全体構造・索引</a></li>
-    <li><a href="/Edusemi-v4x/">Edusemi – Physical / Semiconductor Design</a></li>
-    <li><a href="/EduController/">EduController – Control / AI Structure</a></li>
-  </ul>
-</div>
+- [Edusemi – Physical / Semiconductor Design](/Edusemi-v4x/)
+- [EduController – Control / AI Structure](/EduController/)
 
 ---
 
-<blockquote style="font-size:1.05em;">
-<strong>AITL は制御手法ではない。</strong><br>
-<strong>設計を説明し、更新するための構造である。</strong>
-</blockquote>
+> **AITL は制御手法ではない。**  
+> **設計を説明し、更新するための構造である。**
