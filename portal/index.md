@@ -173,23 +173,6 @@ Samizo-AITL/
 
 ---
 
-## 🧭 位置づけ（重要）
-
-🏛 **zenn-articles**  
-→ 設計思想・体系化された技術論の正本  
-
-🔧 **qiita-articles**  
-→ 導入・実装寄り記事の正本  
-
-🌐 **Zenn / Qiita**  
-→ 配布・可視化チャネル  
-
-🔁 成果物ではなく、  
-**生成元（Markdown）を一次情報とする**  
-Samizo-AITL の設計方針に基づいています。
-
----
-
 # 💠 Semiconductor Physics & Devices
 物理起点で半導体・デバイスを体系化し、制御設計の前提条件を定義する基盤層
 
