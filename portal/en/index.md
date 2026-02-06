@@ -191,22 +191,6 @@ and AITL architecture are managed with
 
 ---
 
-## 🧭 Positioning (Important)
-
-🏛 **zenn-articles (EN)**  
-→ Canonical texts for design philosophy and structured engineering knowledge  
-
-🔧 **qiita-articles (EN)**  
-→ Canonical texts for introductions and implementation-oriented content  
-
-🌐 **Zenn / Qiita**  
-→ Publication and visibility layers  
-
-🔁 The Samizo-AITL policy prioritizes  
-**generation sources (Markdown)** over rendered artifacts.
-
----
-
 # 💠 Semiconductor Physics & Devices
 A foundational layer that systematizes semiconductor and device physics from first principles, defining the preconditions for control design.
 
