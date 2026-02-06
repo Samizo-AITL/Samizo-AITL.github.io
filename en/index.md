@@ -167,8 +167,3 @@ Readability is secondary to **architectural transparency**.
   (semiconductors, MEMS, control, AI)
 - Readers interested in **design rationale and causal explanation**
 - Those organizing engineering knowledge across multiple domains
-
----
-
-> **AITL is not a control method.**  
-> **It is a structure for explaining and evolving design.**
