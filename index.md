@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Samizo-AITL Portal
-description: 物理・デバイス・制御・AIにまたがる設計構造を、図と記事で並列に参照できる技術アーカイブ
+description: 物理量からデバイス・制御・AIまでを同一構造で示す設計構造の技術アーカイブ
 ---
 
 # 🎓 Samizo-AITL Portal
@@ -10,8 +10,8 @@ Architecture for Integrated Technology Logic
 </span>
 
 <div style="margin:1.2em 0 1.6em 0; font-size:1.15em; line-height:1.7;">
-物理・デバイス・制御・AIにまたがる設計構造を、<br>
-<strong>図と記事で並列に参照できる技術アーカイブ</strong>
+物理量（V–I など）から、デバイス・制御・AIまでを<br>
+<strong>同じ構造図でつないで示す設計構造の技術アーカイブ</strong>
 </div>
 
 <div style="margin:1.2em 0 0.8em 0;">
@@ -25,30 +25,34 @@ Architecture for Integrated Technology Logic
 
 ---
 
-## 🧭 構造全体（因果関係）
+## 🧭 構造図
 
 ```mermaid
 flowchart TD
     P["物理量<br>(V–I / 力 / 熱)"]
     D["デバイス<br>(半導体 / MEMS / 機構)"]
     C["制御<br>(PID / FSM)"]
-    A["設計知能<br>(AI / LLM)"]
+    A["AI / 設計支援"]
     S["性能<br>(安定性 / 応答 / 信頼性)"]
 
     P --> D
     D --> C
     C --> S
-    C -. 再設計支援 .-> A
-    A -. モデル更新・再同定 .-> C
+    C -.-> A
+    A -.-> C
 ```
+
+<div style="margin-top:0.8em; font-size:0.95em; opacity:0.85;">
+この図にある要素（箱）やつながり（矢印）を、1つずつ扱った記事やデモを置いています。
+</div>
 
 ---
 
-## 📚 Articles（文章アーカイブ）
+## 📚 Articles（記事）
 
 <div style="
   margin: 2.4em 0;
-  padding: 2.4em 1.6em;
+  padding: 2.6em 1.8em;
   text-align: center;
   background: linear-gradient(180deg, rgba(37,99,235,0.10), rgba(30,64,175,0.05));
   border-radius: 22px;
@@ -71,7 +75,8 @@ flowchart TD
 </a>
 
 <div style="margin-top:1.4em; font-size:1.05em; line-height:1.7;">
-各記事は、この構造の<strong>一部を切り出した設計記述</strong>として独立しています
+各記事は、上の構造図の中から<br>
+<strong>特定の箱、または矢印</strong>をテーマにした記述です。
 </div>
 
 </div>
@@ -106,13 +111,13 @@ flowchart TD
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:16px; margin-top:2.0em;">
   <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
-    全体構造図
+    全体構造マップ
   </div>
   <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
-    制御階層（PID × FSM × AI）
+    制御階層（PID / FSM）
   </div>
   <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
-    可視化・デモ
+    AI連携・構造デモ
   </div>
 </div>
 
