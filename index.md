@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Samizo-AITL Portal
-description: 物理量からデバイス・制御・AIまでを同一構造で示す設計構造の技術アーカイブ
+description: 物理量（V–I）からデバイス・制御・AIまでを同一構造で示す設計構造の技術アーカイブ
 ---
 
 # 🎓 Samizo-AITL Portal
@@ -32,14 +32,14 @@ flowchart TD
     P["物理量<br>(V–I / 力 / 熱)"]
     D["デバイス<br>(半導体 / MEMS / 機構)"]
     C["制御<br>(PID / FSM)"]
-    A["AI / 設計支援"]
+    A["設計知能<br>(AI / LLM)"]
     S["性能<br>(安定性 / 応答 / 信頼性)"]
 
     P --> D
     D --> C
     C --> S
-    C -.-> A
-    A -.-> C
+    C -. 再設計支援 .-> A
+    A -. モデル更新・再同定 .-> C
 ```
 
 <div style="margin-top:0.8em; font-size:0.95em; opacity:0.85;">
