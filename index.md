@@ -115,60 +115,36 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
   ▶ 統合構造 Portal を開く
 </a>
 
+<!-- 非リンク：Portal 内で辿れる視点の説明 -->
 <div style="
-  display:grid;
-  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
-  gap:18px;
-  margin-top:2.4em;
+  margin-top:2.6em;
+  max-width:720px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+  color:#374151;
 ">
 
-<a href="/portal/#map"
-   style="
-     display:block;
-     padding:18px;
-     border:2px solid #e0e6f0;
-     border-radius:14px;
-     text-decoration:none;
-     color:#111827;
-     font-weight:700;
-   ">
-  全体構造マップ<br>
-  <span style="font-size:0.9em; opacity:0.75;">
-  物理量〜AIまでの全体関係を俯瞰
-  </span>
-</a>
+  <div style="margin-bottom:1.2em;">
+    <strong>全体構造マップ</strong><br>
+    <span style="font-size:0.92em; opacity:0.75;">
+      物理量（V–I）から AI までの全体関係を俯瞰します
+    </span>
+  </div>
 
-<a href="/portal/#control"
-   style="
-     display:block;
-     padding:18px;
-     border:2px solid #e0e6f0;
-     border-radius:14px;
-     text-decoration:none;
-     color:#111827;
-     font-weight:700;
-   ">
-  制御階層（PID / FSM）<br>
-  <span style="font-size:0.9em; opacity:0.75;">
-  モデル・制御構造の整理
-  </span>
-</a>
+  <div style="margin-bottom:1.2em;">
+    <strong>制御階層（PID / FSM）</strong><br>
+    <span style="font-size:0.92em; opacity:0.75;">
+      モデル化・制御構造の整理と位置づけ
+    </span>
+  </div>
 
-<a href="/portal/#ai"
-   style="
-     display:block;
-     padding:18px;
-     border:2px solid #e0e6f0;
-     border-radius:14px;
-     text-decoration:none;
-     color:#111827;
-     font-weight:700;
-   ">
-  AI連携・構造デモ<br>
-  <span style="font-size:0.9em; opacity:0.75;">
-  再設計・知能化の位置づけ
-  </span>
-</a>
+  <div>
+    <strong>AI連携・構造デモ</strong><br>
+    <span style="font-size:0.92em; opacity:0.75;">
+      再設計・知能化が構造のどこに入るかを示します
+    </span>
+  </div>
 
 </div>
 
