@@ -23,6 +23,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 ### 📊 Analytics / Monitoring（Owner Only）
 
 - 📈 [Google Analytics (GA4) – Samizo-AITL Portal](https://analytics.google.com/analytics/web/)
+- 📈 [Google Search Console](https://search.google.com/search-console/)
 
 <h3>🌐 World Clock</h3>
 
