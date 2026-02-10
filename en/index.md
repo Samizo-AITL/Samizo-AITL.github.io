@@ -1,10 +1,18 @@
 ---
 layout: default
-title: Samizo-AITL Portal
-description: A technical architecture archive that connects physical quantities (V–I) to devices, control, and AI in a unified structure
+title: Samizo-AITL Portal｜Semiconductor, Control, and AI Architecture Archive
+description: A personal technical archive organizing semiconductors, control (PID/FSM), and AI design from physical quantities (V–I), navigable through a unified architecture diagram and Portal.
 ---
 
 # 🎓 Samizo-AITL Portal
+> A personal technical archive that organizes semiconductors, control, and AI through a single unified architecture diagram
+
+<div style="margin:1.2em 0; font-size:0.95em;">
+  ▶ <a href="/portal/en/">Integrated Architecture Portal</a>　
+  ▶ <a href="/zenn-articles/en/">Zenn Articles</a>　
+  ▶ <a href="https://github.com/Samizo-AITL">GitHub</a>
+</div>
+
 <span style="font-size:1.05em; opacity:0.85;">
 Architecture for Integrated Technology Logic
 </span>
@@ -116,7 +124,6 @@ Starting from the architecture diagram, it allows you to traverse articles, demo
   ▶ Open Integrated Architecture Portal
 </a>
 
-<!-- Non-link: explanation of perspectives available inside the Portal -->
 <div style="
   margin-top:2.6em;
   max-width:720px;
