@@ -157,31 +157,3 @@ Starting from the architecture diagram, it allows you to traverse articles, demo
 </div>
 
 </div>
-
----
-
-## 🔍 Search Queries (Observed in Google Search Console)
-
-<div style="margin:1.6em 0; font-size:0.95em; color:#374151;">
-This section records <strong>actual search queries</strong><br>
-that generated impressions in Google Search Console.
-</div>
-
-<!--
-Operation rules:
-- Copy directly from Search Console → Performance → Queries
-- Update once per month
-- Do not include queries with zero impressions
-- No curation, no rewriting
--->
-
-| Query | Impressions | Clicks | Avg. Position |
-|-------|-------------|--------|---------------|
-| (example) control system architecture diagram | 12 | 1 | 18.4 |
-| (example) PID FSM AI structure | 7 | 0 | 22.1 |
-| (example) V-I based control design | 5 | 1 | 15.9 |
-
-<div style="margin-top:1.2em; font-size:0.85em; opacity:0.75;">
-Note: This is not a curated keyword list,<br>
-but raw search queries observed by Google.
-</div>
