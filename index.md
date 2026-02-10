@@ -1,10 +1,18 @@
 ---
 layout: default
-title: Samizo-AITL Portal
-description: 物理量（V–I）からデバイス・制御・AIまでを同一構造で示す設計構造の技術アーカイブ
+title: Samizo-AITL Portal｜半導体・制御・AIの設計構造アーカイブ
+description: 半導体、制御（PID・FSM）、AI設計を物理量（V–I）起点で整理した個人技術アーカイブ。構造図とPortalで横断的に参照可能。
 ---
 
 # 🎓 Samizo-AITL Portal
+> 半導体・制御・AIを「同じ構造図」で整理した個人技術アーカイブ
+
+<div style="margin:1.2em 0; font-size:0.95em;">
+  ▶ <a href="/portal/">統合構造 Portal</a>　
+  ▶ <a href="/zenn-articles/">Zenn 記事一覧</a>　
+  ▶ <a href="https://github.com/Samizo-AITL">GitHub</a>
+</div>
+
 <span style="font-size:1.05em; opacity:0.85;">
 Architecture for Integrated Technology Logic
 </span>
@@ -115,7 +123,6 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
   ▶ 統合構造 Portal を開く
 </a>
 
-<!-- 非リンク：Portal 内で辿れる視点の説明 -->
 <div style="
   margin-top:2.6em;
   max-width:720px;
