@@ -150,3 +150,31 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 </div>
 
 </div>
+
+---
+
+## 🔍 検索クエリ（Google Search Console 実測）
+
+<div style="margin:1.6em 0; font-size:0.95em; color:#374151;">
+このセクションは、Google Search Console に実際に記録された<br>
+<strong>検索クエリ（表示実績あり）</strong>をそのまま記録するログです。
+</div>
+
+<!--
+運用ルール：
+- Search Console「検索結果 → クエリ」から転記
+- 月1回更新
+- 表示回数 0 のクエリは載せない
+- 加工・選別・言い換えは禁止
+-->
+
+| 検索クエリ | 表示回数 | クリック | 平均掲載順位 |
+|------------|----------|----------|---------------|
+| （例）制御 系 アーキテクチャ 図 | 12 | 1 | 18.4 |
+| （例）PID FSM 構造 | 7 | 0 | 22.1 |
+| （例）V–I 制御 設計 | 5 | 1 | 15.9 |
+
+<div style="margin-top:1.2em; font-size:0.85em; opacity:0.75;">
+※ 本一覧は SEO キーワードではなく、<br>
+Google によって実際に観測された検索ログです。
+</div>
