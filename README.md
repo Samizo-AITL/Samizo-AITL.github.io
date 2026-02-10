@@ -83,42 +83,68 @@ flowchart TD
 
 ---
 
-## 🧩 Portal（構造ビュー）
+## 🧩 Portal（構造ナビゲーション）
 
 <div style="
-  margin: 3.0em 0;
-  padding: 2.8em 2.0em;
-  border: 2px solid #1e40af;
-  border-radius: 22px;
+  margin: 3.2em 0;
+  padding: 3.0em 2.2em;
+  border: 3px solid #1e40af;
+  border-radius: 24px;
   text-align:center;
 ">
+
+<div style="font-size:1.15em; margin-bottom:1.4em;">
+Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。<br>
+構造図を起点に、記事・デモ・設計視点を横断的に辿れます。
+</div>
 
 <a href="/portal/"
    style="
      display: inline-block;
-     padding: 18px 44px;
-     font-size: 1.25em;
-     font-weight: 800;
-     letter-spacing: 0.08em;
-     color: #1e40af;
-     background: #ffffff;
-     border: 3px solid #1e40af;
-     border-radius: 14px;
+     padding: 20px 48px;
+     font-size: 1.3em;
+     font-weight: 900;
+     letter-spacing: 0.10em;
+     color: #ffffff;
+     background: linear-gradient(135deg, #1e40af, #1e3a8a);
+     border-radius: 16px;
      text-decoration: none;
+     box-shadow: 0 16px 32px rgba(30,64,175,0.40);
    ">
-  ▶ Portal を開く
+  ▶ 統合構造 Portal を開く
 </a>
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:16px; margin-top:2.0em;">
-  <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
-    全体構造マップ
+<!-- 非リンク：Portal 内で辿れる視点の説明 -->
+<div style="
+  margin-top:2.6em;
+  max-width:720px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+  color:#374151;
+">
+
+  <div style="margin-bottom:1.2em;">
+    <strong>全体構造マップ</strong><br>
+    <span style="font-size:0.92em; opacity:0.75;">
+      物理量（V–I）から AI までの全体関係を俯瞰します
+    </span>
   </div>
-  <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
-    制御階層（PID / FSM）
+
+  <div style="margin-bottom:1.2em;">
+    <strong>制御階層（PID / FSM）</strong><br>
+    <span style="font-size:0.92em; opacity:0.75;">
+      モデル化・制御構造の整理と位置づけ
+    </span>
   </div>
-  <div style="padding:14px; border:1px solid #ddd; border-radius:12px; text-align:center;">
-    AI連携・構造デモ
+
+  <div>
+    <strong>AI連携・構造デモ</strong><br>
+    <span style="font-size:0.92em; opacity:0.75;">
+      再設計・知能化が構造のどこに入るかを示します
+    </span>
   </div>
+
 </div>
 
 </div>
