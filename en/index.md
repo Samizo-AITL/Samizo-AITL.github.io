@@ -59,7 +59,7 @@ All articles, demos, and the Portal on this site correspond to
   border-radius: 22px;
 ">
 
-<a href="/zenn-articles/"
+<a href="/zenn-articles/en/"
    style="
      display: inline-block;
      padding: 22px 56px;
@@ -100,7 +100,7 @@ The Portal is the <strong>core navigation of Samizo-AITL</strong>.<br>
 Starting from the architecture diagram, it allows you to traverse articles, demos, and design perspectives horizontally.
 </div>
 
-<a href="/portal/"
+<a href="/portal/en/"
    style="
      display: inline-block;
      padding: 20px 48px;
