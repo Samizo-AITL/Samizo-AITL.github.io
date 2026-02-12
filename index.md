@@ -24,7 +24,7 @@ Architecture for Integrated Technology Logic
 
 <div style="margin:1.2em 0 1.0em 0;">
   <a href="https://samizo-aitl.github.io/en/" style="margin-right:12px;">
-    <img src="https://img.shields.io/badge/English-Version-brightgreen?logo=github" />
+    <img src="https://img.shields.io/badge/English-Version-blue?logo=github" />
   </a>
   <a href="https://github.com/Samizo-AITL">
     <img src="https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github" />
