@@ -170,10 +170,6 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
   max-width: 640px;
 ">
 
-<div style="font-size:1.15em; font-weight:900; margin-bottom:0.6em;">
-▶ Qiita Articles
-</div>
-
 <a href="https://samizo-aitl.github.io/qiita-articles/"
    style="
      display:inline-block;
