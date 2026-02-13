@@ -5,7 +5,7 @@ description: 半導体、制御（PID・FSM）、AI設計を物理量（V–I）
 ---
 
 # 🎓 Samizo-AITL Portal
-> 半導体・制御・AIを「同じ構造図」で整理した個人技術アーカイブ
+> 半導体・制御・AIを同一の構造図で整理した個人技術アーカイブ
 
 <div style="margin:1.2em 0; font-size:0.95em;">
   ▶ <a href="/portal/">統合構造 Portal</a>　
@@ -52,7 +52,7 @@ flowchart TD
 
 <div style="margin-top:0.9em; font-size:0.95em; opacity:0.85;">
 本サイトのすべての記事・デモ・Portal は、この構造図の
-<strong>「箱」または「矢印」</strong>のどれかに対応しています。
+<strong>「箱」または「矢印（関係）」</strong>のどれかに対応しています。
 </div>
 
 ---
@@ -160,6 +160,8 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 ---
 
 ## 🧩 初学者向けの補足記事（Qiita Articles）
+
+本サイトの構造的な内容を、数式や専門語を抑えて段階的に解説した補助記事群です。
 
 <div style="
   margin: 1.4em 0;
