@@ -861,12 +861,6 @@ requires **explicit permission from the project authors**.
 
 ---
 
-# 🕘 Update Log
-
-[📄 View update history](https://samizo-aitl.github.io/about/update/en/)
-
----
-
 # 💬 Technical Discussion / Consultation
 
 [![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
