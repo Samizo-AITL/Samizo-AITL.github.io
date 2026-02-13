@@ -160,13 +160,29 @@ Starting from the architecture diagram, it allows you to traverse articles, demo
 
 ---
 
-## 📎 Appendix (Background / Playground)
+## 🧩 Introductory Articles for Beginners (Qiita Articles)
 
-This site is intended for readers  
-who want to view physics, control, and AI as a structured design system.
+<div style="
+  margin: 1.4em 0;
+  padding: 1.6em 1.8em;
+  border: 2px solid #2563eb;
+  border-radius: 18px;
+  background: rgba(37,99,235,0.08);
+  max-width: 640px;
+">
 
-If the style or notation feels unfamiliar,  
-you may occasionally refer to the following background archive  
-containing small demos and exploratory content.
+<a href="https://samizo-aitl.github.io/qiita-articles/en/"
+   style="
+     display:inline-block;
+     padding:14px 30px;
+     border-radius:14px;
+     background:#2563eb;
+     color:#ffffff;
+     font-weight:900;
+     text-decoration:none;
+     box-shadow:0 10px 22px rgba(37,99,235,0.45);
+   ">
+  ▶ Open Article List
+</a>
 
-[Qiita Articles](https://samizo-aitl.github.io/qiita-articles/)
+</div>
