@@ -52,7 +52,7 @@ flowchart TD
 
 <div style="margin-top:0.9em; font-size:0.95em; opacity:0.85;">
 All articles, demos, and the Portal on this site correspond to
-<strong>either a box or an arrow　(relationship)</strong> in this architecture diagram.
+<strong>either a box or an arrow (relationship)</strong> in this architecture diagram.
 </div>
 
 ---
