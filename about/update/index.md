@@ -6,8 +6,6 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 # 🕘 更新履歴（Update Log)
 
-[![Back to Portal (EN)](https://img.shields.io/badge/Back%20to%20Portal-0B5FFF?style=for-the-badge&logo=homeassistant&logoColor=white)](https://samizo-aitl.github.io/portal/)
-
 このページでは、「Technical Portfolio by Shinichi Samizo」および  
 **Samizo-AITL ポータルと関連教材群の改訂履歴**を記録しています。
 
