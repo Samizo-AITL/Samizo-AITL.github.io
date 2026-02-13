@@ -153,8 +153,6 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 
 ---
 
----
-
 ## 📎 補足（Background / Playground）
 
 本サイトは、物理・制御・AIを  
