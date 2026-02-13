@@ -10,7 +10,7 @@ description: A personal technical archive organizing semiconductors, control (PI
 <div style="margin:1.2em 0; font-size:0.95em;">
   ▶ <a href="/portal/en/">Integrated Architecture Portal</a>　
   ▶ <a href="/zenn-articles/en/">Zenn Articles</a>　
-  ▶ <a href="/qiita-articles/en/">Qiita Articles</a>
+  ▶ <a href="/qiita-articles/en/">Qiita Articles</a>　
   ▶ <a href="https://github.com/Samizo-AITL">GitHub</a>
 </div>
 
