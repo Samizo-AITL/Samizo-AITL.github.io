@@ -157,7 +157,7 @@ Samizo-AITL/
 🏛 物理起点エンジニアリングの言語化  
 🏛 AITL（PID × FSM × LLM）の責務分離設計  
 
-[![Zenn Public](https://img.shields.io/badge/Zenn-Public%20Articles-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/samizo_aitl)
+[![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
 [![Zenn SSOT](https://img.shields.io/badge/Zenn-SSOT%20Markdown-0B5FFF?logo=github&logoColor=white)](https://samizo-aitl.github.io/zenn-articles/)
 
 ---
@@ -168,7 +168,7 @@ Samizo-AITL/
 🔧 実装補足・PoC 説明  
 🔧 単体トピックの切り出し  
 
-[![Qiita Public](https://img.shields.io/badge/Qiita-Public%20Articles-55C500?logo=qiita&logoColor=white)](https://qiita.com/ctrl_bug)
+[![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 [![Qiita SSOT](https://img.shields.io/badge/Qiita-SSOT%20Markdown-0B5FFF?logo=github&logoColor=white)](https://samizo-aitl.github.io/qiita-articles/)
 
 ---
