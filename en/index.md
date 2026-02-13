@@ -5,7 +5,7 @@ description: A personal technical archive organizing semiconductors, control (PI
 ---
 
 # 🎓 Samizo-AITL Portal
-> A personal technical archive that organizes semiconductors, control, and AI through a single unified architecture diagram
+> A personal technical archive that organizes semiconductors, control, and AI using a single unified architecture diagram
 
 <div style="margin:1.2em 0; font-size:0.95em;">
   ▶ <a href="/portal/en/">Integrated Architecture Portal</a>　
@@ -52,7 +52,7 @@ flowchart TD
 
 <div style="margin-top:0.9em; font-size:0.95em; opacity:0.85;">
 All articles, demos, and the Portal on this site correspond to
-<strong>either a box or an arrow</strong> in this architecture diagram.
+<strong>either a box or an arrow　(relationship)</strong> in this architecture diagram.
 </div>
 
 ---
@@ -161,6 +161,8 @@ Starting from the architecture diagram, it allows you to traverse articles, demo
 ---
 
 ## 🧩 Introductory Articles for Beginners (Qiita Articles)
+
+These articles provide step-by-step explanations of the site’s architecture with reduced use of formulas and technical terminology.
 
 <div style="
   margin: 1.4em 0;
