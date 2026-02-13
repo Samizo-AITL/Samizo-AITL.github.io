@@ -20,6 +20,7 @@ description: Samizo-AITLおよび関連教材の改訂履歴（GitHub Pagesポ�
 
 | 日付       | 内容 |
 |------------|------|
+| 2026-02-14 | トップ index に qiita-articles への導線を追加し、更新履歴リンクを /portal/ からトップへ移動（Portal の構造集中と役割分離を明確化） |
 | 2026-02-05 | Zenn 記事群を設計思想・アーキテクチャ考察の正本（SSOT）として明示し、ポータルからの導線を整理 |
 | 2026-02-05 | Qiita 記事群を導入・実装補足向けチャネルとして位置付け、原稿正本（qiita-articles）へのリンクを更新 |
 | 2026-02-05 | zenn-articles / qiita-articles を GitHub Pages 上の一次情報源として統合し、ポータルとの役割分担を明文化 |
