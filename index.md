@@ -187,3 +187,10 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 </a>
 
 </div>
+
+---
+
+# 🕘 Update Log
+
+- [📄 更新履歴を見る](https://samizo-aitl.github.io/about/update/)
+
