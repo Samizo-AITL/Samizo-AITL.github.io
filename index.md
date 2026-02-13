@@ -159,7 +159,7 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 
 ---
 
-## 🧩 初学者でも入り込める補足記事一覧
+## 🧩 初学者向けの補足記事（qiita-articles）
 
 <div style="
   margin: 1.4em 0;
@@ -172,10 +172,6 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 
 <div style="font-size:1.15em; font-weight:900; margin-bottom:0.6em;">
 ▶ Qiita Articles
-</div>
-
-<div style="font-size:0.95em; opacity:0.85; margin-bottom:1.0em;">
-初学者でも入り込める補足用の記事一覧
 </div>
 
 <a href="https://samizo-aitl.github.io/qiita-articles/"
