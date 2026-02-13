@@ -153,7 +153,7 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 
 ---
 
-## 🧩 初学者向けの補足記事（qiita-articles）
+## 🧩 初学者向けの補足記事（Qiita Articles）
 
 <div style="
   margin: 1.4em 0;
