@@ -175,7 +175,7 @@ and AITL architecture are managed with
 🏛 Physics-driven engineering concepts  
 🏛 AITL structure (PID × FSM × LLM responsibility separation)
 
-[![Zenn Public](https://img.shields.io/badge/Zenn-Public%20Articles-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/samizo_aitl)
+[![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
 [![Zenn SSOT EN](https://img.shields.io/badge/Zenn-SSOT%20Markdown%20(EN)-0B5FFF?logo=github&logoColor=white)](https://samizo-aitl.github.io/zenn-articles/en/)
 
 ---
@@ -186,7 +186,7 @@ and AITL architecture are managed with
 🔧 Implementation notes and PoCs  
 🔧 Focused, single-topic articles
 
-[![Qiita Public](https://img.shields.io/badge/Qiita-Public%20Articles-55C500?logo=qiita&logoColor=white)](https://qiita.com/ctrl_bug)
+[![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 [![Qiita SSOT EN](https://img.shields.io/badge/Qiita-SSOT%20Markdown%20(EN)-0B5FFF?logo=github&logoColor=white)](https://samizo-aitl.github.io/qiita-articles/en/)
 
 ---
