@@ -11,7 +11,7 @@ description: A personal technical archive organizing semiconductors, control (PI
   ▶ <a href="/portal/en/">Integrated Architecture Portal</a>　
   ▶ <a href="/zenn-articles/en/">Zenn Articles</a>　
   ▶ <a href="/qiita-articles/en/">Qiita Articles</a>　
-  ▶ <a href="https://github.com/Samizo-AITL">GitHub</a>
+  ▶ <a href="https://github.com/Samizo-AITL">GitHub</a>　
 </div>
 
 <span style="font-size:1.05em; opacity:0.85;">
