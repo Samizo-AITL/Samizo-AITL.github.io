@@ -159,46 +159,37 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 
 ---
 
-## 🧪 補足（Background / Playground）
-
-本サイトは、物理・制御・AIを  
-**設計構造として俯瞰したい読者**を主な対象としています。
-
-考え方や記法にまだ馴染みがない場合は、  
-下記の Playground を一度眺めてから戻ってきてください。
+## 🧩 初学者でも入り込める補足記事一覧
 
 <div style="
-  margin: 1.6em 0 0.8em 0;
-  padding: 1.4em 1.6em;
-  border: 2px dashed #2563eb;
-  border-radius: 16px;
-  background: rgba(37,99,235,0.04);
-  max-width: 520px;
+  margin: 1.4em 0;
+  padding: 1.6em 1.8em;
+  border: 2px solid #2563eb;
+  border-radius: 18px;
+  background: rgba(37,99,235,0.08);
+  max-width: 640px;
 ">
 
-<div style="font-size:1.05em; font-weight:700; margin-bottom:0.4em;">
-▶ Qiita Articles / Playground
+<div style="font-size:1.15em; font-weight:900; margin-bottom:0.6em;">
+▶ Qiita Articles
 </div>
 
-<div style="font-size:0.92em; opacity:0.8; line-height:1.6;">
-Small demos, games, exploratory code, and background notes<br>
-to get familiar with the ideas used in this site.
+<div style="font-size:0.95em; opacity:0.85; margin-bottom:1.0em;">
+初学者でも入り込める補足用の記事一覧
 </div>
 
-<div style="margin-top:0.8em;">
 <a href="https://samizo-aitl.github.io/qiita-articles/"
    style="
      display:inline-block;
-     padding:10px 22px;
-     border-radius:10px;
+     padding:14px 30px;
+     border-radius:14px;
      background:#2563eb;
      color:#ffffff;
-     font-weight:700;
+     font-weight:900;
      text-decoration:none;
-     box-shadow:0 6px 14px rgba(37,99,235,0.35);
+     box-shadow:0 10px 22px rgba(37,99,235,0.45);
    ">
-  ▶ Open Qiita Articles
+  ▶ 記事一覧を開く
 </a>
-</div>
 
 </div>
