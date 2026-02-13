@@ -159,13 +159,46 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 
 ---
 
-## 📎 補足（Background / Playground）
+## 🧪 補足（Background / Playground）
 
 本サイトは、物理・制御・AIを  
 **設計構造として俯瞰したい読者**を主な対象としています。
 
 考え方や記法にまだ馴染みがない場合は、  
-背景整理・小さなデモ・試作コードをまとめた  
-以下の補足アーカイブを適宜参照してください。
+下記の Playground を一度眺めてから戻ってきてください。
 
-[Qiita Articles](https://samizo-aitl.github.io/qiita-articles/)
+<div style="
+  margin: 1.6em 0 0.8em 0;
+  padding: 1.4em 1.6em;
+  border: 2px dashed #2563eb;
+  border-radius: 16px;
+  background: rgba(37,99,235,0.04);
+  max-width: 520px;
+">
+
+<div style="font-size:1.05em; font-weight:700; margin-bottom:0.4em;">
+▶ Qiita Articles / Playground
+</div>
+
+<div style="font-size:0.92em; opacity:0.8; line-height:1.6;">
+Small demos, games, exploratory code, and background notes<br>
+to get familiar with the ideas used in this site.
+</div>
+
+<div style="margin-top:0.8em;">
+<a href="https://samizo-aitl.github.io/qiita-articles/"
+   style="
+     display:inline-block;
+     padding:10px 22px;
+     border-radius:10px;
+     background:#2563eb;
+     color:#ffffff;
+     font-weight:700;
+     text-decoration:none;
+     box-shadow:0 6px 14px rgba(37,99,235,0.35);
+   ">
+  ▶ Open Qiita Articles
+</a>
+</div>
+
+</div>
