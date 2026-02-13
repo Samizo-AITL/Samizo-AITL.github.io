@@ -188,3 +188,9 @@ These articles provide step-by-step explanations of the site’s architecture wi
 </a>
 
 </div>
+
+---
+
+# 🕘 Update Log
+
+[📄 View update history](https://samizo-aitl.github.io/about/update/en/)
