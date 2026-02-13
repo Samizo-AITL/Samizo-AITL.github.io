@@ -157,3 +157,23 @@ Starting from the architecture diagram, it allows you to traverse articles, demo
 </div>
 
 </div>
+
+---
+
+## 📎 Appendix: Background & Playground
+
+This site is primarily intended for readers  
+who already have a technical background in physics, control, or AI.
+
+If the notation, style, or way of thinking used here feels unfamiliar,  
+it may be helpful to first browse the following supplemental articles  
+before diving into the main structure diagrams and technical content.
+
+These articles include:
+
+- Intuition for physical quantities and scales  
+- Minimal examples of calculation and visualization in Python  
+- Small games, demos, and prototype code  
+- Experiments to “run and see” ideas in action  
+
+- [Qiita Articles (Background & Playground)](https://samizo-aitl.github.io/qiita-articles/en/)
