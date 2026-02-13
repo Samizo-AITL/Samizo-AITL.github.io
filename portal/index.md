@@ -840,12 +840,6 @@ AITL における責務分離（PID / FSM / NN・RL / LLM）を
 
 ---
 
-# 🕘 Update Log
-
-- [📄 更新履歴を見る](https://samizo-aitl.github.io/about/update/)
-
----
-
 # 💬 技術ディスカッション / Technical Consultation
 
 [![Discussion](https://img.shields.io/badge/Discussion-Technical%20Consultation-6f42c1?logo=github)](https://github.com/Samizo-AITL/Samizo-AITL.github.io/discussions)
