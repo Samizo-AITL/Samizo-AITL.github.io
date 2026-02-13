@@ -4,6 +4,7 @@
 <div style="margin:1.2em 0; font-size:0.95em;">
   ▶ <a href="/portal/">統合構造 Portal</a>　
   ▶ <a href="/zenn-articles/">Zenn 記事一覧</a>　
+  ▶ <a href="/qiita-articles/">Qiita 記事一覧</a>　
   ▶ <a href="https://github.com/Samizo-AITL">GitHub</a>
 </div>
 
