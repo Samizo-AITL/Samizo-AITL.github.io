@@ -7,6 +7,12 @@ description: A personal technical archive organizing semiconductors, control (PI
 # 🎓 Samizo-AITL Portal
 > A personal technical archive that organizes semiconductors, control, and AI using a single unified architecture diagram
 
+<div style="margin:1.1em 0; font-size:0.95em; opacity:0.85;">
+  ▶ <a href="/about/marp/en/samizo-aitl-presentation.html">
+    Design Overview Summary (Slides)
+  </a>
+</div>
+
 <div style="margin:1.2em 0; font-size:0.95em;">
   ▶ <a href="/portal/en/">Integrated Architecture Portal</a>　
   ▶ <a href="/zenn-articles/en/">Zenn Articles</a>　
