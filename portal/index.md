@@ -1,6 +1,7 @@
-# 🎓 Samizo-AITL Portal  
-> **半導体・MEMS・制御・AIの設計資料集 
-> 物理モデル／PID・FSM制御／RTL→GDS実装／PoCを公開**
+# 🎓 Samizo-AITL Portal
+
+**半導体・MEMS・制御・AIの設計資料集**  
+物理モデル／PID・FSM による実時間制御／RTL→GDS 実装／PoC を公開
 
 [![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/en/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
@@ -12,14 +13,14 @@
 ## 🚀 このポータルで得られること
 
 **Samizo-AITL** は、  
-半導体・MEMS・制御・AI を  
-**物理を起点とした一貫した設計構造**として整理した技術アーカイブです。
+半導体・MEMS・制御・AI に関する設計資料を、  
+**物理モデルと実装結果に基づいて公開**している技術アーカイブです。
 
-## このポータルで提供しているもの
+### 提供内容
 
-- 物理モデル・デバイス前提を明示した設計資料
-- PID／FSM を中心とした実時間制御アーキテクチャ
-- NN／RL／LLMは「制御を置き換えない」前提での設計支援例
+- 物理モデルおよびデバイス前提を明示した設計資料
+- PID／FSM を中心とした実時間制御アーキテクチャ例
+- NN／RL／LLM を「制御を置き換えない」前提で用いた設計支援例
 - RTL→GDS、OpenLane、SPICE、PoC の再現可能な実装
 
 ---
@@ -27,10 +28,10 @@
 ## 🎯 対象読者
 
 - 半導体／MEMS／制御系の設計・検証に関わる技術者
-- PID・FSM を使った実時間制御を扱う人
-- AIを制御ループに直接入れない設計を検討している人
+- PID・FSM を用いた実時間制御を扱う設計者
+- AI を制御ループに直接組み込まない設計方針を検討している人
 
-※ 入門者向け解説サイトではありません
+※ 入門者向けの解説サイトではありません
 
 ---
 
@@ -70,27 +71,23 @@ flowchart TB
   style I stroke-dasharray:5 5
 ```
 
-
 以下に、各レイヤの役割を示します。
 
 - **Physical Layer**  
-  物理・デバイス・MEMS によって  
-  システムの制約・限界・不確実性が決定されます。
+  物理・デバイス・MEMS により、  
+  システムの制約条件、動作限界、不確実性を定義します。
 
 - **Control Layer**  
-  物理モデルに基づく制御理論（PID）によって  
-  安定性・応答・性能が保証されます。
+  物理モデルに基づく制御理論（PID）により、  
+  安定性、応答特性、性能を規定します。
 
 - **Supervisory & Design Layer**  
-  - **FSM**：状態判断・遷移・介入可否の管理  
-  - **NN / RL**：FSM により許可された範囲での実時間適応補助（bounded）  
-  - **LLM**：非実時間での意味解釈・再設計・設計支援  
+  - **FSM**：状態判定、状態遷移、介入可否の管理  
+  - **NN / RL**：FSM が許可した範囲での実時間適応補助（bounded）  
+  - **LLM**：非実時間での解析、再設計、設計支援  
 
-※ **LLM は設計時（非実時間）でのみ使用され、  
-　実時間制御ループには直接介入しません。**
-
-**物理モデルを正しく、最後まで使い切るための知能化**  
-――それが AITL の基本思想です。
+※ **LLM は設計時（非実時間）のみで使用し、  
+　実時間制御ループには介入しません。**
 
 ---
 
@@ -120,39 +117,37 @@ Samizo-AITL/
 
 ## 🗺 このポータルの歩き方
 
-1. **設計思想・アーキテクチャ**  
-   物理起点エンジニアリングと AITL の基本概念
+1. **設計アーキテクチャ**  
+   物理モデルを前提とした AITL 構成と各レイヤの役割
 
 2. **物理・デバイス**  
-   半導体物理、デバイス、MEMS、物理制約
+   半導体物理、デバイス構造、MEMS、物理的制約条件
 
 3. **制御アーキテクチャ**  
-   モデルと実時間制御（PID を FSM が監督）
+   モデルに基づく実時間制御（PID）と FSM による状態監督
 
 4. **知能（設計時）**  
-   監督ロジックと LLM による設計時解析（非リアルタイム）
+   FSM 監督下での設計時解析および LLM による非実時間支援
 
 5. **PoC 実装**  
-   動作するシステムによる検証
-
-この順序は、ツール起点や断片的理解を避けるためのものです。
+   実動作システムによる検証例
 
 ---
 
-# 📝 Essays / Design Philosophy（Zenn / Qiita）
+# 📝 Essays / Design Notes（Zenn / Qiita）
 
-🧠 設計思想・物理起点工学・AITL 構造に関する記事は、  
-**GitHub 上の Markdown 原稿（一次情報・正本）**を起点として管理しています。
+🧠 設計方針、物理前提、AITL 構造に関する記事は、  
+**GitHub 上の Markdown 原稿を一次情報（正本）**として管理しています。
 
-📚 Zenn / Qiita は公開チャネルであり、  
-**正本（Single Source of Truth）は GitHub Pages** です。
+📚 Zenn / Qiita は公開用チャネルであり、  
+**Single Source of Truth は GitHub Pages** です。
 
 ---
 
-## 📘 Zenn（設計思想・体系・アーキテクチャ）
+## 📘 Zenn（構造・アーキテクチャ整理）
 
-🏛 設計思想・アーキテクチャの整理  
-🏛 物理起点エンジニアリングの言語化  
+🏛 設計アーキテクチャおよび構成整理  
+🏛 物理モデルを前提とした設計視点の整理  
 🏛 AITL（PID × FSM × LLM）の責務分離設計  
 
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
@@ -160,19 +155,14 @@ Samizo-AITL/
 
 ---
 
-## 🧩 Qiita（入口・補助・実装寄り）
+## 🧩 Qiita（導入・補足・実装例）
 
 🔧 導入向け解説  
-🔧 実装補足・PoC 説明  
-🔧 単体トピックの切り出し  
+🔧 実装補足および PoC 説明  
+🔧 単体トピックの切り出し記事  
 
 [![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 [![Qiita SSOT](https://img.shields.io/badge/Qiita-SSOT%20Markdown-0B5FFF?logo=github&logoColor=white)](https://samizo-aitl.github.io/qiita-articles/)
-
----
-
-# 💠 Semiconductor Physics & Devices
-物理起点で半導体・デバイスを体系化し、制御設計の前提条件を定義する基盤層
 
 ---
 
