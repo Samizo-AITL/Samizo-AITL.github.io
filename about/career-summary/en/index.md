@@ -86,4 +86,4 @@ based on **abstracted non-public materials**.
 
 ---
 
-**🔗 [Japanese Version › 経験要約 / Career Summary](../)**
+🔗 [Japanese Version › 経験要約 / Career Summary](../)
