@@ -29,9 +29,9 @@ title: "Evaluation Matrix — Manufacturing Technology"
 
 ## 📋 評価一覧（全 11 テーマ / 100 点満点）
 
-| No. | テーマ | 技術 | 実装 | 事業 | 再現 | 価値 | 合計 | 文書リンク(非公開) |
+| No. | テーマ | 技術 | 実装 | 事業 | 再現 | 価値 | 合計 | 文書(非公開) |
 |---:|---|---:|---:|---:|---:|---:|---:|---:|
-| 1 | 0.25um DRAM / PSRAM | 19 | 18 | 16 | 18 | 19 | **90** | [01_dram_vsram_ieee.pdf](https://github.com/Samizo-AITL/career-technical-archive/) | 
+| 1 | 0.25um DRAM / PSRAM | 19 | 18 | 16 | 18 | 19 | **90** | [01_dram_vsram_ieee.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/) | 
 | 2 | 0.25um SRAM マクロ TiSi₂ 相転移対策 | 19 | 19 | 17 | 17 | 18 | **90** | [02_driver-tisi2.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/02_driver-tisi2.pdf) | 
 | 3 | 能動素子上 Bump 実装技術確立 | 17 | 18 | 15 | 16 | 18 | **84** | [03_cd50_boa.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/03_cd50_boa.pdf) | 
 | 4 | 薄膜 PZT 技術史 | 18 | 17 | 19 | 17 | 19 | **90** | [04_pzt_thinfilm_history.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/04_pzt_thinfilm_history.pdf) | 
