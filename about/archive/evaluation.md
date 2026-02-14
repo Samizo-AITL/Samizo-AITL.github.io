@@ -29,21 +29,19 @@ title: "Evaluation Matrix — Manufacturing Technology"
 
 ## 📋 評価一覧（全 11 テーマ / 100 点満点）
 
-| No. | テーマ | 技術 | 実装 | 事業 | 再現 | 価値 | 合計 |
-|---:|---|---:|---:|---:|---:|---:|---:|
-| 1 | 0.25um DRAM / PSRAM | 19 | 18 | 16 | 18 | 19 | **90** |
-| 2 | 0.25um SRAM マクロ TiSi₂ 相転移対策 | 19 | 19 | 17 | 17 | 18 | **90** |
-| 3 | 能動素子上 Bump 実装技術確立 | 17 | 18 | 15 | 16 | 18 | **84** |
-| 4 | 薄膜 PZT 技術史 | 18 | 17 | 19 | 17 | 19 | **90** |
-| 5 | 薄膜 PZT アクチュエータ信頼性 | 19 | 20 | 19 | 18 | 19 | **95** |
-| 6 | Driver IC プロセス移植型 BCP 対応 | 17 | 20 | 20 | 19 | 18 | **94** |
-| 7 | 高耐圧デバイス逐次スクリーニング最適化 | 18 | 20 | 18 | 19 | 18 | **93** |
-| 8 | COF Au メッキ薄化　コストダウン | 16 | 19 | 20 | 18 | 17 | **90** |
-| 9 | PZT / COF 接合 4M 変更 | 15 | 19 | 20 | 17 | 18 | **89** |
-|10 | 緊急切替・多拠点 4M 統合管理 | 17 | 20 | 20 | 19 | 19 | **95** |
-|11 | BOM ワークフロー体系化 | 16 | 19 | 19 | 20 | 20 | **94** |
-
-🔧 [career-technical-archive](https://github.com/Samizo-AITL/career-technical-archive)
+| No. | テーマ | 技術 | 実装 | 事業 | 再現 | 価値 | 合計 | 文書リンク(非公開) |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0.25um DRAM / PSRAM | 19 | 18 | 16 | 18 | 19 | **90** | [01_dram_vsram_ieee.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/01_dram_vsram_ieee.pdf) | 
+| 2 | 0.25um SRAM マクロ TiSi₂ 相転移対策 | 19 | 19 | 17 | 17 | 18 | **90** | [02_driver-tisi2.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/02_driver-tisi2.pdf) | 
+| 3 | 能動素子上 Bump 実装技術確立 | 17 | 18 | 15 | 16 | 18 | **84** | [03_cd50_boa.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/03_cd50_boa.pdf) | 
+| 4 | 薄膜 PZT 技術史 | 18 | 17 | 19 | 17 | 19 | **90** | [04_pzt_thinfilm_history.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/04_pzt_thinfilm_history.pdf) | 
+| 5 | 薄膜 PZT アクチュエータ信頼性 | 19 | 20 | 19 | 18 | 19 | **95** | [05_tfp_actuator_reliability.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/05_tfp_actuator_reliability.pdf) | 
+| 6 | Driver IC プロセス移植型 BCP 対応 | 17 | 20 | 20 | 19 | 18 | **94** | [06_driver_bcp_equivalence.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/06_driver_bcp_equivalence.pdf) |
+| 7 | 高耐圧デバイス逐次スクリーニング最適化 | 18 | 20 | 18 | 19 | 18 | **93** | [07_hv_screening_optimization.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/07_hv_screening_optimization.pdf) |
+| 8 | COF Au メッキ薄化　コストダウン | 16 | 19 | 20 | 18 | 17 | **90** | [08_au_plating.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/08_au_plating.pdf) |
+| 9 | PZT / COF 接合 4M 変更 | 15 | 19 | 20 | 17 | 18 | **89** | [09_mach_head.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/09_mach_head.pdf) |
+|10 | 緊急切替・多拠点 4M 統合管理 | 17 | 20 | 20 | 19 | 19 | **95** | [10_hcs_emergency_switch.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/10_hcs_emergency_switch.pdf) |
+|11 | BOM ワークフロー体系化 | 16 | 19 | 19 | 20 | 20 | **94** | [11_bom_workflow.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/11_bom_workflow.pdf) |
 
 ---
 
