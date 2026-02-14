@@ -1,6 +1,12 @@
 # 🎓 Samizo-AITL Portal
 > 半導体・制御・AIを同一の構造図で整理した個人技術アーカイブ
 
+<div style="margin:1.1em 0; font-size:0.95em; opacity:0.85;">
+  ▶ <a href="/about/marp/samizo-aitl-presentation.html">
+    設計思想サマリ（スライド / 5分）
+  </a>
+</div>
+
 <div style="margin:1.2em 0; font-size:0.95em;">
   ▶ <a href="/portal/">統合構造 Portal</a>　
   ▶ <a href="/zenn-articles/">Zenn 記事一覧</a>　
