@@ -73,7 +73,7 @@ description: "制御・半導体・インクジェット・教育を貫く技術
 | 6 | Driver IC プロセス移植型 BCP 対応 | 17 | 20 | 20 | 19 | 18 | **94** | [06_driver_bcp_equivalence.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/06_driver_bcp_equivalence.pdf) |
 | 7 | 高耐圧デバイス逐次スクリーニング最適化 | 18 | 20 | 18 | 19 | 18 | **93** | [07_hv_screening_optimization.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/07_hv_screening_optimization.pdf) |
 | 8 | COF Au メッキ薄化　コストダウン | 16 | 19 | 20 | 18 | 17 | **90** | [08_au_plating.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/08_au_plating.pdf) |
-| 9 | PZT / COF 接合 4M 変更 | 15 | 19 | 20 | 17 | 18 | **89** | [09_mach_head.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/09_mach_head.pdf) |
+| 9 | PZT / COF 接合 4M 変更 | 15 | 19 | 20 | 17 | 18 | **89** | [09_mach_head.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/09_mach_head.pdf) |
 |10 | 緊急切替・多拠点 4M 統合管理 | 17 | 20 | 20 | 19 | 19 | **95** | [10_hcs_emergency_switch.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/10_hcs_emergency_switch.pdf) |
 |11 | BOM ワークフロー体系化 | 16 | 19 | 19 | 20 | 20 | **94** | [11_bom_workflow.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/11_bom_workflow.pdf) |
 
