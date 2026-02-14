@@ -85,6 +85,10 @@ abstracted from non-public materials and structured for reproducibility and know
 |10 | Emergency Switching and Multi-Site Integrated 4M Management | 17 | 20 | 20 | 19 | 19 | **95** | [10_hcs_emergency_switch.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/10_hcs_emergency_switch.pdf) |
 |11 | Systematization of BOM Workflow | 16 | 19 | 19 | 20 | 20 | **94** | [11_bom_workflow.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/11_bom_workflow.pdf) |
 
+※ Each evaluation axis represents a relative assessment on a 20-point scale, covering  
+“technical difficulty,” “translation into mass-production implementation,”  
+“business impact,” “reproducibility across other projects,” and “long-term value.”
+
 ---
 
 > ⚠️ **Note**  
