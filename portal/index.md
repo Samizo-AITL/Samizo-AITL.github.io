@@ -1,6 +1,6 @@
 # 🎓 Samizo-AITL Portal  
-> **物理 → デバイス → 制御 → 知能化 → 物理  
-> ―― 実世界に戻る因果構造として統合した設計知識アーカイブ**
+> **半導体・MEMS・制御・AIの設計資料集 
+> 物理モデル／PID・FSM制御／RTL→GDS実装／PoCを公開**
 
 [![English Version](https://img.shields.io/badge/English-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/en/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
@@ -15,24 +15,22 @@
 半導体・MEMS・制御・AI を  
 **物理を起点とした一貫した設計構造**として整理した技術アーカイブです。
 
-本ポータルでは、以下を提供します。
+## このポータルで提供しているもの
 
-- 分野横断技術を **因果関係として整理する視点**
-- 物理モデルから **制御・知能化までを接続した設計フレーム**
-- 教材・PoC・実装を **再利用可能な設計資産として扱う構造**
+- 物理モデル・デバイス前提を明示した設計資料
+- PID／FSM を中心とした実時間制御アーキテクチャ
+- NN／RL／LLMは「制御を置き換えない」前提での設計支援例
+- RTL→GDS、OpenLane、SPICE、PoC の再現可能な実装
 
 ---
 
-## 🎯 想定する読者
+## 🎯 対象読者
 
-Samizo-AITL は、以下のような利用者を想定しています。
+- 半導体／MEMS／制御系の設計・検証に関わる技術者
+- PID・FSM を使った実時間制御を扱う人
+- AIを制御ループに直接入れない設計を検討している人
 
-- 物理モデルを起点に設計を行いたい  
-  半導体・MEMS・制御系エンジニア
-- AI / LLM を  
-  制御の代替ではなく、**監督・再設計層として利用したい設計者**
-- 分野横断的に  
-  **設計体系そのものを再構築したい研究者・開発者**
+※ 入門者向け解説サイトではありません
 
 ---
 
