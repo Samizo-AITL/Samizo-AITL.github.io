@@ -77,6 +77,9 @@ description: "制御・半導体・インクジェット・教育を貫く技術
 |10 | 緊急切替・多拠点 4M 統合管理 | 17 | 20 | 20 | 19 | 19 | **95** | [10_hcs_emergency_switch.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/10_hcs_emergency_switch.pdf) |
 |11 | BOM ワークフロー体系化 | 16 | 19 | 19 | 20 | 20 | **94** | [11_bom_workflow.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/11_bom_workflow.pdf) |
 
+※ 各評価軸は「技術的難易度」「量産実装への落とし込み」「事業インパクト」
+「他案件への再現性」「長期的価値」を相対的に 20 点満点で整理したものである。
+
 ---
 
 > ⚠️ **注記**  
