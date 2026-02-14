@@ -43,6 +43,8 @@ title: "Evaluation Matrix — Manufacturing Technology"
 |10 | 緊急切替・多拠点 4M 統合管理 | 17 | 20 | 20 | 19 | 19 | **95** |
 |11 | BOM ワークフロー体系化 | 16 | 19 | 19 | 20 | 20 | **94** |
 
+🔧 [career-technical-archive](https://github.com/Samizo-AITL/career-technical-archive)
+
 ---
 
 > 🔒 **注意**  
