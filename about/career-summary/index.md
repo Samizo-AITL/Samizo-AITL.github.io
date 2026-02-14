@@ -76,4 +76,4 @@ description: "制御・半導体・インクジェット・教育を貫く技術
 
 ---
 
-**🔗 [English Version › Career Summary](./en/)**
+🔗 [English Version › Career Summary](./en/)
