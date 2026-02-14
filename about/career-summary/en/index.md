@@ -68,14 +68,22 @@ and organizing it into reusable and structured forms.”**
 
 ## 🧠 Technical Archive
 
-This archive organizes the **decision-making frameworks** used throughout my career in  
-manufacturing technology, reliability design, and technical judgment,  
-based on **abstracted non-public materials**.
+This page organizes and archives the **thinking frameworks applied to mass-production engineering, reliability design, and technical decision-making**,  
+abstracted from non-public materials and structured for reproducibility and knowledge transfer.
 
-- Focuses on *thinking structures*, not implementations  
-- Contains no proprietary data, values, or product-specific details
-
-🗂️ [Technical Archive — Abstracted Manufacturing Knowledge](https://samizo-aitl.github.io/about/archive/en/)
+| No. | Theme | Technology | Implementation | Business | Reproducibility | Value | Total | Document Link (Private) |
+|---:|---|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0.25 µm DRAM / PSRAM | 19 | 18 | 16 | 18 | 19 | **90** | [01_dram_vsram_ieee.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/01_dram_vsram_ieee.pdf) |
+| 2 | 0.25 µm SRAM Macro – TiSi₂ Phase Transition Countermeasures | 19 | 19 | 17 | 17 | 18 | **90** | [02_driver-tisi2.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/02_driver-tisi2.pdf) |
+| 3 | Establishment of Bump Implementation on Active Devices | 17 | 18 | 15 | 16 | 18 | **84** | [03_cd50_boa.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/03_cd50_boa.pdf) |
+| 4 | History of Thin-Film PZT Technology | 18 | 17 | 19 | 17 | 19 | **90** | [04_pzt_thinfilm_history.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/04_pzt_thinfilm_history.pdf) |
+| 5 | Reliability of Thin-Film PZT Actuators | 19 | 20 | 19 | 18 | 19 | **95** | [05_tfp_actuator_reliability.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/05_tfp_actuator_reliability.pdf) |
+| 6 | Driver IC Process-Migration-Type BCP (Equivalence Assurance) | 17 | 20 | 20 | 19 | 18 | **94** | [06_driver_bcp_equivalence.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/06_driver_bcp_equivalence.pdf) |
+| 7 | Optimization of Sequential Screening for High-Voltage Devices | 18 | 20 | 18 | 19 | 18 | **93** | [07_hv_screening_optimization.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/07_hv_screening_optimization.pdf) |
+| 8 | Cost Reduction via COF Au Plating Thickness Reduction | 16 | 19 | 20 | 18 | 17 | **90** | [08_au_plating.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/08_au_plating.pdf) |
+| 9 | 4M Change Management for PZT / COF Bonding | 15 | 19 | 20 | 17 | 18 | **89** | [09_mach_head.pdf](https://github.com/Samizo-AITL/career-technical-archive/docs/09_mach_head.pdf) |
+|10 | Emergency Switching and Multi-Site Integrated 4M Management | 17 | 20 | 20 | 19 | 19 | **95** | [10_hcs_emergency_switch.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/10_hcs_emergency_switch.pdf) |
+|11 | Systematization of BOM Workflow | 16 | 19 | 19 | 20 | 20 | **94** | [11_bom_workflow.pdf](https://github.com/Samizo-AITL/career-technical-archive/tree/main/docs/11_bom_workflow.pdf) |
 
 ---
 
