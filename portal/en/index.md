@@ -4,9 +4,10 @@ title: Samizo-AITL Portal
 description: A physical-first engineering archive that integrates devices, control, and intelligence through a unified causal architecture
 ---
 
-# 🎓 Samizo-AITL Portal  
-> **Physics → Devices → Control → Intelligence → Physics  
-> A causal engineering archive grounded in the physical world**
+# 🎓 Samizo-AITL Portal
+
+**Engineering documentation for semiconductors, MEMS, control, and AI**  
+Physics-based models / PID & FSM real-time control / RTL-to-GDS implementations / PoC
 
 [![Japanese Version](https://img.shields.io/badge/Japanese-Version-brightgreen?logo=github)](https://samizo-aitl.github.io/portal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github)](https://github.com/Samizo-AITL)
@@ -17,15 +18,15 @@ description: A physical-first engineering archive that integrates devices, contr
 
 ## 🚀 What This Portal Provides
 
-**Samizo-AITL** is a technical archive structured around  
-a **physical-first design methodology**.
+**Samizo-AITL** is a technical archive organized around  
+**physics-based assumptions and implementation results**.
 
-The portal provides:
+This portal provides:
 
-- A framework for understanding systems **from physical constraints upward**
-- A causal connection from **devices → models → control → intelligence**
-- Design knowledge that preserves **why decisions exist**, not only how to implement them
-- Reusable architectural concepts across **education, PoC, and practical design**
+- Design documentation with **explicit physical and device constraints**
+- A structured flow from **devices → models → control → intelligence**
+- Design records that document **design rationale and constraints**, not only implementation steps
+- Reusable architecture examples across **education, PoC, and practical design**
 
 ---
 
@@ -33,20 +34,20 @@ The portal provides:
 
 This portal is intended for engineers and researchers who:
 
-- Begin system design from **physical models and constraints**
-- Treat control theory as a **core structural element**
-- Use AI / LLMs as **supervisory and analytical layers**, not controllers
-- Require **cross-domain understanding without collapsing physical meaning**
+- Start system design from **physical models and explicit constraints**
+- Treat control theory as a **core part of the system structure**
+- Use AI / LLMs as **supervisory or analytical layers**, not as real-time controllers
+- Need **cross-domain understanding while preserving physical meaning**
 
 ---
 
 ## 🧭 What Is Samizo-AITL?
 
 The **Samizo-AITL Portal**, created by **Shinichi Samizo**,  
-reorganizes semiconductor devices, MEMS, and control engineering  
-around a **shared physical-first design framework**.
+is a technical archive that organizes semiconductor devices, MEMS, and control engineering  
+using a **physics-based design framework**.
 
-Systems are presented along a single causal chain:
+Systems are described using a single structured flow:
 
 **Physics → Structure → Devices → Process → Models → Systems → Control → Intelligence**
 
@@ -89,26 +90,26 @@ flowchart TB
 ```
 
 AITL (Architecture for Integrated Technology Logic) is a system design architecture  
-centered on a **one-directional causal structure**:
+organized around a **fixed layer order**:
 
 **Physical → Control → Intelligence**
 
 - **Physical Layer**  
   Physics, devices, and MEMS define  
-  the fundamental constraints, limits, and uncertainties of the system.
+  system constraints, operating limits, and sources of uncertainty.
 
 - **Control Layer**  
-  Control theory based on physical models (e.g., PID)  
-  guarantees stability, response, and performance.
+  Control methods based on physical models (e.g., PID)  
+  define stability, response characteristics, and achievable performance.
 
 - **Supervisory & Design Layer**  
-  - **FSM**: Manages state judgment, transitions, and intervention permissions  
-  - **NN / RL**: Real-time adaptive assistance within FSM-approved bounds  
-  - **LLM**: Semantic interpretation, redesign, and design support  
-    performed **offline (non-real-time)**
+  - **FSM**: Manages state evaluation, state transitions, and intervention permissions  
+  - **NN / RL**: Provides real-time adaptive assistance within FSM-approved bounds  
+  - **LLM**: Performs analysis, redesign, and design support  
+    **offline (non-real-time)**
 
-※ **LLMs are used only at design time (non-real-time)**  
-and **do not directly intervene in real-time control loops**.
+※ **LLMs are used only during design-time (non-real-time)**  
+and **do not intervene in real-time control loops**.
 
 ---
 
@@ -139,40 +140,38 @@ Samizo-AITL/
 
 ## 🗺 How to Navigate This Portal
 
-1. **Architecture & Philosophy**  
-   Physical-first engineering and the AITL concept
+1. **Architecture**  
+   AITL structure and the role of each layer based on physical assumptions
 
 2. **Physics & Devices**  
-   Semiconductor physics, devices, MEMS, and physical constraints
+   Semiconductor physics, device structures, MEMS, and physical constraints
 
 3. **Control Architecture**  
-   Models and real-time control (PID supervised by FSM)
+   Model-based real-time control (PID) supervised by FSM
 
 4. **Intelligence (Design-time)**  
-   Supervisory logic and LLM-assisted analysis (not real-time)
+   Supervisory logic and LLM-assisted analysis performed offline (non-real-time)
 
 5. **Proof-of-Concept Implementations**  
-   Verification through working systems
-
-This order avoids tool-driven or fragmented understanding.
+   Verification through working systems and reproducible examples
 
 ---
 
-# 📝 Essays / Design Philosophy (Zenn / Qiita — English)
+# 📝 Essays / Design Notes (Zenn / Qiita — English)
 
-🧠 Articles on design philosophy, physics-driven engineering,  
-and AITL architecture are managed with  
+🧠 Articles related to design decisions, physical assumptions, and  
+AITL architecture are managed using  
 **GitHub-hosted Markdown as the Single Source of Truth (SSOT)**.
 
 📚 Zenn / Qiita are publication channels.  
-🏛 **The authoritative originals live on GitHub Pages.**
+🏛 **Authoritative originals are maintained on GitHub Pages.**
 
 ---
 
-## 📘 Zenn (Design Philosophy / Architecture — EN)
+## 📘 Zenn (Architecture / Structure — EN)
 
-🏛 Design philosophy and architectural reasoning  
-🏛 Physics-driven engineering concepts  
+🏛 Architectural structure and design decisions  
+🏛 Physics-based engineering assumptions  
 🏛 AITL structure (PID × FSM × LLM responsibility separation)
 
 [![Zenn](https://img.shields.io/badge/Zenn-Articles-blue?logo=zenn)](https://zenn.dev/samizo_aitl)
@@ -182,9 +181,9 @@ and AITL architecture are managed with
 
 ## 🧩 Qiita (Introductory / Implementation-oriented — EN)
 
-🔧 Entry-level explanations  
+🔧 Introductory explanations  
 🔧 Implementation notes and PoCs  
-🔧 Focused, single-topic articles
+🔧 Focused single-topic articles
 
 [![Qiita](https://img.shields.io/badge/Qiita-Articles-lightgrey?logo=qiita)](https://qiita.com/ctrl_bug)
 [![Qiita SSOT EN](https://img.shields.io/badge/Qiita-SSOT%20Markdown%20(EN)-0B5FFF?logo=github&logoColor=white)](https://samizo-aitl.github.io/qiita-articles/en/)
