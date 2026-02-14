@@ -49,6 +49,8 @@ not on implementation details.
 |10 | Emergency Switching & Multi-Site Integrated 4M Control | 17 | 20 | 20 | 19 | 19 | **95** |
 |11 | Systematization of BOM Workflow | 16 | 19 | 19 | 20 | 20 | **94** |
 
+🔧 [career-technical-archive](https://github.com/Samizo-AITL/career-technical-archive)
+
 ---
 
 ## 🔒 Notes
