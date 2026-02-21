@@ -196,20 +196,25 @@ Samizo-AITL/
 
 ---
 
-### 🔹 OpenLane による物理実装
+### 🧩 OpenLane による物理実装 
 
-本教材では、**物理前提が最終的に GDS へどう反映されるか**を確認するため、  
-OpenLane を **実装確認用の例**として扱います。
+本教材では、**物理前提が最終的に GDS へどのように反映されるか**を確認するため、  
+OpenLane を **実装結果を確認するための例**として位置づけています。
 
-目的はツール解説ではなく、  
+目的はツール操作の解説ではなく、  
 **プロセス・デバイス前提が配置・配線・遅延制約として顕在化する境界**を  
-実体で理解することにあります。
+📐 **実体を通じて理解すること**にあります。
 
-OpenLane の環境構築・安定運用については、  
-以下の専用ガイドに分離しています。
+OpenLane の**環境構築・安定運用・再現性確保**については、  
+📦 以下の専用ガイドに分離しています。
 
 [![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane-guide/)
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane-guide) 
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane-guide)
+
+#### 🧭 使い方の意図
+- 🧠 **物理前提 → 制約 → GDS** の因果理解が主目的  
+- 🛠 OpenLane は「手段」であり「主題」ではありません  
+- 📚 環境論・運用論は *openlane-guide* 側で完結させています
 
 ---
 
