@@ -196,7 +196,7 @@ Samizo-AITL/
 
 ---
 
-### 🧩 OpenLane-Guide
+### 🧩 OpenLane Guide
 
 本教材では OpenLane を **RTL → GDS を確認するための実装手段**として使用しています。  
 OpenLane の **環境構築・安定運用・再現性確保（WSL2 / Docker / PDK / OpenLane1・2の分離 / rollback・export戦略）** については、以下の専用ガイドに分離しています。
