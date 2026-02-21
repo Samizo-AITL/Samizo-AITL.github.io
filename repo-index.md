@@ -57,6 +57,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | EduLMecha | 🔗 [Open](https://samizo-aitl.github.io/EduMecha/) | 🔧 [Repo](https://github.com/Samizo-AITL/EduMecha) |
 | EduLms | 🔗 [Open](https://samizo-aitl.github.io/EduLms/) | 🔧 [Repo](https://github.com/Samizo-AITL/EduLms) |
 | aitl-traininig | 🔗 [Open](https://samizo-aitl.github.io/aitl-training/) | 🔧 [Repo](https://github.com/Samizo-AITL/aitl-training) |
+| openlane-guide | 🔗 [Open](https://samizo-aitl.github.io/openlane-guide/) | 🔧 [Repo](https://github.com/Samizo-AITL/openlane-guide) |
 
 ---
 
