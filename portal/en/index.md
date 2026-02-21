@@ -226,6 +226,29 @@ A special chapter that builds upon physics-based device and circuit knowledge an
 
 ---
 
+### 🧩 Physical Implementation with OpenLane
+
+In this material, OpenLane is used **only as a concrete example**  
+to observe **how physical assumptions are ultimately reflected in GDS**.
+
+The goal is **not** to explain tool usage.  
+Instead, the focus is on understanding the boundary where  
+**process and device assumptions manifest as placement, routing, and timing constraints**,  
+📐 **through real, tangible results**.
+
+Details on **environment setup, stable operation, and reproducibility** of OpenLane  
+are intentionally separated into a dedicated guide:
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane-guide/)  
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane-guide)
+
+#### 🧭 Intended Use
+- 🧠 Primary goal: causal understanding from **physical assumptions → constraints → GDS**
+- 🛠 OpenLane is a *means*, not the *subject*
+- 📚 Environment and operational topics are fully covered in *openlane-guide*
+
+---
+
 ## 2️⃣ 📐 SemiDevKit
 An **implementation-oriented development kit** bridging semiconductor device theory and practical design workflows:
 
