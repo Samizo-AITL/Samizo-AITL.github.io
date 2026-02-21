@@ -196,6 +196,23 @@ Samizo-AITL/
 
 ---
 
+### 🔹 OpenLane による物理実装
+
+本教材では、**物理前提が最終的に GDS へどう反映されるか**を確認するため、  
+OpenLane を **実装確認用の例**として扱います。
+
+目的はツール解説ではなく、  
+**プロセス・デバイス前提が配置・配線・遅延制約として顕在化する境界**を  
+実体で理解することにあります。
+
+OpenLane の環境構築・安定運用については、  
+以下の専用ガイドに分離しています。
+
+[![Site](https://img.shields.io/badge/View-Site-brightgreen?logo=github)](https://samizo-aitl.github.io/openlane-guide/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/Samizo-AITL/openlane-guide) 
+
+---
+
 ## 2️⃣ 📐 SemiDevKit
 物理モデルから **SPICE・信頼性・レイアウト**までを接続する実装キット。
 
