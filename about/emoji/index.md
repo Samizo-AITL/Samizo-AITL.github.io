@@ -8,26 +8,36 @@ title: index.md
 カテゴリ別に分割した絵文字ストックです。
 
 ## Index
-- 🔢 [numbers.md](numbers.md)
-- 🔣 [symbols.md](symbols.md)
-- ➡ [arrows.md](arrows.md)
-- ◼ [shapes.md](shapes.md)
-- 🛠 [tech.md](tech.md)
-- 📚 [document.md](document.md)
-- 🚦 [status.md](status.md)
-- 😀 [emotion.md](emotion.md)
-- 🎯 [misc.md](misc.md)
 
-## Extended Categories
-- 🧭 [workflow.md](workflow.md)
-- 🔍 [review.md](review.md)
-- 🚀 [deploy.md](deploy.md)
-- 🔐 [security.md](security.md)
-- 📡 [monitor.md](monitor.md)
-- ⚠️ [warning.md](warning.md)
-- 🎛️ [control.md](control.md)
-- 🌐 [network.md](network.md)
-- 🗄️ [data.md](data.md)
-- 🤖 [ai.md](ai.md)
-- 🖥️ [ui.md](ui.md)
-- 💾 [storage.md](storage.md)
+### Basic Categories
+
+| カテゴリ | ファイル | 用途 |
+|---|---|---|
+| 🔢 Numbers | [numbers.md](numbers.md) | 数値、番号、カウント |
+| 🔣 Symbols | [symbols.md](symbols.md) | 記号、補助表現 |
+| ➡ Arrows | [arrows.md](arrows.md) | 方向、流れ |
+| ◼ Shapes | [shapes.md](shapes.md) | 図形、強調 |
+| 🛠 Tech | [tech.md](tech.md) | 技術、ツール |
+| 📚 Document | [document.md](document.md) | 文書、記録 |
+| 🚦 Status | [status.md](status.md) | 状態、進行 |
+| 😀 Emotion | [emotion.md](emotion.md) | 表情、ニュアンス |
+| 🎯 Misc | [misc.md](misc.md) | 汎用、分類外 |
+
+---
+
+### Extended Categories
+
+| カテゴリ | ファイル | 用途 |
+|---|---|---|
+| 🧭 Workflow | [workflow.md](workflow.md) | 作業の流れ、進捗 |
+| 🔍 Review | [review.md](review.md) | 確認、評価、差分 |
+| 🚀 Deploy | [deploy.md](deploy.md) | 公開、配布、更新 |
+| 🔐 Security | [security.md](security.md) | 保護、権限、リスク |
+| 📡 Monitor | [monitor.md](monitor.md) | 監視、通知、可視化 |
+| ⚠️ Warning | [warning.md](warning.md) | 注意、警告、制限 |
+| 🎛️ Control | [control.md](control.md) | 操作、切替、調整 |
+| 🌐 Network | [network.md](network.md) | 通信、接続 |
+| 🗄️ Data | [data.md](data.md) | データ、入出力 |
+| 🤖 AI | [ai.md](ai.md) | 学習、自動化 |
+| 🖥️ UI | [ui.md](ui.md) | 画面、操作 |
+| 💾 Storage | [storage.md](storage.md) | 保存、同期、退避 |
