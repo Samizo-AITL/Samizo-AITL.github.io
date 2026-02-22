@@ -1,3 +1,8 @@
+---
+layout: default
+title: index.md
+---
+
 # 😀 Emoji Stock
 
 カテゴリ別に分割した絵文字ストックです。
