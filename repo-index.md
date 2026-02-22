@@ -19,9 +19,9 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 |---|---|---|
 | Samizo-AITL.github.io | 🔗 [Open](https://samizo-aitl.github.io/) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) 
 | Samizo-AITL.github.io/potal | 🔗 [Open](https://samizo-aitl.github.io/portal) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
-| Samizo-AITL.github.io/about/career-summary | 🔗 [Open](https://samizo-aitl.github.io/about/career-summary) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
-| Samizo-AITL.github.io/about/update | 🔗 [Open](https://samizo-aitl.github.io/about/update) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
-| Samizo-AITL.github.io/about/emoji | 🔗 [Open](https://samizo-aitl.github.io/about/emoji) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io) |
+| Samizo-AITL.github.io/about/career-summary | 🔗 [Open](https://samizo-aitl.github.io/about/career-summary) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/career-summary) |
+| Samizo-AITL.github.io/about/update | 🔗 [Open](https://samizo-aitl.github.io/about/update) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/update) |
+| Samizo-AITL.github.io/about/emoji | 🔗 [Open](https://samizo-aitl.github.io/about/emoji) | 🔧 [Repo](https://github.com/Samizo-AITL/Samizo-AITL.github.io/tree/main/emoji) |
 
 
 ### 📊 Analytics / Monitoring（Owner Only）
