@@ -1,6 +1,3 @@
----
-title: Emoji Stock
----
 
 # 😀 Emoji Stock
 
