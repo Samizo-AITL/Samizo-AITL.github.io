@@ -13,6 +13,8 @@ title: index.md
 [https://emoji-list.com/](https://emoji-list.com/)<br>
 [https://kawaiiemoji.com/emoji/all](https://kawaiiemoji.com/emoji/all)
 
+🚨⚠️👀5️⃣6️⃣4️⃣🩸😱🔜⛔4️⃣💀⚰️👻
+
 ## Index
 
 ### Basic Categories
