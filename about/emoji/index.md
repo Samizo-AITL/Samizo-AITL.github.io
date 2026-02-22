@@ -7,6 +7,12 @@ title: index.md
 
 カテゴリ別に分割した絵文字ストックです。
 
+[https://lets-emoji.com/emojilist/emojilist-1/](https://lets-emoji.com/emojilist/emojilist-1/)
+[https://itojisan.xyz/knowledge/35650/](https://itojisan.xyz/knowledge/35650/)
+[https://3nd.jp/emoji/](https://3nd.jp/emoji/)
+[https://emoji-list.com/](https://emoji-list.com/)
+[https://kawaiiemoji.com/emoji/all](https://kawaiiemoji.com/emoji/all)
+
 ## Index
 
 ### Basic Categories
