@@ -44,20 +44,6 @@ Architecture for Integrated Technology Logic
 
 ```mermaid
 flowchart TD
-    P["物理量<br>(V–I / 力 / 熱)"]
-    D["デバイス<br>(半導体 / MEMS / 機構)"]
-    C["制御<br>(PID / FSM)"]
-    A["設計知能<br>(AI / LLM)"]
-    S["性能<br>(安定性 / 応答 / 信頼性)"]
-
-    P --> D
-    D --> C
-    C --> S
-    C -. 再設計支援 .-> A
-    A -. モデル更新・再同定 .-> C
-```
-```mermaid
-flowchart TD
     P["物理量<br>(V–I / 力 / 熱)"]:::physics
     D["デバイス<br>(半導体 / MEMS / 機構)"]:::device
     C["制御<br>(PID / FSM)"]:::control
