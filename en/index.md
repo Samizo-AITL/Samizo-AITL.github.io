@@ -44,21 +44,6 @@ From physical quantities (such as V–I), through devices and control, to AI,<br
 
 ```mermaid
 flowchart TD
-    P["Physical Quantities<br>(V–I / Force / Heat)"]
-    D["Devices<br>(Semiconductor / MEMS / Mechanics)"]
-    C["Control<br>(PID / FSM)"]
-    A["Design Intelligence<br>(AI / LLM)"]
-    S["Performance<br>(Stability / Response / Reliability)"]
-
-    P --> D
-    D --> C
-    C --> S
-    C -. Design Support .-> A
-    A -. Model Update & Re-identification .-> C
-```
-
-```mermaid
-flowchart TD
     P["Physical Quantities<br>(V–I / Force / Heat)"]:::physics
     D["Devices<br>(Semiconductor / MEMS / Mechanics)"]:::device
     C["Control<br>(PID / FSM)"]:::control
