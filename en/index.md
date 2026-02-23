@@ -57,6 +57,27 @@ flowchart TD
     A -. Model Update & Re-identification .-> C
 ```
 
+```mermaid
+flowchart TD
+    P["Physical Quantities<br>(V–I / Force / Heat)"]:::physics
+    D["Devices<br>(Semiconductor / MEMS / Mechanics)"]:::device
+    C["Control<br>(PID / FSM)"]:::control
+    A["Design Intelligence<br>(AI / LLM)"]:::ai
+    S["Performance<br>(Stability / Response / Reliability)"]:::performance
+
+    P --> D
+    D --> C
+    C --> S
+    C -. Design Support .-> A
+    A -. Model Update & Re-identification .-> C
+
+    classDef physics fill:#E3F2FD,stroke:#1E88E5,stroke-width:2px
+    classDef device fill:#E8F5E9,stroke:#43A047,stroke-width:2px
+    classDef control fill:#FFFDE7,stroke:#F9A825,stroke-width:2px
+    classDef ai fill:#FCE4EC,stroke:#D81B60,stroke-width:2px
+    classDef performance fill:#F3E5F5,stroke:#8E24AA,stroke-width:2px
+```
+
 <div style="margin-top:0.9em; font-size:0.95em; opacity:0.85;">
 All articles, demos, and the Portal on this site correspond to
 <strong>either a box or an arrow (relationship)</strong> in this architecture diagram.
