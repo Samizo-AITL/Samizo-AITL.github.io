@@ -13,8 +13,6 @@ title: index.md
 [https://emoji-list.com/](https://emoji-list.com/)<br>
 [https://kawaiiemoji.com/emoji/all](https://kawaiiemoji.com/emoji/all)
 
-😀🔜🚨⚠️🔜👀5️⃣6️⃣4️⃣🗡️🪓🔨🩸😱🤢🔜🚑⛔4️⃣💀🔜🕯️⚰️🪦🔜👻
-
 ## Index
 
 ### Basic Categories
@@ -49,3 +47,16 @@ title: index.md
 | 🤖 AI | [ai.md](ai.md) | 学習、自動化 |
 | 🖥️ UI | [ui.md](ui.md) | 画面、操作 |
 | 💾 Storage | [storage.md](storage.md) | 保存、同期、退避 |
+
+
+👍
+👌
+👏👏👏
+👀
+🌍
+🔥🔥🔥
+💰
+💯
+
+😀🔜🚨⚠️🔜👀5️⃣6️⃣4️⃣🗡️🪓🔨🩸😱🤢🔜🚑⛔4️⃣💀🔜🕯️⚰️🪦🔜👻
+㊙️🆘💥💢💣🚓🌋💧💉
