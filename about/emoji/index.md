@@ -48,6 +48,35 @@ title: index.md
 | 🖥️ UI | [ui.md](ui.md) | 画面、操作 |
 | 💾 Storage | [storage.md](storage.md) | 保存、同期、退避 |
 
+---
+
+### Tool emoji
+
+| Tool        | emoji |
+|-------------|-------|
+| GitHub      | 🐱 |
+| Python      | 🐍 |
+| VSCode      | 🧩 |
+| Mermaid     | 🧜‍♀️ |
+| LaTeX       | 📐 |
+| Git         | 🌱 |
+| Markdown    | 📝 |
+| Jupyter     | 📓 |
+| Docker      | 🐳 |
+| Bash        | 🖥️ |
+| PowerShell  | ⚡ |
+| JSON        | 🧾 |
+| YAML        | 🧬 |
+| CSV         | 📊 |
+| HTML        | 🌐 |
+| CSS         | 🎨 |
+| JavaScript  | ✨ |
+| TypeScript  | 🔷 |
+| React       | ⚛️ |
+| Node.js     | 🟢 |
+| Pandas      | 🐼 |
+| NumPy       | 🔢 |
+| Matplotlib  | 📈 |
 
 👍
 👌
@@ -59,12 +88,3 @@ title: index.md
 💯
 
 😀🔜💣🔜💥💢🌋🔜🚓🚨⚠️🔜👀㊙️5️⃣6️⃣4️⃣🔄2️⃣3️⃣2️⃣🆘🗡️🪓🔨🩸😱🤢🔜🚑⛔💉4️⃣💧💀🔜🕯️⚰️🪦🔜👻
-
-| Tool    | emoji |
-|---------|-------|
-| GitHub  | 🐱 |
-| Python  | 🐍 |
-| VSCode  | 🧩 |
-| Mermaid | 🧜‍♀️ |
-| LaTeX   | 📐 |
-
