@@ -60,3 +60,9 @@ title: index.md
 
 😀🔜💣🔜💥💢🌋🔜🚓🚨⚠️🔜👀㊙️5️⃣6️⃣4️⃣🔄3️⃣2️⃣🆘🗡️🪓🔨🩸😱🤢🔜🚑⛔💉4️⃣💧💀🔜🕯️⚰️🪦🔜👻
 
+
+GitHub 🐱
+Python
+VSCode
+Mermaid
+Latex
