@@ -175,7 +175,7 @@ Starting from the architecture diagram, it allows you to traverse articles, demo
 
 ## 📜 Introductory Articles for Beginners (Qiita Articles)
 
-These articles provide step-by-step explanations of the site’s architecture with reduced use of formulas and technical terminology.
+These articles explain the content written on Qiita in a way that is easy to follow for first-time readers.
 
 <div style="
   margin: 1.4em 0;
@@ -184,6 +184,9 @@ These articles provide step-by-step explanations of the site’s architecture wi
   border-radius: 18px;
   background: rgba(37,99,235,0.08);
   max-width: 640px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
 ">
 
 <a href="https://samizo-aitl.github.io/qiita-articles/en/"
@@ -196,9 +199,18 @@ These articles provide step-by-step explanations of the site’s architecture wi
      font-weight:900;
      text-decoration:none;
      box-shadow:0 10px 22px rgba(37,99,235,0.45);
+     white-space: nowrap;
    ">
   ▶ Open Article List
 </a>
+
+<div style="font-size: 0.95em; line-height: 1.6;">
+  <ul style="margin: 0; padding-left: 1.2em;">
+    <li>Written for readers new to the topic</li>
+    <li>Minimal use of formulas and technical terms</li>
+    <li>Each article can be read on its own</li>
+  </ul>
+</div>
 
 </div>
 
