@@ -106,7 +106,7 @@ within the integrated architecture diagram above.
 
 ---
 
-## 🧩 Portal (Structural Navigation)
+## 🗺️ Portal (Structural Navigation)
 
 <div style="
   margin: 3.2em 0;
@@ -173,7 +173,7 @@ Starting from the architecture diagram, it allows you to traverse articles, demo
 
 ---
 
-## 🧩 Introductory Articles for Beginners (Qiita Articles)
+## 📜 Introductory Articles for Beginners (Qiita Articles)
 
 These articles provide step-by-step explanations of the site’s architecture with reduced use of formulas and technical terminology.
 
