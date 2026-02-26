@@ -35,7 +35,7 @@
 
 ---
 
-## 🧩 AITL Structure Map（全体構造）
+## 🗺️ AITL Structure Map（全体構造）
 
 ```mermaid
 flowchart TB
@@ -144,7 +144,7 @@ Samizo-AITL/
 
 ---
 
-## 📘 Zenn（構造・アーキテクチャ整理）
+## 📚 Zenn（構造・アーキテクチャ整理）
 
 🏛 設計アーキテクチャおよび構成整理  
 🏛 物理モデルを前提とした設計視点の整理  
@@ -155,7 +155,7 @@ Samizo-AITL/
 
 ---
 
-## 🧩 Qiita（導入・補足・実装例）
+## 📜 Qiita（導入・補足・実装例）
 
 🔧 導入向け解説  
 🔧 実装補足および PoC 説明  
