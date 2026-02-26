@@ -172,9 +172,9 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 
 ---
 
-## 📜 初学者向けの補足記事（Qiita Articles）
+## 📜 初学者向け解説記事（Qiita Articles）
 
-本サイトの構造的な内容を、数式や専門語を抑えて段階的に解説した補助記事群です。
+Qiita に書いている内容を、初めて読む人向けに整理した解説記事です。
 
 <div style="
   margin: 1.4em 0;
@@ -183,6 +183,9 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
   border-radius: 18px;
   background: rgba(37,99,235,0.08);
   max-width: 640px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
 ">
 
 <a href="https://samizo-aitl.github.io/qiita-articles/"
@@ -195,9 +198,18 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
      font-weight:900;
      text-decoration:none;
      box-shadow:0 10px 22px rgba(37,99,235,0.45);
+     white-space: nowrap;
    ">
   ▶ 記事一覧を開く
 </a>
+
+<div style="font-size: 0.95em; line-height: 1.6;">
+  <ul style="margin: 0; padding-left: 1.2em;">
+    <li>初めて触れる人向けに内容を整理</li>
+    <li>数式・専門語は最小限</li>
+    <li>単体で読める記事</li>
+  </ul>
+</div>
 
 </div>
 
