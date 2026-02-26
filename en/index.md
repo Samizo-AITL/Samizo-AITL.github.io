@@ -21,7 +21,7 @@ description: A personal technical archive organizing semiconductors, control (PI
 </div>
 
 <span style="font-size:1.8em; opacity:0.85;">
-<strong>Architecture for Integrated Technology Logic</strong>
+<strong>☝️ AITL (Architecture for Integrated Technology Logic)</strong>
 </span>
 
 <div style="margin:1.4em 0 1.8em 0; font-size:1.18em; line-height:1.75;">
