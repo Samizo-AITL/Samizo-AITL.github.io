@@ -53,7 +53,7 @@ Systems are described using a single structured flow:
 
 ---
 
-## 🧩 AITL Structure Map (Overall Architecture)
+## 🗺️ AITL Structure Map (Overall Architecture)
 
 ```mermaid
 flowchart TB
@@ -168,7 +168,7 @@ AITL architecture are managed using
 
 ---
 
-## 📘 Zenn (Architecture / Structure — EN)
+## 📚 Zenn (Architecture / Structure — EN)
 
 🏛 Architectural structure and design decisions  
 🏛 Physics-based engineering assumptions  
@@ -179,7 +179,7 @@ AITL architecture are managed using
 
 ---
 
-## 🧩 Qiita (Introductory / Implementation-oriented — EN)
+## 📜 Qiita (Introductory / Implementation-oriented — EN)
 
 🔧 Introductory explanations  
 🔧 Implementation notes and PoCs  
