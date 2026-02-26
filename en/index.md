@@ -7,6 +7,17 @@ description: A personal technical archive organizing semiconductors, control (PI
 # 🎓 Samizo-AITL Portal
 > A personal technical archive that organizes semiconductors, control, and AI using a single unified architecture diagram
 
+<div style="margin:1.0em 0 1.2em 0; padding:1.2em 1.4em;
+            border:2px solid #1e40af; border-radius:14px;
+            background:rgba(30,64,175,0.06); font-size:0.95em;">
+<strong>New here?</strong><br>
+<ul style="margin:0.6em 0 0 1.2em;">
+  <li>To see the overall structure: <strong>Integrated Architecture Portal</strong></li>
+  <li>To read focused technical explanations: <strong>Zenn Articles</strong></li>
+  <li>To start from introductory content: <strong>Qiita Articles</strong></li>
+</ul>
+</div>
+
 <div style="margin:1.1em 0; font-size:0.95em; opacity:0.85;">
   ▶ <a href="/about/marp/en/samizo-aitl-presentation.html">
     Design Overview Summary (Slides)
@@ -70,7 +81,10 @@ All articles, demos, and the Portal on this site correspond to
 
 ---
 
-## 📚 Articles (Zenn)
+## 📚 Zenn Articles（Technical Focus）
+
+Each article explains a specific component or relationship  
+within the integrated architecture diagram.
 
 <div style="
   margin: 2.6em 0;
@@ -173,9 +187,10 @@ Starting from the architecture diagram, it allows you to traverse articles, demo
 
 ---
 
-## 📜 Introductory Articles for Beginners (Qiita Articles)
+## 📜 Qiita Articles（Introductory）
 
-These articles explain the content written on Qiita in a way that is easy to follow for first-time readers.
+Introductory articles organized for first-time readers,  
+with minimal formulas and terminology, each readable on its own.
 
 <div style="
   margin: 1.4em 0;
