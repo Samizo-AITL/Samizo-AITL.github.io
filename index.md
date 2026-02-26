@@ -105,7 +105,7 @@ flowchart TD
 
 ---
 
-## 🧩 Portal（構造ナビゲーション）
+## 🗺️ Portal（構造ナビゲーション）
 
 <div style="
   margin: 3.2em 0;
@@ -172,7 +172,7 @@ Portal は <strong>Samizo-AITL の中核ナビゲーション</strong> です。
 
 ---
 
-## 🧩 初学者向けの補足記事（Qiita Articles）
+## 📜 初学者向けの補足記事（Qiita Articles）
 
 本サイトの構造的な内容を、数式や専門語を抑えて段階的に解説した補助記事群です。
 
