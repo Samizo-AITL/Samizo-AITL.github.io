@@ -31,6 +31,8 @@ description: A personal technical archive organizing semiconductors, control (PI
   ▶ <a href="https://github.com/Samizo-AITL">GitHub</a>　
 </div>
 
+---
+
 <span style="font-size:1.8em; opacity:0.85;">
 <strong>🎛️ AITL (Architecture for Integrated Technology Logic)</strong>
 </span>
