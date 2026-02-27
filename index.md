@@ -7,6 +7,15 @@ description: 半導体、制御（PID・FSM）、AI設計を物理量（V–I）
 # 🎓 Samizo-AITL Portal
 > 半導体・制御・AIを同一の構造図で整理した個人技術アーカイブ
 
+<div style="margin:1.2em 0 1.0em 0;">
+  <a href="https://samizo-aitl.github.io/en/" style="margin-right:12px;">
+    <img src="https://img.shields.io/badge/English-Version-blue?logo=github" />
+  </a>
+  <a href="https://github.com/Samizo-AITL">
+    <img src="https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github" />
+  </a>
+</div>
+
 <div style="margin:1.0em 0 1.2em 0; padding:1.2em 1.4em;
             border:2px solid #1e40af; border-radius:14px;
             background:rgba(30,64,175,0.06); font-size:0.95em;">
@@ -52,15 +61,6 @@ description: 半導体、制御（PID・FSM）、AI設計を物理量（V–I）
 <div style="margin:1.4em 0 1.8em 0; font-size:1.18em; line-height:1.75;">
 物理量（V–I など）から、デバイス・制御・AIまでを<br>
 <strong>同じ構造図で一貫して理解するための設計構造アーカイブ</strong>
-</div>
-
-<div style="margin:1.2em 0 1.0em 0;">
-  <a href="https://samizo-aitl.github.io/en/" style="margin-right:12px;">
-    <img src="https://img.shields.io/badge/English-Version-blue?logo=github" />
-  </a>
-  <a href="https://github.com/Samizo-AITL">
-    <img src="https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github" />
-  </a>
 </div>
 
 ---
