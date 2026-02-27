@@ -31,6 +31,8 @@ description: 半導体、制御（PID・FSM）、AI設計を物理量（V–I）
   ▶ <a href="https://github.com/Samizo-AITL">GitHub</a>
 </div>
 
+---
+
 <span style="font-size:1.8em; opacity:0.85;">
 <strong>🎛️ AITL (Architecture for Integrated Technology Logic)</strong>
 </span>
