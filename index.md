@@ -33,7 +33,7 @@ description: 半導体、制御（PID・FSM）、AI設計を物理量（V–I）
 基礎から順に読み進めたい場合は、以下から始めてください。
 
 - **半導体の基礎**： [Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)
-- **制御の基礎**： [EduController](https://github.com/Samizo-AITL/EduController/)
+- **制御の基礎**： [EduController](https://samizo-aitl.github.io/EduController/)
 
 ---
 
