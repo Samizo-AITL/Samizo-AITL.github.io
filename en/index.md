@@ -7,6 +7,15 @@ description: A personal technical archive organizing semiconductors, control (PI
 # 🎓 Samizo-AITL Portal
 > A personal technical archive that organizes semiconductors, control, and AI using a single unified architecture diagram
 
+<div style="margin:1.2em 0 1.0em 0;">
+  <a href="https://samizo-aitl.github.io/" style="margin-right:12px;">
+    <img src="https://img.shields.io/badge/Japanese-Version-blue?logo=github" />
+  </a>
+  <a href="https://github.com/Samizo-AITL">
+    <img src="https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github" />
+  </a>
+</div>
+
 <div style="margin:1.0em 0 1.2em 0; padding:1.2em 1.4em;
             border:2px solid #1e40af; border-radius:14px;
             background:rgba(30,64,175,0.06); font-size:0.95em;">
@@ -53,15 +62,6 @@ If you would like to build your knowledge step by step, start from the following
 <div style="margin:1.4em 0 1.8em 0; font-size:1.18em; line-height:1.75;">
 From physical quantities (such as V–I), through devices and control, to AI,<br>
 <strong>this is a technical architecture archive designed to be understood through a single, consistent structural diagram</strong>
-</div>
-
-<div style="margin:1.2em 0 1.0em 0;">
-  <a href="https://samizo-aitl.github.io/" style="margin-right:12px;">
-    <img src="https://img.shields.io/badge/Japanese-Version-blue?logo=github" />
-  </a>
-  <a href="https://github.com/Samizo-AITL">
-    <img src="https://img.shields.io/badge/GitHub-Samizo--AITL-black?logo=github" />
-  </a>
 </div>
 
 ---
