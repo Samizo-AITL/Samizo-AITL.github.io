@@ -18,6 +18,16 @@ description: 半導体、制御（PID・FSM）、AI設計を物理量（V–I）
 </ul>
 </div>
 
+### 🔰 前提知識から読み始める方へ
+
+本サイトは、高校理系卒業レベルを前提に、大学講義～実務レベルまでを扱っています。  
+基礎から順に読み進めたい場合は、以下から始めてください。
+
+- **半導体の基礎**： [Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/)
+- **制御の基礎**： [EduController](https://github.com/Samizo-AITL/EduController)
+
+---
+
 <div style="margin:1.1em 0; font-size:0.95em; opacity:0.85;">
   ▶ <a href="/about/marp/samizo-aitl-presentation.html">
     設計思想サマリ（スライド / 5分）
