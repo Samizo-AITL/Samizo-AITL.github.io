@@ -34,7 +34,7 @@ university lectures and professional engineering practice.
 If you would like to build your knowledge step by step, start from the following materials:
 
 - **Semiconductor fundamentals**: [Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/en/)
-- **Control fundamentals**: [EduController](https://github.com/Samizo-AITL/EduController/en/)
+- **Control fundamentals**: [EduController](https://samizo-aitl.github.io/EduController/en/)
 
 ---
 
