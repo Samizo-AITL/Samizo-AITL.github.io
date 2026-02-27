@@ -18,6 +18,19 @@ description: A personal technical archive organizing semiconductors, control (PI
 </ul>
 </div>
 
+### 🔰 Start from the prerequisites
+
+This site assumes a high-school science background and covers content up to
+university lectures and professional engineering practice.  
+If you would like to build your knowledge step by step, start from the following materials:
+
+- **Semiconductor fundamentals**: [Edusemi-v4x](https://samizo-aitl.github.io/Edusemi-v4x/en/)
+- **Control fundamentals**: [EduController](https://github.com/Samizo-AITL/EduController/en/)
+
+---
+
+### ▶ Content entry points
+
 <div style="margin:1.1em 0; font-size:0.95em; opacity:0.85;">
   ▶ <a href="/about/marp/en/samizo-aitl-presentation.html">
     Design Overview Summary (Slides)
