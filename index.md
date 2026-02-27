@@ -28,6 +28,8 @@ description: 半導体、制御（PID・FSM）、AI設計を物理量（V–I）
 
 ---
 
+### ▶ コンテンツの入口
+
 <div style="margin:1.1em 0; font-size:0.95em; opacity:0.85;">
   ▶ <a href="/about/marp/samizo-aitl-presentation.html">
     設計思想サマリ（スライド / 5分）
