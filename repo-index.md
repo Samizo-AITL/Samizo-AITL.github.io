@@ -169,6 +169,8 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | en/taiwan_contingency    | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/en/Z01_taiwan_contingency.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles/en) |
 | everything-went-wrong    | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/Z02_everything-went-wrong.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles) |
 | en/everything-went-wrong | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/en/Z02_everything-went-wrong.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles/en) |
+| middle_east_tensions     | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/Z03_middle_east_tensions.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles) |
+| en/middle_east_tension   | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/en/Z03_middle_east_tensions.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles/en) |
 
 ---
 
