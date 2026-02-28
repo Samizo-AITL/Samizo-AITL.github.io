@@ -161,5 +161,13 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
+## 📜 qiita-articles z version 
+
+| Project | Page | Repo |
+| taiwan_contingency  | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/Z01_taiwan_contingency.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/articles/Z01_taiwan_contingency.md) |
+| everything-went-wrong | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/Z02_everything-went-wrong.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/articles/Z02_everything-went-wrong.md) |
+
+---
+
 **Author:** 三溝 真一（Shinichi Samizo）  
-Last updated: 2025
+Last updated: 2026
