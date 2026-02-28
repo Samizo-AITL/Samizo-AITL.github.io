@@ -10,6 +10,9 @@ title: emoji-index
 ## Reference
 
 - [https://3nd.jp/emoji/](https://3nd.jp/emoji/)
+- [https://itojisan.xyz/knowledge/35650/](https://itojisan.xyz/knowledge/35650/)
+- [https://emojilabo.com/](https://emojilabo.com/)
+- [https://emojikun.com/](https://emojikun.com/)
 
 ---
 
