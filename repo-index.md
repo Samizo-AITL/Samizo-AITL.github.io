@@ -161,13 +161,14 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 
 ---
 
-## 📜 qiita-articles z version 
+## 📜 qiita-articles z version
 
-| Project | Page | Repo |
-| taiwan_contingency  | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/Z01_taiwan_contingency.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/articles) |
-| en/taiwan_contingency  | 🔗 [Open](https://github.com/Samizo-AITL/qiita-articles/articles/en/Z01_taiwan_contingency.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/articles/en) |
-| everything-went-wrong | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/Z02_everything-went-wrong.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/articles) |
-| en/everything-went-wrong | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/en/Z02_everything-went-wrong.html) | 🔧 [Repo](https:/github.com/Samizo-AITL/qiita-articles/qiita-articles/articles/en) |
+| Project                  | Page                                                                 | Repo                                                                 |
+|--------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| taiwan_contingency       | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/Z01_taiwan_contingency.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles) |
+| en/taiwan_contingency    | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/en/Z01_taiwan_contingency.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles/en) |
+| everything-went-wrong    | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/Z02_everything-went-wrong.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles) |
+| en/everything-went-wrong | 🔗 [Open](https://samizo-aitl.github.io/qiita-articles/articles/en/Z02_everything-went-wrong.html) | 🔧 [Repo](https://github.com/Samizo-AITL/qiita-articles/tree/main/articles/en) |
 
 ---
 
