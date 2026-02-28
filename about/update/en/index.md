@@ -11,6 +11,7 @@ and improvements to documentation across all repositories.
 
 | Date       | Description |
 |------------|-------------|
+| **2026-02-28** | Added “For First-Time Visitors” and “For Those Starting from Prerequisites” sections to the top index |
 | **2026-02-21** | Added *openlane-guide*: a guide to preserve, copy, and restore OpenLane environments instead of rebuilding them |
 | **2026-02-14** | Added a navigation link to qiita-articles on the top index and moved the update log link from /portal/ to the top page (clarifying role separation: Top = activity visibility, Portal = structural navigation) |
 | **2026-02-05** | Clarified Zenn articles as the primary publication channel for design philosophy and architecture essays, and refined portal navigation |
