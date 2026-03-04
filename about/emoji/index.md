@@ -252,18 +252,18 @@ title: emoji-index
 
 | Country | Flag |
 |---|---|
-| Japan | ![](flag/Japan.png) |
-| United States | ![](flag/United_States.png) |
-| United Kingdom | ![](flag/United_Kingdom.png) |
-| France | ![](flag/France.png) |
-| Germany | ![](flag/Germany.png) |
-| Italy | ![](flag/Italy.png) |
-| Canada | ![](flag/Canada.png) |
-| European Union | ![](flag/European_Union.png) |
+| Japan | <a href="flag/Japan.png"><img src="flag/Japan.png" width="60%"></a> |
+| United States | <a href="flag/United_States.png"><img src="flag/United_States.png" width="60%"></a> |
+| United Kingdom | <a href="flag/United_Kingdom.png"><img src="flag/United_Kingdom.png" width="60%"></a> |
+| France | <a href="flag/France.png"><img src="flag/France.png" width="60%"></a> |
+| Germany | <a href="flag/Germany.png"><img src="flag/Germany.png" width="60%"></a> |
+| Italy | <a href="flag/Italy.png"><img src="flag/Italy.png" width="60%"></a> |
+| Canada | <a href="flag/Canada.png"><img src="flag/Canada.png" width="60%"></a> |
+| European Union | <a href="flag/European_Union.png"><img src="flag/European_Union.png" width="60%"></a> |
 
 ---
 
 | Symbol | Image |
 |---|---|
-| Imperial Crest | ![](flag/Imperial_Crest.png) |
-| Rising Sun | ![](flag/Rising_Sun.png) |
+| Imperial Crest | <a href="flag/Imperial_Crest.png"><img src="flag/Imperial_Crest.png" width="60%"></a> |
+| Rising Sun | <a href="flag/Rising_Sun.png"><img src="flag/Rising_Sun.png" width="60%"></a> |
