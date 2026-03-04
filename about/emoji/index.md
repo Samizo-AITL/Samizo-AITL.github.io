@@ -265,5 +265,5 @@ title: emoji-index
 
 | Symbol | Image |
 |---|---|
-| Imperial Crest | <a href="flag/Imperial_Crest.png"><img src="flag/Imperial_Crest.png" width="60%"></a> |
-| Rising Sun | <a href="flag/Rising_Sun.png"><img src="flag/Rising_Sun.png" width="60%"></a> |
+| Imperial Crest | <a href="flag/Imperial_Crest.png"><img src="flag/Imperial_Crest.png" width="40%"></a> |
+| Rising Sun | <a href="flag/Rising_Sun.png"><img src="flag/Rising_Sun.png" width="30%"></a> |
