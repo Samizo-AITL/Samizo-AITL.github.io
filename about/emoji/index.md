@@ -252,14 +252,14 @@ title: emoji-index
 
 | Country | Flag |
 |---|---|
-| Japan | <a href="flag/Japan.png"><img src="flag/Japan.png" width="60%"></a> |
-| United States | <a href="flag/United_States.png"><img src="flag/United_States.png" width="60%"></a> |
-| United Kingdom | <a href="flag/United_Kingdom.png"><img src="flag/United_Kingdom.png" width="60%"></a> |
-| France | <a href="flag/France.png"><img src="flag/France.png" width="60%"></a> |
-| Germany | <a href="flag/Germany.png"><img src="flag/Germany.png" width="60%"></a> |
-| Italy | <a href="flag/Italy.png"><img src="flag/Italy.png" width="60%"></a> |
-| Canada | <a href="flag/Canada.png"><img src="flag/Canada.png" width="60%"></a> |
-| European Union | <a href="flag/European_Union.png"><img src="flag/European_Union.png" width="60%"></a> |
+| Japan | <a href="flag/Japan.png"><img src="flag/Japan.png" width="40%"></a> |
+| United States | <a href="flag/United_States.png"><img src="flag/United_States.png" width="40%"></a> |
+| United Kingdom | <a href="flag/United_Kingdom.png"><img src="flag/United_Kingdom.png" width="40%"></a> |
+| France | <a href="flag/France.png"><img src="flag/France.png" width="40%"></a> |
+| Germany | <a href="flag/Germany.png"><img src="flag/Germany.png" width="40%"></a> |
+| Italy | <a href="flag/Italy.png"><img src="flag/Italy.png" width="40%"></a> |
+| Canada | <a href="flag/Canada.png"><img src="flag/Canada.png" width="40%"></a> |
+| European Union | <a href="flag/European_Union.png"><img src="flag/European_Union.png" width="40%"></a> |
 
 ---
 
