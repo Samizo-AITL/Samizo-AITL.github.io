@@ -246,3 +246,24 @@ title: emoji-index
 | 1️⃣2️⃣8️⃣ | いにや | 境界値 |
 | 1️⃣0️⃣2️⃣4️⃣ | てんにし | Ki |
 
+---
+
+## Flags
+
+| Country | Flag |
+|---|---|
+| Japan | ![](flag/Japan.png) |
+| United States | ![](flag/United_States.png) |
+| United Kingdom | ![](flag/United_Kingdom.png) |
+| France | ![](flag/France.png) |
+| Germany | ![](flag/Germany.png) |
+| Italy | ![](flag/Italy.png) |
+| Canada | ![](flag/Canada.png) |
+| European Union | ![](flag/European_Union.png) |
+
+---
+
+| Symbol | Image |
+|---|---|
+| Imperial Crest | ![](flag/Imperial_Crest.png) |
+| Rising Sun | ![](flag/Rising_Sun.png) |
