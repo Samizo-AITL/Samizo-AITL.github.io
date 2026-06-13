@@ -79,6 +79,7 @@ Samizo-AITL における **全リポジトリ横断リンク集**
 | Control Playground | 🔗 [Open](https://samizo-aitl.github.io/control-playground/) | 🔧 [Repo](https://github.com/Samizo-AITL/control-playground) |
 | Envelope Control | 🔗 [Open](https://samizo-aitl.github.io/envelope-control/) | 🔧 [Repo](https://github.com/Samizo-AITL/envelope-control) |
 | Design Recovery Control | 🔗 [Open](https://samizo-aitl.github.io/design-recovery-control/) | 🔧 [Repo](https://github.com/Samizo-AITL/design-recovery-control) |
+| librelane-lab | 🔗 [Open](https://samizo-aitl.github.io/librelane-lab/) | 🔧 [Repo](https://github.com/Samizo-AITL/librelane-lab) |
 
 ---
 
